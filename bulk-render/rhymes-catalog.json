@@ -1,0 +1,2856 @@
+[
+  {
+    "id": "twinkle-twinkle",
+    "title": "Twinkle Twinkle Little Star",
+    "theme": "night",
+    "verses": [
+      { "line": "Twinkle, twinkle, little star", "emoji": "⭐" },
+      { "line": "How I wonder what you are", "emoji": "🤔" },
+      { "line": "Up above the world so high", "emoji": "🌍" },
+      { "line": "Like a diamond in the sky", "emoji": "💎" },
+      { "line": "Twinkle, twinkle, little star", "emoji": "⭐" },
+      { "line": "How I wonder what you are", "emoji": "🤔" },
+      { "line": "When the blazing sun is gone", "emoji": "🌅" },
+      { "line": "When he nothing shines upon", "emoji": "🌙" },
+      { "line": "Then you show your little light", "emoji": "✨" },
+      { "line": "Twinkle, twinkle, all the night", "emoji": "🌟" },
+      { "line": "Twinkle, twinkle, little star", "emoji": "⭐" },
+      { "line": "How I wonder what you are", "emoji": "🤔" }
+    ]
+  },
+  {
+    "id": "baa-baa-black-sheep",
+    "title": "Baa Baa Black Sheep",
+    "theme": "farm",
+    "verses": [
+      { "line": "Baa, baa, black sheep, have you any wool?", "emoji": "🐑" },
+      { "line": "Yes sir, yes sir, three bags full", "emoji": "👜" },
+      { "line": "One for the master", "emoji": "👨" },
+      { "line": "One for the dame", "emoji": "👩" },
+      { "line": "And one for the little boy", "emoji": "👦" },
+      { "line": "Who lives down the lane", "emoji": "🏡" },
+      { "line": "Baa, baa, black sheep, have you any wool?", "emoji": "🐑" },
+      { "line": "Yes sir, yes sir, three bags full", "emoji": "👜" },
+      { "line": "One for the master", "emoji": "👨" },
+      { "line": "One for the dame", "emoji": "👩" },
+      { "line": "And one for the little boy", "emoji": "👦" },
+      { "line": "Who lives down the lane", "emoji": "🏡" }
+    ]
+  },
+  {
+    "id": "humpty-dumpty",
+    "title": "Humpty Dumpty",
+    "theme": "garden",
+    "verses": [
+      { "line": "Humpty Dumpty sat on a wall", "emoji": "🥚" },
+      { "line": "Humpty Dumpty had a great fall", "emoji": "💥" },
+      { "line": "All the king's horses", "emoji": "🐴" },
+      { "line": "And all the king's men", "emoji": "👑" },
+      { "line": "Couldn't put Humpty together again", "emoji": "😢" },
+      { "line": "Humpty Dumpty sat on a wall", "emoji": "🥚" },
+      { "line": "Humpty Dumpty had a great fall", "emoji": "💥" },
+      { "line": "All the king's horses", "emoji": "🐴" },
+      { "line": "And all the king's men", "emoji": "👑" },
+      { "line": "Couldn't put Humpty together again", "emoji": "😢" },
+      { "line": "Humpty Dumpty sat on a wall", "emoji": "🥚" },
+      { "line": "Humpty Dumpty had a great fall", "emoji": "💥" }
+    ]
+  },
+  {
+    "id": "jack-and-jill",
+    "title": "Jack and Jill",
+    "theme": "garden",
+    "verses": [
+      { "line": "Jack and Jill went up the hill", "emoji": "⛰️" },
+      { "line": "To fetch a pail of water", "emoji": "🪣" },
+      { "line": "Jack fell down and broke his crown", "emoji": "🤕" },
+      { "line": "And Jill came tumbling after", "emoji": "😵" },
+      { "line": "Up Jack got and home did trot", "emoji": "🏃" },
+      { "line": "As fast as he could caper", "emoji": "💨" },
+      { "line": "He went to bed to mend his head", "emoji": "🛏️" },
+      { "line": "With vinegar and brown paper", "emoji": "📜" },
+      { "line": "Jack and Jill went up the hill", "emoji": "⛰️" },
+      { "line": "To fetch a pail of water", "emoji": "🪣" },
+      { "line": "Jack fell down and broke his crown", "emoji": "🤕" },
+      { "line": "And Jill came tumbling after", "emoji": "😵" }
+    ]
+  },
+  {
+    "id": "mary-had-a-little-lamb",
+    "title": "Mary Had a Little Lamb",
+    "theme": "farm",
+    "verses": [
+      { "line": "Mary had a little lamb", "emoji": "🐑" },
+      { "line": "Little lamb, little lamb", "emoji": "🐏" },
+      { "line": "Mary had a little lamb", "emoji": "🐑" },
+      { "line": "Its fleece was white as snow", "emoji": "❄️" },
+      { "line": "And everywhere that Mary went", "emoji": "👧" },
+      { "line": "Mary went, Mary went", "emoji": "🚶‍♀️" },
+      { "line": "Everywhere that Mary went", "emoji": "👧" },
+      { "line": "The lamb was sure to go", "emoji": "🐑" },
+      { "line": "It followed her to school one day", "emoji": "🏫" },
+      { "line": "School one day, school one day", "emoji": "📚" },
+      { "line": "It followed her to school one day", "emoji": "🏫" },
+      { "line": "Which was against the rules", "emoji": "📏" }
+    ]
+  },
+  {
+    "id": "old-macdonald",
+    "title": "Old MacDonald Had a Farm",
+    "theme": "farm",
+    "verses": [
+      { "line": "Old MacDonald had a farm, E-I-E-I-O", "emoji": "🧑‍🌾" },
+      { "line": "And on his farm he had a cow, E-I-E-I-O", "emoji": "🐄" },
+      { "line": "With a moo moo here and a moo moo there", "emoji": "🐮" },
+      { "line": "Here a moo, there a moo, everywhere a moo moo", "emoji": "🐄" },
+      { "line": "Old MacDonald had a farm, E-I-E-I-O", "emoji": "🧑‍🌾" },
+      { "line": "And on his farm he had a pig, E-I-E-I-O", "emoji": "🐷" },
+      { "line": "With an oink oink here and an oink oink there", "emoji": "🐖" },
+      { "line": "Here an oink, there an oink, everywhere an oink oink", "emoji": "🐷" },
+      { "line": "Old MacDonald had a farm, E-I-E-I-O", "emoji": "🧑‍🌾" },
+      { "line": "And on his farm he had a duck, E-I-E-I-O", "emoji": "🦆" },
+      { "line": "With a quack quack here and a quack quack there", "emoji": "🦆" },
+      { "line": "Here a quack, there a quack, everywhere a quack quack", "emoji": "🐤" },
+      { "line": "Old MacDonald had a farm, E-I-E-I-O", "emoji": "🧑‍🌾" },
+      { "line": "And on his farm he had a sheep, E-I-E-I-O", "emoji": "🐑" },
+      { "line": "With a baa baa here and a baa baa there", "emoji": "🐏" },
+      { "line": "Old MacDonald had a farm, E-I-E-I-O", "emoji": "🧑‍🌾" }
+    ]
+  },
+  {
+    "id": "hickory-dickory-dock",
+    "title": "Hickory Dickory Dock",
+    "theme": "playground",
+    "verses": [
+      { "line": "Hickory dickory dock", "emoji": "⏰" },
+      { "line": "The mouse ran up the clock", "emoji": "🐭" },
+      { "line": "The clock struck one", "emoji": "🕐" },
+      { "line": "The mouse ran down", "emoji": "🐭" },
+      { "line": "Hickory dickory dock", "emoji": "⏰" },
+      { "line": "Hickory dickory dock", "emoji": "⏰" },
+      { "line": "The mouse ran up the clock", "emoji": "🐭" },
+      { "line": "The clock struck two", "emoji": "🕑" },
+      { "line": "The mouse said boo", "emoji": "👻" },
+      { "line": "Hickory dickory dock", "emoji": "⏰" },
+      { "line": "The clock struck three", "emoji": "🕒" },
+      { "line": "The mouse ran free", "emoji": "🐭" }
+    ]
+  },
+  {
+    "id": "itsy-bitsy-spider",
+    "title": "Itsy Bitsy Spider",
+    "theme": "garden",
+    "verses": [
+      { "line": "The itsy bitsy spider climbed up the water spout", "emoji": "🕷️" },
+      { "line": "Down came the rain and washed the spider out", "emoji": "🌧️" },
+      { "line": "Out came the sun and dried up all the rain", "emoji": "☀️" },
+      { "line": "And the itsy bitsy spider climbed up the spout again", "emoji": "🕷️" },
+      { "line": "The itsy bitsy spider climbed up the water spout", "emoji": "🕷️" },
+      { "line": "Down came the rain and washed the spider out", "emoji": "🌧️" },
+      { "line": "Out came the sun and dried up all the rain", "emoji": "☀️" },
+      { "line": "And the itsy bitsy spider climbed up the spout again", "emoji": "🕷️" },
+      { "line": "The itsy bitsy spider climbed up the water spout", "emoji": "🕷️" },
+      { "line": "Down came the rain and washed the spider out", "emoji": "🌧️" },
+      { "line": "Out came the sun and dried up all the rain", "emoji": "☀️" },
+      { "line": "And the itsy bitsy spider climbed up the spout again", "emoji": "🕷️" }
+    ]
+  },
+  {
+    "id": "row-row-row-your-boat",
+    "title": "Row Row Row Your Boat",
+    "theme": "ocean",
+    "verses": [
+      { "line": "Row, row, row your boat", "emoji": "🚣" },
+      { "line": "Gently down the stream", "emoji": "🏞️" },
+      { "line": "Merrily, merrily, merrily, merrily", "emoji": "😊" },
+      { "line": "Life is but a dream", "emoji": "💭" },
+      { "line": "Row, row, row your boat", "emoji": "🚣" },
+      { "line": "Gently down the stream", "emoji": "🏞️" },
+      { "line": "If you see a crocodile", "emoji": "🐊" },
+      { "line": "Don't forget to scream", "emoji": "😱" },
+      { "line": "Row, row, row your boat", "emoji": "🚣" },
+      { "line": "Gently down the river", "emoji": "🌊" },
+      { "line": "If you see a polar bear", "emoji": "🐻‍❄️" },
+      { "line": "Don't forget to shiver", "emoji": "🥶" }
+    ]
+  },
+  {
+    "id": "london-bridge",
+    "title": "London Bridge Is Falling Down",
+    "theme": "city",
+    "verses": [
+      { "line": "London Bridge is falling down", "emoji": "🌉" },
+      { "line": "Falling down, falling down", "emoji": "💥" },
+      { "line": "London Bridge is falling down", "emoji": "🌉" },
+      { "line": "My fair lady", "emoji": "👸" },
+      { "line": "Build it up with wood and clay", "emoji": "🪵" },
+      { "line": "Wood and clay, wood and clay", "emoji": "🧱" },
+      { "line": "Build it up with wood and clay", "emoji": "🪵" },
+      { "line": "My fair lady", "emoji": "👸" },
+      { "line": "Build it up with iron bars", "emoji": "🔩" },
+      { "line": "Iron bars, iron bars", "emoji": "⚙️" },
+      { "line": "Build it up with iron bars", "emoji": "🔩" },
+      { "line": "My fair lady", "emoji": "👸" }
+    ]
+  },
+  {
+    "id": "three-blind-mice",
+    "title": "Three Blind Mice",
+    "theme": "farm",
+    "verses": [
+      { "line": "Three blind mice, three blind mice", "emoji": "🐭" },
+      { "line": "See how they run, see how they run", "emoji": "🏃" },
+      { "line": "They all ran after the farmer's wife", "emoji": "👩‍🌾" },
+      { "line": "Who cut off their tails with a carving knife", "emoji": "🔪" },
+      { "line": "Did you ever see such a thing in your life", "emoji": "😲" },
+      { "line": "As three blind mice", "emoji": "🐭" },
+      { "line": "Three blind mice, three blind mice", "emoji": "🐭" },
+      { "line": "See how they run, see how they run", "emoji": "🏃" },
+      { "line": "They all ran after the farmer's wife", "emoji": "👩‍🌾" },
+      { "line": "Who cut off their tails with a carving knife", "emoji": "🔪" },
+      { "line": "Did you ever see such a thing in your life", "emoji": "😲" },
+      { "line": "As three blind mice", "emoji": "🐭" }
+    ]
+  },
+  {
+    "id": "little-bo-peep",
+    "title": "Little Bo Peep",
+    "theme": "farm",
+    "verses": [
+      { "line": "Little Bo Peep has lost her sheep", "emoji": "🐑" },
+      { "line": "And doesn't know where to find them", "emoji": "🔍" },
+      { "line": "Leave them alone and they'll come home", "emoji": "🏠" },
+      { "line": "Wagging their tails behind them", "emoji": "🐏" },
+      { "line": "Little Bo Peep fell fast asleep", "emoji": "😴" },
+      { "line": "And dreamt she heard them bleating", "emoji": "💭" },
+      { "line": "But when she awoke, she found it a joke", "emoji": "😄" },
+      { "line": "For they were still a-fleeting", "emoji": "🐑" },
+      { "line": "Then up she took her little crook", "emoji": "🪝" },
+      { "line": "Determined for to find them", "emoji": "💪" },
+      { "line": "She found them indeed, but it made her heart bleed", "emoji": "💔" },
+      { "line": "For they'd left their tails behind them", "emoji": "😢" }
+    ]
+  },
+  {
+    "id": "jack-be-nimble",
+    "title": "Jack Be Nimble",
+    "theme": "playground",
+    "verses": [
+      { "line": "Jack be nimble", "emoji": "🏃" },
+      { "line": "Jack be quick", "emoji": "💨" },
+      { "line": "Jack jump over the candlestick", "emoji": "🕯️" },
+      { "line": "Jack be nimble", "emoji": "🏃" },
+      { "line": "Jack be fair", "emoji": "👦" },
+      { "line": "Jack jump over the rocking chair", "emoji": "🪑" },
+      { "line": "Jack be nimble", "emoji": "🏃" },
+      { "line": "Jack be fine", "emoji": "😊" },
+      { "line": "Jack jump over the finish line", "emoji": "🏁" },
+      { "line": "Jack be nimble", "emoji": "🏃" },
+      { "line": "Jack be quick", "emoji": "💨" },
+      { "line": "Jack jump over the candlestick", "emoji": "🕯️" }
+    ]
+  },
+  {
+    "id": "hey-diddle-diddle",
+    "title": "Hey Diddle Diddle",
+    "theme": "night",
+    "verses": [
+      { "line": "Hey diddle diddle, the cat and the fiddle", "emoji": "🐱" },
+      { "line": "The cow jumped over the moon", "emoji": "🐄" },
+      { "line": "The little dog laughed to see such sport", "emoji": "🐕" },
+      { "line": "And the dish ran away with the spoon", "emoji": "🥄" },
+      { "line": "Hey diddle diddle, the cat and the fiddle", "emoji": "🎻" },
+      { "line": "The cow jumped over the moon", "emoji": "🌙" },
+      { "line": "The little dog laughed to see such sport", "emoji": "🐶" },
+      { "line": "And the dish ran away with the spoon", "emoji": "🍽️" },
+      { "line": "Hey diddle diddle, the cat and the fiddle", "emoji": "🐱" },
+      { "line": "The cow jumped over the moon", "emoji": "🐄" },
+      { "line": "The little dog laughed to see such sport", "emoji": "🐕" },
+      { "line": "And the dish ran away with the spoon", "emoji": "🥄" }
+    ]
+  },
+  {
+    "id": "little-miss-muffet",
+    "title": "Little Miss Muffet",
+    "theme": "garden",
+    "verses": [
+      { "line": "Little Miss Muffet sat on a tuffet", "emoji": "👧" },
+      { "line": "Eating her curds and whey", "emoji": "🥣" },
+      { "line": "Along came a spider", "emoji": "🕷️" },
+      { "line": "Who sat down beside her", "emoji": "🪑" },
+      { "line": "And frightened Miss Muffet away", "emoji": "😱" },
+      { "line": "Little Miss Muffet sat on a tuffet", "emoji": "👧" },
+      { "line": "Eating her curds and whey", "emoji": "🥣" },
+      { "line": "Along came a spider", "emoji": "🕷️" },
+      { "line": "Who sat down beside her", "emoji": "🪑" },
+      { "line": "And frightened Miss Muffet away", "emoji": "😱" },
+      { "line": "Little Miss Muffet sat on a tuffet", "emoji": "👧" },
+      { "line": "And frightened Miss Muffet away", "emoji": "😱" }
+    ]
+  },
+  {
+    "id": "georgie-porgie",
+    "title": "Georgie Porgie",
+    "theme": "playground",
+    "verses": [
+      { "line": "Georgie Porgie, pudding and pie", "emoji": "🥧" },
+      { "line": "Kissed the girls and made them cry", "emoji": "😢" },
+      { "line": "When the boys came out to play", "emoji": "👦" },
+      { "line": "Georgie Porgie ran away", "emoji": "🏃" },
+      { "line": "Georgie Porgie, pudding and pie", "emoji": "🥧" },
+      { "line": "Kissed the girls and made them cry", "emoji": "😢" },
+      { "line": "When the boys came out to play", "emoji": "👦" },
+      { "line": "Georgie Porgie ran away", "emoji": "🏃" },
+      { "line": "Georgie Porgie, pudding and pie", "emoji": "🥧" },
+      { "line": "Kissed the girls and made them cry", "emoji": "😢" },
+      { "line": "When the boys came out to play", "emoji": "👦" },
+      { "line": "Georgie Porgie ran away", "emoji": "🏃" }
+    ]
+  },
+  {
+    "id": "pat-a-cake",
+    "title": "Pat-a-Cake",
+    "theme": "playground",
+    "verses": [
+      { "line": "Pat-a-cake, pat-a-cake, baker's man", "emoji": "🧑‍🍳" },
+      { "line": "Bake me a cake as fast as you can", "emoji": "🎂" },
+      { "line": "Pat it and prick it and mark it with B", "emoji": "🅱️" },
+      { "line": "Put it in the oven for baby and me", "emoji": "👶" },
+      { "line": "Pat-a-cake, pat-a-cake, baker's man", "emoji": "🧑‍🍳" },
+      { "line": "Bake me a cake as fast as you can", "emoji": "🎂" },
+      { "line": "Roll it and fold it and mark it with B", "emoji": "🅱️" },
+      { "line": "Put it in the oven for baby and me", "emoji": "👶" },
+      { "line": "Pat-a-cake, pat-a-cake, baker's man", "emoji": "🧑‍🍳" },
+      { "line": "Bake me a cake as fast as you can", "emoji": "🎂" },
+      { "line": "Pat it and prick it and mark it with B", "emoji": "🅱️" },
+      { "line": "Put it in the oven for baby and me", "emoji": "👶" }
+    ]
+  },
+  {
+    "id": "this-old-man",
+    "title": "This Old Man",
+    "theme": "playground",
+    "verses": [
+      { "line": "This old man, he played one", "emoji": "👴" },
+      { "line": "He played knick-knack on my thumb", "emoji": "👍" },
+      { "line": "With a knick-knack paddy whack, give a dog a bone", "emoji": "🦴" },
+      { "line": "This old man came rolling home", "emoji": "🏠" },
+      { "line": "This old man, he played two", "emoji": "✌️" },
+      { "line": "He played knick-knack on my shoe", "emoji": "👟" },
+      { "line": "With a knick-knack paddy whack, give a dog a bone", "emoji": "🦴" },
+      { "line": "This old man came rolling home", "emoji": "🏠" },
+      { "line": "This old man, he played three", "emoji": "3️⃣" },
+      { "line": "He played knick-knack on my knee", "emoji": "🦵" },
+      { "line": "With a knick-knack paddy whack, give a dog a bone", "emoji": "🦴" },
+      { "line": "This old man came rolling home", "emoji": "🏠" }
+    ]
+  },
+  {
+    "id": "sing-a-song-of-sixpence",
+    "title": "Sing a Song of Sixpence",
+    "theme": "garden",
+    "verses": [
+      { "line": "Sing a song of sixpence, a pocket full of rye", "emoji": "🎵" },
+      { "line": "Four and twenty blackbirds baked in a pie", "emoji": "🥧" },
+      { "line": "When the pie was opened, the birds began to sing", "emoji": "🐦" },
+      { "line": "Wasn't that a dainty dish to set before the king", "emoji": "👑" },
+      { "line": "The king was in his counting house, counting out his money", "emoji": "💰" },
+      { "line": "The queen was in the parlor, eating bread and honey", "emoji": "🍯" },
+      { "line": "The maid was in the garden, hanging out the clothes", "emoji": "👗" },
+      { "line": "When down came a blackbird and pecked off her nose", "emoji": "🐦‍⬛" },
+      { "line": "Sing a song of sixpence, a pocket full of rye", "emoji": "🎵" },
+      { "line": "Four and twenty blackbirds baked in a pie", "emoji": "🥧" },
+      { "line": "When the pie was opened, the birds began to sing", "emoji": "🐦" },
+      { "line": "Wasn't that a dainty dish to set before the king", "emoji": "👑" }
+    ]
+  },
+  {
+    "id": "ring-around-the-rosie",
+    "title": "Ring Around the Rosie",
+    "theme": "garden",
+    "verses": [
+      { "line": "Ring around the rosie", "emoji": "🌹" },
+      { "line": "A pocket full of posies", "emoji": "💐" },
+      { "line": "Ashes, ashes", "emoji": "🍂" },
+      { "line": "We all fall down", "emoji": "😄" },
+      { "line": "Ring around the rosie", "emoji": "🌹" },
+      { "line": "A pocket full of posies", "emoji": "💐" },
+      { "line": "Ashes, ashes", "emoji": "🍂" },
+      { "line": "We all fall down", "emoji": "😄" },
+      { "line": "Ring around the rosie", "emoji": "🌹" },
+      { "line": "A pocket full of posies", "emoji": "💐" },
+      { "line": "Ashes, ashes", "emoji": "🍂" },
+      { "line": "We all fall down", "emoji": "😄" }
+    ]
+  },
+  {
+    "id": "head-shoulders-knees-toes",
+    "title": "Head, Shoulders, Knees and Toes",
+    "theme": "playground",
+    "verses": [
+      { "line": "Head, shoulders, knees and toes, knees and toes", "emoji": "🧑" },
+      { "line": "Head, shoulders, knees and toes, knees and toes", "emoji": "🦵" },
+      { "line": "And eyes and ears and mouth and nose", "emoji": "👀" },
+      { "line": "Head, shoulders, knees and toes, knees and toes", "emoji": "🧑" },
+      { "line": "Touch your head, touch your shoulders", "emoji": "🙆" },
+      { "line": "Touch your knees, touch your toes", "emoji": "🦶" },
+      { "line": "Touch your eyes, touch your ears", "emoji": "👂" },
+      { "line": "Touch your mouth, touch your nose", "emoji": "👃" },
+      { "line": "Head, shoulders, knees and toes, knees and toes", "emoji": "🧑" },
+      { "line": "Head, shoulders, knees and toes, knees and toes", "emoji": "🦵" },
+      { "line": "And eyes and ears and mouth and nose", "emoji": "👀" },
+      { "line": "Head, shoulders, knees and toes, knees and toes", "emoji": "🧑" }
+    ]
+  },
+  {
+    "id": "one-two-buckle-my-shoe",
+    "title": "One Two Buckle My Shoe",
+    "theme": "playground",
+    "verses": [
+      { "line": "One, two, buckle my shoe", "emoji": "👟" },
+      { "line": "Three, four, knock at the door", "emoji": "🚪" },
+      { "line": "Five, six, pick up sticks", "emoji": "🪵" },
+      { "line": "Seven, eight, lay them straight", "emoji": "📏" },
+      { "line": "Nine, ten, a big fat hen", "emoji": "🐔" },
+      { "line": "Eleven, twelve, dig and delve", "emoji": "⛏️" },
+      { "line": "Thirteen, fourteen, maids a-courting", "emoji": "👧" },
+      { "line": "Fifteen, sixteen, maids in the kitchen", "emoji": "🍳" },
+      { "line": "Seventeen, eighteen, maids in waiting", "emoji": "⏳" },
+      { "line": "Nineteen, twenty, my plate is empty", "emoji": "🍽️" },
+      { "line": "One, two, buckle my shoe", "emoji": "👟" },
+      { "line": "Three, four, knock at the door", "emoji": "🚪" }
+    ]
+  },
+  {
+    "id": "five-little-ducks",
+    "title": "Five Little Ducks",
+    "theme": "farm",
+    "verses": [
+      { "line": "Five little ducks went swimming one day", "emoji": "🦆" },
+      { "line": "Over the hill and far away", "emoji": "⛰️" },
+      { "line": "Mother duck said quack quack quack quack", "emoji": "🦆" },
+      { "line": "But only four little ducks came back", "emoji": "4️⃣" },
+      { "line": "Four little ducks went swimming one day", "emoji": "🦆" },
+      { "line": "Over the hill and far away", "emoji": "⛰️" },
+      { "line": "Mother duck said quack quack quack quack", "emoji": "🦆" },
+      { "line": "But only three little ducks came back", "emoji": "3️⃣" },
+      { "line": "Two little ducks went swimming one day", "emoji": "🦆" },
+      { "line": "Over the hill and far away", "emoji": "⛰️" },
+      { "line": "Mother duck said quack quack quack quack", "emoji": "🦆" },
+      { "line": "And all five little ducks came back", "emoji": "5️⃣" }
+    ]
+  },
+  {
+    "id": "five-little-monkeys",
+    "title": "Five Little Monkeys",
+    "theme": "playground",
+    "verses": [
+      { "line": "Five little monkeys jumping on the bed", "emoji": "🐒" },
+      { "line": "One fell off and bumped his head", "emoji": "🤕" },
+      { "line": "Mama called the doctor and the doctor said", "emoji": "👩‍⚕️" },
+      { "line": "No more monkeys jumping on the bed", "emoji": "🛏️" },
+      { "line": "Four little monkeys jumping on the bed", "emoji": "🐒" },
+      { "line": "One fell off and bumped his head", "emoji": "🤕" },
+      { "line": "Mama called the doctor and the doctor said", "emoji": "👩‍⚕️" },
+      { "line": "No more monkeys jumping on the bed", "emoji": "🛏️" },
+      { "line": "Three little monkeys jumping on the bed", "emoji": "🐒" },
+      { "line": "One fell off and bumped his head", "emoji": "🤕" },
+      { "line": "Mama called the doctor and the doctor said", "emoji": "👩‍⚕️" },
+      { "line": "No more monkeys jumping on the bed", "emoji": "🛏️" }
+    ]
+  },
+  {
+    "id": "ten-in-the-bed",
+    "title": "Ten in the Bed",
+    "theme": "night",
+    "verses": [
+      { "line": "There were ten in the bed and the little one said", "emoji": "🛏️" },
+      { "line": "Roll over, roll over", "emoji": "🔄" },
+      { "line": "So they all rolled over and one fell out", "emoji": "😮" },
+      { "line": "There were nine in the bed and the little one said", "emoji": "9️⃣" },
+      { "line": "Roll over, roll over", "emoji": "🔄" },
+      { "line": "So they all rolled over and one fell out", "emoji": "😮" },
+      { "line": "There were five in the bed and the little one said", "emoji": "5️⃣" },
+      { "line": "Roll over, roll over", "emoji": "🔄" },
+      { "line": "So they all rolled over and one fell out", "emoji": "😮" },
+      { "line": "There was one in the bed and the little one said", "emoji": "1️⃣" },
+      { "line": "Good night!", "emoji": "🌙" },
+      { "line": "Sweet dreams, sleep tight", "emoji": "💤" }
+    ]
+  },
+  {
+    "id": "one-two-three-four-five",
+    "title": "One Two Three Four Five",
+    "theme": "ocean",
+    "verses": [
+      { "line": "One, two, three, four, five", "emoji": "🖐️" },
+      { "line": "Once I caught a fish alive", "emoji": "🐟" },
+      { "line": "Six, seven, eight, nine, ten", "emoji": "🔟" },
+      { "line": "Then I let it go again", "emoji": "🌊" },
+      { "line": "Why did you let it go?", "emoji": "🤔" },
+      { "line": "Because it bit my finger so", "emoji": "😮" },
+      { "line": "Which finger did it bite?", "emoji": "👆" },
+      { "line": "This little finger on my right", "emoji": "🤙" },
+      { "line": "One, two, three, four, five", "emoji": "🖐️" },
+      { "line": "Once I caught a fish alive", "emoji": "🐟" },
+      { "line": "Six, seven, eight, nine, ten", "emoji": "🔟" },
+      { "line": "Then I let it go again", "emoji": "🌊" }
+    ]
+  },
+  {
+    "id": "this-little-piggy",
+    "title": "This Little Piggy",
+    "theme": "farm",
+    "verses": [
+      { "line": "This little piggy went to market", "emoji": "🐷" },
+      { "line": "This little piggy stayed home", "emoji": "🏠" },
+      { "line": "This little piggy had roast beef", "emoji": "🥩" },
+      { "line": "This little piggy had none", "emoji": "😢" },
+      { "line": "And this little piggy cried wee wee wee", "emoji": "🐽" },
+      { "line": "All the way home", "emoji": "🏡" },
+      { "line": "This little piggy went to market", "emoji": "🐷" },
+      { "line": "This little piggy stayed home", "emoji": "🏠" },
+      { "line": "This little piggy had roast beef", "emoji": "🥩" },
+      { "line": "This little piggy had none", "emoji": "😢" },
+      { "line": "And this little piggy cried wee wee wee", "emoji": "🐽" },
+      { "line": "All the way home", "emoji": "🏡" }
+    ]
+  },
+  {
+    "id": "two-little-blackbirds",
+    "title": "Two Little Blackbirds",
+    "theme": "garden",
+    "verses": [
+      { "line": "Two little blackbirds sitting on a hill", "emoji": "🐦‍⬛" },
+      { "line": "One named Jack and one named Jill", "emoji": "🐦" },
+      { "line": "Fly away Jack, fly away Jill", "emoji": "✈️" },
+      { "line": "Come back Jack, come back Jill", "emoji": "🐦‍⬛" },
+      { "line": "Two little blackbirds sitting on a wall", "emoji": "🐦‍⬛" },
+      { "line": "One named Peter and one named Paul", "emoji": "🐦" },
+      { "line": "Fly away Peter, fly away Paul", "emoji": "✈️" },
+      { "line": "Come back Peter, come back Paul", "emoji": "🐦‍⬛" },
+      { "line": "Two little blackbirds sitting on a hill", "emoji": "🐦‍⬛" },
+      { "line": "One named Jack and one named Jill", "emoji": "🐦" },
+      { "line": "Fly away Jack, fly away Jill", "emoji": "✈️" },
+      { "line": "Come back Jack, come back Jill", "emoji": "🐦‍⬛" }
+    ]
+  },
+  {
+    "id": "incy-wincy-spider",
+    "title": "Incy Wincy Spider",
+    "theme": "garden",
+    "verses": [
+      { "line": "Incy Wincy Spider climbed up the water spout", "emoji": "🕷️" },
+      { "line": "Down came the rain and washed the spider out", "emoji": "🌧️" },
+      { "line": "Out came the sunshine and dried up all the rain", "emoji": "☀️" },
+      { "line": "And Incy Wincy Spider climbed up the spout again", "emoji": "🕷️" },
+      { "line": "Incy Wincy Spider climbed up the water spout", "emoji": "🕷️" },
+      { "line": "Down came the rain and washed the spider out", "emoji": "🌧️" },
+      { "line": "Out came the sunshine and dried up all the rain", "emoji": "☀️" },
+      { "line": "And Incy Wincy Spider climbed up the spout again", "emoji": "🕷️" },
+      { "line": "Incy Wincy Spider climbed up the water spout", "emoji": "🕷️" },
+      { "line": "Down came the rain and washed the spider out", "emoji": "🌧️" },
+      { "line": "Out came the sunshine and dried up all the rain", "emoji": "☀️" },
+      { "line": "And Incy Wincy Spider climbed up the spout again", "emoji": "🕷️" }
+    ]
+  },
+  {
+    "id": "if-youre-happy-and-you-know-it",
+    "title": "If You're Happy and You Know It",
+    "theme": "playground",
+    "verses": [
+      { "line": "If you're happy and you know it, clap your hands", "emoji": "👏" },
+      { "line": "If you're happy and you know it, clap your hands", "emoji": "👏" },
+      { "line": "If you're happy and you know it, and you really want to show it", "emoji": "😊" },
+      { "line": "If you're happy and you know it, clap your hands", "emoji": "👏" },
+      { "line": "If you're happy and you know it, stomp your feet", "emoji": "🦶" },
+      { "line": "If you're happy and you know it, stomp your feet", "emoji": "🦶" },
+      { "line": "If you're happy and you know it, and you really want to show it", "emoji": "😊" },
+      { "line": "If you're happy and you know it, stomp your feet", "emoji": "🦶" },
+      { "line": "If you're happy and you know it, shout hooray", "emoji": "🎉" },
+      { "line": "If you're happy and you know it, shout hooray", "emoji": "🎉" },
+      { "line": "If you're happy and you know it, and you really want to show it", "emoji": "😊" },
+      { "line": "If you're happy and you know it, shout hooray", "emoji": "🎉" }
+    ]
+  },
+  {
+    "id": "wheels-on-the-bus",
+    "title": "The Wheels on the Bus",
+    "theme": "city",
+    "verses": [
+      { "line": "The wheels on the bus go round and round", "emoji": "🚌" },
+      { "line": "Round and round, round and round", "emoji": "🔄" },
+      { "line": "The wheels on the bus go round and round", "emoji": "🚌" },
+      { "line": "All through the town", "emoji": "🏙️" },
+      { "line": "The wipers on the bus go swish swish swish", "emoji": "🌧️" },
+      { "line": "Swish swish swish, swish swish swish", "emoji": "💨" },
+      { "line": "The horn on the bus goes beep beep beep", "emoji": "📯" },
+      { "line": "Beep beep beep, beep beep beep", "emoji": "🔊" },
+      { "line": "The babies on the bus go wah wah wah", "emoji": "👶" },
+      { "line": "Wah wah wah, wah wah wah", "emoji": "😭" },
+      { "line": "The mommies on the bus go shh shh shh", "emoji": "🤫" },
+      { "line": "All through the town", "emoji": "🏙️" }
+    ]
+  },
+  {
+    "id": "hokey-pokey",
+    "title": "Hokey Pokey",
+    "theme": "playground",
+    "verses": [
+      { "line": "You put your right hand in", "emoji": "🤚" },
+      { "line": "You put your right hand out", "emoji": "👋" },
+      { "line": "You put your right hand in and you shake it all about", "emoji": "🤚" },
+      { "line": "You do the Hokey Pokey and you turn yourself around", "emoji": "🔄" },
+      { "line": "That's what it's all about", "emoji": "👏" },
+      { "line": "You put your left foot in", "emoji": "🦶" },
+      { "line": "You put your left foot out", "emoji": "🦶" },
+      { "line": "You put your left foot in and you shake it all about", "emoji": "💃" },
+      { "line": "You do the Hokey Pokey and you turn yourself around", "emoji": "🔄" },
+      { "line": "That's what it's all about", "emoji": "👏" },
+      { "line": "You put your whole self in", "emoji": "🧍" },
+      { "line": "You do the Hokey Pokey, that's what it's all about", "emoji": "🎉" }
+    ]
+  },
+  {
+    "id": "open-shut-them",
+    "title": "Open Shut Them",
+    "theme": "playground",
+    "verses": [
+      { "line": "Open, shut them, open, shut them", "emoji": "🤲" },
+      { "line": "Give a little clap, clap, clap", "emoji": "👏" },
+      { "line": "Open, shut them, open, shut them", "emoji": "🤲" },
+      { "line": "Lay them in your lap, lap, lap", "emoji": "🧑" },
+      { "line": "Creep them, creep them, creep them, creep them", "emoji": "🤏" },
+      { "line": "Right up to your chin, chin, chin", "emoji": "😊" },
+      { "line": "Open wide your little mouth", "emoji": "😮" },
+      { "line": "But do not let them in", "emoji": "🙅" },
+      { "line": "Open, shut them, open, shut them", "emoji": "🤲" },
+      { "line": "Give a little clap, clap, clap", "emoji": "👏" },
+      { "line": "Open, shut them, open, shut them", "emoji": "🤲" },
+      { "line": "Lay them in your lap, lap, lap", "emoji": "🧑" }
+    ]
+  },
+  {
+    "id": "five-little-speckled-frogs",
+    "title": "Five Little Speckled Frogs",
+    "theme": "garden",
+    "verses": [
+      { "line": "Five little speckled frogs sat on a speckled log", "emoji": "🐸" },
+      { "line": "Eating some most delicious bugs, yum yum", "emoji": "🐛" },
+      { "line": "One jumped into the pool where it was nice and cool", "emoji": "🏊" },
+      { "line": "Then there were four green speckled frogs, glub glub", "emoji": "🐸" },
+      { "line": "Four little speckled frogs sat on a speckled log", "emoji": "🐸" },
+      { "line": "Eating some most delicious bugs, yum yum", "emoji": "🐛" },
+      { "line": "One jumped into the pool where it was nice and cool", "emoji": "🏊" },
+      { "line": "Then there were three green speckled frogs, glub glub", "emoji": "🐸" },
+      { "line": "Three little speckled frogs sat on a speckled log", "emoji": "🐸" },
+      { "line": "Eating some most delicious bugs, yum yum", "emoji": "🐛" },
+      { "line": "One jumped into the pool where it was nice and cool", "emoji": "🏊" },
+      { "line": "Then there were two green speckled frogs, glub glub", "emoji": "🐸" }
+    ]
+  },
+  {
+    "id": "teddy-bear-teddy-bear",
+    "title": "Teddy Bear Teddy Bear",
+    "theme": "playground",
+    "verses": [
+      { "line": "Teddy bear, teddy bear, turn around", "emoji": "🧸" },
+      { "line": "Teddy bear, teddy bear, touch the ground", "emoji": "🧸" },
+      { "line": "Teddy bear, teddy bear, show your shoe", "emoji": "👟" },
+      { "line": "Teddy bear, teddy bear, that will do", "emoji": "👍" },
+      { "line": "Teddy bear, teddy bear, go upstairs", "emoji": "🪜" },
+      { "line": "Teddy bear, teddy bear, say your prayers", "emoji": "🙏" },
+      { "line": "Teddy bear, teddy bear, turn off the light", "emoji": "💡" },
+      { "line": "Teddy bear, teddy bear, say good night", "emoji": "🌙" },
+      { "line": "Teddy bear, teddy bear, turn around", "emoji": "🧸" },
+      { "line": "Teddy bear, teddy bear, touch the ground", "emoji": "🧸" },
+      { "line": "Teddy bear, teddy bear, show your shoe", "emoji": "👟" },
+      { "line": "Teddy bear, teddy bear, that will do", "emoji": "👍" }
+    ]
+  },
+  {
+    "id": "round-and-round-the-garden",
+    "title": "Round and Round the Garden",
+    "theme": "garden",
+    "verses": [
+      { "line": "Round and round the garden like a teddy bear", "emoji": "🧸" },
+      { "line": "One step, two step", "emoji": "👣" },
+      { "line": "Tickle you under there", "emoji": "🤗" },
+      { "line": "Round and round the garden like a teddy bear", "emoji": "🧸" },
+      { "line": "One step, two step", "emoji": "👣" },
+      { "line": "Tickle you under there", "emoji": "🤗" },
+      { "line": "Round and round the garden like a teddy bear", "emoji": "🧸" },
+      { "line": "One step, two step", "emoji": "👣" },
+      { "line": "Tickle you under there", "emoji": "🤗" },
+      { "line": "Round and round the garden like a teddy bear", "emoji": "🧸" },
+      { "line": "One step, two step", "emoji": "👣" },
+      { "line": "Tickle you under there", "emoji": "🤗" }
+    ]
+  },
+  {
+    "id": "here-we-go-round-mulberry-bush",
+    "title": "Here We Go Round the Mulberry Bush",
+    "theme": "garden",
+    "verses": [
+      { "line": "Here we go round the mulberry bush", "emoji": "🌳" },
+      { "line": "The mulberry bush, the mulberry bush", "emoji": "🌿" },
+      { "line": "Here we go round the mulberry bush", "emoji": "🌳" },
+      { "line": "On a cold and frosty morning", "emoji": "❄️" },
+      { "line": "This is the way we wash our hands", "emoji": "🧼" },
+      { "line": "Wash our hands, wash our hands", "emoji": "💧" },
+      { "line": "This is the way we wash our hands", "emoji": "🧼" },
+      { "line": "On a cold and frosty morning", "emoji": "❄️" },
+      { "line": "This is the way we brush our teeth", "emoji": "🪥" },
+      { "line": "Brush our teeth, brush our teeth", "emoji": "🦷" },
+      { "line": "This is the way we brush our teeth", "emoji": "🪥" },
+      { "line": "On a cold and frosty morning", "emoji": "❄️" }
+    ]
+  },
+  {
+    "id": "oranges-and-lemons",
+    "title": "Oranges and Lemons",
+    "theme": "city",
+    "verses": [
+      { "line": "Oranges and lemons say the bells of St. Clement's", "emoji": "🍊" },
+      { "line": "You owe me five farthings say the bells of St. Martin's", "emoji": "🔔" },
+      { "line": "When will you pay me say the bells of Old Bailey", "emoji": "💰" },
+      { "line": "When I grow rich say the bells of Shoreditch", "emoji": "🔔" },
+      { "line": "When will that be say the bells of Stepney", "emoji": "🔔" },
+      { "line": "I do not know says the great bell of Bow", "emoji": "🔔" },
+      { "line": "Here comes a candle to light you to bed", "emoji": "🕯️" },
+      { "line": "Here comes a chopper to chop off your head", "emoji": "😱" },
+      { "line": "Oranges and lemons say the bells of St. Clement's", "emoji": "🍋" },
+      { "line": "You owe me five farthings say the bells of St. Martin's", "emoji": "🔔" },
+      { "line": "Here comes a candle to light you to bed", "emoji": "🕯️" },
+      { "line": "Here comes a chopper to chop off your head", "emoji": "😱" }
+    ]
+  },
+  {
+    "id": "hot-cross-buns",
+    "title": "Hot Cross Buns",
+    "theme": "city",
+    "verses": [
+      { "line": "Hot cross buns, hot cross buns", "emoji": "🍞" },
+      { "line": "One a penny, two a penny", "emoji": "💰" },
+      { "line": "Hot cross buns", "emoji": "🍞" },
+      { "line": "If you have no daughters", "emoji": "👧" },
+      { "line": "Give them to your sons", "emoji": "👦" },
+      { "line": "One a penny, two a penny", "emoji": "💰" },
+      { "line": "Hot cross buns", "emoji": "🍞" },
+      { "line": "Hot cross buns, hot cross buns", "emoji": "🍞" },
+      { "line": "One a penny, two a penny", "emoji": "💰" },
+      { "line": "Hot cross buns", "emoji": "🍞" },
+      { "line": "If you have no daughters", "emoji": "👧" },
+      { "line": "Give them to your sons", "emoji": "👦" }
+    ]
+  },
+  {
+    "id": "polly-put-the-kettle-on",
+    "title": "Polly Put the Kettle On",
+    "theme": "playground",
+    "verses": [
+      { "line": "Polly put the kettle on", "emoji": "🫖" },
+      { "line": "Polly put the kettle on", "emoji": "🫖" },
+      { "line": "Polly put the kettle on", "emoji": "🫖" },
+      { "line": "We'll all have tea", "emoji": "☕" },
+      { "line": "Sukey take it off again", "emoji": "👧" },
+      { "line": "Sukey take it off again", "emoji": "👧" },
+      { "line": "Sukey take it off again", "emoji": "👧" },
+      { "line": "They've all gone away", "emoji": "👋" },
+      { "line": "Polly put the kettle on", "emoji": "🫖" },
+      { "line": "Polly put the kettle on", "emoji": "🫖" },
+      { "line": "Polly put the kettle on", "emoji": "🫖" },
+      { "line": "We'll all have tea", "emoji": "☕" }
+    ]
+  },
+  {
+    "id": "three-little-kittens",
+    "title": "Three Little Kittens",
+    "theme": "farm",
+    "verses": [
+      { "line": "Three little kittens, they lost their mittens", "emoji": "🐱" },
+      { "line": "And they began to cry", "emoji": "😿" },
+      { "line": "Oh mother dear, we sadly fear", "emoji": "😢" },
+      { "line": "Our mittens we have lost", "emoji": "🧤" },
+      { "line": "What! Lost your mittens, you naughty kittens", "emoji": "😾" },
+      { "line": "Then you shall have no pie", "emoji": "🥧" },
+      { "line": "Three little kittens, they found their mittens", "emoji": "🐱" },
+      { "line": "And they began to cry", "emoji": "😻" },
+      { "line": "Oh mother dear, see here, see here", "emoji": "🧤" },
+      { "line": "Our mittens we have found", "emoji": "🎉" },
+      { "line": "What! Found your mittens, you clever kittens", "emoji": "😻" },
+      { "line": "Then you shall have some pie", "emoji": "🥧" }
+    ]
+  },
+  {
+    "id": "little-bunny-foo-foo",
+    "title": "Little Bunny Foo Foo",
+    "theme": "forest",
+    "verses": [
+      { "line": "Little Bunny Foo Foo hopping through the forest", "emoji": "🐰" },
+      { "line": "Scooping up the field mice and bopping them on the head", "emoji": "🐭" },
+      { "line": "Down came the Good Fairy and she said", "emoji": "🧚" },
+      { "line": "Little Bunny Foo Foo, I don't want to see you", "emoji": "🐰" },
+      { "line": "Scooping up the field mice and bopping them on the head", "emoji": "🐭" },
+      { "line": "I'll give you three chances", "emoji": "3️⃣" },
+      { "line": "And if you don't behave", "emoji": "☝️" },
+      { "line": "I will turn you into a goon", "emoji": "🧚" },
+      { "line": "Little Bunny Foo Foo hopping through the forest", "emoji": "🐰" },
+      { "line": "Scooping up the field mice and bopping them on the head", "emoji": "🐭" },
+      { "line": "Down came the Good Fairy and she said", "emoji": "🧚" },
+      { "line": "I gave you three chances and you didn't behave", "emoji": "😤" }
+    ]
+  },
+  {
+    "id": "six-little-ducks",
+    "title": "Six Little Ducks",
+    "theme": "farm",
+    "verses": [
+      { "line": "Six little ducks that I once knew", "emoji": "🦆" },
+      { "line": "Fat ones, skinny ones, fair ones too", "emoji": "🦆" },
+      { "line": "But the one little duck with the feather on his back", "emoji": "🪶" },
+      { "line": "He led the others with his quack quack quack", "emoji": "🦆" },
+      { "line": "Quack quack quack, quack quack quack", "emoji": "🔊" },
+      { "line": "He led the others with his quack quack quack", "emoji": "🦆" },
+      { "line": "Down to the river they would go", "emoji": "🏞️" },
+      { "line": "Wibble wobble wibble wobble to and fro", "emoji": "🚶" },
+      { "line": "But the one little duck with the feather on his back", "emoji": "🪶" },
+      { "line": "He led the others with his quack quack quack", "emoji": "🦆" },
+      { "line": "Quack quack quack, quack quack quack", "emoji": "🔊" },
+      { "line": "He led the others with his quack quack quack", "emoji": "🦆" }
+    ]
+  },
+  {
+    "id": "mary-mary-quite-contrary",
+    "title": "Mary Mary Quite Contrary",
+    "theme": "garden",
+    "verses": [
+      { "line": "Mary, Mary, quite contrary", "emoji": "👧" },
+      { "line": "How does your garden grow?", "emoji": "🌱" },
+      { "line": "With silver bells and cockle shells", "emoji": "🔔" },
+      { "line": "And pretty maids all in a row", "emoji": "🌸" },
+      { "line": "Mary, Mary, quite contrary", "emoji": "👧" },
+      { "line": "How does your garden grow?", "emoji": "🌱" },
+      { "line": "With silver bells and cockle shells", "emoji": "🐚" },
+      { "line": "And pretty maids all in a row", "emoji": "🌺" },
+      { "line": "Mary, Mary, quite contrary", "emoji": "👧" },
+      { "line": "How does your garden grow?", "emoji": "🌱" },
+      { "line": "With silver bells and cockle shells", "emoji": "🔔" },
+      { "line": "And pretty maids all in a row", "emoji": "🌸" }
+    ]
+  },
+  {
+    "id": "little-robin-redbreast",
+    "title": "Little Robin Redbreast",
+    "theme": "garden",
+    "verses": [
+      { "line": "Little Robin Redbreast sat upon a tree", "emoji": "🐦" },
+      { "line": "Up went Pussy Cat and down went he", "emoji": "🐱" },
+      { "line": "Down came Pussy Cat and away Robin ran", "emoji": "🐦" },
+      { "line": "Says little Robin Redbreast, catch me if you can", "emoji": "💨" },
+      { "line": "Little Robin Redbreast jumped upon a wall", "emoji": "🐦" },
+      { "line": "Pussy Cat jumped after him and almost got a fall", "emoji": "🐱" },
+      { "line": "Little Robin chirped and sang and what did Pussy say?", "emoji": "🎵" },
+      { "line": "Pussy Cat said meow and Robin flew away", "emoji": "🐦" },
+      { "line": "Little Robin Redbreast sat upon a tree", "emoji": "🐦" },
+      { "line": "Up went Pussy Cat and down went he", "emoji": "🐱" },
+      { "line": "Down came Pussy Cat and away Robin ran", "emoji": "🐦" },
+      { "line": "Says little Robin Redbreast, catch me if you can", "emoji": "💨" }
+    ]
+  },
+  {
+    "id": "dicky-birds",
+    "title": "Two Little Dicky Birds",
+    "theme": "garden",
+    "verses": [
+      { "line": "Two little dicky birds sitting on a wall", "emoji": "🐦" },
+      { "line": "One named Peter, one named Paul", "emoji": "🐦" },
+      { "line": "Fly away Peter, fly away Paul", "emoji": "✈️" },
+      { "line": "Come back Peter, come back Paul", "emoji": "🐦" },
+      { "line": "Two little dicky birds sitting on a wall", "emoji": "🐦" },
+      { "line": "One named Peter, one named Paul", "emoji": "🐦" },
+      { "line": "Fly away Peter, fly away Paul", "emoji": "✈️" },
+      { "line": "Come back Peter, come back Paul", "emoji": "🐦" },
+      { "line": "Two little dicky birds sitting on a wall", "emoji": "🐦" },
+      { "line": "One named Peter, one named Paul", "emoji": "🐦" },
+      { "line": "Fly away Peter, fly away Paul", "emoji": "✈️" },
+      { "line": "Come back Peter, come back Paul", "emoji": "🐦" }
+    ]
+  },
+  {
+    "id": "ding-dong-bell",
+    "title": "Ding Dong Bell",
+    "theme": "garden",
+    "verses": [
+      { "line": "Ding dong bell, Pussy's in the well", "emoji": "🔔" },
+      { "line": "Who put her in? Little Johnny Thin", "emoji": "👦" },
+      { "line": "Who pulled her out? Little Tommy Stout", "emoji": "💪" },
+      { "line": "What a naughty boy was that", "emoji": "😠" },
+      { "line": "To try to drown poor Pussy Cat", "emoji": "🐱" },
+      { "line": "Who never did him any harm", "emoji": "😿" },
+      { "line": "But killed all the mice in the farmer's barn", "emoji": "🐭" },
+      { "line": "Ding dong bell, Pussy's in the well", "emoji": "🔔" },
+      { "line": "Who put her in? Little Johnny Thin", "emoji": "👦" },
+      { "line": "Who pulled her out? Little Tommy Stout", "emoji": "💪" },
+      { "line": "What a naughty boy was that", "emoji": "😠" },
+      { "line": "To try to drown poor Pussy Cat", "emoji": "🐱" }
+    ]
+  },
+  {
+    "id": "goosey-gander",
+    "title": "Goosey Goosey Gander",
+    "theme": "farm",
+    "verses": [
+      { "line": "Goosey goosey gander, whither shall I wander?", "emoji": "🪿" },
+      { "line": "Upstairs and downstairs and in my lady's chamber", "emoji": "🏠" },
+      { "line": "There I met an old man who wouldn't say his prayers", "emoji": "👴" },
+      { "line": "So I took him by his left leg", "emoji": "🦵" },
+      { "line": "And threw him down the stairs", "emoji": "🪜" },
+      { "line": "Goosey goosey gander, whither shall I wander?", "emoji": "🪿" },
+      { "line": "Upstairs and downstairs and in my lady's chamber", "emoji": "🏠" },
+      { "line": "There I met an old man who wouldn't say his prayers", "emoji": "👴" },
+      { "line": "So I took him by his left leg", "emoji": "🦵" },
+      { "line": "And threw him down the stairs", "emoji": "🪜" },
+      { "line": "Goosey goosey gander, whither shall I wander?", "emoji": "🪿" },
+      { "line": "Upstairs and downstairs and in my lady's chamber", "emoji": "🏠" }
+    ]
+  },
+  {
+    "id": "cock-a-doodle-doo",
+    "title": "Cock-a-Doodle-Doo",
+    "theme": "farm",
+    "verses": [
+      { "line": "Cock-a-doodle-doo! My dame has lost her shoe", "emoji": "🐓" },
+      { "line": "My master's lost his fiddling stick", "emoji": "🎻" },
+      { "line": "And doesn't know what to do", "emoji": "🤷" },
+      { "line": "Cock-a-doodle-doo! What is my dame to do?", "emoji": "🐓" },
+      { "line": "Till master finds his fiddling stick", "emoji": "🎻" },
+      { "line": "She'll dance without her shoe", "emoji": "💃" },
+      { "line": "Cock-a-doodle-doo! My dame has lost her shoe", "emoji": "🐓" },
+      { "line": "My master's lost his fiddling stick", "emoji": "🎻" },
+      { "line": "And doesn't know what to do", "emoji": "🤷" },
+      { "line": "Cock-a-doodle-doo! What is my dame to do?", "emoji": "🐓" },
+      { "line": "Till master finds his fiddling stick", "emoji": "🎻" },
+      { "line": "She'll dance without her shoe", "emoji": "💃" }
+    ]
+  },
+  {
+    "id": "pussycat-pussycat",
+    "title": "Pussycat Pussycat",
+    "theme": "city",
+    "verses": [
+      { "line": "Pussycat, pussycat, where have you been?", "emoji": "🐱" },
+      { "line": "I've been to London to visit the Queen", "emoji": "👑" },
+      { "line": "Pussycat, pussycat, what did you there?", "emoji": "🐱" },
+      { "line": "I frightened a little mouse under her chair", "emoji": "🐭" },
+      { "line": "Pussycat, pussycat, where have you been?", "emoji": "🐱" },
+      { "line": "I've been to London to visit the Queen", "emoji": "👑" },
+      { "line": "Pussycat, pussycat, what did you there?", "emoji": "🐱" },
+      { "line": "I frightened a little mouse under her chair", "emoji": "🐭" },
+      { "line": "Pussycat, pussycat, where have you been?", "emoji": "🐱" },
+      { "line": "I've been to London to visit the Queen", "emoji": "👑" },
+      { "line": "Pussycat, pussycat, what did you there?", "emoji": "🐱" },
+      { "line": "I frightened a little mouse under her chair", "emoji": "🐭" }
+    ]
+  },
+  {
+    "id": "ride-a-cock-horse",
+    "title": "Ride a Cock Horse",
+    "theme": "city",
+    "verses": [
+      { "line": "Ride a cock horse to Banbury Cross", "emoji": "🐴" },
+      { "line": "To see a fine lady upon a white horse", "emoji": "🏇" },
+      { "line": "Rings on her fingers and bells on her toes", "emoji": "💍" },
+      { "line": "She shall have music wherever she goes", "emoji": "🎵" },
+      { "line": "Ride a cock horse to Banbury Cross", "emoji": "🐴" },
+      { "line": "To see a fine lady upon a white horse", "emoji": "🏇" },
+      { "line": "Rings on her fingers and bells on her toes", "emoji": "🔔" },
+      { "line": "She shall have music wherever she goes", "emoji": "🎶" },
+      { "line": "Ride a cock horse to Banbury Cross", "emoji": "🐴" },
+      { "line": "To see a fine lady upon a white horse", "emoji": "🏇" },
+      { "line": "Rings on her fingers and bells on her toes", "emoji": "💍" },
+      { "line": "She shall have music wherever she goes", "emoji": "🎵" }
+    ]
+  },
+  {
+    "id": "i-had-a-little-pony",
+    "title": "I Had a Little Pony",
+    "theme": "farm",
+    "verses": [
+      { "line": "I had a little pony, his name was Dapple Gray", "emoji": "🐴" },
+      { "line": "I lent him to a lady to ride a mile away", "emoji": "👩" },
+      { "line": "She whipped him, she slashed him", "emoji": "😢" },
+      { "line": "She rode him through the mire", "emoji": "🌾" },
+      { "line": "I would not lend my pony now", "emoji": "🐴" },
+      { "line": "For all the lady's hire", "emoji": "💰" },
+      { "line": "I had a little pony, his name was Dapple Gray", "emoji": "🐴" },
+      { "line": "I lent him to a lady to ride a mile away", "emoji": "👩" },
+      { "line": "She whipped him, she slashed him", "emoji": "😢" },
+      { "line": "She rode him through the mire", "emoji": "🌾" },
+      { "line": "I would not lend my pony now", "emoji": "🐴" },
+      { "line": "For all the lady's hire", "emoji": "💰" }
+    ]
+  },
+  {
+    "id": "bow-wow-says-the-dog",
+    "title": "Bow Wow Says the Dog",
+    "theme": "farm",
+    "verses": [
+      { "line": "Bow wow says the dog, meow meow says the cat", "emoji": "🐕" },
+      { "line": "Grunt grunt goes the hog, and squeak goes the rat", "emoji": "🐷" },
+      { "line": "Whoo whoo says the owl, caw caw says the crow", "emoji": "🦉" },
+      { "line": "Quack quack says the duck, and moo says the cow", "emoji": "🦆" },
+      { "line": "Bow wow says the dog, meow meow says the cat", "emoji": "🐱" },
+      { "line": "Grunt grunt goes the hog, and squeak goes the rat", "emoji": "🐀" },
+      { "line": "The lion says roar, the lamb says baa", "emoji": "🦁" },
+      { "line": "And the bird in the tree says tweet tweet tweet", "emoji": "🐦" },
+      { "line": "Bow wow says the dog, meow meow says the cat", "emoji": "🐕" },
+      { "line": "Grunt grunt goes the hog, and squeak goes the rat", "emoji": "🐷" },
+      { "line": "Whoo whoo says the owl, caw caw says the crow", "emoji": "🦉" },
+      { "line": "Quack quack says the duck, and moo says the cow", "emoji": "🐄" }
+    ]
+  },
+  {
+    "id": "the-owl-and-the-pussycat",
+    "title": "The Owl and the Pussycat",
+    "theme": "ocean",
+    "verses": [
+      { "line": "The Owl and the Pussycat went to sea", "emoji": "🦉" },
+      { "line": "In a beautiful pea-green boat", "emoji": "⛵" },
+      { "line": "They took some honey, and plenty of money", "emoji": "🍯" },
+      { "line": "Wrapped up in a five-pound note", "emoji": "💷" },
+      { "line": "The Owl looked up to the stars above", "emoji": "⭐" },
+      { "line": "And sang to a small guitar", "emoji": "🎸" },
+      { "line": "O lovely Pussy! O Pussy my love", "emoji": "🐱" },
+      { "line": "What a beautiful Pussy you are", "emoji": "😻" },
+      { "line": "They sailed away for a year and a day", "emoji": "⛵" },
+      { "line": "To the land where the Bong-Tree grows", "emoji": "🌴" },
+      { "line": "And there in a wood a Piggy-wig stood", "emoji": "🐷" },
+      { "line": "With a ring at the end of his nose", "emoji": "💍" }
+    ]
+  },
+  {
+    "id": "ladybug-ladybug",
+    "title": "Ladybug Ladybug",
+    "theme": "garden",
+    "verses": [
+      { "line": "Ladybug, ladybug, fly away home", "emoji": "🐞" },
+      { "line": "Your house is on fire and your children are gone", "emoji": "🔥" },
+      { "line": "All except one and that's little Ann", "emoji": "👧" },
+      { "line": "For she crept under the frying pan", "emoji": "🍳" },
+      { "line": "Ladybug, ladybug, fly away home", "emoji": "🐞" },
+      { "line": "Your house is on fire and your children are gone", "emoji": "🔥" },
+      { "line": "All except one and that's little Ann", "emoji": "👧" },
+      { "line": "For she crept under the frying pan", "emoji": "🍳" },
+      { "line": "Ladybug, ladybug, fly away home", "emoji": "🐞" },
+      { "line": "Your house is on fire and your children are gone", "emoji": "🔥" },
+      { "line": "All except one and that's little Ann", "emoji": "👧" },
+      { "line": "For she crept under the frying pan", "emoji": "🍳" }
+    ]
+  },
+  {
+    "id": "once-i-caught-a-fish",
+    "title": "Once I Caught a Fish Alive",
+    "theme": "ocean",
+    "verses": [
+      { "line": "One, two, three, four, five", "emoji": "🖐️" },
+      { "line": "Once I caught a fish alive", "emoji": "🐟" },
+      { "line": "Six, seven, eight, nine, ten", "emoji": "🔟" },
+      { "line": "Then I let it go again", "emoji": "🌊" },
+      { "line": "Why did you let it go?", "emoji": "🤔" },
+      { "line": "Because it bit my finger so", "emoji": "😮" },
+      { "line": "Which finger did it bite?", "emoji": "👆" },
+      { "line": "This little finger on my right", "emoji": "🤙" },
+      { "line": "One, two, three, four, five", "emoji": "🖐️" },
+      { "line": "Once I caught a fish alive", "emoji": "🐟" },
+      { "line": "Six, seven, eight, nine, ten", "emoji": "🔟" },
+      { "line": "Then I let it go again", "emoji": "🌊" }
+    ]
+  },
+  {
+    "id": "animals-on-the-farm",
+    "title": "Animals on the Farm",
+    "theme": "farm",
+    "verses": [
+      { "line": "Down on the farm there's a great big cow", "emoji": "🐄" },
+      { "line": "She goes moo moo moo all day", "emoji": "🐮" },
+      { "line": "Down on the farm there's a little white sheep", "emoji": "🐑" },
+      { "line": "She goes baa baa baa all day", "emoji": "🐏" },
+      { "line": "Down on the farm there's a big pink pig", "emoji": "🐷" },
+      { "line": "He goes oink oink oink all day", "emoji": "🐖" },
+      { "line": "Down on the farm there's a little brown horse", "emoji": "🐴" },
+      { "line": "He goes neigh neigh neigh all day", "emoji": "🐎" },
+      { "line": "Down on the farm there's a little red hen", "emoji": "🐔" },
+      { "line": "She goes cluck cluck cluck all day", "emoji": "🐓" },
+      { "line": "Down on the farm there's a little yellow duck", "emoji": "🦆" },
+      { "line": "She goes quack quack quack all day", "emoji": "🐤" }
+    ]
+  },
+  {
+    "id": "the-animal-fair",
+    "title": "The Animal Fair",
+    "theme": "playground",
+    "verses": [
+      { "line": "I went to the animal fair", "emoji": "🎪" },
+      { "line": "The birds and the beasts were there", "emoji": "🐦" },
+      { "line": "The big baboon by the light of the moon", "emoji": "🐒" },
+      { "line": "Was combing his auburn hair", "emoji": "🌙" },
+      { "line": "The monkey he got drunk", "emoji": "🐵" },
+      { "line": "And sat on the elephant's trunk", "emoji": "🐘" },
+      { "line": "The elephant sneezed and fell on his knees", "emoji": "🤧" },
+      { "line": "And that was the end of the monk", "emoji": "🐒" },
+      { "line": "I went to the animal fair", "emoji": "🎪" },
+      { "line": "The birds and the beasts were there", "emoji": "🐦" },
+      { "line": "The big baboon by the light of the moon", "emoji": "🐒" },
+      { "line": "Was combing his auburn hair", "emoji": "🌙" }
+    ]
+  },
+  {
+    "id": "the-bear-went-over-mountain",
+    "title": "The Bear Went Over the Mountain",
+    "theme": "forest",
+    "verses": [
+      { "line": "The bear went over the mountain", "emoji": "🐻" },
+      { "line": "The bear went over the mountain", "emoji": "🐻" },
+      { "line": "The bear went over the mountain", "emoji": "⛰️" },
+      { "line": "To see what he could see", "emoji": "👀" },
+      { "line": "And all that he could see", "emoji": "🔭" },
+      { "line": "And all that he could see", "emoji": "👀" },
+      { "line": "Was the other side of the mountain", "emoji": "🏔️" },
+      { "line": "The other side of the mountain", "emoji": "🏔️" },
+      { "line": "Was all that he could see", "emoji": "👀" },
+      { "line": "The bear went over the mountain", "emoji": "🐻" },
+      { "line": "The bear went over the mountain", "emoji": "⛰️" },
+      { "line": "To see what he could see", "emoji": "👀" }
+    ]
+  },
+  {
+    "id": "five-little-bees",
+    "title": "Five Little Bees",
+    "theme": "garden",
+    "verses": [
+      { "line": "Five little bees buzzing by the hive", "emoji": "🐝" },
+      { "line": "Buzzing and humming to keep alive", "emoji": "🐝" },
+      { "line": "One little bee said, I'll go explore", "emoji": "🐝" },
+      { "line": "Now there are only four", "emoji": "4️⃣" },
+      { "line": "Four little bees buzzing round a tree", "emoji": "🐝" },
+      { "line": "One flew away and then there were three", "emoji": "3️⃣" },
+      { "line": "Three little bees buzzing in the dew", "emoji": "🐝" },
+      { "line": "One flew away and then there were two", "emoji": "2️⃣" },
+      { "line": "Two little bees buzzing in the sun", "emoji": "🐝" },
+      { "line": "One flew away and then there was one", "emoji": "1️⃣" },
+      { "line": "One little bee left all alone", "emoji": "🐝" },
+      { "line": "He flew right back to his honeycomb home", "emoji": "🍯" }
+    ]
+  },
+  {
+    "id": "rock-a-bye-baby",
+    "title": "Rock-a-Bye Baby",
+    "theme": "night",
+    "verses": [
+      { "line": "Rock-a-bye baby, on the treetop", "emoji": "👶" },
+      { "line": "When the wind blows, the cradle will rock", "emoji": "💨" },
+      { "line": "When the bough breaks, the cradle will fall", "emoji": "🌿" },
+      { "line": "And down will come baby, cradle and all", "emoji": "👶" },
+      { "line": "Rock-a-bye baby, on the treetop", "emoji": "🌳" },
+      { "line": "When the wind blows, the cradle will rock", "emoji": "💨" },
+      { "line": "When the bough breaks, the cradle will fall", "emoji": "🌿" },
+      { "line": "And down will come baby, cradle and all", "emoji": "👶" },
+      { "line": "Rock-a-bye baby, on the treetop", "emoji": "🌳" },
+      { "line": "When the wind blows, the cradle will rock", "emoji": "💨" },
+      { "line": "When the bough breaks, the cradle will fall", "emoji": "🌿" },
+      { "line": "And down will come baby, cradle and all", "emoji": "👶" }
+    ]
+  },
+  {
+    "id": "hush-little-baby",
+    "title": "Hush Little Baby",
+    "theme": "night",
+    "verses": [
+      { "line": "Hush little baby, don't say a word", "emoji": "🤫" },
+      { "line": "Mama's gonna buy you a mockingbird", "emoji": "🐦" },
+      { "line": "And if that mockingbird won't sing", "emoji": "🎵" },
+      { "line": "Mama's gonna buy you a diamond ring", "emoji": "💍" },
+      { "line": "And if that diamond ring turns brass", "emoji": "💎" },
+      { "line": "Mama's gonna buy you a looking glass", "emoji": "🪞" },
+      { "line": "And if that looking glass gets broke", "emoji": "💔" },
+      { "line": "Mama's gonna buy you a billy goat", "emoji": "🐐" },
+      { "line": "And if that billy goat won't pull", "emoji": "🐐" },
+      { "line": "Mama's gonna buy you a cart and bull", "emoji": "🐂" },
+      { "line": "And if that cart and bull turn over", "emoji": "🔄" },
+      { "line": "Mama's gonna buy you a dog named Rover", "emoji": "🐕" }
+    ]
+  },
+  {
+    "id": "star-light-star-bright",
+    "title": "Star Light Star Bright",
+    "theme": "night",
+    "verses": [
+      { "line": "Star light, star bright", "emoji": "⭐" },
+      { "line": "First star I see tonight", "emoji": "🌟" },
+      { "line": "I wish I may, I wish I might", "emoji": "🙏" },
+      { "line": "Have the wish I wish tonight", "emoji": "✨" },
+      { "line": "Star light, star bright", "emoji": "⭐" },
+      { "line": "First star I see tonight", "emoji": "🌟" },
+      { "line": "I wish I may, I wish I might", "emoji": "🙏" },
+      { "line": "Have the wish I wish tonight", "emoji": "✨" },
+      { "line": "Star light, star bright", "emoji": "⭐" },
+      { "line": "First star I see tonight", "emoji": "🌟" },
+      { "line": "I wish I may, I wish I might", "emoji": "🙏" },
+      { "line": "Have the wish I wish tonight", "emoji": "✨" }
+    ]
+  },
+  {
+    "id": "now-i-lay-me-down",
+    "title": "Now I Lay Me Down to Sleep",
+    "theme": "night",
+    "verses": [
+      { "line": "Now I lay me down to sleep", "emoji": "😴" },
+      { "line": "I pray the Lord my soul to keep", "emoji": "🙏" },
+      { "line": "Guide me through the starry night", "emoji": "🌟" },
+      { "line": "And wake me with the morning light", "emoji": "🌅" },
+      { "line": "Now I lay me down to sleep", "emoji": "😴" },
+      { "line": "I pray the Lord my soul to keep", "emoji": "🙏" },
+      { "line": "Angels watch me through the night", "emoji": "😇" },
+      { "line": "And keep me safe till morning light", "emoji": "🌅" },
+      { "line": "Now I lay me down to sleep", "emoji": "😴" },
+      { "line": "I pray the Lord my soul to keep", "emoji": "🙏" },
+      { "line": "Guide me through the starry night", "emoji": "🌟" },
+      { "line": "And wake me with the morning light", "emoji": "🌅" }
+    ]
+  },
+  {
+    "id": "sleep-baby-sleep",
+    "title": "Sleep Baby Sleep",
+    "theme": "night",
+    "verses": [
+      { "line": "Sleep, baby, sleep", "emoji": "😴" },
+      { "line": "Your father tends the sheep", "emoji": "🐑" },
+      { "line": "Your mother shakes the dreamland tree", "emoji": "🌳" },
+      { "line": "And from it fall sweet dreams for thee", "emoji": "💭" },
+      { "line": "Sleep, baby, sleep", "emoji": "😴" },
+      { "line": "Sleep, baby, sleep", "emoji": "😴" },
+      { "line": "The large stars are the sheep", "emoji": "⭐" },
+      { "line": "The little ones are the lambs, I guess", "emoji": "🐏" },
+      { "line": "The gentle moon is the shepherdess", "emoji": "🌙" },
+      { "line": "Sleep, baby, sleep", "emoji": "😴" },
+      { "line": "Sleep, baby, sleep", "emoji": "😴" },
+      { "line": "And from it fall sweet dreams for thee", "emoji": "💭" }
+    ]
+  },
+  {
+    "id": "golden-slumbers",
+    "title": "Golden Slumbers",
+    "theme": "night",
+    "verses": [
+      { "line": "Golden slumbers kiss your eyes", "emoji": "😴" },
+      { "line": "Smiles awake you when you rise", "emoji": "😊" },
+      { "line": "Sleep, pretty baby, do not cry", "emoji": "👶" },
+      { "line": "And I will sing a lullaby", "emoji": "🎵" },
+      { "line": "Rock them, rock them, lullaby", "emoji": "🤱" },
+      { "line": "Golden slumbers kiss your eyes", "emoji": "😴" },
+      { "line": "Smiles awake you when you rise", "emoji": "😊" },
+      { "line": "Sleep, pretty baby, do not cry", "emoji": "👶" },
+      { "line": "And I will sing a lullaby", "emoji": "🎵" },
+      { "line": "Rock them, rock them, lullaby", "emoji": "🤱" },
+      { "line": "Golden slumbers kiss your eyes", "emoji": "😴" },
+      { "line": "Smiles awake you when you rise", "emoji": "😊" }
+    ]
+  },
+  {
+    "id": "twinkle-twinkle-up-so-high",
+    "title": "Twinkle Twinkle Up So High",
+    "theme": "night",
+    "verses": [
+      { "line": "Twinkle, twinkle, up so high", "emoji": "✨" },
+      { "line": "Like a diamond in the sky", "emoji": "💎" },
+      { "line": "When the glorious sun has set", "emoji": "🌅" },
+      { "line": "And the night has come and yet", "emoji": "🌙" },
+      { "line": "Then you show your little light", "emoji": "💡" },
+      { "line": "Twinkle, twinkle, through the night", "emoji": "⭐" },
+      { "line": "In the dark blue sky you keep", "emoji": "🌌" },
+      { "line": "While you watch the world asleep", "emoji": "😴" },
+      { "line": "As your bright and tiny spark", "emoji": "✨" },
+      { "line": "Lights the traveler in the dark", "emoji": "🚶" },
+      { "line": "Twinkle, twinkle, little star", "emoji": "⭐" },
+      { "line": "How I wonder what you are", "emoji": "🤔" }
+    ]
+  },
+  {
+    "id": "brahms-lullaby",
+    "title": "Brahms Lullaby",
+    "theme": "night",
+    "verses": [
+      { "line": "Lullaby and good night, with roses bedight", "emoji": "🌹" },
+      { "line": "With lilies bedecked is baby's wee bed", "emoji": "🌷" },
+      { "line": "Lay thee down now and rest, may thy slumber be blessed", "emoji": "😴" },
+      { "line": "Lay thee down now and rest, may thy slumber be blessed", "emoji": "🙏" },
+      { "line": "Lullaby and good night, thy mother's delight", "emoji": "👩" },
+      { "line": "Bright angels beside my darling abide", "emoji": "😇" },
+      { "line": "They will guard thee at rest", "emoji": "🛡️" },
+      { "line": "Thou shalt wake on my breast", "emoji": "💕" },
+      { "line": "Lullaby and good night, with roses bedight", "emoji": "🌹" },
+      { "line": "With lilies bedecked is baby's wee bed", "emoji": "🌷" },
+      { "line": "Lay thee down now and rest, may thy slumber be blessed", "emoji": "😴" },
+      { "line": "Lay thee down now and rest, may thy slumber be blessed", "emoji": "🙏" }
+    ]
+  },
+  {
+    "id": "all-the-pretty-horses",
+    "title": "All the Pretty Horses",
+    "theme": "night",
+    "verses": [
+      { "line": "Hush-a-bye, don't you cry", "emoji": "🤫" },
+      { "line": "Go to sleep, my little baby", "emoji": "👶" },
+      { "line": "When you wake, you shall have", "emoji": "🌅" },
+      { "line": "All the pretty little horses", "emoji": "🐴" },
+      { "line": "Blacks and bays, dapples and grays", "emoji": "🐎" },
+      { "line": "All the pretty little horses", "emoji": "🐴" },
+      { "line": "Hush-a-bye, don't you cry", "emoji": "🤫" },
+      { "line": "Go to sleep, my little baby", "emoji": "👶" },
+      { "line": "When you wake, you shall have", "emoji": "🌅" },
+      { "line": "All the pretty little horses", "emoji": "🐴" },
+      { "line": "Blacks and bays, dapples and grays", "emoji": "🐎" },
+      { "line": "All the pretty little horses", "emoji": "🐴" }
+    ]
+  },
+  {
+    "id": "lullaby-and-goodnight",
+    "title": "Lullaby and Goodnight",
+    "theme": "night",
+    "verses": [
+      { "line": "Lullaby and goodnight, close your eyes now and sleep", "emoji": "😴" },
+      { "line": "May the moonbeams so bright, watch over you in your sleep", "emoji": "🌙" },
+      { "line": "Close your eyes little one, let the stars up above", "emoji": "⭐" },
+      { "line": "Fill your dreams full of joy, fill your heart full of love", "emoji": "💕" },
+      { "line": "Lullaby and goodnight, close your eyes now and sleep", "emoji": "😴" },
+      { "line": "May the moonbeams so bright, watch over you in your sleep", "emoji": "🌙" },
+      { "line": "Dream of puppies and kittens, dream of butterflies too", "emoji": "🦋" },
+      { "line": "Dream of rainbows and sunshine, I'll be right here with you", "emoji": "🌈" },
+      { "line": "Lullaby and goodnight, close your eyes now and sleep", "emoji": "😴" },
+      { "line": "May the moonbeams so bright, watch over you in your sleep", "emoji": "🌙" },
+      { "line": "Close your eyes little one, let the stars up above", "emoji": "⭐" },
+      { "line": "Fill your dreams full of joy, fill your heart full of love", "emoji": "💕" }
+    ]
+  },
+  {
+    "id": "are-you-sleeping",
+    "title": "Are You Sleeping (Frère Jacques)",
+    "theme": "night",
+    "verses": [
+      { "line": "Are you sleeping, are you sleeping?", "emoji": "😴" },
+      { "line": "Brother John, Brother John", "emoji": "👦" },
+      { "line": "Morning bells are ringing, morning bells are ringing", "emoji": "🔔" },
+      { "line": "Ding dang dong, ding dang dong", "emoji": "🔔" },
+      { "line": "Are you sleeping, are you sleeping?", "emoji": "😴" },
+      { "line": "Brother John, Brother John", "emoji": "👦" },
+      { "line": "Morning bells are ringing, morning bells are ringing", "emoji": "🔔" },
+      { "line": "Ding dang dong, ding dang dong", "emoji": "🔔" },
+      { "line": "Are you sleeping, are you sleeping?", "emoji": "😴" },
+      { "line": "Brother John, Brother John", "emoji": "👦" },
+      { "line": "Morning bells are ringing, morning bells are ringing", "emoji": "🔔" },
+      { "line": "Ding dang dong, ding dang dong", "emoji": "🔔" }
+    ]
+  },
+  {
+    "id": "wee-willie-winkie",
+    "title": "Wee Willie Winkie",
+    "theme": "night",
+    "verses": [
+      { "line": "Wee Willie Winkie runs through the town", "emoji": "🏃" },
+      { "line": "Upstairs and downstairs in his nightgown", "emoji": "👔" },
+      { "line": "Rapping at the window, crying through the lock", "emoji": "🪟" },
+      { "line": "Are the children all in bed? For now it's eight o'clock", "emoji": "🕗" },
+      { "line": "Wee Willie Winkie runs through the town", "emoji": "🏃" },
+      { "line": "Upstairs and downstairs in his nightgown", "emoji": "👔" },
+      { "line": "Rapping at the window, crying through the lock", "emoji": "🪟" },
+      { "line": "Are the children all in bed? For now it's eight o'clock", "emoji": "🕗" },
+      { "line": "Wee Willie Winkie runs through the town", "emoji": "🏃" },
+      { "line": "Upstairs and downstairs in his nightgown", "emoji": "👔" },
+      { "line": "Rapping at the window, crying through the lock", "emoji": "🪟" },
+      { "line": "Are the children all in bed? For now it's eight o'clock", "emoji": "🕗" }
+    ]
+  },
+  {
+    "id": "diddle-diddle-dumpling",
+    "title": "Diddle Diddle Dumpling",
+    "theme": "night",
+    "verses": [
+      { "line": "Diddle, diddle, dumpling, my son John", "emoji": "👦" },
+      { "line": "Went to bed with his trousers on", "emoji": "🛏️" },
+      { "line": "One shoe off and one shoe on", "emoji": "👟" },
+      { "line": "Diddle, diddle, dumpling, my son John", "emoji": "👦" },
+      { "line": "Diddle, diddle, dumpling, my son John", "emoji": "👦" },
+      { "line": "Went to bed with his trousers on", "emoji": "🛏️" },
+      { "line": "One shoe off and one shoe on", "emoji": "👟" },
+      { "line": "Diddle, diddle, dumpling, my son John", "emoji": "👦" },
+      { "line": "Diddle, diddle, dumpling, my son John", "emoji": "👦" },
+      { "line": "Went to bed with his trousers on", "emoji": "🛏️" },
+      { "line": "One shoe off and one shoe on", "emoji": "👟" },
+      { "line": "Diddle, diddle, dumpling, my son John", "emoji": "👦" }
+    ]
+  },
+  {
+    "id": "to-bed-to-bed",
+    "title": "To Bed To Bed",
+    "theme": "night",
+    "verses": [
+      { "line": "To bed, to bed, says Sleepy Head", "emoji": "😴" },
+      { "line": "Tarry a while, says Slow", "emoji": "🐌" },
+      { "line": "Put on the pot, says Greedy Gut", "emoji": "🍲" },
+      { "line": "We'll sup before we go", "emoji": "🥣" },
+      { "line": "To bed, to bed, says Sleepy Head", "emoji": "😴" },
+      { "line": "Tarry a while, says Slow", "emoji": "🐌" },
+      { "line": "Put on the pot, says Greedy Gut", "emoji": "🍲" },
+      { "line": "We'll sup before we go", "emoji": "🥣" },
+      { "line": "To bed, to bed, says Sleepy Head", "emoji": "😴" },
+      { "line": "Tarry a while, says Slow", "emoji": "🐌" },
+      { "line": "Put on the pot, says Greedy Gut", "emoji": "🍲" },
+      { "line": "We'll sup before we go", "emoji": "🥣" }
+    ]
+  },
+  {
+    "id": "come-let-us-be-joyful",
+    "title": "Come Let Us Be Joyful",
+    "theme": "night",
+    "verses": [
+      { "line": "Come, let us be joyful while life is bright and gay", "emoji": "😊" },
+      { "line": "Let us gather roses while we may", "emoji": "🌹" },
+      { "line": "The stars are shining brightly above", "emoji": "⭐" },
+      { "line": "Fill our hearts with joy and love", "emoji": "💕" },
+      { "line": "Come, let us be joyful while life is bright and gay", "emoji": "😊" },
+      { "line": "Let us gather roses while we may", "emoji": "🌹" },
+      { "line": "Sing a song of happiness tonight", "emoji": "🎵" },
+      { "line": "Everything is going to be alright", "emoji": "🌙" },
+      { "line": "Come, let us be joyful while life is bright and gay", "emoji": "😊" },
+      { "line": "Let us gather roses while we may", "emoji": "🌹" },
+      { "line": "The stars are shining brightly above", "emoji": "⭐" },
+      { "line": "Fill our hearts with joy and love", "emoji": "💕" }
+    ]
+  },
+  {
+    "id": "good-night-sleep-tight",
+    "title": "Good Night Sleep Tight",
+    "theme": "night",
+    "verses": [
+      { "line": "Good night, sleep tight", "emoji": "🌙" },
+      { "line": "Don't let the bedbugs bite", "emoji": "🛏️" },
+      { "line": "And if they do, squeeze them tight", "emoji": "💪" },
+      { "line": "And they won't bite another night", "emoji": "😊" },
+      { "line": "Good night, sleep tight", "emoji": "🌙" },
+      { "line": "Turn off the light", "emoji": "💡" },
+      { "line": "Close your eyes and dream away", "emoji": "😴" },
+      { "line": "Tomorrow is another day", "emoji": "🌅" },
+      { "line": "Good night, sleep tight", "emoji": "🌙" },
+      { "line": "Don't let the bedbugs bite", "emoji": "🛏️" },
+      { "line": "And if they do, squeeze them tight", "emoji": "💪" },
+      { "line": "And they won't bite another night", "emoji": "😊" }
+    ]
+  },
+  {
+    "id": "the-moon-is-round",
+    "title": "The Moon Is Round",
+    "theme": "night",
+    "verses": [
+      { "line": "The moon is round as round can be", "emoji": "🌕" },
+      { "line": "Shining bright for all to see", "emoji": "✨" },
+      { "line": "Two little eyes, a little nose", "emoji": "👀" },
+      { "line": "A little mouth where the moonbeam goes", "emoji": "🌝" },
+      { "line": "The moon is round as round can be", "emoji": "🌕" },
+      { "line": "Shining bright for all to see", "emoji": "✨" },
+      { "line": "Up in the sky so far away", "emoji": "🌌" },
+      { "line": "Watching over us night and day", "emoji": "👁️" },
+      { "line": "The moon is round as round can be", "emoji": "🌕" },
+      { "line": "Shining bright for all to see", "emoji": "✨" },
+      { "line": "Two little eyes, a little nose", "emoji": "👀" },
+      { "line": "A little mouth where the moonbeam goes", "emoji": "🌝" }
+    ]
+  },
+  {
+    "id": "i-see-the-moon",
+    "title": "I See the Moon",
+    "theme": "night",
+    "verses": [
+      { "line": "I see the moon and the moon sees me", "emoji": "🌙" },
+      { "line": "God bless the moon and God bless me", "emoji": "🙏" },
+      { "line": "I see the stars and the stars see me", "emoji": "⭐" },
+      { "line": "God bless the stars and God bless me", "emoji": "🙏" },
+      { "line": "I see the world and the world sees me", "emoji": "🌍" },
+      { "line": "God bless the world and God bless me", "emoji": "🙏" },
+      { "line": "I see the moon and the moon sees me", "emoji": "🌙" },
+      { "line": "God bless the moon and God bless me", "emoji": "🙏" },
+      { "line": "I see the stars and the stars see me", "emoji": "⭐" },
+      { "line": "God bless the stars and God bless me", "emoji": "🙏" },
+      { "line": "I see the world and the world sees me", "emoji": "🌍" },
+      { "line": "God bless the world and God bless me", "emoji": "🙏" }
+    ]
+  },
+  {
+    "id": "bedtime-prayer",
+    "title": "Bedtime Prayer",
+    "theme": "night",
+    "verses": [
+      { "line": "Thank you for this lovely day", "emoji": "🙏" },
+      { "line": "For all the time I had to play", "emoji": "🎮" },
+      { "line": "Thank you for my family dear", "emoji": "👨‍👩‍👧‍👦" },
+      { "line": "For friends and loved ones far and near", "emoji": "💕" },
+      { "line": "Now as I close my eyes to rest", "emoji": "😴" },
+      { "line": "I know that I am truly blessed", "emoji": "🙏" },
+      { "line": "Watch over me throughout the night", "emoji": "🌙" },
+      { "line": "And wake me with the morning light", "emoji": "🌅" },
+      { "line": "Thank you for this lovely day", "emoji": "🙏" },
+      { "line": "For all the time I had to play", "emoji": "🎮" },
+      { "line": "Now as I close my eyes to rest", "emoji": "😴" },
+      { "line": "I know that I am truly blessed", "emoji": "🙏" }
+    ]
+  },
+  {
+    "id": "counting-sheep",
+    "title": "Counting Sheep",
+    "theme": "night",
+    "verses": [
+      { "line": "One little sheep jumping over the fence", "emoji": "🐑" },
+      { "line": "Two little sheep, it just makes sense", "emoji": "🐑" },
+      { "line": "Three little sheep, soft and white", "emoji": "🐑" },
+      { "line": "Four little sheep in the moonlight", "emoji": "🌙" },
+      { "line": "Five little sheep, count some more", "emoji": "🐑" },
+      { "line": "Six little sheep, that makes four plus two more", "emoji": "🐑" },
+      { "line": "Seven little sheep, so fluffy and round", "emoji": "🐑" },
+      { "line": "Eight little sheep without a sound", "emoji": "🤫" },
+      { "line": "Nine little sheep, almost asleep", "emoji": "😴" },
+      { "line": "Ten little sheep in a woolly heap", "emoji": "🐑" },
+      { "line": "Close your eyes and count some more", "emoji": "💤" },
+      { "line": "Soon you'll be sleeping and starting to snore", "emoji": "😴" }
+    ]
+  },
+  {
+    "id": "rain-rain-go-away",
+    "title": "Rain Rain Go Away",
+    "theme": "garden",
+    "verses": [
+      { "line": "Rain, rain, go away", "emoji": "🌧️" },
+      { "line": "Come again another day", "emoji": "☀️" },
+      { "line": "Little Johnny wants to play", "emoji": "👦" },
+      { "line": "Rain, rain, go away", "emoji": "🌧️" },
+      { "line": "Rain, rain, go away", "emoji": "🌧️" },
+      { "line": "Come again another day", "emoji": "☀️" },
+      { "line": "Little Sally wants to play", "emoji": "👧" },
+      { "line": "Rain, rain, go away", "emoji": "🌧️" },
+      { "line": "Rain, rain, go away", "emoji": "🌧️" },
+      { "line": "Come again another day", "emoji": "☀️" },
+      { "line": "All the children want to play", "emoji": "👫" },
+      { "line": "Rain, rain, go away", "emoji": "🌧️" }
+    ]
+  },
+  {
+    "id": "its-raining-its-pouring",
+    "title": "It's Raining It's Pouring",
+    "theme": "garden",
+    "verses": [
+      { "line": "It's raining, it's pouring", "emoji": "🌧️" },
+      { "line": "The old man is snoring", "emoji": "😴" },
+      { "line": "He bumped his head and went to bed", "emoji": "🛏️" },
+      { "line": "And couldn't get up in the morning", "emoji": "🌅" },
+      { "line": "It's raining, it's pouring", "emoji": "🌧️" },
+      { "line": "The old man is snoring", "emoji": "😴" },
+      { "line": "He bumped his head and went to bed", "emoji": "🛏️" },
+      { "line": "And couldn't get up in the morning", "emoji": "🌅" },
+      { "line": "It's raining, it's pouring", "emoji": "🌧️" },
+      { "line": "The old man is snoring", "emoji": "😴" },
+      { "line": "He bumped his head and went to bed", "emoji": "🛏️" },
+      { "line": "And couldn't get up in the morning", "emoji": "🌅" }
+    ]
+  },
+  {
+    "id": "i-hear-thunder",
+    "title": "I Hear Thunder",
+    "theme": "garden",
+    "verses": [
+      { "line": "I hear thunder, I hear thunder", "emoji": "⛈️" },
+      { "line": "Hark don't you? Hark don't you?", "emoji": "👂" },
+      { "line": "Pitter patter raindrops, pitter patter raindrops", "emoji": "🌧️" },
+      { "line": "I'm wet through, so are you", "emoji": "💧" },
+      { "line": "I see blue skies, I see blue skies", "emoji": "🌤️" },
+      { "line": "Way up high, way up high", "emoji": "☀️" },
+      { "line": "Hurry up the sunshine, hurry up the sunshine", "emoji": "🌈" },
+      { "line": "We'll soon dry, we'll soon dry", "emoji": "😊" },
+      { "line": "I hear thunder, I hear thunder", "emoji": "⛈️" },
+      { "line": "Hark don't you? Hark don't you?", "emoji": "👂" },
+      { "line": "Pitter patter raindrops, pitter patter raindrops", "emoji": "🌧️" },
+      { "line": "I'm wet through, so are you", "emoji": "💧" }
+    ]
+  },
+  {
+    "id": "incy-wincy-spider-rain",
+    "title": "Incy Wincy Spider (Rain Version)",
+    "theme": "garden",
+    "verses": [
+      { "line": "Incy Wincy Spider climbed up the water spout", "emoji": "🕷️" },
+      { "line": "Down came the rain and washed poor Incy out", "emoji": "🌧️" },
+      { "line": "Out came the sun and dried up all the rain", "emoji": "☀️" },
+      { "line": "So Incy Wincy Spider climbed up the spout again", "emoji": "🕷️" },
+      { "line": "The rain came pouring down so fast", "emoji": "⛈️" },
+      { "line": "Poor little spider couldn't hold on and had to let go at last", "emoji": "😢" },
+      { "line": "But the sun came out and smiled so bright", "emoji": "🌞" },
+      { "line": "Everything was going to be alright", "emoji": "🌈" },
+      { "line": "Incy Wincy Spider climbed up the water spout", "emoji": "🕷️" },
+      { "line": "Down came the rain and washed poor Incy out", "emoji": "🌧️" },
+      { "line": "Out came the sun and dried up all the rain", "emoji": "☀️" },
+      { "line": "So Incy Wincy Spider climbed up the spout again", "emoji": "🕷️" }
+    ]
+  },
+  {
+    "id": "doctor-foster",
+    "title": "Doctor Foster",
+    "theme": "city",
+    "verses": [
+      { "line": "Doctor Foster went to Gloucester", "emoji": "👨‍⚕️" },
+      { "line": "In a shower of rain", "emoji": "🌧️" },
+      { "line": "He stepped in a puddle right up to his middle", "emoji": "💧" },
+      { "line": "And never went there again", "emoji": "🚫" },
+      { "line": "Doctor Foster went to Gloucester", "emoji": "👨‍⚕️" },
+      { "line": "In a shower of rain", "emoji": "🌧️" },
+      { "line": "He stepped in a puddle right up to his middle", "emoji": "💧" },
+      { "line": "And never went there again", "emoji": "🚫" },
+      { "line": "Doctor Foster went to Gloucester", "emoji": "👨‍⚕️" },
+      { "line": "In a shower of rain", "emoji": "🌧️" },
+      { "line": "He stepped in a puddle right up to his middle", "emoji": "💧" },
+      { "line": "And never went there again", "emoji": "🚫" }
+    ]
+  },
+  {
+    "id": "the-north-wind",
+    "title": "The North Wind Doth Blow",
+    "theme": "forest",
+    "verses": [
+      { "line": "The north wind doth blow and we shall have snow", "emoji": "❄️" },
+      { "line": "And what will poor robin do then, poor thing?", "emoji": "🐦" },
+      { "line": "He'll sit in a barn and keep himself warm", "emoji": "🏠" },
+      { "line": "And hide his head under his wing, poor thing", "emoji": "🐦" },
+      { "line": "The north wind doth blow and we shall have snow", "emoji": "❄️" },
+      { "line": "And what will poor robin do then, poor thing?", "emoji": "🐦" },
+      { "line": "He'll sit in a barn and keep himself warm", "emoji": "🏠" },
+      { "line": "And hide his head under his wing, poor thing", "emoji": "🐦" },
+      { "line": "The north wind doth blow and we shall have snow", "emoji": "❄️" },
+      { "line": "And what will poor robin do then, poor thing?", "emoji": "🐦" },
+      { "line": "He'll sit in a barn and keep himself warm", "emoji": "🏠" },
+      { "line": "And hide his head under his wing, poor thing", "emoji": "🐦" }
+    ]
+  },
+  {
+    "id": "jack-frost",
+    "title": "Jack Frost",
+    "theme": "forest",
+    "verses": [
+      { "line": "Jack Frost came in the night", "emoji": "🥶" },
+      { "line": "He painted everything white", "emoji": "❄️" },
+      { "line": "The windows, the trees, the flowers, the ground", "emoji": "🌳" },
+      { "line": "He covered everything all around", "emoji": "⛄" },
+      { "line": "Jack Frost nipped at your nose", "emoji": "👃" },
+      { "line": "He tickled all your toes", "emoji": "🦶" },
+      { "line": "He froze the pond so we could skate", "emoji": "⛸️" },
+      { "line": "Oh Jack Frost, you are really great", "emoji": "❄️" },
+      { "line": "Jack Frost came in the night", "emoji": "🥶" },
+      { "line": "He painted everything white", "emoji": "❄️" },
+      { "line": "The windows, the trees, the flowers, the ground", "emoji": "🌳" },
+      { "line": "He covered everything all around", "emoji": "⛄" }
+    ]
+  },
+  {
+    "id": "rainbow-song",
+    "title": "Rainbow Song",
+    "theme": "garden",
+    "verses": [
+      { "line": "I can sing a rainbow, sing a rainbow", "emoji": "🌈" },
+      { "line": "Sing a rainbow too", "emoji": "🎵" },
+      { "line": "Red and yellow and pink and green", "emoji": "🔴" },
+      { "line": "Purple and orange and blue", "emoji": "🟣" },
+      { "line": "I can sing a rainbow, sing a rainbow", "emoji": "🌈" },
+      { "line": "Sing a rainbow too", "emoji": "🎵" },
+      { "line": "Listen with your eyes, listen with your ears", "emoji": "👀" },
+      { "line": "And sing everything you see", "emoji": "🎶" },
+      { "line": "I can sing a rainbow, sing a rainbow", "emoji": "🌈" },
+      { "line": "Sing a rainbow too", "emoji": "🎵" },
+      { "line": "Red and yellow and pink and green", "emoji": "🔴" },
+      { "line": "Purple and orange and blue", "emoji": "🟣" }
+    ]
+  },
+  {
+    "id": "mr-sun",
+    "title": "Mr. Sun",
+    "theme": "garden",
+    "verses": [
+      { "line": "Oh Mr. Sun, Sun, Mr. Golden Sun", "emoji": "☀️" },
+      { "line": "Please shine down on me", "emoji": "🌞" },
+      { "line": "Oh Mr. Sun, Sun, Mr. Golden Sun", "emoji": "☀️" },
+      { "line": "Hiding behind a tree", "emoji": "🌳" },
+      { "line": "These little children are asking you", "emoji": "👫" },
+      { "line": "To please come out so we can play with you", "emoji": "🎮" },
+      { "line": "Oh Mr. Sun, Sun, Mr. Golden Sun", "emoji": "☀️" },
+      { "line": "Please shine down on me", "emoji": "🌞" },
+      { "line": "Oh Mr. Sun, Sun, Mr. Golden Sun", "emoji": "☀️" },
+      { "line": "Please shine down on me", "emoji": "🌞" },
+      { "line": "These little children are asking you", "emoji": "👫" },
+      { "line": "To please come out so we can play with you", "emoji": "🎮" }
+    ]
+  },
+  {
+    "id": "sunshine-rhyme",
+    "title": "You Are My Sunshine",
+    "theme": "garden",
+    "verses": [
+      { "line": "You are my sunshine, my only sunshine", "emoji": "☀️" },
+      { "line": "You make me happy when skies are gray", "emoji": "😊" },
+      { "line": "You'll never know dear, how much I love you", "emoji": "💕" },
+      { "line": "Please don't take my sunshine away", "emoji": "🌞" },
+      { "line": "The other night dear, as I lay sleeping", "emoji": "😴" },
+      { "line": "I dreamt I held you in my arms", "emoji": "🤗" },
+      { "line": "When I awoke dear, I was mistaken", "emoji": "😢" },
+      { "line": "So I hung my head and I cried", "emoji": "💧" },
+      { "line": "You are my sunshine, my only sunshine", "emoji": "☀️" },
+      { "line": "You make me happy when skies are gray", "emoji": "😊" },
+      { "line": "You'll never know dear, how much I love you", "emoji": "💕" },
+      { "line": "Please don't take my sunshine away", "emoji": "🌞" }
+    ]
+  },
+  {
+    "id": "little-cloud",
+    "title": "Little Cloud",
+    "theme": "garden",
+    "verses": [
+      { "line": "Little cloud up in the sky", "emoji": "☁️" },
+      { "line": "Floating, floating way up high", "emoji": "🌤️" },
+      { "line": "Sometimes white and sometimes gray", "emoji": "⛅" },
+      { "line": "What will you do today?", "emoji": "🤔" },
+      { "line": "Will you bring us rain or snow?", "emoji": "🌧️" },
+      { "line": "Will you make the flowers grow?", "emoji": "🌸" },
+      { "line": "Little cloud up in the sky", "emoji": "☁️" },
+      { "line": "Floating, floating way up high", "emoji": "🌤️" },
+      { "line": "Sometimes fluffy like cotton candy", "emoji": "🍬" },
+      { "line": "Having clouds around is dandy", "emoji": "😊" },
+      { "line": "Little cloud up in the sky", "emoji": "☁️" },
+      { "line": "Floating, floating way up high", "emoji": "🌤️" }
+    ]
+  },
+  {
+    "id": "four-seasons",
+    "title": "Four Seasons Song",
+    "theme": "garden",
+    "verses": [
+      { "line": "Spring is here with flowers so bright", "emoji": "🌸" },
+      { "line": "Birds are singing with delight", "emoji": "🐦" },
+      { "line": "Summer comes with sunshine warm", "emoji": "☀️" },
+      { "line": "Bees are buzzing round the farm", "emoji": "🐝" },
+      { "line": "Autumn leaves are falling down", "emoji": "🍂" },
+      { "line": "Red and gold upon the ground", "emoji": "🍁" },
+      { "line": "Winter brings the snow so white", "emoji": "❄️" },
+      { "line": "Snowflakes dancing in the light", "emoji": "⛄" },
+      { "line": "Spring, summer, autumn, winter too", "emoji": "🌍" },
+      { "line": "Four seasons in a year for me and you", "emoji": "📅" },
+      { "line": "Round and round the seasons go", "emoji": "🔄" },
+      { "line": "Rain and shine and wind and snow", "emoji": "🌦️" }
+    ]
+  },
+  {
+    "id": "spring-is-here",
+    "title": "Spring Is Here",
+    "theme": "garden",
+    "verses": [
+      { "line": "Spring is here, spring is here", "emoji": "🌸" },
+      { "line": "How do you think I know?", "emoji": "🤔" },
+      { "line": "I found a crocus, I found a bee", "emoji": "🐝" },
+      { "line": "I found a bluebird in a tree", "emoji": "🐦" },
+      { "line": "Spring is here, spring is here", "emoji": "🌸" },
+      { "line": "How do you think I know?", "emoji": "🤔" },
+      { "line": "I found a butterfly, I found a flower", "emoji": "🦋" },
+      { "line": "I found a nice warm April shower", "emoji": "🌧️" },
+      { "line": "Spring is here, spring is here", "emoji": "🌸" },
+      { "line": "How do you think I know?", "emoji": "🤔" },
+      { "line": "I found a crocus, I found a bee", "emoji": "🐝" },
+      { "line": "I found a bluebird in a tree", "emoji": "🐦" }
+    ]
+  },
+  {
+    "id": "summer-breeze",
+    "title": "Summer Breeze",
+    "theme": "garden",
+    "verses": [
+      { "line": "Summer breeze blowing through the air", "emoji": "💨" },
+      { "line": "Sunshine bright and warm everywhere", "emoji": "☀️" },
+      { "line": "Ice cream melting, oh what fun", "emoji": "🍦" },
+      { "line": "Playing outside in the sun", "emoji": "🌞" },
+      { "line": "Swimming in the pool so cool", "emoji": "🏊" },
+      { "line": "No more homework, no more school", "emoji": "📚" },
+      { "line": "Butterflies and bumble bees", "emoji": "🦋" },
+      { "line": "Dancing softly in the breeze", "emoji": "🐝" },
+      { "line": "Summer breeze blowing through the air", "emoji": "💨" },
+      { "line": "Sunshine bright and warm everywhere", "emoji": "☀️" },
+      { "line": "Ice cream melting, oh what fun", "emoji": "🍦" },
+      { "line": "Playing outside in the sun", "emoji": "🌞" }
+    ]
+  },
+  {
+    "id": "autumn-leaves",
+    "title": "Autumn Leaves Are Falling Down",
+    "theme": "garden",
+    "verses": [
+      { "line": "Autumn leaves are falling down, falling down, falling down", "emoji": "🍂" },
+      { "line": "Autumn leaves are falling down, all through the town", "emoji": "🍁" },
+      { "line": "Red and yellow, orange and brown", "emoji": "🟠" },
+      { "line": "See them tumbling to the ground", "emoji": "🍃" },
+      { "line": "Rake them up into a pile", "emoji": "🧹" },
+      { "line": "Jump right in and play a while", "emoji": "😄" },
+      { "line": "Autumn leaves are falling down, falling down, falling down", "emoji": "🍂" },
+      { "line": "Autumn leaves are falling down, all through the town", "emoji": "🍁" },
+      { "line": "Spinning, twirling all around", "emoji": "🔄" },
+      { "line": "Landing gently on the ground", "emoji": "🍃" },
+      { "line": "Autumn leaves are falling down, falling down, falling down", "emoji": "🍂" },
+      { "line": "Autumn leaves are falling down, all through the town", "emoji": "🍁" }
+    ]
+  },
+  {
+    "id": "winter-wonderland",
+    "title": "Winter Wonderland",
+    "theme": "forest",
+    "verses": [
+      { "line": "Sleigh bells ring, are you listening?", "emoji": "🔔" },
+      { "line": "In the lane, snow is glistening", "emoji": "❄️" },
+      { "line": "A beautiful sight, we're happy tonight", "emoji": "😊" },
+      { "line": "Walking in a winter wonderland", "emoji": "⛄" },
+      { "line": "In the meadow we can build a snowman", "emoji": "☃️" },
+      { "line": "And pretend that he is Parson Brown", "emoji": "🎩" },
+      { "line": "He'll say are you married, we'll say no man", "emoji": "🤣" },
+      { "line": "But you can do the job when you're in town", "emoji": "🏘️" },
+      { "line": "Sleigh bells ring, are you listening?", "emoji": "🔔" },
+      { "line": "In the lane, snow is glistening", "emoji": "❄️" },
+      { "line": "A beautiful sight, we're happy tonight", "emoji": "😊" },
+      { "line": "Walking in a winter wonderland", "emoji": "⛄" }
+    ]
+  },
+  {
+    "id": "snowflakes-falling",
+    "title": "Snowflakes Falling",
+    "theme": "forest",
+    "verses": [
+      { "line": "Snowflakes, snowflakes falling down", "emoji": "❄️" },
+      { "line": "Covering the ground all around", "emoji": "⛄" },
+      { "line": "Soft and white and oh so light", "emoji": "🤍" },
+      { "line": "What a lovely winter sight", "emoji": "😊" },
+      { "line": "Snowflakes, snowflakes on my nose", "emoji": "👃" },
+      { "line": "Snowflakes, snowflakes on my toes", "emoji": "🦶" },
+      { "line": "Catch them, catch them if you can", "emoji": "🤲" },
+      { "line": "Snowflakes melting in my hand", "emoji": "💧" },
+      { "line": "Snowflakes, snowflakes falling down", "emoji": "❄️" },
+      { "line": "Covering the ground all around", "emoji": "⛄" },
+      { "line": "Soft and white and oh so light", "emoji": "🤍" },
+      { "line": "What a lovely winter sight", "emoji": "😊" }
+    ]
+  },
+  {
+    "id": "the-flower-garden",
+    "title": "The Flower Garden",
+    "theme": "garden",
+    "verses": [
+      { "line": "In the flower garden, what do I see?", "emoji": "🌻" },
+      { "line": "Red roses blooming just for me", "emoji": "🌹" },
+      { "line": "Daisies dancing in the sun", "emoji": "🌼" },
+      { "line": "Gardening is so much fun", "emoji": "🧑‍🌾" },
+      { "line": "Tulips tall and lilies white", "emoji": "🌷" },
+      { "line": "Sunflowers standing oh so bright", "emoji": "🌻" },
+      { "line": "Water them and watch them grow", "emoji": "💧" },
+      { "line": "Standing tall in a pretty row", "emoji": "🌸" },
+      { "line": "In the flower garden, what do I see?", "emoji": "🌻" },
+      { "line": "Red roses blooming just for me", "emoji": "🌹" },
+      { "line": "Daisies dancing in the sun", "emoji": "🌼" },
+      { "line": "Gardening is so much fun", "emoji": "🧑‍🌾" }
+    ]
+  },
+  {
+    "id": "planting-seeds",
+    "title": "Planting Seeds",
+    "theme": "garden",
+    "verses": [
+      { "line": "Dig a little hole, plant a little seed", "emoji": "🌱" },
+      { "line": "Give it a little water, that's all it needs", "emoji": "💧" },
+      { "line": "Wait a little while, soon you will see", "emoji": "⏳" },
+      { "line": "A tiny little plant growing for me", "emoji": "🌿" },
+      { "line": "First comes the root, deep in the ground", "emoji": "🌱" },
+      { "line": "Then comes the stem, growing tall and round", "emoji": "🌿" },
+      { "line": "Then come the leaves, reaching for the sky", "emoji": "🍃" },
+      { "line": "Then comes the flower, growing way up high", "emoji": "🌸" },
+      { "line": "Dig a little hole, plant a little seed", "emoji": "🌱" },
+      { "line": "Give it a little water, that's all it needs", "emoji": "💧" },
+      { "line": "Wait a little while, soon you will see", "emoji": "⏳" },
+      { "line": "A tiny little plant growing for me", "emoji": "🌿" }
+    ]
+  },
+  {
+    "id": "the-butterfly-song",
+    "title": "The Butterfly Song",
+    "theme": "garden",
+    "verses": [
+      { "line": "If I were a butterfly, I'd thank you Lord for giving me wings", "emoji": "🦋" },
+      { "line": "If I were a robin in a tree, I'd thank you Lord that I could sing", "emoji": "🐦" },
+      { "line": "If I were a fish in the sea, I'd wiggle my tail and I'd giggle with glee", "emoji": "🐟" },
+      { "line": "But I just thank you Father for making me, me", "emoji": "🙏" },
+      { "line": "Fly, fly, butterfly, up in the sky so blue", "emoji": "🦋" },
+      { "line": "Fly, fly, butterfly, I want to fly like you", "emoji": "💨" },
+      { "line": "Fluttering here, fluttering there", "emoji": "🦋" },
+      { "line": "Fluttering, fluttering everywhere", "emoji": "🌸" },
+      { "line": "If I were a butterfly, I'd thank you Lord for giving me wings", "emoji": "🦋" },
+      { "line": "If I were a robin in a tree, I'd thank you Lord that I could sing", "emoji": "🐦" },
+      { "line": "Fly, fly, butterfly, up in the sky so blue", "emoji": "🦋" },
+      { "line": "Fly, fly, butterfly, I want to fly like you", "emoji": "💨" }
+    ]
+  },
+  {
+    "id": "pease-porridge-hot",
+    "title": "Pease Porridge Hot",
+    "theme": "playground",
+    "verses": [
+      { "line": "Pease porridge hot, pease porridge cold", "emoji": "🥣" },
+      { "line": "Pease porridge in the pot, nine days old", "emoji": "🍲" },
+      { "line": "Some like it hot, some like it cold", "emoji": "🌡️" },
+      { "line": "Some like it in the pot, nine days old", "emoji": "🍲" },
+      { "line": "Pease porridge hot, pease porridge cold", "emoji": "🥣" },
+      { "line": "Pease porridge in the pot, nine days old", "emoji": "🍲" },
+      { "line": "Some like it hot, some like it cold", "emoji": "🌡️" },
+      { "line": "Some like it in the pot, nine days old", "emoji": "🍲" },
+      { "line": "Pease porridge hot, pease porridge cold", "emoji": "🥣" },
+      { "line": "Pease porridge in the pot, nine days old", "emoji": "🍲" },
+      { "line": "Some like it hot, some like it cold", "emoji": "🌡️" },
+      { "line": "Some like it in the pot, nine days old", "emoji": "🍲" }
+    ]
+  },
+  {
+    "id": "little-jack-horner",
+    "title": "Little Jack Horner",
+    "theme": "playground",
+    "verses": [
+      { "line": "Little Jack Horner sat in the corner", "emoji": "👦" },
+      { "line": "Eating his Christmas pie", "emoji": "🥧" },
+      { "line": "He put in his thumb and pulled out a plum", "emoji": "👍" },
+      { "line": "And said, what a good boy am I!", "emoji": "😊" },
+      { "line": "Little Jack Horner sat in the corner", "emoji": "👦" },
+      { "line": "Eating his Christmas pie", "emoji": "🥧" },
+      { "line": "He put in his thumb and pulled out a plum", "emoji": "👍" },
+      { "line": "And said, what a good boy am I!", "emoji": "😊" },
+      { "line": "Little Jack Horner sat in the corner", "emoji": "👦" },
+      { "line": "Eating his Christmas pie", "emoji": "🥧" },
+      { "line": "He put in his thumb and pulled out a plum", "emoji": "👍" },
+      { "line": "And said, what a good boy am I!", "emoji": "😊" }
+    ]
+  },
+  {
+    "id": "simple-simon",
+    "title": "Simple Simon",
+    "theme": "city",
+    "verses": [
+      { "line": "Simple Simon met a pieman going to the fair", "emoji": "🥧" },
+      { "line": "Said Simple Simon to the pieman, let me taste your ware", "emoji": "👦" },
+      { "line": "Said the pieman to Simple Simon, show me first your penny", "emoji": "💰" },
+      { "line": "Said Simple Simon to the pieman, indeed I have not any", "emoji": "😢" },
+      { "line": "Simple Simon went a-fishing for to catch a whale", "emoji": "🐋" },
+      { "line": "All the water he had got was in his mother's pail", "emoji": "🪣" },
+      { "line": "Simple Simon went to look if plums grew on a thistle", "emoji": "🌿" },
+      { "line": "He pricked his fingers very much, which made poor Simon whistle", "emoji": "😮" },
+      { "line": "Simple Simon met a pieman going to the fair", "emoji": "🥧" },
+      { "line": "Said Simple Simon to the pieman, let me taste your ware", "emoji": "👦" },
+      { "line": "Said the pieman to Simple Simon, show me first your penny", "emoji": "💰" },
+      { "line": "Said Simple Simon to the pieman, indeed I have not any", "emoji": "😢" }
+    ]
+  },
+  {
+    "id": "curly-locks",
+    "title": "Curly Locks",
+    "theme": "garden",
+    "verses": [
+      { "line": "Curly Locks, Curly Locks, wilt thou be mine?", "emoji": "👧" },
+      { "line": "Thou shalt not wash dishes nor yet feed the swine", "emoji": "🐷" },
+      { "line": "But sit on a cushion and sew a fine seam", "emoji": "🧵" },
+      { "line": "And feed upon strawberries, sugar, and cream", "emoji": "🍓" },
+      { "line": "Curly Locks, Curly Locks, wilt thou be mine?", "emoji": "👧" },
+      { "line": "Thou shalt not wash dishes nor yet feed the swine", "emoji": "🐷" },
+      { "line": "But sit on a cushion and sew a fine seam", "emoji": "🧵" },
+      { "line": "And feed upon strawberries, sugar, and cream", "emoji": "🍓" },
+      { "line": "Curly Locks, Curly Locks, wilt thou be mine?", "emoji": "👧" },
+      { "line": "Thou shalt not wash dishes nor yet feed the swine", "emoji": "🐷" },
+      { "line": "But sit on a cushion and sew a fine seam", "emoji": "🧵" },
+      { "line": "And feed upon strawberries, sugar, and cream", "emoji": "🍓" }
+    ]
+  },
+  {
+    "id": "peter-piper",
+    "title": "Peter Piper",
+    "theme": "garden",
+    "verses": [
+      { "line": "Peter Piper picked a peck of pickled peppers", "emoji": "🌶️" },
+      { "line": "A peck of pickled peppers Peter Piper picked", "emoji": "🫑" },
+      { "line": "If Peter Piper picked a peck of pickled peppers", "emoji": "🌶️" },
+      { "line": "Where's the peck of pickled peppers Peter Piper picked?", "emoji": "🤔" },
+      { "line": "Peter Piper picked a peck of pickled peppers", "emoji": "🌶️" },
+      { "line": "A peck of pickled peppers Peter Piper picked", "emoji": "🫑" },
+      { "line": "If Peter Piper picked a peck of pickled peppers", "emoji": "🌶️" },
+      { "line": "Where's the peck of pickled peppers Peter Piper picked?", "emoji": "🤔" },
+      { "line": "Peter Piper picked a peck of pickled peppers", "emoji": "🌶️" },
+      { "line": "A peck of pickled peppers Peter Piper picked", "emoji": "🫑" },
+      { "line": "If Peter Piper picked a peck of pickled peppers", "emoji": "🌶️" },
+      { "line": "Where's the peck of pickled peppers Peter Piper picked?", "emoji": "🤔" }
+    ]
+  },
+  {
+    "id": "betty-botter",
+    "title": "Betty Botter",
+    "theme": "playground",
+    "verses": [
+      { "line": "Betty Botter bought some butter", "emoji": "🧈" },
+      { "line": "But she said the butter's bitter", "emoji": "😖" },
+      { "line": "If I put it in my batter", "emoji": "🥣" },
+      { "line": "It will make my batter bitter", "emoji": "😟" },
+      { "line": "But a bit of better butter", "emoji": "🧈" },
+      { "line": "That would make my batter better", "emoji": "😊" },
+      { "line": "So she bought a bit of butter", "emoji": "🧈" },
+      { "line": "Better than her bitter butter", "emoji": "👍" },
+      { "line": "And she put it in her batter", "emoji": "🥣" },
+      { "line": "And the batter was not bitter", "emoji": "😋" },
+      { "line": "So 'twas better Betty Botter", "emoji": "👧" },
+      { "line": "Bought a bit of better butter", "emoji": "🧈" }
+    ]
+  },
+  {
+    "id": "i-like-to-eat-apples",
+    "title": "I Like to Eat Apples and Bananas",
+    "theme": "garden",
+    "verses": [
+      { "line": "I like to eat, eat, eat apples and bananas", "emoji": "🍎" },
+      { "line": "I like to eat, eat, eat apples and bananas", "emoji": "🍌" },
+      { "line": "I like to ate, ate, ate ay-ples and ba-nay-nays", "emoji": "🍎" },
+      { "line": "I like to ate, ate, ate ay-ples and ba-nay-nays", "emoji": "🍌" },
+      { "line": "I like to eat, eat, eat ee-ples and bee-nee-nees", "emoji": "🍎" },
+      { "line": "I like to eat, eat, eat ee-ples and bee-nee-nees", "emoji": "🍌" },
+      { "line": "I like to ite, ite, ite i-ples and bi-ni-nis", "emoji": "🍎" },
+      { "line": "I like to ite, ite, ite i-ples and bi-ni-nis", "emoji": "🍌" },
+      { "line": "I like to ote, ote, ote oh-ples and bo-no-nos", "emoji": "🍎" },
+      { "line": "I like to ote, ote, ote oh-ples and bo-no-nos", "emoji": "🍌" },
+      { "line": "I like to eat, eat, eat apples and bananas", "emoji": "🍎" },
+      { "line": "I like to eat, eat, eat apples and bananas", "emoji": "🍌" }
+    ]
+  },
+  {
+    "id": "vegetables-song",
+    "title": "Vegetables Song",
+    "theme": "garden",
+    "verses": [
+      { "line": "Carrots, peas, and broccoli", "emoji": "🥕" },
+      { "line": "Vegetables are good for me", "emoji": "🥦" },
+      { "line": "Corn and beans and celery", "emoji": "🌽" },
+      { "line": "Vegetables are good for me", "emoji": "🫘" },
+      { "line": "Tomatoes red and spinach green", "emoji": "🍅" },
+      { "line": "The best veggies you've ever seen", "emoji": "🥬" },
+      { "line": "Potatoes, peppers, lettuce too", "emoji": "🥔" },
+      { "line": "I love eating them, how about you?", "emoji": "🥗" },
+      { "line": "Carrots, peas, and broccoli", "emoji": "🥕" },
+      { "line": "Vegetables are good for me", "emoji": "🥦" },
+      { "line": "Corn and beans and celery", "emoji": "🌽" },
+      { "line": "Vegetables are good for me", "emoji": "🫘" }
+    ]
+  },
+  {
+    "id": "the-muffin-man",
+    "title": "The Muffin Man",
+    "theme": "city",
+    "verses": [
+      { "line": "Oh, do you know the muffin man", "emoji": "🧁" },
+      { "line": "The muffin man, the muffin man", "emoji": "🧁" },
+      { "line": "Oh, do you know the muffin man", "emoji": "🧁" },
+      { "line": "Who lives on Drury Lane?", "emoji": "🏠" },
+      { "line": "Oh, yes I know the muffin man", "emoji": "👨‍🍳" },
+      { "line": "The muffin man, the muffin man", "emoji": "🧁" },
+      { "line": "Oh, yes I know the muffin man", "emoji": "👨‍🍳" },
+      { "line": "Who lives on Drury Lane", "emoji": "🏠" },
+      { "line": "Oh, do you know the muffin man", "emoji": "🧁" },
+      { "line": "The muffin man, the muffin man", "emoji": "🧁" },
+      { "line": "Oh, do you know the muffin man", "emoji": "🧁" },
+      { "line": "Who lives on Drury Lane?", "emoji": "🏠" }
+    ]
+  },
+  {
+    "id": "do-you-know-the-muffin-man",
+    "title": "Do You Know the Muffin Man (Extended)",
+    "theme": "city",
+    "verses": [
+      { "line": "Do you know the muffin man, the muffin man, the muffin man?", "emoji": "🧁" },
+      { "line": "Do you know the muffin man who lives on Drury Lane?", "emoji": "🏘️" },
+      { "line": "Yes, I know the muffin man, the muffin man, the muffin man", "emoji": "👨‍🍳" },
+      { "line": "Yes, I know the muffin man who lives on Drury Lane", "emoji": "🏘️" },
+      { "line": "He bakes his muffins fresh each day", "emoji": "🧁" },
+      { "line": "And sells them on his tray", "emoji": "🍰" },
+      { "line": "Blueberry, chocolate, lemon too", "emoji": "🫐" },
+      { "line": "He has a muffin just for you", "emoji": "😋" },
+      { "line": "Do you know the muffin man, the muffin man, the muffin man?", "emoji": "🧁" },
+      { "line": "Do you know the muffin man who lives on Drury Lane?", "emoji": "🏘️" },
+      { "line": "Yes, I know the muffin man, the muffin man, the muffin man", "emoji": "👨‍🍳" },
+      { "line": "Yes, I know the muffin man who lives on Drury Lane", "emoji": "🏘️" }
+    ]
+  },
+  {
+    "id": "abc-food-song",
+    "title": "ABC Food Song",
+    "theme": "playground",
+    "verses": [
+      { "line": "A is for apple, so shiny and red", "emoji": "🍎" },
+      { "line": "B is for banana, my favorite bread", "emoji": "🍌" },
+      { "line": "C is for carrot, crunchy and sweet", "emoji": "🥕" },
+      { "line": "D is for donut, a yummy treat", "emoji": "🍩" },
+      { "line": "E is for egg, cooked just right", "emoji": "🥚" },
+      { "line": "F is for fish, a healthy bite", "emoji": "🐟" },
+      { "line": "G is for grapes, in a bunch they grow", "emoji": "🍇" },
+      { "line": "H is for honey, sweet and yellow", "emoji": "🍯" },
+      { "line": "I is for ice cream, cool and sweet", "emoji": "🍦" },
+      { "line": "J is for jelly, what a treat", "emoji": "🍮" },
+      { "line": "K is for kiwi, fuzzy and green", "emoji": "🥝" },
+      { "line": "The yummiest foods you've ever seen!", "emoji": "😋" }
+    ]
+  },
+  {
+    "id": "five-currant-buns",
+    "title": "Five Currant Buns",
+    "theme": "city",
+    "verses": [
+      { "line": "Five currant buns in a baker's shop", "emoji": "🍞" },
+      { "line": "Round and fat with a cherry on the top", "emoji": "🍒" },
+      { "line": "Along came a boy with a penny one day", "emoji": "👦" },
+      { "line": "Bought a currant bun and took it away", "emoji": "💰" },
+      { "line": "Four currant buns in a baker's shop", "emoji": "🍞" },
+      { "line": "Round and fat with a cherry on the top", "emoji": "🍒" },
+      { "line": "Along came a girl with a penny one day", "emoji": "👧" },
+      { "line": "Bought a currant bun and took it away", "emoji": "💰" },
+      { "line": "Three currant buns in a baker's shop", "emoji": "🍞" },
+      { "line": "Round and fat with a cherry on the top", "emoji": "🍒" },
+      { "line": "Along came a boy with a penny one day", "emoji": "👦" },
+      { "line": "Bought a currant bun and took it away", "emoji": "💰" }
+    ]
+  },
+  {
+    "id": "ten-fat-sausages",
+    "title": "Ten Fat Sausages",
+    "theme": "playground",
+    "verses": [
+      { "line": "Ten fat sausages sizzling in a pan", "emoji": "🌭" },
+      { "line": "Ten fat sausages sizzling in a pan", "emoji": "🍳" },
+      { "line": "One went pop and another went bang", "emoji": "💥" },
+      { "line": "There were eight fat sausages sizzling in a pan", "emoji": "🌭" },
+      { "line": "Eight fat sausages sizzling in a pan", "emoji": "🌭" },
+      { "line": "Eight fat sausages sizzling in a pan", "emoji": "🍳" },
+      { "line": "One went pop and another went bang", "emoji": "💥" },
+      { "line": "There were six fat sausages sizzling in a pan", "emoji": "🌭" },
+      { "line": "Six fat sausages sizzling in a pan", "emoji": "🌭" },
+      { "line": "One went pop and another went bang", "emoji": "💥" },
+      { "line": "There were four fat sausages sizzling in a pan", "emoji": "🌭" },
+      { "line": "No fat sausages sizzling in a pan!", "emoji": "🍽️" }
+    ]
+  },
+  {
+    "id": "im-a-little-teapot",
+    "title": "I'm a Little Teapot",
+    "theme": "playground",
+    "verses": [
+      { "line": "I'm a little teapot, short and stout", "emoji": "🫖" },
+      { "line": "Here is my handle, here is my spout", "emoji": "💪" },
+      { "line": "When I get all steamed up, hear me shout", "emoji": "💨" },
+      { "line": "Tip me over and pour me out", "emoji": "☕" },
+      { "line": "I'm a very special pot, it's true", "emoji": "🫖" },
+      { "line": "Here, let me show you what I can do", "emoji": "😊" },
+      { "line": "I can change my handle and my spout", "emoji": "🔄" },
+      { "line": "Tip me over and pour me out", "emoji": "☕" },
+      { "line": "I'm a little teapot, short and stout", "emoji": "🫖" },
+      { "line": "Here is my handle, here is my spout", "emoji": "💪" },
+      { "line": "When I get all steamed up, hear me shout", "emoji": "💨" },
+      { "line": "Tip me over and pour me out", "emoji": "☕" }
+    ]
+  },
+  {
+    "id": "mix-a-pancake",
+    "title": "Mix a Pancake",
+    "theme": "playground",
+    "verses": [
+      { "line": "Mix a pancake, stir a pancake", "emoji": "🥞" },
+      { "line": "Pop it in the pan", "emoji": "🍳" },
+      { "line": "Fry the pancake, toss the pancake", "emoji": "🥞" },
+      { "line": "Catch it if you can", "emoji": "🤲" },
+      { "line": "Mix a pancake, stir a pancake", "emoji": "🥞" },
+      { "line": "Pop it in the pan", "emoji": "🍳" },
+      { "line": "Fry the pancake, toss the pancake", "emoji": "🥞" },
+      { "line": "Catch it if you can", "emoji": "🤲" },
+      { "line": "Mix a pancake, stir a pancake", "emoji": "🥞" },
+      { "line": "Pop it in the pan", "emoji": "🍳" },
+      { "line": "Fry the pancake, toss the pancake", "emoji": "🥞" },
+      { "line": "Catch it if you can", "emoji": "🤲" }
+    ]
+  },
+  {
+    "id": "jelly-on-a-plate",
+    "title": "Jelly on a Plate",
+    "theme": "playground",
+    "verses": [
+      { "line": "Jelly on a plate, jelly on a plate", "emoji": "🍮" },
+      { "line": "Wibble wobble, wibble wobble", "emoji": "🔄" },
+      { "line": "Jelly on a plate", "emoji": "🍮" },
+      { "line": "Sausages in a pan, sausages in a pan", "emoji": "🌭" },
+      { "line": "Sizzle sizzle, sizzle sizzle", "emoji": "🔥" },
+      { "line": "Sausages in a pan", "emoji": "🍳" },
+      { "line": "Paper on the floor, paper on the floor", "emoji": "📄" },
+      { "line": "Pick it up, pick it up", "emoji": "🤏" },
+      { "line": "Paper on the floor", "emoji": "📄" },
+      { "line": "Jelly on a plate, jelly on a plate", "emoji": "🍮" },
+      { "line": "Wibble wobble, wibble wobble", "emoji": "🔄" },
+      { "line": "Jelly on a plate", "emoji": "🍮" }
+    ]
+  },
+  {
+    "id": "chocolate-cake-song",
+    "title": "Chocolate Cake Song",
+    "theme": "playground",
+    "verses": [
+      { "line": "Who wants a piece of chocolate cake?", "emoji": "🍫" },
+      { "line": "Chocolate cake, chocolate cake", "emoji": "🎂" },
+      { "line": "Who wants a piece of chocolate cake?", "emoji": "🍰" },
+      { "line": "I do, I do!", "emoji": "🙋" },
+      { "line": "Mix the flour and the sugar and the eggs", "emoji": "🥚" },
+      { "line": "Add the cocoa powder, give it a stir", "emoji": "🥣" },
+      { "line": "Put it in the oven, wait and see", "emoji": "🔥" },
+      { "line": "A chocolate cake for you and me", "emoji": "🍰" },
+      { "line": "Who wants a piece of chocolate cake?", "emoji": "🍫" },
+      { "line": "Chocolate cake, chocolate cake", "emoji": "🎂" },
+      { "line": "Who wants a piece of chocolate cake?", "emoji": "🍰" },
+      { "line": "I do, I do!", "emoji": "🙋" }
+    ]
+  },
+  {
+    "id": "ice-cream-rhyme",
+    "title": "Ice Cream Rhyme",
+    "theme": "playground",
+    "verses": [
+      { "line": "I scream, you scream, we all scream for ice cream!", "emoji": "🍦" },
+      { "line": "Chocolate, vanilla, strawberry too", "emoji": "🍨" },
+      { "line": "So many flavors to choose", "emoji": "🤔" },
+      { "line": "Which one is the best for you?", "emoji": "😋" },
+      { "line": "One scoop, two scoops, three scoops high", "emoji": "🍦" },
+      { "line": "Ice cream sundae, oh my my", "emoji": "🍨" },
+      { "line": "Sprinkles on top, a cherry so sweet", "emoji": "🍒" },
+      { "line": "Ice cream is my favorite treat", "emoji": "😊" },
+      { "line": "I scream, you scream, we all scream for ice cream!", "emoji": "🍦" },
+      { "line": "Chocolate, vanilla, strawberry too", "emoji": "🍨" },
+      { "line": "So many flavors to choose", "emoji": "🤔" },
+      { "line": "Which one is the best for you?", "emoji": "😋" }
+    ]
+  },
+  {
+    "id": "fruit-salad-song",
+    "title": "Fruit Salad Song",
+    "theme": "garden",
+    "verses": [
+      { "line": "Fruit salad, yummy yummy", "emoji": "🥗" },
+      { "line": "Fruit salad, yummy yummy", "emoji": "🍇" },
+      { "line": "First you take some grapes and you chop them up", "emoji": "🍇" },
+      { "line": "Then you take a banana and you chop it up", "emoji": "🍌" },
+      { "line": "Then you take some apples and you chop them up", "emoji": "🍎" },
+      { "line": "And you put them all together in a great big bowl", "emoji": "🥣" },
+      { "line": "Fruit salad, yummy yummy", "emoji": "🥗" },
+      { "line": "Fruit salad, yummy yummy", "emoji": "🍓" },
+      { "line": "Add some orange and some melon too", "emoji": "🍊" },
+      { "line": "Mix it up and share it with you", "emoji": "🤝" },
+      { "line": "Fruit salad, yummy yummy", "emoji": "🥗" },
+      { "line": "Fruit salad, yummy yummy", "emoji": "🍇" }
+    ]
+  },
+  {
+    "id": "pizza-song",
+    "title": "Pizza Song",
+    "theme": "playground",
+    "verses": [
+      { "line": "P-I-Z-Z-A, I want pizza every day", "emoji": "🍕" },
+      { "line": "With the cheese all gooey and hot", "emoji": "🧀" },
+      { "line": "Give me pizza, give me a lot!", "emoji": "🍕" },
+      { "line": "First you roll the dough, round and round", "emoji": "🫓" },
+      { "line": "Then you spread the sauce all around", "emoji": "🍅" },
+      { "line": "Sprinkle on the cheese, nice and thick", "emoji": "🧀" },
+      { "line": "Pop it in the oven real quick", "emoji": "🔥" },
+      { "line": "Pepperoni, mushrooms, olives too", "emoji": "🍄" },
+      { "line": "Tell me which toppings are best for you", "emoji": "🤔" },
+      { "line": "P-I-Z-Z-A, I want pizza every day", "emoji": "🍕" },
+      { "line": "With the cheese all gooey and hot", "emoji": "🧀" },
+      { "line": "Give me pizza, give me a lot!", "emoji": "🍕" }
+    ]
+  },
+  {
+    "id": "abc-song",
+    "title": "ABC Song",
+    "theme": "playground",
+    "verses": [
+      { "line": "A B C D E F G", "emoji": "🔤" },
+      { "line": "H I J K L M N O P", "emoji": "📝" },
+      { "line": "Q R S, T U V", "emoji": "✏️" },
+      { "line": "W X, Y and Z", "emoji": "🎵" },
+      { "line": "Now I know my ABCs", "emoji": "📖" },
+      { "line": "Next time won't you sing with me?", "emoji": "🎤" },
+      { "line": "A B C D E F G", "emoji": "🔤" },
+      { "line": "H I J K L M N O P", "emoji": "📝" },
+      { "line": "Q R S, T U V", "emoji": "✏️" },
+      { "line": "W X, Y and Z", "emoji": "🎵" },
+      { "line": "Now I know my ABCs", "emoji": "📖" },
+      { "line": "Next time won't you sing with me?", "emoji": "🎤" }
+    ]
+  },
+  {
+    "id": "days-of-the-week",
+    "title": "Days of the Week",
+    "theme": "playground",
+    "verses": [
+      { "line": "Monday, Tuesday, Wednesday too", "emoji": "📅" },
+      { "line": "Thursday, Friday, just for you", "emoji": "📆" },
+      { "line": "Saturday, Sunday, that's the end", "emoji": "🎉" },
+      { "line": "Now let's say them all again", "emoji": "🔄" },
+      { "line": "Monday is the first day, time to start the week", "emoji": "1️⃣" },
+      { "line": "Tuesday is the second day, friends we get to meet", "emoji": "2️⃣" },
+      { "line": "Wednesday is the middle day, halfway through we go", "emoji": "3️⃣" },
+      { "line": "Thursday is the fourth day, watch the flowers grow", "emoji": "4️⃣" },
+      { "line": "Friday is the fifth day, almost time to play", "emoji": "5️⃣" },
+      { "line": "Saturday is the sixth day, a fun and happy day", "emoji": "6️⃣" },
+      { "line": "Sunday is the seventh day, time to rest and pray", "emoji": "7️⃣" },
+      { "line": "Seven days a week, hip hip hooray!", "emoji": "🎉" }
+    ]
+  },
+  {
+    "id": "months-of-the-year",
+    "title": "Months of the Year",
+    "theme": "playground",
+    "verses": [
+      { "line": "January, February, March and April too", "emoji": "📅" },
+      { "line": "May and June and July, these months are just for you", "emoji": "☀️" },
+      { "line": "August, September, October comes next", "emoji": "🍂" },
+      { "line": "November, December, the end of the rest", "emoji": "❄️" },
+      { "line": "Twelve months in a year, can you say them all?", "emoji": "🗓️" },
+      { "line": "Starting from January till the snowflakes fall", "emoji": "❄️" },
+      { "line": "January, February, March and April too", "emoji": "📅" },
+      { "line": "May and June and July, these months are just for you", "emoji": "☀️" },
+      { "line": "August, September, October comes next", "emoji": "🍂" },
+      { "line": "November, December, the end of the rest", "emoji": "❄️" },
+      { "line": "Twelve months in a year, can you say them all?", "emoji": "🗓️" },
+      { "line": "Starting from January till the snowflakes fall", "emoji": "❄️" }
+    ]
+  },
+  {
+    "id": "counting-to-ten",
+    "title": "Counting to Ten",
+    "theme": "playground",
+    "verses": [
+      { "line": "One, two, three, let's count with me", "emoji": "1️⃣" },
+      { "line": "Four, five, six, it's easy as tricks", "emoji": "4️⃣" },
+      { "line": "Seven, eight, nine, we're doing fine", "emoji": "7️⃣" },
+      { "line": "And ten! Let's do it again!", "emoji": "🔟" },
+      { "line": "One little finger, two little toes", "emoji": "☝️" },
+      { "line": "Three little freckles on my nose", "emoji": "👃" },
+      { "line": "Four little buttons on my shirt", "emoji": "4️⃣" },
+      { "line": "Five little flowers in the dirt", "emoji": "🌸" },
+      { "line": "Six little stars up in the sky", "emoji": "⭐" },
+      { "line": "Seven little birds that fly so high", "emoji": "🐦" },
+      { "line": "Eight, nine, ten, count once more", "emoji": "🔢" },
+      { "line": "That's what counting numbers are for!", "emoji": "🎉" }
+    ]
+  },
+  {
+    "id": "counting-to-twenty",
+    "title": "Counting to Twenty",
+    "theme": "playground",
+    "verses": [
+      { "line": "One, two, three, four, five", "emoji": "🖐️" },
+      { "line": "Six, seven, eight, nine, ten", "emoji": "🔟" },
+      { "line": "Eleven, twelve, thirteen, fourteen", "emoji": "1️⃣" },
+      { "line": "Fifteen, sixteen, seventeen", "emoji": "🔢" },
+      { "line": "Eighteen, nineteen, twenty!", "emoji": "🎉" },
+      { "line": "Now we've counted plenty", "emoji": "👏" },
+      { "line": "One, two, three, four, five", "emoji": "🖐️" },
+      { "line": "Six, seven, eight, nine, ten", "emoji": "🔟" },
+      { "line": "Eleven, twelve, thirteen, fourteen", "emoji": "1️⃣" },
+      { "line": "Fifteen, sixteen, seventeen", "emoji": "🔢" },
+      { "line": "Eighteen, nineteen, twenty!", "emoji": "🎉" },
+      { "line": "Now we've counted plenty", "emoji": "👏" }
+    ]
+  },
+  {
+    "id": "shapes-song",
+    "title": "Shapes Song",
+    "theme": "playground",
+    "verses": [
+      { "line": "A circle is round, it goes round and round", "emoji": "⭕" },
+      { "line": "A square has four sides, all the same I've found", "emoji": "🟪" },
+      { "line": "A triangle has three sides, not four, not two", "emoji": "🔺" },
+      { "line": "And a rectangle is long, like a door, it's true", "emoji": "🟫" },
+      { "line": "A star has points that shine so bright", "emoji": "⭐" },
+      { "line": "A heart shape means I love you right", "emoji": "❤️" },
+      { "line": "An oval is an egg-like shape", "emoji": "🥚" },
+      { "line": "A diamond is a kite, that's great!", "emoji": "💎" },
+      { "line": "A circle is round, it goes round and round", "emoji": "⭕" },
+      { "line": "A square has four sides, all the same I've found", "emoji": "🟪" },
+      { "line": "A triangle has three sides, not four, not two", "emoji": "🔺" },
+      { "line": "Shapes are everywhere for me and you", "emoji": "🔷" }
+    ]
+  },
+  {
+    "id": "colors-of-rainbow",
+    "title": "Colors of the Rainbow",
+    "theme": "garden",
+    "verses": [
+      { "line": "Red and orange and yellow and green", "emoji": "🔴" },
+      { "line": "The prettiest colors I've ever seen", "emoji": "🟠" },
+      { "line": "Blue and indigo and violet too", "emoji": "🔵" },
+      { "line": "A rainbow in the sky for me and you", "emoji": "🌈" },
+      { "line": "Red is the color of an apple so bright", "emoji": "🍎" },
+      { "line": "Orange is a pumpkin on Halloween night", "emoji": "🎃" },
+      { "line": "Yellow is the sun that shines so warm", "emoji": "☀️" },
+      { "line": "Green is the grass after a storm", "emoji": "🌿" },
+      { "line": "Blue is the sky on a beautiful day", "emoji": "🏙️" },
+      { "line": "Indigo is midnight, far away", "emoji": "🌌" },
+      { "line": "Violet is a flower in the spring", "emoji": "💜" },
+      { "line": "These are the colors the rainbow will bring", "emoji": "🌈" }
+    ]
+  },
+  {
+    "id": "left-and-right",
+    "title": "Left and Right Song",
+    "theme": "playground",
+    "verses": [
+      { "line": "This is my right hand, hold it up high", "emoji": "🤚" },
+      { "line": "This is my left hand, reach for the sky", "emoji": "✋" },
+      { "line": "Right hand, left hand, clap clap clap", "emoji": "👏" },
+      { "line": "Right hand, left hand, on my lap", "emoji": "🧑" },
+      { "line": "Turn to the right, turn to the left", "emoji": "➡️" },
+      { "line": "Step to the right, step to the left", "emoji": "⬅️" },
+      { "line": "Right foot stomp, left foot stomp", "emoji": "🦶" },
+      { "line": "Right and left, let's never stop", "emoji": "💃" },
+      { "line": "This is my right hand, hold it up high", "emoji": "🤚" },
+      { "line": "This is my left hand, reach for the sky", "emoji": "✋" },
+      { "line": "Right hand, left hand, clap clap clap", "emoji": "👏" },
+      { "line": "Right hand, left hand, on my lap", "emoji": "🧑" }
+    ]
+  },
+  {
+    "id": "big-and-small",
+    "title": "Big and Small",
+    "theme": "playground",
+    "verses": [
+      { "line": "Big, big, big, I can be big", "emoji": "🙆" },
+      { "line": "Small, small, small, I can be small", "emoji": "🧒" },
+      { "line": "Big, big, big, stretch up tall", "emoji": "🙆" },
+      { "line": "Small, small, small, curl into a ball", "emoji": "⚽" },
+      { "line": "An elephant is big and tall", "emoji": "🐘" },
+      { "line": "A mouse is very, very small", "emoji": "🐭" },
+      { "line": "A whale is big in the deep blue sea", "emoji": "🐋" },
+      { "line": "An ant is small as small can be", "emoji": "🐜" },
+      { "line": "Big, big, big, I can be big", "emoji": "🙆" },
+      { "line": "Small, small, small, I can be small", "emoji": "🧒" },
+      { "line": "Big, big, big, stretch up tall", "emoji": "🙆" },
+      { "line": "Small, small, small, curl into a ball", "emoji": "⚽" }
+    ]
+  },
+  {
+    "id": "happy-and-sad",
+    "title": "Happy and Sad",
+    "theme": "playground",
+    "verses": [
+      { "line": "When I'm happy, happy, happy, I clap my hands", "emoji": "😊" },
+      { "line": "When I'm sad, sad, sad, I need a hug", "emoji": "😢" },
+      { "line": "When I'm angry, angry, angry, I stomp my feet", "emoji": "😠" },
+      { "line": "When I'm scared, scared, scared, I need a friend", "emoji": "😨" },
+      { "line": "Feelings come and feelings go", "emoji": "💭" },
+      { "line": "It's okay to let them show", "emoji": "💕" },
+      { "line": "When I'm excited, I jump up high", "emoji": "🤩" },
+      { "line": "When I'm tired, I close my eyes", "emoji": "😴" },
+      { "line": "When I'm happy, happy, happy, I clap my hands", "emoji": "😊" },
+      { "line": "When I'm sad, sad, sad, I need a hug", "emoji": "🤗" },
+      { "line": "Feelings come and feelings go", "emoji": "💭" },
+      { "line": "It's okay to let them show", "emoji": "💕" }
+    ]
+  },
+  {
+    "id": "the-alphabet-train",
+    "title": "The Alphabet Train",
+    "theme": "city",
+    "verses": [
+      { "line": "All aboard the alphabet train", "emoji": "🚂" },
+      { "line": "A B C D, here we go again", "emoji": "🔤" },
+      { "line": "E F G H, chugging down the track", "emoji": "🛤️" },
+      { "line": "I J K L, there and back", "emoji": "🔙" },
+      { "line": "M N O P, going really fast", "emoji": "💨" },
+      { "line": "Q R S T, we're having a blast", "emoji": "🎉" },
+      { "line": "U V W, almost at the end", "emoji": "🏁" },
+      { "line": "X Y Z, let's do it again my friend", "emoji": "🤝" },
+      { "line": "All aboard the alphabet train", "emoji": "🚂" },
+      { "line": "A B C D, here we go again", "emoji": "🔤" },
+      { "line": "Twenty-six letters on the track", "emoji": "🛤️" },
+      { "line": "The alphabet train is coming back!", "emoji": "🚂" }
+    ]
+  },
+  {
+    "id": "numbers-everywhere",
+    "title": "Numbers Everywhere",
+    "theme": "playground",
+    "verses": [
+      { "line": "Numbers, numbers everywhere", "emoji": "🔢" },
+      { "line": "Numbers, numbers here and there", "emoji": "🔢" },
+      { "line": "One nose and two little eyes", "emoji": "👃" },
+      { "line": "Three wishes for a big surprise", "emoji": "🌟" },
+      { "line": "Four legs on the chair I sit", "emoji": "🪑" },
+      { "line": "Five fingers on my hand, that's it", "emoji": "🖐️" },
+      { "line": "Six eggs in a box so neat", "emoji": "🥚" },
+      { "line": "Seven colors, what a treat", "emoji": "🌈" },
+      { "line": "Eight legs on an octopus", "emoji": "🐙" },
+      { "line": "Nine lives for a cat, it's no fuss", "emoji": "🐱" },
+      { "line": "Ten little toes on my two feet", "emoji": "🦶" },
+      { "line": "Numbers, numbers, can't be beat!", "emoji": "🎉" }
+    ]
+  },
+  {
+    "id": "what-color-is-sky",
+    "title": "What Color Is the Sky",
+    "theme": "garden",
+    "verses": [
+      { "line": "What color is the sky? It's blue, blue, blue", "emoji": "🔵" },
+      { "line": "What color is the grass? It's green through and through", "emoji": "🟢" },
+      { "line": "What color is the sun? It's yellow and bright", "emoji": "🟡" },
+      { "line": "What color are the stars? They're white in the night", "emoji": "⭐" },
+      { "line": "What color is an apple? It's red, red, red", "emoji": "🍎" },
+      { "line": "What color is an orange? It's orange, I said", "emoji": "🍊" },
+      { "line": "What color is a grape? It's purple, that's true", "emoji": "🍇" },
+      { "line": "What color is the ocean? It's deep, deep blue", "emoji": "🌊" },
+      { "line": "What color is the sky? It's blue, blue, blue", "emoji": "🔵" },
+      { "line": "What color is the grass? It's green through and through", "emoji": "🟢" },
+      { "line": "Colors are everywhere for me and you", "emoji": "🌈" },
+      { "line": "What's your favorite color? Tell me, do!", "emoji": "🎨" }
+    ]
+  },
+  {
+    "id": "tell-me-the-time",
+    "title": "Tell Me the Time",
+    "theme": "playground",
+    "verses": [
+      { "line": "Tick tock, tick tock, goes the clock", "emoji": "⏰" },
+      { "line": "Tell me, tell me, what's the time?", "emoji": "🕐" },
+      { "line": "When the big hand points to twelve", "emoji": "🕛" },
+      { "line": "And the little hand points to one, it's one o'clock", "emoji": "🕐" },
+      { "line": "Time to wake up in the morning light", "emoji": "🌅" },
+      { "line": "Time for breakfast, what a delight", "emoji": "🥣" },
+      { "line": "Time for lunch when the sun is high", "emoji": "☀️" },
+      { "line": "Time for dinner as the day goes by", "emoji": "🍽️" },
+      { "line": "Time for bath and time for bed", "emoji": "🛁" },
+      { "line": "Time to rest your sleepy head", "emoji": "😴" },
+      { "line": "Tick tock, tick tock, goes the clock", "emoji": "⏰" },
+      { "line": "Tell me, tell me, what's the time?", "emoji": "🕐" }
+    ]
+  },
+  {
+    "id": "parts-of-body",
+    "title": "Parts of the Body",
+    "theme": "playground",
+    "verses": [
+      { "line": "Head and shoulders, elbows and arms", "emoji": "💪" },
+      { "line": "Fingers and thumbs, two open palms", "emoji": "🤲" },
+      { "line": "Eyes to see and ears to hear", "emoji": "👀" },
+      { "line": "A nose to smell and a mouth right here", "emoji": "👃" },
+      { "line": "Tummy and back and legs so strong", "emoji": "🦵" },
+      { "line": "Knees to bend as we walk along", "emoji": "🚶" },
+      { "line": "Feet and toes to help us stand", "emoji": "🦶" },
+      { "line": "Aren't our bodies simply grand?", "emoji": "🙌" },
+      { "line": "Head and shoulders, elbows and arms", "emoji": "💪" },
+      { "line": "Fingers and thumbs, two open palms", "emoji": "🤲" },
+      { "line": "Eyes to see and ears to hear", "emoji": "👀" },
+      { "line": "A nose to smell and a mouth right here", "emoji": "👃" }
+    ]
+  },
+  {
+    "id": "my-five-senses",
+    "title": "My Five Senses",
+    "theme": "playground",
+    "verses": [
+      { "line": "I have five senses, let me tell you what they do", "emoji": "🖐️" },
+      { "line": "I can see with my eyes, everything in view", "emoji": "👀" },
+      { "line": "I can hear with my ears, every little sound", "emoji": "👂" },
+      { "line": "I can smell with my nose, lovely smells around", "emoji": "👃" },
+      { "line": "I can taste with my tongue, yummy food so sweet", "emoji": "👅" },
+      { "line": "I can touch with my hands, soft things and things with heat", "emoji": "🤲" },
+      { "line": "See, hear, smell, taste, touch, five senses all in all", "emoji": "🖐️" },
+      { "line": "They help me learn about the world, both big and small", "emoji": "🌍" },
+      { "line": "I have five senses, let me tell you what they do", "emoji": "🖐️" },
+      { "line": "I can see with my eyes, everything in view", "emoji": "👀" },
+      { "line": "I can hear with my ears, every little sound", "emoji": "👂" },
+      { "line": "Five senses helping me all day long", "emoji": "🎵" }
+    ]
+  },
+  {
+    "id": "the-weather-song",
+    "title": "The Weather Song",
+    "theme": "garden",
+    "verses": [
+      { "line": "How's the weather? How's the weather today?", "emoji": "🌤️" },
+      { "line": "Is it sunny? Is it rainy? What do you say?", "emoji": "☀️" },
+      { "line": "If it's sunny, we can go outside and play", "emoji": "🌞" },
+      { "line": "If it's rainy, we can play inside all day", "emoji": "🌧️" },
+      { "line": "Is it cloudy? Is it windy? Is there snow?", "emoji": "☁️" },
+      { "line": "Look out the window, then you'll know", "emoji": "🪟" },
+      { "line": "If it's snowy, we can build a man of snow", "emoji": "⛄" },
+      { "line": "If it's windy, watch the autumn leaves that blow", "emoji": "🍃" },
+      { "line": "How's the weather? How's the weather today?", "emoji": "🌤️" },
+      { "line": "Is it sunny? Is it rainy? What do you say?", "emoji": "☀️" },
+      { "line": "If it's sunny, we can go outside and play", "emoji": "🌞" },
+      { "line": "If it's rainy, we can play inside all day", "emoji": "🌧️" }
+    ]
+  },
+  {
+    "id": "good-morning-song",
+    "title": "Good Morning Song",
+    "theme": "playground",
+    "verses": [
+      { "line": "Good morning, good morning, good morning to you", "emoji": "🌅" },
+      { "line": "Good morning, good morning, how do you do?", "emoji": "👋" },
+      { "line": "The sun is up, the sky is blue", "emoji": "☀️" },
+      { "line": "It's a beautiful morning, how do you do?", "emoji": "🌞" },
+      { "line": "Good morning, good morning, let's start the day", "emoji": "🌅" },
+      { "line": "With a great big smile, hip hip hooray", "emoji": "😊" },
+      { "line": "Brush your teeth and comb your hair", "emoji": "🪥" },
+      { "line": "Good morning sunshine, everywhere", "emoji": "☀️" },
+      { "line": "Good morning, good morning, good morning to you", "emoji": "🌅" },
+      { "line": "Good morning, good morning, how do you do?", "emoji": "👋" },
+      { "line": "The sun is up, the sky is blue", "emoji": "☀️" },
+      { "line": "It's a beautiful morning, how do you do?", "emoji": "🌞" }
+    ]
+  },
+  {
+    "id": "thank-you-song",
+    "title": "Thank You Song",
+    "theme": "playground",
+    "verses": [
+      { "line": "Thank you, thank you, thank you very much", "emoji": "🙏" },
+      { "line": "Thank you for your kindness and your gentle touch", "emoji": "💕" },
+      { "line": "Thank you Mom and Dad for all you do", "emoji": "👨‍👩‍👧" },
+      { "line": "Thank you teachers, friends, I love you too", "emoji": "❤️" },
+      { "line": "Thank you for the sunshine and the rain", "emoji": "🌦️" },
+      { "line": "Thank you for the flowers and the grain", "emoji": "🌸" },
+      { "line": "Thank you for the food upon my plate", "emoji": "🍽️" },
+      { "line": "Thank you, thank you, life is great!", "emoji": "🎉" },
+      { "line": "Thank you, thank you, thank you very much", "emoji": "🙏" },
+      { "line": "Thank you for your kindness and your gentle touch", "emoji": "💕" },
+      { "line": "Thank you Mom and Dad for all you do", "emoji": "👨‍👩‍👧" },
+      { "line": "Thank you, thank you, I love you!", "emoji": "❤️" }
+    ]
+  },
+  {
+    "id": "please-and-sorry",
+    "title": "Please and Sorry",
+    "theme": "playground",
+    "verses": [
+      { "line": "Say please when you want something nice", "emoji": "🙏" },
+      { "line": "Say thank you, don't think twice", "emoji": "😊" },
+      { "line": "Say sorry when you make a mistake", "emoji": "😔" },
+      { "line": "Good manners are easy to make", "emoji": "👍" },
+      { "line": "Excuse me, pardon me, if you please", "emoji": "🤗" },
+      { "line": "These little words put hearts at ease", "emoji": "💕" },
+      { "line": "Please and sorry, thank you too", "emoji": "🙏" },
+      { "line": "These magic words are good for you", "emoji": "✨" },
+      { "line": "Say please when you want something nice", "emoji": "🙏" },
+      { "line": "Say thank you, don't think twice", "emoji": "😊" },
+      { "line": "Say sorry when you make a mistake", "emoji": "😔" },
+      { "line": "Good manners are easy to make", "emoji": "👍" }
+    ]
+  },
+  {
+    "id": "yankee-doodle",
+    "title": "Yankee Doodle",
+    "theme": "city",
+    "verses": [
+      { "line": "Yankee Doodle went to town", "emoji": "🏙️" },
+      { "line": "A-riding on a pony", "emoji": "🐴" },
+      { "line": "Stuck a feather in his cap", "emoji": "🪶" },
+      { "line": "And called it macaroni", "emoji": "🍝" },
+      { "line": "Yankee Doodle keep it up", "emoji": "👍" },
+      { "line": "Yankee Doodle dandy", "emoji": "🎩" },
+      { "line": "Mind the music and the step", "emoji": "🎵" },
+      { "line": "And with the girls be handy", "emoji": "💃" },
+      { "line": "Father and I went down to camp", "emoji": "⛺" },
+      { "line": "Along with Captain Gooding", "emoji": "🎖️" },
+      { "line": "And there we saw the men and boys", "emoji": "👫" },
+      { "line": "As thick as hasty pudding", "emoji": "🍮" }
+    ]
+  },
+  {
+    "id": "oh-susanna",
+    "title": "Oh! Susanna",
+    "theme": "playground",
+    "verses": [
+      { "line": "Oh, I come from Alabama with my banjo on my knee", "emoji": "🪕" },
+      { "line": "I'm going to Louisiana, my true love for to see", "emoji": "💕" },
+      { "line": "It rained all night the day I left, the weather it was dry", "emoji": "🌧️" },
+      { "line": "The sun so hot I froze to death, Susanna don't you cry", "emoji": "☀️" },
+      { "line": "Oh! Susanna, oh don't you cry for me", "emoji": "🎵" },
+      { "line": "For I come from Alabama with my banjo on my knee", "emoji": "🪕" },
+      { "line": "I had a dream the other night when everything was still", "emoji": "💭" },
+      { "line": "I thought I saw Susanna coming down the hill", "emoji": "👧" },
+      { "line": "Oh! Susanna, oh don't you cry for me", "emoji": "🎵" },
+      { "line": "For I come from Alabama with my banjo on my knee", "emoji": "🪕" },
+      { "line": "Oh! Susanna, oh don't you cry for me", "emoji": "🎵" },
+      { "line": "For I come from Alabama with my banjo on my knee", "emoji": "🪕" }
+    ]
+  },
+  {
+    "id": "she-will-be-coming",
+    "title": "She'll Be Coming Round the Mountain",
+    "theme": "forest",
+    "verses": [
+      { "line": "She'll be coming round the mountain when she comes", "emoji": "⛰️" },
+      { "line": "She'll be coming round the mountain when she comes", "emoji": "⛰️" },
+      { "line": "She'll be coming round the mountain, she'll be coming round the mountain", "emoji": "🏔️" },
+      { "line": "She'll be coming round the mountain when she comes", "emoji": "⛰️" },
+      { "line": "She'll be driving six white horses when she comes", "emoji": "🐴" },
+      { "line": "She'll be driving six white horses when she comes", "emoji": "🐎" },
+      { "line": "She'll be driving six white horses, she'll be driving six white horses", "emoji": "🐴" },
+      { "line": "She'll be driving six white horses when she comes", "emoji": "🐎" },
+      { "line": "We'll all go out to meet her when she comes", "emoji": "👋" },
+      { "line": "We'll all go out to meet her when she comes", "emoji": "🎉" },
+      { "line": "We'll all go out to meet her, we'll all go out to meet her", "emoji": "👫" },
+      { "line": "We'll all go out to meet her when she comes", "emoji": "🎉" }
+    ]
+  },
+  {
+    "id": "skip-to-my-lou",
+    "title": "Skip to My Lou",
+    "theme": "playground",
+    "verses": [
+      { "line": "Skip, skip, skip to my Lou", "emoji": "💃" },
+      { "line": "Skip, skip, skip to my Lou", "emoji": "💃" },
+      { "line": "Skip, skip, skip to my Lou", "emoji": "💃" },
+      { "line": "Skip to my Lou, my darling", "emoji": "💕" },
+      { "line": "Flies in the buttermilk, shoo fly shoo", "emoji": "🪰" },
+      { "line": "Flies in the buttermilk, shoo fly shoo", "emoji": "🪰" },
+      { "line": "Flies in the buttermilk, shoo fly shoo", "emoji": "🪰" },
+      { "line": "Skip to my Lou, my darling", "emoji": "💕" },
+      { "line": "Lost my partner, what'll I do?", "emoji": "🤷" },
+      { "line": "Lost my partner, what'll I do?", "emoji": "🤷" },
+      { "line": "Lost my partner, what'll I do?", "emoji": "🤷" },
+      { "line": "Skip to my Lou, my darling", "emoji": "💕" }
+    ]
+  },
+  {
+    "id": "pop-goes-the-weasel",
+    "title": "Pop Goes the Weasel",
+    "theme": "playground",
+    "verses": [
+      { "line": "Half a pound of tuppenny rice", "emoji": "🍚" },
+      { "line": "Half a pound of treacle", "emoji": "🍯" },
+      { "line": "That's the way the money goes", "emoji": "💰" },
+      { "line": "Pop goes the weasel!", "emoji": "💥" },
+      { "line": "Up and down the City Road", "emoji": "🏙️" },
+      { "line": "In and out the Eagle", "emoji": "🦅" },
+      { "line": "That's the way the money goes", "emoji": "💰" },
+      { "line": "Pop goes the weasel!", "emoji": "💥" },
+      { "line": "Half a pound of tuppenny rice", "emoji": "🍚" },
+      { "line": "Half a pound of treacle", "emoji": "🍯" },
+      { "line": "That's the way the money goes", "emoji": "💰" },
+      { "line": "Pop goes the weasel!", "emoji": "💥" }
+    ]
+  },
+  {
+    "id": "do-your-ears-hang-low",
+    "title": "Do Your Ears Hang Low",
+    "theme": "playground",
+    "verses": [
+      { "line": "Do your ears hang low? Do they wobble to and fro?", "emoji": "👂" },
+      { "line": "Can you tie them in a knot? Can you tie them in a bow?", "emoji": "🎀" },
+      { "line": "Can you throw them over your shoulder like a continental soldier?", "emoji": "💂" },
+      { "line": "Do your ears hang low?", "emoji": "👂" },
+      { "line": "Do your ears hang high? Do they reach up to the sky?", "emoji": "🌤️" },
+      { "line": "Do they wrinkle when they're wet? Do they straighten when they're dry?", "emoji": "💧" },
+      { "line": "Can you wave them at your neighbor with an element of flavor?", "emoji": "👋" },
+      { "line": "Do your ears hang high?", "emoji": "👂" },
+      { "line": "Do your ears hang low? Do they wobble to and fro?", "emoji": "👂" },
+      { "line": "Can you tie them in a knot? Can you tie them in a bow?", "emoji": "🎀" },
+      { "line": "Can you throw them over your shoulder like a continental soldier?", "emoji": "💂" },
+      { "line": "Do your ears hang low?", "emoji": "👂" }
+    ]
+  },
+  {
+    "id": "this-is-the-way",
+    "title": "This Is the Way",
+    "theme": "playground",
+    "verses": [
+      { "line": "This is the way we brush our teeth", "emoji": "🪥" },
+      { "line": "Brush our teeth, brush our teeth", "emoji": "🦷" },
+      { "line": "This is the way we brush our teeth", "emoji": "🪥" },
+      { "line": "So early in the morning", "emoji": "🌅" },
+      { "line": "This is the way we wash our face", "emoji": "🧼" },
+      { "line": "Wash our face, wash our face", "emoji": "💧" },
+      { "line": "This is the way we wash our face", "emoji": "🧼" },
+      { "line": "So early in the morning", "emoji": "🌅" },
+      { "line": "This is the way we comb our hair", "emoji": "💇" },
+      { "line": "Comb our hair, comb our hair", "emoji": "💇" },
+      { "line": "This is the way we comb our hair", "emoji": "💇" },
+      { "line": "So early in the morning", "emoji": "🌅" }
+    ]
+  },
+  {
+    "id": "a-sailor-went-to-sea",
+    "title": "A Sailor Went to Sea",
+    "theme": "ocean",
+    "verses": [
+      { "line": "A sailor went to sea, sea, sea", "emoji": "⛵" },
+      { "line": "To see what he could see, see, see", "emoji": "👀" },
+      { "line": "But all that he could see, see, see", "emoji": "🌊" },
+      { "line": "Was the bottom of the deep blue sea, sea, sea", "emoji": "🐠" },
+      { "line": "A sailor went to chop, chop, chop", "emoji": "⛵" },
+      { "line": "To see what he could chop, chop, chop", "emoji": "🪓" },
+      { "line": "But all that he could chop, chop, chop", "emoji": "🪓" },
+      { "line": "Was the bottom of the deep blue chop, chop, chop", "emoji": "🌊" },
+      { "line": "A sailor went to knee, knee, knee", "emoji": "⛵" },
+      { "line": "To see what he could knee, knee, knee", "emoji": "🦵" },
+      { "line": "But all that he could knee, knee, knee", "emoji": "🦵" },
+      { "line": "Was the bottom of the deep blue knee, knee, knee", "emoji": "🌊" }
+    ]
+  },
+  {
+    "id": "one-potato-two-potato",
+    "title": "One Potato Two Potato",
+    "theme": "playground",
+    "verses": [
+      { "line": "One potato, two potato", "emoji": "🥔" },
+      { "line": "Three potato, four", "emoji": "🥔" },
+      { "line": "Five potato, six potato", "emoji": "🥔" },
+      { "line": "Seven potato more", "emoji": "🥔" },
+      { "line": "One potato, two potato", "emoji": "🥔" },
+      { "line": "Three potato, four", "emoji": "🥔" },
+      { "line": "Five potato, six potato", "emoji": "🥔" },
+      { "line": "Seven potato more", "emoji": "🥔" },
+      { "line": "One potato, two potato", "emoji": "🥔" },
+      { "line": "Three potato, four", "emoji": "🥔" },
+      { "line": "Five potato, six potato", "emoji": "🥔" },
+      { "line": "Seven potato more", "emoji": "🥔" }
+    ]
+  },
+  {
+    "id": "the-grand-old-duke-of-york",
+    "title": "The Grand Old Duke of York",
+    "theme": "city",
+    "verses": [
+      { "line": "Oh, the grand old Duke of York", "emoji": "👑" },
+      { "line": "He had ten thousand men", "emoji": "💂" },
+      { "line": "He marched them up to the top of the hill", "emoji": "⛰️" },
+      { "line": "And he marched them down again", "emoji": "⬇️" },
+      { "line": "And when they were up, they were up", "emoji": "⬆️" },
+      { "line": "And when they were down, they were down", "emoji": "⬇️" },
+      { "line": "And when they were only halfway up", "emoji": "↕️" },
+      { "line": "They were neither up nor down", "emoji": "🤷" },
+      { "line": "Oh, the grand old Duke of York", "emoji": "👑" },
+      { "line": "He had ten thousand men", "emoji": "💂" },
+      { "line": "He marched them up to the top of the hill", "emoji": "⛰️" },
+      { "line": "And he marched them down again", "emoji": "⬇️" }
+    ]
+  }
+]
