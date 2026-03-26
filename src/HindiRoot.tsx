@@ -1,0 +1,5201 @@
+import "./index.css";
+import { Composition, Folder } from "remotion";
+import { HindiRhymeTemplate } from "./HindiRhymeTemplate";
+import type { HindiRhymeProps, RhymeTheme } from "./HindiRhymeTemplate";
+import { ShortsWrapper } from "./ShortsWrapper";
+import React from "react";
+
+// Wrapper that renders a Hindi rhyme inside the ShortsWrapper for portrait format
+const ShortsRhyme: React.FC<HindiRhymeProps & { topColor: string; bottomColor: string; accentEmoji?: string }> = (props) => {
+  const { topColor, bottomColor, accentEmoji, ...rhymeProps } = props;
+  return (
+    <ShortsWrapper title={rhymeProps.title} topColor={topColor} bottomColor={bottomColor} accentEmoji={accentEmoji}>
+      <HindiRhymeTemplate {...rhymeProps} />
+    </ShortsWrapper>
+  );
+};
+
+// Theme colors for shorts wrapper
+const THEME_COLORS: Record<RhymeTheme, { top: string; bottom: string; emoji: string }> = {
+  night: { top: "#0A0A2E", bottom: "#2D1B69", emoji: "🌙" },
+  farm: { top: "#87CEEB", bottom: "#4CAF50", emoji: "🐑" },
+  ocean: { top: "#0077B6", bottom: "#00B4D8", emoji: "🐠" },
+  garden: { top: "#F8BBD0", bottom: "#A5D6A7", emoji: "🦋" },
+  playground: { top: "#FFF176", bottom: "#FFB74D", emoji: "🎈" },
+  space: { top: "#000000", bottom: "#1A0533", emoji: "🚀" },
+  forest: { top: "#1B5E20", bottom: "#388E3C", emoji: "🌲" },
+  city: { top: "#37474F", bottom: "#5C6BC0", emoji: "🏙️" },
+};
+
+export const HindiRemotionRoot: React.FC = () => {
+  return (
+    <>
+      <Folder name="Hindi-City-Life">
+        <Composition
+          id="HindiRailGadi"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "रेल गाड़ी",
+            rhymeId: "rail-gadi",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "छुक छुक छुक छुक रेल गाड़ी",
+          "emoji": "🚂"
+          },
+          {
+          "line": "पटरी पर दौड़े सवारी",
+          "emoji": "🛤️"
+          },
+          {
+          "line": "गार्ड ने बाजा बजाया",
+          "emoji": "📯"
+          },
+          {
+          "line": "इंजन ने ज़ोर लगाया",
+          "emoji": "💨"
+          },
+          {
+          "line": "स्टेशन से स्टेशन जाए",
+          "emoji": "🏢"
+          },
+          {
+          "line": "सबको मंज़िल पहुँचाए",
+          "emoji": "🎯"
+          },
+          {
+          "line": "छुक छुक करती जाए आगे",
+          "emoji": "🚃"
+          },
+          {
+          "line": "सबके दिल में प्यार जगाए",
+          "emoji": "❤️"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiRailGadiShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "रेल गाड़ी",
+            rhymeId: "rail-gadi",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "छुक छुक छुक छुक रेल गाड़ी",
+          "emoji": "🚂"
+          },
+          {
+          "line": "पटरी पर दौड़े सवारी",
+          "emoji": "🛤️"
+          },
+          {
+          "line": "गार्ड ने बाजा बजाया",
+          "emoji": "📯"
+          },
+          {
+          "line": "इंजन ने ज़ोर लगाया",
+          "emoji": "💨"
+          },
+          {
+          "line": "स्टेशन से स्टेशन जाए",
+          "emoji": "🏢"
+          },
+          {
+          "line": "सबको मंज़िल पहुँचाए",
+          "emoji": "🎯"
+          },
+          {
+          "line": "छुक छुक करती जाए आगे",
+          "emoji": "🚃"
+          },
+          {
+          "line": "सबके दिल में प्यार जगाए",
+          "emoji": "❤️"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["city"].top,
+            bottomColor: THEME_COLORS["city"].bottom,
+            accentEmoji: THEME_COLORS["city"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiPostmanAaya"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "पोस्टमैन आया",
+            rhymeId: "postman-aaya",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "डाकिया डाकिया डाक लाया",
+          "emoji": "📮"
+          },
+          {
+          "line": "चिट्ठी लाया चिट्ठी लाया",
+          "emoji": "💌"
+          },
+          {
+          "line": "घर घर जाकर देता जाए",
+          "emoji": "🏘️"
+          },
+          {
+          "line": "सबकी ख़बरें पहुँचाए",
+          "emoji": "📰"
+          },
+          {
+          "line": "धूप हो बारिश हो या ठंड",
+          "emoji": "🌦️"
+          },
+          {
+          "line": "डाकिया करता नहीं है बंद",
+          "emoji": "💪"
+          },
+          {
+          "line": "खाकी कपड़े थैला भारी",
+          "emoji": "👔"
+          },
+          {
+          "line": "डाकिया दादा की ड्यूटी प्यारी",
+          "emoji": "🫡"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiPostmanAayaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "पोस्टमैन आया",
+            rhymeId: "postman-aaya",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "डाकिया डाकिया डाक लाया",
+          "emoji": "📮"
+          },
+          {
+          "line": "चिट्ठी लाया चिट्ठी लाया",
+          "emoji": "💌"
+          },
+          {
+          "line": "घर घर जाकर देता जाए",
+          "emoji": "🏘️"
+          },
+          {
+          "line": "सबकी ख़बरें पहुँचाए",
+          "emoji": "📰"
+          },
+          {
+          "line": "धूप हो बारिश हो या ठंड",
+          "emoji": "🌦️"
+          },
+          {
+          "line": "डाकिया करता नहीं है बंद",
+          "emoji": "💪"
+          },
+          {
+          "line": "खाकी कपड़े थैला भारी",
+          "emoji": "👔"
+          },
+          {
+          "line": "डाकिया दादा की ड्यूटी प्यारी",
+          "emoji": "🫡"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["city"].top,
+            bottomColor: THEME_COLORS["city"].bottom,
+            accentEmoji: THEME_COLORS["city"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiDhobiAaya"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "धोबी आया",
+            rhymeId: "dhobi-aaya",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "धोबी आया धोबी आया",
+          "emoji": "👕"
+          },
+          {
+          "line": "कपड़ों का गट्ठर लाया",
+          "emoji": "📦"
+          },
+          {
+          "line": "साबुन लगाकर धोता जाए",
+          "emoji": "🧼"
+          },
+          {
+          "line": "पत्थर पर पटक पटक लगाए",
+          "emoji": "🪨"
+          },
+          {
+          "line": "धूप में कपड़े सुखाए",
+          "emoji": "☀️"
+          },
+          {
+          "line": "इस्त्री करके चमकाए",
+          "emoji": "👔"
+          },
+          {
+          "line": "मैले कपड़े साफ़ हो जाएं",
+          "emoji": "✨"
+          },
+          {
+          "line": "धोबी दादा मुस्काएं",
+          "emoji": "😊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiDhobiAayaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "धोबी आया",
+            rhymeId: "dhobi-aaya",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "धोबी आया धोबी आया",
+          "emoji": "👕"
+          },
+          {
+          "line": "कपड़ों का गट्ठर लाया",
+          "emoji": "📦"
+          },
+          {
+          "line": "साबुन लगाकर धोता जाए",
+          "emoji": "🧼"
+          },
+          {
+          "line": "पत्थर पर पटक पटक लगाए",
+          "emoji": "🪨"
+          },
+          {
+          "line": "धूप में कपड़े सुखाए",
+          "emoji": "☀️"
+          },
+          {
+          "line": "इस्त्री करके चमकाए",
+          "emoji": "👔"
+          },
+          {
+          "line": "मैले कपड़े साफ़ हो जाएं",
+          "emoji": "✨"
+          },
+          {
+          "line": "धोबी दादा मुस्काएं",
+          "emoji": "😊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["city"].top,
+            bottomColor: THEME_COLORS["city"].bottom,
+            accentEmoji: THEME_COLORS["city"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiSchoolChaleHum"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "स्कूल चलें हम",
+            rhymeId: "school-chale-hum",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "स्कूल चलें हम स्कूल चलें हम",
+          "emoji": "🏫"
+          },
+          {
+          "line": "पढ़ना लिखना सीखें हम",
+          "emoji": "📚"
+          },
+          {
+          "line": "बस्ता लेकर तैयार हो जाएं",
+          "emoji": "🎒"
+          },
+          {
+          "line": "सुबह सवेरे स्कूल को जाएं",
+          "emoji": "🌅"
+          },
+          {
+          "line": "टीचर जी को नमस्ते बोलें",
+          "emoji": "🙏"
+          },
+          {
+          "line": "किताबें अपनी कॉपी खोलें",
+          "emoji": "📖"
+          },
+          {
+          "line": "गिनती पहाड़े गीत सुनाएं",
+          "emoji": "🔢"
+          },
+          {
+          "line": "पढ़ लिखकर हम आगे जाएं",
+          "emoji": "🌟"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiSchoolChaleHumShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "स्कूल चलें हम",
+            rhymeId: "school-chale-hum",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "स्कूल चलें हम स्कूल चलें हम",
+          "emoji": "🏫"
+          },
+          {
+          "line": "पढ़ना लिखना सीखें हम",
+          "emoji": "📚"
+          },
+          {
+          "line": "बस्ता लेकर तैयार हो जाएं",
+          "emoji": "🎒"
+          },
+          {
+          "line": "सुबह सवेरे स्कूल को जाएं",
+          "emoji": "🌅"
+          },
+          {
+          "line": "टीचर जी को नमस्ते बोलें",
+          "emoji": "🙏"
+          },
+          {
+          "line": "किताबें अपनी कॉपी खोलें",
+          "emoji": "📖"
+          },
+          {
+          "line": "गिनती पहाड़े गीत सुनाएं",
+          "emoji": "🔢"
+          },
+          {
+          "line": "पढ़ लिखकर हम आगे जाएं",
+          "emoji": "🌟"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["city"].top,
+            bottomColor: THEME_COLORS["city"].bottom,
+            accentEmoji: THEME_COLORS["city"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiRickshawWala"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "रिक्शा वाला",
+            rhymeId: "rickshaw-wala",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "रिक्शा वाला आया आया",
+          "emoji": "🛺"
+          },
+          {
+          "line": "छन छन घंटी बजाया",
+          "emoji": "🔔"
+          },
+          {
+          "line": "बैठो बैठो जल्दी आओ",
+          "emoji": "🤚"
+          },
+          {
+          "line": "बाज़ार चलें स्कूल को जाओ",
+          "emoji": "🏫"
+          },
+          {
+          "line": "पैडल मारे ज़ोर लगाए",
+          "emoji": "🚲"
+          },
+          {
+          "line": "सड़कों पर वो दौड़ लगाए",
+          "emoji": "🛣️"
+          },
+          {
+          "line": "रिक्शा वाला मेहनत करता",
+          "emoji": "💪"
+          },
+          {
+          "line": "सबको मंज़िल तक पहुँचाता",
+          "emoji": "🎯"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiRickshawWalaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "रिक्शा वाला",
+            rhymeId: "rickshaw-wala",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "रिक्शा वाला आया आया",
+          "emoji": "🛺"
+          },
+          {
+          "line": "छन छन घंटी बजाया",
+          "emoji": "🔔"
+          },
+          {
+          "line": "बैठो बैठो जल्दी आओ",
+          "emoji": "🤚"
+          },
+          {
+          "line": "बाज़ार चलें स्कूल को जाओ",
+          "emoji": "🏫"
+          },
+          {
+          "line": "पैडल मारे ज़ोर लगाए",
+          "emoji": "🚲"
+          },
+          {
+          "line": "सड़कों पर वो दौड़ लगाए",
+          "emoji": "🛣️"
+          },
+          {
+          "line": "रिक्शा वाला मेहनत करता",
+          "emoji": "💪"
+          },
+          {
+          "line": "सबको मंज़िल तक पहुँचाता",
+          "emoji": "🎯"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["city"].top,
+            bottomColor: THEME_COLORS["city"].bottom,
+            accentEmoji: THEME_COLORS["city"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiBazaarMein"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "बाज़ार में",
+            rhymeId: "bazaar-mein",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "चलो चलें बाज़ार में",
+          "emoji": "🏪"
+          },
+          {
+          "line": "ख़रीदें सामान हज़ार में",
+          "emoji": "🛒"
+          },
+          {
+          "line": "सब्ज़ी वाला सब्ज़ी लाया",
+          "emoji": "🥬"
+          },
+          {
+          "line": "फल वाले ने फल दिखाया",
+          "emoji": "🍎"
+          },
+          {
+          "line": "मिठाई की दुकान सजी",
+          "emoji": "🍬"
+          },
+          {
+          "line": "खिलौनों की दुकान खुली",
+          "emoji": "🧸"
+          },
+          {
+          "line": "बाज़ार में रौनक बहुत है",
+          "emoji": "🎪"
+          },
+          {
+          "line": "ख़रीदारी की धूम बहुत है",
+          "emoji": "🎉"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiBazaarMeinShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "बाज़ार में",
+            rhymeId: "bazaar-mein",
+            theme: "city" as RhymeTheme,
+            verses: [
+          {
+          "line": "चलो चलें बाज़ार में",
+          "emoji": "🏪"
+          },
+          {
+          "line": "ख़रीदें सामान हज़ार में",
+          "emoji": "🛒"
+          },
+          {
+          "line": "सब्ज़ी वाला सब्ज़ी लाया",
+          "emoji": "🥬"
+          },
+          {
+          "line": "फल वाले ने फल दिखाया",
+          "emoji": "🍎"
+          },
+          {
+          "line": "मिठाई की दुकान सजी",
+          "emoji": "🍬"
+          },
+          {
+          "line": "खिलौनों की दुकान खुली",
+          "emoji": "🧸"
+          },
+          {
+          "line": "बाज़ार में रौनक बहुत है",
+          "emoji": "🎪"
+          },
+          {
+          "line": "ख़रीदारी की धूम बहुत है",
+          "emoji": "🎉"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["city"].top,
+            bottomColor: THEME_COLORS["city"].bottom,
+            accentEmoji: THEME_COLORS["city"].emoji,
+          }}
+        />
+      </Folder>
+      <Folder name="Hindi-Farm-Animals">
+        <Composition
+          id="HindiNaniTeriMorni"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "नानी तेरी मोरनी",
+            rhymeId: "nani-teri-morni",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "नानी तेरी मोरनी को मोर ले गए",
+          "emoji": "🦚"
+          },
+          {
+          "line": "बाकी जो बचा था काले चोर ले गए",
+          "emoji": "🥷"
+          },
+          {
+          "line": "मोरनी का दर्द ना जाने कोई",
+          "emoji": "😢"
+          },
+          {
+          "line": "छम छम नाचे कोई तो रोई",
+          "emoji": "💃"
+          },
+          {
+          "line": "नानी ने बुलाई गोरी गोरी",
+          "emoji": "👵"
+          },
+          {
+          "line": "चुन्नी में लपेटी एक कहानी",
+          "emoji": "📖"
+          },
+          {
+          "line": "नानी की कहानी बड़ी सुहानी",
+          "emoji": "🌺"
+          },
+          {
+          "line": "मोरनी लौट आई बनकर रानी",
+          "emoji": "👑"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiNaniTeriMorniShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "नानी तेरी मोरनी",
+            rhymeId: "nani-teri-morni",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "नानी तेरी मोरनी को मोर ले गए",
+          "emoji": "🦚"
+          },
+          {
+          "line": "बाकी जो बचा था काले चोर ले गए",
+          "emoji": "🥷"
+          },
+          {
+          "line": "मोरनी का दर्द ना जाने कोई",
+          "emoji": "😢"
+          },
+          {
+          "line": "छम छम नाचे कोई तो रोई",
+          "emoji": "💃"
+          },
+          {
+          "line": "नानी ने बुलाई गोरी गोरी",
+          "emoji": "👵"
+          },
+          {
+          "line": "चुन्नी में लपेटी एक कहानी",
+          "emoji": "📖"
+          },
+          {
+          "line": "नानी की कहानी बड़ी सुहानी",
+          "emoji": "🌺"
+          },
+          {
+          "line": "मोरनी लौट आई बनकर रानी",
+          "emoji": "👑"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["farm"].top,
+            bottomColor: THEME_COLORS["farm"].bottom,
+            accentEmoji: THEME_COLORS["farm"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiGaiyaMeri"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "गैया मेरी",
+            rhymeId: "gaiya-meri",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "गैया मेरी प्यारी गैया",
+          "emoji": "🐄"
+          },
+          {
+          "line": "सबसे अच्छी न्यारी गैया",
+          "emoji": "💕"
+          },
+          {
+          "line": "दूध दे मीठा मीठा",
+          "emoji": "🥛"
+          },
+          {
+          "line": "मक्खन दे ताज़ा ताज़ा",
+          "emoji": "🧈"
+          },
+          {
+          "line": "हरा हरा चारा खाती",
+          "emoji": "🌿"
+          },
+          {
+          "line": "खेतों में घूम कर आती",
+          "emoji": "🏕️"
+          },
+          {
+          "line": "सुबह शाम दूध देती",
+          "emoji": "🌅"
+          },
+          {
+          "line": "सबकी सेवा करती रहती",
+          "emoji": "🤗"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiGaiyaMeriShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "गैया मेरी",
+            rhymeId: "gaiya-meri",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "गैया मेरी प्यारी गैया",
+          "emoji": "🐄"
+          },
+          {
+          "line": "सबसे अच्छी न्यारी गैया",
+          "emoji": "💕"
+          },
+          {
+          "line": "दूध दे मीठा मीठा",
+          "emoji": "🥛"
+          },
+          {
+          "line": "मक्खन दे ताज़ा ताज़ा",
+          "emoji": "🧈"
+          },
+          {
+          "line": "हरा हरा चारा खाती",
+          "emoji": "🌿"
+          },
+          {
+          "line": "खेतों में घूम कर आती",
+          "emoji": "🏕️"
+          },
+          {
+          "line": "सुबह शाम दूध देती",
+          "emoji": "🌅"
+          },
+          {
+          "line": "सबकी सेवा करती रहती",
+          "emoji": "🤗"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["farm"].top,
+            bottomColor: THEME_COLORS["farm"].bottom,
+            accentEmoji: THEME_COLORS["farm"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiMurgaBola"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "मुर्गा बोला कुकड़ू कूँ",
+            rhymeId: "murga-bola",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "मुर्गा बोला कुकड़ू कूँ",
+          "emoji": "🐓"
+          },
+          {
+          "line": "सुबह हो गई उठो अब तूँ",
+          "emoji": "🌅"
+          },
+          {
+          "line": "सूरज निकला पूरब से",
+          "emoji": "☀️"
+          },
+          {
+          "line": "किरणें आईं दूर दूर से",
+          "emoji": "🌄"
+          },
+          {
+          "line": "चिड़िया चहकी डाली पर",
+          "emoji": "🐦"
+          },
+          {
+          "line": "फूल खिले हर क्यारी पर",
+          "emoji": "🌺"
+          },
+          {
+          "line": "गाय चली है खेत को",
+          "emoji": "🐄"
+          },
+          {
+          "line": "किसान चला है बेट को",
+          "emoji": "👨‍🌾"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiMurgaBolaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "मुर्गा बोला कुकड़ू कूँ",
+            rhymeId: "murga-bola",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "मुर्गा बोला कुकड़ू कूँ",
+          "emoji": "🐓"
+          },
+          {
+          "line": "सुबह हो गई उठो अब तूँ",
+          "emoji": "🌅"
+          },
+          {
+          "line": "सूरज निकला पूरब से",
+          "emoji": "☀️"
+          },
+          {
+          "line": "किरणें आईं दूर दूर से",
+          "emoji": "🌄"
+          },
+          {
+          "line": "चिड़िया चहकी डाली पर",
+          "emoji": "🐦"
+          },
+          {
+          "line": "फूल खिले हर क्यारी पर",
+          "emoji": "🌺"
+          },
+          {
+          "line": "गाय चली है खेत को",
+          "emoji": "🐄"
+          },
+          {
+          "line": "किसान चला है बेट को",
+          "emoji": "👨‍🌾"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["farm"].top,
+            bottomColor: THEME_COLORS["farm"].bottom,
+            accentEmoji: THEME_COLORS["farm"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiKisan"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "किसान",
+            rhymeId: "kisan",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "किसान दादा खेतों में जाएं",
+          "emoji": "👨‍🌾"
+          },
+          {
+          "line": "हल जोतें और बीज लगाएं",
+          "emoji": "🌱"
+          },
+          {
+          "line": "धूप में मेहनत करते जाएं",
+          "emoji": "☀️"
+          },
+          {
+          "line": "खेतों को पानी पिलाएं",
+          "emoji": "💧"
+          },
+          {
+          "line": "फसलें उगें हरी भरी",
+          "emoji": "🌾"
+          },
+          {
+          "line": "गेहूँ चावल सब्ज़ी खरी",
+          "emoji": "🌽"
+          },
+          {
+          "line": "किसान दादा बड़े महान",
+          "emoji": "🏅"
+          },
+          {
+          "line": "देश का गौरव देश की शान",
+          "emoji": "🇮🇳"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiKisanShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "किसान",
+            rhymeId: "kisan",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "किसान दादा खेतों में जाएं",
+          "emoji": "👨‍🌾"
+          },
+          {
+          "line": "हल जोतें और बीज लगाएं",
+          "emoji": "🌱"
+          },
+          {
+          "line": "धूप में मेहनत करते जाएं",
+          "emoji": "☀️"
+          },
+          {
+          "line": "खेतों को पानी पिलाएं",
+          "emoji": "💧"
+          },
+          {
+          "line": "फसलें उगें हरी भरी",
+          "emoji": "🌾"
+          },
+          {
+          "line": "गेहूँ चावल सब्ज़ी खरी",
+          "emoji": "🌽"
+          },
+          {
+          "line": "किसान दादा बड़े महान",
+          "emoji": "🏅"
+          },
+          {
+          "line": "देश का गौरव देश की शान",
+          "emoji": "🇮🇳"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["farm"].top,
+            bottomColor: THEME_COLORS["farm"].bottom,
+            accentEmoji: THEME_COLORS["farm"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiBilliMausi"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "बिल्ली मौसी",
+            rhymeId: "billi-mausi",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "बिल्ली मौसी बिल्ली मौसी कहाँ चली",
+          "emoji": "🐱"
+          },
+          {
+          "line": "दूध की कटोरी लेकर बाहर चली",
+          "emoji": "🥛"
+          },
+          {
+          "line": "म्याऊँ म्याऊँ करती जाए",
+          "emoji": "😺"
+          },
+          {
+          "line": "पूँछ हिलाकर नाचती आए",
+          "emoji": "💃"
+          },
+          {
+          "line": "चूहा देखा भागी भागी",
+          "emoji": "🐭"
+          },
+          {
+          "line": "मूँछें फैला दौड़ी आगी",
+          "emoji": "😼"
+          },
+          {
+          "line": "चूहा भागा बिल में जाकर",
+          "emoji": "🕳️"
+          },
+          {
+          "line": "बिल्ली बैठी मुँह लटकाकर",
+          "emoji": "😿"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiBilliMausiShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "बिल्ली मौसी",
+            rhymeId: "billi-mausi",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "बिल्ली मौसी बिल्ली मौसी कहाँ चली",
+          "emoji": "🐱"
+          },
+          {
+          "line": "दूध की कटोरी लेकर बाहर चली",
+          "emoji": "🥛"
+          },
+          {
+          "line": "म्याऊँ म्याऊँ करती जाए",
+          "emoji": "😺"
+          },
+          {
+          "line": "पूँछ हिलाकर नाचती आए",
+          "emoji": "💃"
+          },
+          {
+          "line": "चूहा देखा भागी भागी",
+          "emoji": "🐭"
+          },
+          {
+          "line": "मूँछें फैला दौड़ी आगी",
+          "emoji": "😼"
+          },
+          {
+          "line": "चूहा भागा बिल में जाकर",
+          "emoji": "🕳️"
+          },
+          {
+          "line": "बिल्ली बैठी मुँह लटकाकर",
+          "emoji": "😿"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["farm"].top,
+            bottomColor: THEME_COLORS["farm"].bottom,
+            accentEmoji: THEME_COLORS["farm"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiChuheRaja"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "चूहे राजा",
+            rhymeId: "chuhe-raja",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "चूहे राजा चूहे राजा",
+          "emoji": "🐭"
+          },
+          {
+          "line": "तुम तो हो बड़े मज़ेदार",
+          "emoji": "😄"
+          },
+          {
+          "line": "बिल में रहते छुपकर तुम",
+          "emoji": "🕳️"
+          },
+          {
+          "line": "रात को निकलो चुपके से",
+          "emoji": "🌙"
+          },
+          {
+          "line": "रोटी लेकर भागो चुपके",
+          "emoji": "🍞"
+          },
+          {
+          "line": "बिल्ली आए तो छुपके",
+          "emoji": "🐱"
+          },
+          {
+          "line": "चूहे राजा भागो भागो",
+          "emoji": "🏃"
+          },
+          {
+          "line": "बिल्ली आई जागो जागो",
+          "emoji": "⚡"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiChuheRajaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "चूहे राजा",
+            rhymeId: "chuhe-raja",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "चूहे राजा चूहे राजा",
+          "emoji": "🐭"
+          },
+          {
+          "line": "तुम तो हो बड़े मज़ेदार",
+          "emoji": "😄"
+          },
+          {
+          "line": "बिल में रहते छुपकर तुम",
+          "emoji": "🕳️"
+          },
+          {
+          "line": "रात को निकलो चुपके से",
+          "emoji": "🌙"
+          },
+          {
+          "line": "रोटी लेकर भागो चुपके",
+          "emoji": "🍞"
+          },
+          {
+          "line": "बिल्ली आए तो छुपके",
+          "emoji": "🐱"
+          },
+          {
+          "line": "चूहे राजा भागो भागो",
+          "emoji": "🏃"
+          },
+          {
+          "line": "बिल्ली आई जागो जागो",
+          "emoji": "⚡"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["farm"].top,
+            bottomColor: THEME_COLORS["farm"].bottom,
+            accentEmoji: THEME_COLORS["farm"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiBakriChali"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "बकरी चली बाज़ार",
+            rhymeId: "bakri-chali",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "बकरी चली बाज़ार को",
+          "emoji": "🐐"
+          },
+          {
+          "line": "लेने सब्ज़ी हार को",
+          "emoji": "🥬"
+          },
+          {
+          "line": "मैं मैं करती जाए वो",
+          "emoji": "🗣️"
+          },
+          {
+          "line": "सबको हँसाती जाए वो",
+          "emoji": "😂"
+          },
+          {
+          "line": "गाजर मूली लेकर आई",
+          "emoji": "🥕"
+          },
+          {
+          "line": "घर में सबको बाँट खिलाई",
+          "emoji": "🏠"
+          },
+          {
+          "line": "बकरी रानी बड़ी सयानी",
+          "emoji": "👑"
+          },
+          {
+          "line": "सबकी प्यारी सबकी नानी",
+          "emoji": "💕"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiBakriChaliShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "बकरी चली बाज़ार",
+            rhymeId: "bakri-chali",
+            theme: "farm" as RhymeTheme,
+            verses: [
+          {
+          "line": "बकरी चली बाज़ार को",
+          "emoji": "🐐"
+          },
+          {
+          "line": "लेने सब्ज़ी हार को",
+          "emoji": "🥬"
+          },
+          {
+          "line": "मैं मैं करती जाए वो",
+          "emoji": "🗣️"
+          },
+          {
+          "line": "सबको हँसाती जाए वो",
+          "emoji": "😂"
+          },
+          {
+          "line": "गाजर मूली लेकर आई",
+          "emoji": "🥕"
+          },
+          {
+          "line": "घर में सबको बाँट खिलाई",
+          "emoji": "🏠"
+          },
+          {
+          "line": "बकरी रानी बड़ी सयानी",
+          "emoji": "👑"
+          },
+          {
+          "line": "सबकी प्यारी सबकी नानी",
+          "emoji": "💕"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["farm"].top,
+            bottomColor: THEME_COLORS["farm"].bottom,
+            accentEmoji: THEME_COLORS["farm"].emoji,
+          }}
+        />
+      </Folder>
+      <Folder name="Hindi-Forest-Friends">
+        <Composition
+          id="HindiJungleJungle"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "जंगल जंगल बात चली है",
+            rhymeId: "jungle-jungle",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "जंगल जंगल बात चली है",
+          "emoji": "🌴"
+          },
+          {
+          "line": "पता चला है पता चला है",
+          "emoji": "📢"
+          },
+          {
+          "line": "अरे छोटा भीम आता है",
+          "emoji": "🐻"
+          },
+          {
+          "line": "जंगल में सबको हँसाता है",
+          "emoji": "😄"
+          },
+          {
+          "line": "शेर भालू और बंदर सारे",
+          "emoji": "🦁"
+          },
+          {
+          "line": "जंगल के हैं वासी प्यारे",
+          "emoji": "🌿"
+          },
+          {
+          "line": "मिलजुल कर सब रहते हैं",
+          "emoji": "🤝"
+          },
+          {
+          "line": "ख़ुशी ख़ुशी से कहते हैं",
+          "emoji": "🎶"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiJungleJungleShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "जंगल जंगल बात चली है",
+            rhymeId: "jungle-jungle",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "जंगल जंगल बात चली है",
+          "emoji": "🌴"
+          },
+          {
+          "line": "पता चला है पता चला है",
+          "emoji": "📢"
+          },
+          {
+          "line": "अरे छोटा भीम आता है",
+          "emoji": "🐻"
+          },
+          {
+          "line": "जंगल में सबको हँसाता है",
+          "emoji": "😄"
+          },
+          {
+          "line": "शेर भालू और बंदर सारे",
+          "emoji": "🦁"
+          },
+          {
+          "line": "जंगल के हैं वासी प्यारे",
+          "emoji": "🌿"
+          },
+          {
+          "line": "मिलजुल कर सब रहते हैं",
+          "emoji": "🤝"
+          },
+          {
+          "line": "ख़ुशी ख़ुशी से कहते हैं",
+          "emoji": "🎶"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["forest"].top,
+            bottomColor: THEME_COLORS["forest"].bottom,
+            accentEmoji: THEME_COLORS["forest"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiSherAaya"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "शेर आया शेर",
+            rhymeId: "sher-aaya",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "शेर आया शेर आया भागो भागो",
+          "emoji": "🦁"
+          },
+          {
+          "line": "दहाड़ सुनकर सब डर जाएं",
+          "emoji": "😱"
+          },
+          {
+          "line": "जंगल का राजा है शेर",
+          "emoji": "👑"
+          },
+          {
+          "line": "सबसे ताक़तवर है शेर",
+          "emoji": "💪"
+          },
+          {
+          "line": "बड़े बड़े पंजे बड़ी दहाड़",
+          "emoji": "🐾"
+          },
+          {
+          "line": "सबसे निराला उसका अंदाज़",
+          "emoji": "😎"
+          },
+          {
+          "line": "पर बच्चों से डरो नहीं",
+          "emoji": "🧒"
+          },
+          {
+          "line": "शेर है प्यारा बुरा नहीं",
+          "emoji": "❤️"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiSherAayaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "शेर आया शेर",
+            rhymeId: "sher-aaya",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "शेर आया शेर आया भागो भागो",
+          "emoji": "🦁"
+          },
+          {
+          "line": "दहाड़ सुनकर सब डर जाएं",
+          "emoji": "😱"
+          },
+          {
+          "line": "जंगल का राजा है शेर",
+          "emoji": "👑"
+          },
+          {
+          "line": "सबसे ताक़तवर है शेर",
+          "emoji": "💪"
+          },
+          {
+          "line": "बड़े बड़े पंजे बड़ी दहाड़",
+          "emoji": "🐾"
+          },
+          {
+          "line": "सबसे निराला उसका अंदाज़",
+          "emoji": "😎"
+          },
+          {
+          "line": "पर बच्चों से डरो नहीं",
+          "emoji": "🧒"
+          },
+          {
+          "line": "शेर है प्यारा बुरा नहीं",
+          "emoji": "❤️"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["forest"].top,
+            bottomColor: THEME_COLORS["forest"].bottom,
+            accentEmoji: THEME_COLORS["forest"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiHathiRaja"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "हाथी राजा बहुत बड़े",
+            rhymeId: "hathi-raja",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "हाथी राजा बहुत बड़े",
+          "emoji": "🐘"
+          },
+          {
+          "line": "सूँड़ उठाकर खूब खड़े",
+          "emoji": "🦣"
+          },
+          {
+          "line": "कान हिलाएं पंखे जैसे",
+          "emoji": "👂"
+          },
+          {
+          "line": "चलें धम धम ताल से जैसे",
+          "emoji": "🎵"
+          },
+          {
+          "line": "हाथी राजा कहाँ चले",
+          "emoji": "🚶"
+          },
+          {
+          "line": "बाग़ में सेब तोड़ने चले",
+          "emoji": "🍎"
+          },
+          {
+          "line": "सूँड़ से सेब तोड़ कर खाएं",
+          "emoji": "😋"
+          },
+          {
+          "line": "मस्ती में झूम के जाएं",
+          "emoji": "💃"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiHathiRajaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "हाथी राजा बहुत बड़े",
+            rhymeId: "hathi-raja",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "हाथी राजा बहुत बड़े",
+          "emoji": "🐘"
+          },
+          {
+          "line": "सूँड़ उठाकर खूब खड़े",
+          "emoji": "🦣"
+          },
+          {
+          "line": "कान हिलाएं पंखे जैसे",
+          "emoji": "👂"
+          },
+          {
+          "line": "चलें धम धम ताल से जैसे",
+          "emoji": "🎵"
+          },
+          {
+          "line": "हाथी राजा कहाँ चले",
+          "emoji": "🚶"
+          },
+          {
+          "line": "बाग़ में सेब तोड़ने चले",
+          "emoji": "🍎"
+          },
+          {
+          "line": "सूँड़ से सेब तोड़ कर खाएं",
+          "emoji": "😋"
+          },
+          {
+          "line": "मस्ती में झूम के जाएं",
+          "emoji": "💃"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["forest"].top,
+            bottomColor: THEME_COLORS["forest"].bottom,
+            accentEmoji: THEME_COLORS["forest"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiEkMotaHathi"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "एक मोटा हाथी",
+            rhymeId: "ek-mota-hathi",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "एक मोटा हाथी झूम के चला",
+          "emoji": "🐘"
+          },
+          {
+          "line": "सबको देख के मुस्काए वो भला",
+          "emoji": "😊"
+          },
+          {
+          "line": "सूँड़ में पानी भरकर लाया",
+          "emoji": "💦"
+          },
+          {
+          "line": "बच्चों पर छिड़क के हँसाया",
+          "emoji": "😂"
+          },
+          {
+          "line": "गन्ना खाए केला खाए",
+          "emoji": "🍌"
+          },
+          {
+          "line": "मोटा पेट और मोटे पाँव हिलाए",
+          "emoji": "🦶"
+          },
+          {
+          "line": "धम धम धम करता जाए",
+          "emoji": "🔊"
+          },
+          {
+          "line": "जंगल में ख़ुशी मनाए",
+          "emoji": "🎉"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiEkMotaHathiShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "एक मोटा हाथी",
+            rhymeId: "ek-mota-hathi",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "एक मोटा हाथी झूम के चला",
+          "emoji": "🐘"
+          },
+          {
+          "line": "सबको देख के मुस्काए वो भला",
+          "emoji": "😊"
+          },
+          {
+          "line": "सूँड़ में पानी भरकर लाया",
+          "emoji": "💦"
+          },
+          {
+          "line": "बच्चों पर छिड़क के हँसाया",
+          "emoji": "😂"
+          },
+          {
+          "line": "गन्ना खाए केला खाए",
+          "emoji": "🍌"
+          },
+          {
+          "line": "मोटा पेट और मोटे पाँव हिलाए",
+          "emoji": "🦶"
+          },
+          {
+          "line": "धम धम धम करता जाए",
+          "emoji": "🔊"
+          },
+          {
+          "line": "जंगल में ख़ुशी मनाए",
+          "emoji": "🎉"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["forest"].top,
+            bottomColor: THEME_COLORS["forest"].bottom,
+            accentEmoji: THEME_COLORS["forest"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiBandarKiDukan"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "बंदर ने खोली दुकान",
+            rhymeId: "bandar-ki-dukan",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "बंदर ने खोली दुकान",
+          "emoji": "🐒"
+          },
+          {
+          "line": "बेचे केले और गन्ने महान",
+          "emoji": "🍌"
+          },
+          {
+          "line": "भालू आया खरीदने को",
+          "emoji": "🐻"
+          },
+          {
+          "line": "खरगोश आया गाजर लेने को",
+          "emoji": "🐰"
+          },
+          {
+          "line": "हाथी भैया भी आ गए",
+          "emoji": "🐘"
+          },
+          {
+          "line": "सबने मिलकर ख़ूब खाए",
+          "emoji": "😋"
+          },
+          {
+          "line": "बंदर की दुकान चमकी",
+          "emoji": "✨"
+          },
+          {
+          "line": "जंगल में धूम मची",
+          "emoji": "🎊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiBandarKiDukanShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "बंदर ने खोली दुकान",
+            rhymeId: "bandar-ki-dukan",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "बंदर ने खोली दुकान",
+          "emoji": "🐒"
+          },
+          {
+          "line": "बेचे केले और गन्ने महान",
+          "emoji": "🍌"
+          },
+          {
+          "line": "भालू आया खरीदने को",
+          "emoji": "🐻"
+          },
+          {
+          "line": "खरगोश आया गाजर लेने को",
+          "emoji": "🐰"
+          },
+          {
+          "line": "हाथी भैया भी आ गए",
+          "emoji": "🐘"
+          },
+          {
+          "line": "सबने मिलकर ख़ूब खाए",
+          "emoji": "😋"
+          },
+          {
+          "line": "बंदर की दुकान चमकी",
+          "emoji": "✨"
+          },
+          {
+          "line": "जंगल में धूम मची",
+          "emoji": "🎊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["forest"].top,
+            bottomColor: THEME_COLORS["forest"].bottom,
+            accentEmoji: THEME_COLORS["forest"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiKhargoshAurKachua"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "खरगोश और कछुआ",
+            rhymeId: "khargosh-aur-kachua",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "खरगोश और कछुआ दौड़ लगाएं",
+          "emoji": "🐰"
+          },
+          {
+          "line": "कौन जीतेगा कौन बताए",
+          "emoji": "🏁"
+          },
+          {
+          "line": "खरगोश भागा तेज़ हवा सा",
+          "emoji": "💨"
+          },
+          {
+          "line": "कछुआ चला धीरे बच्चा सा",
+          "emoji": "🐢"
+          },
+          {
+          "line": "खरगोश ने सोचा सो जाऊँ",
+          "emoji": "😴"
+          },
+          {
+          "line": "थोड़ा आराम करके उठ जाऊँ",
+          "emoji": "🛌"
+          },
+          {
+          "line": "कछुआ चलता गया लगातार",
+          "emoji": "🚶"
+          },
+          {
+          "line": "कछुआ जीता ये था करिश्मा यार",
+          "emoji": "🏆"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiKhargoshAurKachuaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "खरगोश और कछुआ",
+            rhymeId: "khargosh-aur-kachua",
+            theme: "forest" as RhymeTheme,
+            verses: [
+          {
+          "line": "खरगोश और कछुआ दौड़ लगाएं",
+          "emoji": "🐰"
+          },
+          {
+          "line": "कौन जीतेगा कौन बताए",
+          "emoji": "🏁"
+          },
+          {
+          "line": "खरगोश भागा तेज़ हवा सा",
+          "emoji": "💨"
+          },
+          {
+          "line": "कछुआ चला धीरे बच्चा सा",
+          "emoji": "🐢"
+          },
+          {
+          "line": "खरगोश ने सोचा सो जाऊँ",
+          "emoji": "😴"
+          },
+          {
+          "line": "थोड़ा आराम करके उठ जाऊँ",
+          "emoji": "🛌"
+          },
+          {
+          "line": "कछुआ चलता गया लगातार",
+          "emoji": "🚶"
+          },
+          {
+          "line": "कछुआ जीता ये था करिश्मा यार",
+          "emoji": "🏆"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["forest"].top,
+            bottomColor: THEME_COLORS["forest"].bottom,
+            accentEmoji: THEME_COLORS["forest"].emoji,
+          }}
+        />
+      </Folder>
+      <Folder name="Hindi-Garden-Nature">
+        <Composition
+          id="HindiTitliUdi"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "तितली उड़ी",
+            rhymeId: "titli-udi",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "तितली उड़ी बस में चढ़ी",
+          "emoji": "🦋"
+          },
+          {
+          "line": "हवा आई तितली उड़ी",
+          "emoji": "🌬️"
+          },
+          {
+          "line": "रंग बिरंगे पंख हैं इसके",
+          "emoji": "🎨"
+          },
+          {
+          "line": "फूल फूल पर बैठे किसके",
+          "emoji": "🌸"
+          },
+          {
+          "line": "लाल गुलाबी पीली नीली",
+          "emoji": "🌺"
+          },
+          {
+          "line": "तितली रानी बड़ी रंगीली",
+          "emoji": "👸"
+          },
+          {
+          "line": "बगीचे में घूमती जाए",
+          "emoji": "🏡"
+          },
+          {
+          "line": "फूलों से मीठी बात सुनाए",
+          "emoji": "💐"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiTitliUdiShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "तितली उड़ी",
+            rhymeId: "titli-udi",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "तितली उड़ी बस में चढ़ी",
+          "emoji": "🦋"
+          },
+          {
+          "line": "हवा आई तितली उड़ी",
+          "emoji": "🌬️"
+          },
+          {
+          "line": "रंग बिरंगे पंख हैं इसके",
+          "emoji": "🎨"
+          },
+          {
+          "line": "फूल फूल पर बैठे किसके",
+          "emoji": "🌸"
+          },
+          {
+          "line": "लाल गुलाबी पीली नीली",
+          "emoji": "🌺"
+          },
+          {
+          "line": "तितली रानी बड़ी रंगीली",
+          "emoji": "👸"
+          },
+          {
+          "line": "बगीचे में घूमती जाए",
+          "emoji": "🏡"
+          },
+          {
+          "line": "फूलों से मीठी बात सुनाए",
+          "emoji": "💐"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["garden"].top,
+            bottomColor: THEME_COLORS["garden"].bottom,
+            accentEmoji: THEME_COLORS["garden"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiChampaChameli"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "चंपा चमेली",
+            rhymeId: "champa-chameli",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "चंपा चमेली गेंदा जूही",
+          "emoji": "🌼"
+          },
+          {
+          "line": "फूलों की बगिया कितनी सुंदर",
+          "emoji": "🌺"
+          },
+          {
+          "line": "गुलाब लाल खिला है देखो",
+          "emoji": "🌹"
+          },
+          {
+          "line": "सूरजमुखी भी खिला है देखो",
+          "emoji": "🌻"
+          },
+          {
+          "line": "भँवरा गाए गुनगुन गुनगुन",
+          "emoji": "🐝"
+          },
+          {
+          "line": "फूलों पर जाए चुनचुन चुनचुन",
+          "emoji": "🦋"
+          },
+          {
+          "line": "खुशबू फैले चारों ओर",
+          "emoji": "💨"
+          },
+          {
+          "line": "फूलों से सजा ये सुंदर ठौर",
+          "emoji": "🌷"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiChampaChameliShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "चंपा चमेली",
+            rhymeId: "champa-chameli",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "चंपा चमेली गेंदा जूही",
+          "emoji": "🌼"
+          },
+          {
+          "line": "फूलों की बगिया कितनी सुंदर",
+          "emoji": "🌺"
+          },
+          {
+          "line": "गुलाब लाल खिला है देखो",
+          "emoji": "🌹"
+          },
+          {
+          "line": "सूरजमुखी भी खिला है देखो",
+          "emoji": "🌻"
+          },
+          {
+          "line": "भँवरा गाए गुनगुन गुनगुन",
+          "emoji": "🐝"
+          },
+          {
+          "line": "फूलों पर जाए चुनचुन चुनचुन",
+          "emoji": "🦋"
+          },
+          {
+          "line": "खुशबू फैले चारों ओर",
+          "emoji": "💨"
+          },
+          {
+          "line": "फूलों से सजा ये सुंदर ठौर",
+          "emoji": "🌷"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["garden"].top,
+            bottomColor: THEME_COLORS["garden"].bottom,
+            accentEmoji: THEME_COLORS["garden"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiKoyal"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "कोयल",
+            rhymeId: "koyal",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "कोयल रानी कोयल रानी",
+          "emoji": "🐦‍⬛"
+          },
+          {
+          "line": "मीठी बोली मीठी बानी",
+          "emoji": "🎵"
+          },
+          {
+          "line": "कूकू कूकू गाना गाए",
+          "emoji": "🎶"
+          },
+          {
+          "line": "आम के पेड़ पर आन बिराजे",
+          "emoji": "🥭"
+          },
+          {
+          "line": "काली काली सुंदर कोयल",
+          "emoji": "🖤"
+          },
+          {
+          "line": "गीत सुनाती मीठे बोल",
+          "emoji": "🗣️"
+          },
+          {
+          "line": "बसंत आए तो गाए ख़ूब",
+          "emoji": "🌸"
+          },
+          {
+          "line": "सबका दिल बहलाए ख़ूब",
+          "emoji": "💕"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiKoyalShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "कोयल",
+            rhymeId: "koyal",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "कोयल रानी कोयल रानी",
+          "emoji": "🐦‍⬛"
+          },
+          {
+          "line": "मीठी बोली मीठी बानी",
+          "emoji": "🎵"
+          },
+          {
+          "line": "कूकू कूकू गाना गाए",
+          "emoji": "🎶"
+          },
+          {
+          "line": "आम के पेड़ पर आन बिराजे",
+          "emoji": "🥭"
+          },
+          {
+          "line": "काली काली सुंदर कोयल",
+          "emoji": "🖤"
+          },
+          {
+          "line": "गीत सुनाती मीठे बोल",
+          "emoji": "🗣️"
+          },
+          {
+          "line": "बसंत आए तो गाए ख़ूब",
+          "emoji": "🌸"
+          },
+          {
+          "line": "सबका दिल बहलाए ख़ूब",
+          "emoji": "💕"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["garden"].top,
+            bottomColor: THEME_COLORS["garden"].bottom,
+            accentEmoji: THEME_COLORS["garden"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiChidiyaRani"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "चिड़िया रानी",
+            rhymeId: "chidiya-rani",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "चिड़िया रानी बड़ी सयानी",
+          "emoji": "🐦"
+          },
+          {
+          "line": "दाना चुगती पीती पानी",
+          "emoji": "💧"
+          },
+          {
+          "line": "चीं चीं चीं करती है गाना",
+          "emoji": "🎵"
+          },
+          {
+          "line": "पेड़ की डाली है उसका ठिकाना",
+          "emoji": "🌳"
+          },
+          {
+          "line": "तिनका तिनका जोड़ के लाई",
+          "emoji": "🪹"
+          },
+          {
+          "line": "प्यारा सा एक घोंसला बनाई",
+          "emoji": "🪺"
+          },
+          {
+          "line": "अंडे दिए छोटे छोटे",
+          "emoji": "🥚"
+          },
+          {
+          "line": "बच्चे निकले गोल मटोल",
+          "emoji": "🐥"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiChidiyaRaniShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "चिड़िया रानी",
+            rhymeId: "chidiya-rani",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "चिड़िया रानी बड़ी सयानी",
+          "emoji": "🐦"
+          },
+          {
+          "line": "दाना चुगती पीती पानी",
+          "emoji": "💧"
+          },
+          {
+          "line": "चीं चीं चीं करती है गाना",
+          "emoji": "🎵"
+          },
+          {
+          "line": "पेड़ की डाली है उसका ठिकाना",
+          "emoji": "🌳"
+          },
+          {
+          "line": "तिनका तिनका जोड़ के लाई",
+          "emoji": "🪹"
+          },
+          {
+          "line": "प्यारा सा एक घोंसला बनाई",
+          "emoji": "🪺"
+          },
+          {
+          "line": "अंडे दिए छोटे छोटे",
+          "emoji": "🥚"
+          },
+          {
+          "line": "बच्चे निकले गोल मटोल",
+          "emoji": "🐥"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["garden"].top,
+            bottomColor: THEME_COLORS["garden"].bottom,
+            accentEmoji: THEME_COLORS["garden"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiPhoolonKaBagicha"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "फूलों का बगीचा",
+            rhymeId: "phoolon-ka-bagicha",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "फूलों का बगीचा कितना प्यारा",
+          "emoji": "🌷"
+          },
+          {
+          "line": "लगता है ये दुनिया का नज़ारा",
+          "emoji": "🌍"
+          },
+          {
+          "line": "लाल गुलाबी पीले फूल",
+          "emoji": "🌹"
+          },
+          {
+          "line": "हरी हरी पत्तियाँ और धूल",
+          "emoji": "🌿"
+          },
+          {
+          "line": "तितली भँवरा आते जाते",
+          "emoji": "🦋"
+          },
+          {
+          "line": "फूलों से रस मीठा पाते",
+          "emoji": "🍯"
+          },
+          {
+          "line": "सुबह सवेरे फूल खिलें",
+          "emoji": "🌅"
+          },
+          {
+          "line": "खुशबू से सब दिल मिलें",
+          "emoji": "💐"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiPhoolonKaBagichaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "फूलों का बगीचा",
+            rhymeId: "phoolon-ka-bagicha",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "फूलों का बगीचा कितना प्यारा",
+          "emoji": "🌷"
+          },
+          {
+          "line": "लगता है ये दुनिया का नज़ारा",
+          "emoji": "🌍"
+          },
+          {
+          "line": "लाल गुलाबी पीले फूल",
+          "emoji": "🌹"
+          },
+          {
+          "line": "हरी हरी पत्तियाँ और धूल",
+          "emoji": "🌿"
+          },
+          {
+          "line": "तितली भँवरा आते जाते",
+          "emoji": "🦋"
+          },
+          {
+          "line": "फूलों से रस मीठा पाते",
+          "emoji": "🍯"
+          },
+          {
+          "line": "सुबह सवेरे फूल खिलें",
+          "emoji": "🌅"
+          },
+          {
+          "line": "खुशबू से सब दिल मिलें",
+          "emoji": "💐"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["garden"].top,
+            bottomColor: THEME_COLORS["garden"].bottom,
+            accentEmoji: THEME_COLORS["garden"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiTotaMaina"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "तोता मैना",
+            rhymeId: "tota-maina",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "तोता मैना की जोड़ी प्यारी",
+          "emoji": "🦜"
+          },
+          {
+          "line": "दोनों करें मस्ती भारी",
+          "emoji": "🎉"
+          },
+          {
+          "line": "तोता बोले मिट्ठू मिट्ठू",
+          "emoji": "🗣️"
+          },
+          {
+          "line": "हरे हरे पंखों वाला बिट्टू",
+          "emoji": "💚"
+          },
+          {
+          "line": "मैना गाए मीठे गाने",
+          "emoji": "🎵"
+          },
+          {
+          "line": "सबको लगते बड़े सुहाने",
+          "emoji": "😊"
+          },
+          {
+          "line": "पेड़ पर बैठें दोनों साथ",
+          "emoji": "🌳"
+          },
+          {
+          "line": "गीत सुनाएं सब के साथ",
+          "emoji": "🎶"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiTotaMainaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "तोता मैना",
+            rhymeId: "tota-maina",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "तोता मैना की जोड़ी प्यारी",
+          "emoji": "🦜"
+          },
+          {
+          "line": "दोनों करें मस्ती भारी",
+          "emoji": "🎉"
+          },
+          {
+          "line": "तोता बोले मिट्ठू मिट्ठू",
+          "emoji": "🗣️"
+          },
+          {
+          "line": "हरे हरे पंखों वाला बिट्टू",
+          "emoji": "💚"
+          },
+          {
+          "line": "मैना गाए मीठे गाने",
+          "emoji": "🎵"
+          },
+          {
+          "line": "सबको लगते बड़े सुहाने",
+          "emoji": "😊"
+          },
+          {
+          "line": "पेड़ पर बैठें दोनों साथ",
+          "emoji": "🌳"
+          },
+          {
+          "line": "गीत सुनाएं सब के साथ",
+          "emoji": "🎶"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["garden"].top,
+            bottomColor: THEME_COLORS["garden"].bottom,
+            accentEmoji: THEME_COLORS["garden"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiRangBirangiTitliyan"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "रंग बिरंगी तितलियाँ",
+            rhymeId: "rang-birangi-titliyan",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "रंग बिरंगी तितलियाँ आईं",
+          "emoji": "🦋"
+          },
+          {
+          "line": "बगीचे में ख़ूब सजाईं",
+          "emoji": "🌺"
+          },
+          {
+          "line": "पीली तितली पीले फूल पर",
+          "emoji": "💛"
+          },
+          {
+          "line": "लाल तितली गुलाब के ऊपर",
+          "emoji": "❤️"
+          },
+          {
+          "line": "नीली तितली आसमान सी",
+          "emoji": "💙"
+          },
+          {
+          "line": "सफ़ेद तितली चाँदनी सी",
+          "emoji": "🤍"
+          },
+          {
+          "line": "उड़ती फिरती इधर उधर",
+          "emoji": "🌬️"
+          },
+          {
+          "line": "सबका मन करतीं मगन",
+          "emoji": "😊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiRangBirangiTitliyanShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "रंग बिरंगी तितलियाँ",
+            rhymeId: "rang-birangi-titliyan",
+            theme: "garden" as RhymeTheme,
+            verses: [
+          {
+          "line": "रंग बिरंगी तितलियाँ आईं",
+          "emoji": "🦋"
+          },
+          {
+          "line": "बगीचे में ख़ूब सजाईं",
+          "emoji": "🌺"
+          },
+          {
+          "line": "पीली तितली पीले फूल पर",
+          "emoji": "💛"
+          },
+          {
+          "line": "लाल तितली गुलाब के ऊपर",
+          "emoji": "❤️"
+          },
+          {
+          "line": "नीली तितली आसमान सी",
+          "emoji": "💙"
+          },
+          {
+          "line": "सफ़ेद तितली चाँदनी सी",
+          "emoji": "🤍"
+          },
+          {
+          "line": "उड़ती फिरती इधर उधर",
+          "emoji": "🌬️"
+          },
+          {
+          "line": "सबका मन करतीं मगन",
+          "emoji": "😊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["garden"].top,
+            bottomColor: THEME_COLORS["garden"].bottom,
+            accentEmoji: THEME_COLORS["garden"].emoji,
+          }}
+        />
+      </Folder>
+      <Folder name="Hindi-Night-Sky">
+        <Composition
+          id="HindiChandaMama"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "चंदा मामा दूर के",
+            rhymeId: "chanda-mama",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "चंदा मामा दूर के",
+          "emoji": "🌙"
+          },
+          {
+          "line": "पूए पकाएं बूर के",
+          "emoji": "🍪"
+          },
+          {
+          "line": "आप खाएं थाली में",
+          "emoji": "🍽️"
+          },
+          {
+          "line": "मुन्ने को दें प्याली में",
+          "emoji": "🥛"
+          },
+          {
+          "line": "प्याली गई टूट",
+          "emoji": "💔"
+          },
+          {
+          "line": "मुन्ना गया रूठ",
+          "emoji": "😢"
+          },
+          {
+          "line": "चंदा मामा आओ ना",
+          "emoji": "✨"
+          },
+          {
+          "line": "एक फूल लाओ ना",
+          "emoji": "🌸"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiChandaMamaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "चंदा मामा दूर के",
+            rhymeId: "chanda-mama",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "चंदा मामा दूर के",
+          "emoji": "🌙"
+          },
+          {
+          "line": "पूए पकाएं बूर के",
+          "emoji": "🍪"
+          },
+          {
+          "line": "आप खाएं थाली में",
+          "emoji": "🍽️"
+          },
+          {
+          "line": "मुन्ने को दें प्याली में",
+          "emoji": "🥛"
+          },
+          {
+          "line": "प्याली गई टूट",
+          "emoji": "💔"
+          },
+          {
+          "line": "मुन्ना गया रूठ",
+          "emoji": "😢"
+          },
+          {
+          "line": "चंदा मामा आओ ना",
+          "emoji": "✨"
+          },
+          {
+          "line": "एक फूल लाओ ना",
+          "emoji": "🌸"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["night"].top,
+            bottomColor: THEME_COLORS["night"].bottom,
+            accentEmoji: THEME_COLORS["night"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiTaronKiDuniya"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "तारों की दुनिया",
+            rhymeId: "taron-ki-duniya",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "तारों की दुनिया है प्यारी",
+          "emoji": "⭐"
+          },
+          {
+          "line": "चमके रात अँधेरी सारी",
+          "emoji": "✨"
+          },
+          {
+          "line": "एक दो तीन चार पाँच",
+          "emoji": "🔢"
+          },
+          {
+          "line": "तारे करते मीठी नाच",
+          "emoji": "💫"
+          },
+          {
+          "line": "टिमटिम टिमटिम करते जाएं",
+          "emoji": "🌟"
+          },
+          {
+          "line": "आसमान में खूब सजाएं",
+          "emoji": "🌌"
+          },
+          {
+          "line": "नन्हें मुन्ने देखो ज़रा",
+          "emoji": "👶"
+          },
+          {
+          "line": "तारों ने सजाया जग सारा",
+          "emoji": "🌠"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiTaronKiDuniyaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "तारों की दुनिया",
+            rhymeId: "taron-ki-duniya",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "तारों की दुनिया है प्यारी",
+          "emoji": "⭐"
+          },
+          {
+          "line": "चमके रात अँधेरी सारी",
+          "emoji": "✨"
+          },
+          {
+          "line": "एक दो तीन चार पाँच",
+          "emoji": "🔢"
+          },
+          {
+          "line": "तारे करते मीठी नाच",
+          "emoji": "💫"
+          },
+          {
+          "line": "टिमटिम टिमटिम करते जाएं",
+          "emoji": "🌟"
+          },
+          {
+          "line": "आसमान में खूब सजाएं",
+          "emoji": "🌌"
+          },
+          {
+          "line": "नन्हें मुन्ने देखो ज़रा",
+          "emoji": "👶"
+          },
+          {
+          "line": "तारों ने सजाया जग सारा",
+          "emoji": "🌠"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["night"].top,
+            bottomColor: THEME_COLORS["night"].bottom,
+            accentEmoji: THEME_COLORS["night"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiSoJaRajkumari"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "सो जा मेरी लाडली",
+            rhymeId: "so-ja-rajkumari",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "सो जा मेरी लाडली",
+          "emoji": "😴"
+          },
+          {
+          "line": "आँखें बंद कर ले तू",
+          "emoji": "👀"
+          },
+          {
+          "line": "चंदा मामा आएँगे",
+          "emoji": "🌙"
+          },
+          {
+          "line": "लोरी मीठी गाएँगे",
+          "emoji": "🎵"
+          },
+          {
+          "line": "तारे भी सो जाएँगे",
+          "emoji": "⭐"
+          },
+          {
+          "line": "सपनों में ले जाएँगे",
+          "emoji": "💭"
+          },
+          {
+          "line": "नींद की परी आएगी",
+          "emoji": "🧚"
+          },
+          {
+          "line": "मीठे सपने लाएगी",
+          "emoji": "🌈"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiSoJaRajkumariShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "सो जा मेरी लाडली",
+            rhymeId: "so-ja-rajkumari",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "सो जा मेरी लाडली",
+          "emoji": "😴"
+          },
+          {
+          "line": "आँखें बंद कर ले तू",
+          "emoji": "👀"
+          },
+          {
+          "line": "चंदा मामा आएँगे",
+          "emoji": "🌙"
+          },
+          {
+          "line": "लोरी मीठी गाएँगे",
+          "emoji": "🎵"
+          },
+          {
+          "line": "तारे भी सो जाएँगे",
+          "emoji": "⭐"
+          },
+          {
+          "line": "सपनों में ले जाएँगे",
+          "emoji": "💭"
+          },
+          {
+          "line": "नींद की परी आएगी",
+          "emoji": "🧚"
+          },
+          {
+          "line": "मीठे सपने लाएगी",
+          "emoji": "🌈"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["night"].top,
+            bottomColor: THEME_COLORS["night"].bottom,
+            accentEmoji: THEME_COLORS["night"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiNanhiPari"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "नन्ही परी",
+            rhymeId: "nanhi-pari",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "नन्ही परी आसमान से आई",
+          "emoji": "🧚"
+          },
+          {
+          "line": "संग में अपने चाँदनी लाई",
+          "emoji": "🌙"
+          },
+          {
+          "line": "पंख हैं उसके चमकीले",
+          "emoji": "✨"
+          },
+          {
+          "line": "रंग बिरंगे रेशमी पीले",
+          "emoji": "🌟"
+          },
+          {
+          "line": "जादू की छड़ी घुमाए",
+          "emoji": "🪄"
+          },
+          {
+          "line": "सबको प्यारे सपने दे जाए",
+          "emoji": "💫"
+          },
+          {
+          "line": "सुबह होते ही उड़ जाए",
+          "emoji": "🦋"
+          },
+          {
+          "line": "फिर से रात को आए",
+          "emoji": "🌃"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiNanhiPariShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "नन्ही परी",
+            rhymeId: "nanhi-pari",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "नन्ही परी आसमान से आई",
+          "emoji": "🧚"
+          },
+          {
+          "line": "संग में अपने चाँदनी लाई",
+          "emoji": "🌙"
+          },
+          {
+          "line": "पंख हैं उसके चमकीले",
+          "emoji": "✨"
+          },
+          {
+          "line": "रंग बिरंगे रेशमी पीले",
+          "emoji": "🌟"
+          },
+          {
+          "line": "जादू की छड़ी घुमाए",
+          "emoji": "🪄"
+          },
+          {
+          "line": "सबको प्यारे सपने दे जाए",
+          "emoji": "💫"
+          },
+          {
+          "line": "सुबह होते ही उड़ जाए",
+          "emoji": "🦋"
+          },
+          {
+          "line": "फिर से रात को आए",
+          "emoji": "🌃"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["night"].top,
+            bottomColor: THEME_COLORS["night"].bottom,
+            accentEmoji: THEME_COLORS["night"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiJugnu"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "जुगनू",
+            rhymeId: "jugnu",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "जुगनू जुगनू जग मग जग मग",
+          "emoji": "✨"
+          },
+          {
+          "line": "रात अँधेरी में तू दमदम",
+          "emoji": "🌃"
+          },
+          {
+          "line": "टिमटिम टिमटिम करता जाए",
+          "emoji": "💡"
+          },
+          {
+          "line": "अँधियारे में रोशनी लाए",
+          "emoji": "🔦"
+          },
+          {
+          "line": "छोटा सा तू दीपक प्यारा",
+          "emoji": "🪔"
+          },
+          {
+          "line": "रात में करता उजियारा",
+          "emoji": "🌟"
+          },
+          {
+          "line": "उड़ता फिरता बाग़ में तू",
+          "emoji": "🏡"
+          },
+          {
+          "line": "सबका मन बहलाता तू",
+          "emoji": "😊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiJugnuShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "जुगनू",
+            rhymeId: "jugnu",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "जुगनू जुगनू जग मग जग मग",
+          "emoji": "✨"
+          },
+          {
+          "line": "रात अँधेरी में तू दमदम",
+          "emoji": "🌃"
+          },
+          {
+          "line": "टिमटिम टिमटिम करता जाए",
+          "emoji": "💡"
+          },
+          {
+          "line": "अँधियारे में रोशनी लाए",
+          "emoji": "🔦"
+          },
+          {
+          "line": "छोटा सा तू दीपक प्यारा",
+          "emoji": "🪔"
+          },
+          {
+          "line": "रात में करता उजियारा",
+          "emoji": "🌟"
+          },
+          {
+          "line": "उड़ता फिरता बाग़ में तू",
+          "emoji": "🏡"
+          },
+          {
+          "line": "सबका मन बहलाता तू",
+          "emoji": "😊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["night"].top,
+            bottomColor: THEME_COLORS["night"].bottom,
+            accentEmoji: THEME_COLORS["night"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiChandniRaat"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "चाँदनी रात",
+            rhymeId: "chandni-raat",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "चाँदनी रात में निकले चंदा",
+          "emoji": "🌕"
+          },
+          {
+          "line": "दुनिया लगे कितनी सुंदर",
+          "emoji": "🌍"
+          },
+          {
+          "line": "चाँद की किरणें चमकें ऐसे",
+          "emoji": "✨"
+          },
+          {
+          "line": "चाँदी बिछी हो ज़मीं पे जैसे",
+          "emoji": "🪙"
+          },
+          {
+          "line": "झिलमिल झिलमिल तारे गाएं",
+          "emoji": "⭐"
+          },
+          {
+          "line": "चंदा मामा मुस्काएं",
+          "emoji": "😊"
+          },
+          {
+          "line": "ठंडी ठंडी हवा भी आए",
+          "emoji": "🌬️"
+          },
+          {
+          "line": "सबको नींद सुहानी लाए",
+          "emoji": "😴"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiChandniRaatShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "चाँदनी रात",
+            rhymeId: "chandni-raat",
+            theme: "night" as RhymeTheme,
+            verses: [
+          {
+          "line": "चाँदनी रात में निकले चंदा",
+          "emoji": "🌕"
+          },
+          {
+          "line": "दुनिया लगे कितनी सुंदर",
+          "emoji": "🌍"
+          },
+          {
+          "line": "चाँद की किरणें चमकें ऐसे",
+          "emoji": "✨"
+          },
+          {
+          "line": "चाँदी बिछी हो ज़मीं पे जैसे",
+          "emoji": "🪙"
+          },
+          {
+          "line": "झिलमिल झिलमिल तारे गाएं",
+          "emoji": "⭐"
+          },
+          {
+          "line": "चंदा मामा मुस्काएं",
+          "emoji": "😊"
+          },
+          {
+          "line": "ठंडी ठंडी हवा भी आए",
+          "emoji": "🌬️"
+          },
+          {
+          "line": "सबको नींद सुहानी लाए",
+          "emoji": "😴"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["night"].top,
+            bottomColor: THEME_COLORS["night"].bottom,
+            accentEmoji: THEME_COLORS["night"].emoji,
+          }}
+        />
+      </Folder>
+      <Folder name="Hindi-Ocean-Adventures">
+        <Composition
+          id="HindiMachliJalKiRani"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "मछली जल की रानी है",
+            rhymeId: "machli-jal-ki-rani",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "मछली जल की रानी है",
+          "emoji": "🐟"
+          },
+          {
+          "line": "जीवन उसका पानी है",
+          "emoji": "💧"
+          },
+          {
+          "line": "हाथ लगाओ डर जाएगी",
+          "emoji": "🤚"
+          },
+          {
+          "line": "बाहर निकालो मर जाएगी",
+          "emoji": "😢"
+          },
+          {
+          "line": "पानी में वो तैरती जाए",
+          "emoji": "🏊"
+          },
+          {
+          "line": "इधर उधर वो मुस्काए",
+          "emoji": "😊"
+          },
+          {
+          "line": "रंग बिरंगी मछली प्यारी",
+          "emoji": "🐠"
+          },
+          {
+          "line": "पानी में है दुनिया सारी",
+          "emoji": "🌊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiMachliJalKiRaniShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "मछली जल की रानी है",
+            rhymeId: "machli-jal-ki-rani",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "मछली जल की रानी है",
+          "emoji": "🐟"
+          },
+          {
+          "line": "जीवन उसका पानी है",
+          "emoji": "💧"
+          },
+          {
+          "line": "हाथ लगाओ डर जाएगी",
+          "emoji": "🤚"
+          },
+          {
+          "line": "बाहर निकालो मर जाएगी",
+          "emoji": "😢"
+          },
+          {
+          "line": "पानी में वो तैरती जाए",
+          "emoji": "🏊"
+          },
+          {
+          "line": "इधर उधर वो मुस्काए",
+          "emoji": "😊"
+          },
+          {
+          "line": "रंग बिरंगी मछली प्यारी",
+          "emoji": "🐠"
+          },
+          {
+          "line": "पानी में है दुनिया सारी",
+          "emoji": "🌊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["ocean"].top,
+            bottomColor: THEME_COLORS["ocean"].bottom,
+            accentEmoji: THEME_COLORS["ocean"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiNadiKinare"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "नदी किनारे",
+            rhymeId: "nadi-kinare",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "नदी किनारे बैठ के देखो",
+          "emoji": "🏞️"
+          },
+          {
+          "line": "पानी कैसे बहता देखो",
+          "emoji": "🌊"
+          },
+          {
+          "line": "कल कल कल कल करती नदिया",
+          "emoji": "💦"
+          },
+          {
+          "line": "मस्ती में बहती जाए गदिया",
+          "emoji": "🎶"
+          },
+          {
+          "line": "नाव चली है धीरे धीरे",
+          "emoji": "⛵"
+          },
+          {
+          "line": "मछली उछली तीरे तीरे",
+          "emoji": "🐟"
+          },
+          {
+          "line": "हरे हरे हैं दोनों किनारे",
+          "emoji": "🌿"
+          },
+          {
+          "line": "नदिया तू है सबसे प्यारे",
+          "emoji": "💕"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiNadiKinareShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "नदी किनारे",
+            rhymeId: "nadi-kinare",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "नदी किनारे बैठ के देखो",
+          "emoji": "🏞️"
+          },
+          {
+          "line": "पानी कैसे बहता देखो",
+          "emoji": "🌊"
+          },
+          {
+          "line": "कल कल कल कल करती नदिया",
+          "emoji": "💦"
+          },
+          {
+          "line": "मस्ती में बहती जाए गदिया",
+          "emoji": "🎶"
+          },
+          {
+          "line": "नाव चली है धीरे धीरे",
+          "emoji": "⛵"
+          },
+          {
+          "line": "मछली उछली तीरे तीरे",
+          "emoji": "🐟"
+          },
+          {
+          "line": "हरे हरे हैं दोनों किनारे",
+          "emoji": "🌿"
+          },
+          {
+          "line": "नदिया तू है सबसे प्यारे",
+          "emoji": "💕"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["ocean"].top,
+            bottomColor: THEME_COLORS["ocean"].bottom,
+            accentEmoji: THEME_COLORS["ocean"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiKagazKiNaav"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "कागज़ की नाव",
+            rhymeId: "kagaz-ki-naav",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "कागज़ की नाव बनाई मैंने",
+          "emoji": "📄"
+          },
+          {
+          "line": "पानी में उसको डाली मैंने",
+          "emoji": "⛵"
+          },
+          {
+          "line": "तैरती जाए दूर तलक",
+          "emoji": "🌊"
+          },
+          {
+          "line": "हवा के संग चली चलक",
+          "emoji": "🌬️"
+          },
+          {
+          "line": "छोटी सी नाव मेरी प्यारी",
+          "emoji": "💕"
+          },
+          {
+          "line": "लहरों में बहती जाए सारी",
+          "emoji": "🌅"
+          },
+          {
+          "line": "दूर देशों को जाएगी",
+          "emoji": "🗺️"
+          },
+          {
+          "line": "मेरा संदेशा लाएगी",
+          "emoji": "💌"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiKagazKiNaavShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "कागज़ की नाव",
+            rhymeId: "kagaz-ki-naav",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "कागज़ की नाव बनाई मैंने",
+          "emoji": "📄"
+          },
+          {
+          "line": "पानी में उसको डाली मैंने",
+          "emoji": "⛵"
+          },
+          {
+          "line": "तैरती जाए दूर तलक",
+          "emoji": "🌊"
+          },
+          {
+          "line": "हवा के संग चली चलक",
+          "emoji": "🌬️"
+          },
+          {
+          "line": "छोटी सी नाव मेरी प्यारी",
+          "emoji": "💕"
+          },
+          {
+          "line": "लहरों में बहती जाए सारी",
+          "emoji": "🌅"
+          },
+          {
+          "line": "दूर देशों को जाएगी",
+          "emoji": "🗺️"
+          },
+          {
+          "line": "मेरा संदेशा लाएगी",
+          "emoji": "💌"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["ocean"].top,
+            bottomColor: THEME_COLORS["ocean"].bottom,
+            accentEmoji: THEME_COLORS["ocean"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiSagarKiLeherein"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "सागर की लहरें",
+            rhymeId: "sagar-ki-leherein",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "सागर की लहरें आती जाती",
+          "emoji": "🌊"
+          },
+          {
+          "line": "किनारे पे आकर गीत सुनाती",
+          "emoji": "🎵"
+          },
+          {
+          "line": "ज़ोर से आएं छपाक छपाक",
+          "emoji": "💦"
+          },
+          {
+          "line": "रेत पे लिख दें धपाक धपाक",
+          "emoji": "🏖️"
+          },
+          {
+          "line": "सीपी और शंख बिछाएं",
+          "emoji": "🐚"
+          },
+          {
+          "line": "बच्चों को खूब हँसाएं",
+          "emoji": "😄"
+          },
+          {
+          "line": "नीला नीला सागर देखो",
+          "emoji": "🌅"
+          },
+          {
+          "line": "कितना सुंदर मंज़र देखो",
+          "emoji": "🤩"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiSagarKiLehereinShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "सागर की लहरें",
+            rhymeId: "sagar-ki-leherein",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "सागर की लहरें आती जाती",
+          "emoji": "🌊"
+          },
+          {
+          "line": "किनारे पे आकर गीत सुनाती",
+          "emoji": "🎵"
+          },
+          {
+          "line": "ज़ोर से आएं छपाक छपाक",
+          "emoji": "💦"
+          },
+          {
+          "line": "रेत पे लिख दें धपाक धपाक",
+          "emoji": "🏖️"
+          },
+          {
+          "line": "सीपी और शंख बिछाएं",
+          "emoji": "🐚"
+          },
+          {
+          "line": "बच्चों को खूब हँसाएं",
+          "emoji": "😄"
+          },
+          {
+          "line": "नीला नीला सागर देखो",
+          "emoji": "🌅"
+          },
+          {
+          "line": "कितना सुंदर मंज़र देखो",
+          "emoji": "🤩"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["ocean"].top,
+            bottomColor: THEME_COLORS["ocean"].bottom,
+            accentEmoji: THEME_COLORS["ocean"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiBarishKiBoonden"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "बारिश की बूँदें",
+            rhymeId: "barish-ki-boonden",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "बारिश की बूँदें टपकें छम छम",
+          "emoji": "🌧️"
+          },
+          {
+          "line": "पत्तों पे गिरें धम धम धम",
+          "emoji": "🍃"
+          },
+          {
+          "line": "छतों पे बजे टिप टिप टिप",
+          "emoji": "🏠"
+          },
+          {
+          "line": "नाचे मोर और बोले पिप",
+          "emoji": "🦚"
+          },
+          {
+          "line": "पानी में कश्ती तैराएं",
+          "emoji": "⛵"
+          },
+          {
+          "line": "कागज़ की नाव बनाएं",
+          "emoji": "📄"
+          },
+          {
+          "line": "बारिश रानी आओ ना",
+          "emoji": "👸"
+          },
+          {
+          "line": "खूब मज़ा करवाओ ना",
+          "emoji": "🎉"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiBarishKiBoondenShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "बारिश की बूँदें",
+            rhymeId: "barish-ki-boonden",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "बारिश की बूँदें टपकें छम छम",
+          "emoji": "🌧️"
+          },
+          {
+          "line": "पत्तों पे गिरें धम धम धम",
+          "emoji": "🍃"
+          },
+          {
+          "line": "छतों पे बजे टिप टिप टिप",
+          "emoji": "🏠"
+          },
+          {
+          "line": "नाचे मोर और बोले पिप",
+          "emoji": "🦚"
+          },
+          {
+          "line": "पानी में कश्ती तैराएं",
+          "emoji": "⛵"
+          },
+          {
+          "line": "कागज़ की नाव बनाएं",
+          "emoji": "📄"
+          },
+          {
+          "line": "बारिश रानी आओ ना",
+          "emoji": "👸"
+          },
+          {
+          "line": "खूब मज़ा करवाओ ना",
+          "emoji": "🎉"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["ocean"].top,
+            bottomColor: THEME_COLORS["ocean"].bottom,
+            accentEmoji: THEME_COLORS["ocean"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiMeghaAaye"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "मेघा आए",
+            rhymeId: "megha-aaye",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "मेघा आए मेघा आए",
+          "emoji": "☁️"
+          },
+          {
+          "line": "झमझम पानी बरसाए",
+          "emoji": "🌧️"
+          },
+          {
+          "line": "काले काले बादल छाए",
+          "emoji": "🌩️"
+          },
+          {
+          "line": "बिजली चमकी धड़ धड़ आए",
+          "emoji": "⚡"
+          },
+          {
+          "line": "मेंढक बोले टर्र टर्र",
+          "emoji": "🐸"
+          },
+          {
+          "line": "पानी भर गए नदी नाले",
+          "emoji": "🌊"
+          },
+          {
+          "line": "हरियाली छा गई चारों ओर",
+          "emoji": "🌿"
+          },
+          {
+          "line": "नाचे ख़ुशी से सब मिलकर और",
+          "emoji": "💃"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiMeghaAayeShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "मेघा आए",
+            rhymeId: "megha-aaye",
+            theme: "ocean" as RhymeTheme,
+            verses: [
+          {
+          "line": "मेघा आए मेघा आए",
+          "emoji": "☁️"
+          },
+          {
+          "line": "झमझम पानी बरसाए",
+          "emoji": "🌧️"
+          },
+          {
+          "line": "काले काले बादल छाए",
+          "emoji": "🌩️"
+          },
+          {
+          "line": "बिजली चमकी धड़ धड़ आए",
+          "emoji": "⚡"
+          },
+          {
+          "line": "मेंढक बोले टर्र टर्र",
+          "emoji": "🐸"
+          },
+          {
+          "line": "पानी भर गए नदी नाले",
+          "emoji": "🌊"
+          },
+          {
+          "line": "हरियाली छा गई चारों ओर",
+          "emoji": "🌿"
+          },
+          {
+          "line": "नाचे ख़ुशी से सब मिलकर और",
+          "emoji": "💃"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["ocean"].top,
+            bottomColor: THEME_COLORS["ocean"].bottom,
+            accentEmoji: THEME_COLORS["ocean"].emoji,
+          }}
+        />
+      </Folder>
+      <Folder name="Hindi-Playground-Fun">
+        <Composition
+          id="HindiLakdiKiKathi"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "लकड़ी की काठी",
+            rhymeId: "lakdi-ki-kathi",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "लकड़ी की काठी काठी पे घोड़ा",
+          "emoji": "🐴"
+          },
+          {
+          "line": "घोड़े की दुम पे जो मारा हथौड़ा",
+          "emoji": "🔨"
+          },
+          {
+          "line": "दौड़ा दौड़ा दौड़ा घोड़ा",
+          "emoji": "🏇"
+          },
+          {
+          "line": "दम दबा के हट गया छोरा",
+          "emoji": "😄"
+          },
+          {
+          "line": "लकड़ी की काठी काठी का घोड़ा",
+          "emoji": "🪵"
+          },
+          {
+          "line": "घोड़ा लेकर दौड़ा छोरा",
+          "emoji": "🏃"
+          },
+          {
+          "line": "बाज़ार में जाकर रुक गया",
+          "emoji": "🏪"
+          },
+          {
+          "line": "सबने देखा हँस पड़ा",
+          "emoji": "😂"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiLakdiKiKathiShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "लकड़ी की काठी",
+            rhymeId: "lakdi-ki-kathi",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "लकड़ी की काठी काठी पे घोड़ा",
+          "emoji": "🐴"
+          },
+          {
+          "line": "घोड़े की दुम पे जो मारा हथौड़ा",
+          "emoji": "🔨"
+          },
+          {
+          "line": "दौड़ा दौड़ा दौड़ा घोड़ा",
+          "emoji": "🏇"
+          },
+          {
+          "line": "दम दबा के हट गया छोरा",
+          "emoji": "😄"
+          },
+          {
+          "line": "लकड़ी की काठी काठी का घोड़ा",
+          "emoji": "🪵"
+          },
+          {
+          "line": "घोड़ा लेकर दौड़ा छोरा",
+          "emoji": "🏃"
+          },
+          {
+          "line": "बाज़ार में जाकर रुक गया",
+          "emoji": "🏪"
+          },
+          {
+          "line": "सबने देखा हँस पड़ा",
+          "emoji": "😂"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["playground"].top,
+            bottomColor: THEME_COLORS["playground"].bottom,
+            accentEmoji: THEME_COLORS["playground"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiAkkadBakkad"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "अक्कड़ बक्कड़",
+            rhymeId: "akkad-bakkad",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "अक्कड़ बक्कड़ बंबे बो",
+          "emoji": "🎵"
+          },
+          {
+          "line": "अस्सी नब्बे पूरे सौ",
+          "emoji": "💯"
+          },
+          {
+          "line": "सौ में लगा धागा",
+          "emoji": "🧵"
+          },
+          {
+          "line": "चोर निकल के भागा",
+          "emoji": "🏃"
+          },
+          {
+          "line": "चोर की दाढ़ी लंबी",
+          "emoji": "🧔"
+          },
+          {
+          "line": "उसमें बँधी है रस्सी",
+          "emoji": "🪢"
+          },
+          {
+          "line": "रस्सी में लगी है छड़ी",
+          "emoji": "🥢"
+          },
+          {
+          "line": "छड़ी ने मारी झड़ी",
+          "emoji": "💥"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiAkkadBakkadShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "अक्कड़ बक्कड़",
+            rhymeId: "akkad-bakkad",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "अक्कड़ बक्कड़ बंबे बो",
+          "emoji": "🎵"
+          },
+          {
+          "line": "अस्सी नब्बे पूरे सौ",
+          "emoji": "💯"
+          },
+          {
+          "line": "सौ में लगा धागा",
+          "emoji": "🧵"
+          },
+          {
+          "line": "चोर निकल के भागा",
+          "emoji": "🏃"
+          },
+          {
+          "line": "चोर की दाढ़ी लंबी",
+          "emoji": "🧔"
+          },
+          {
+          "line": "उसमें बँधी है रस्सी",
+          "emoji": "🪢"
+          },
+          {
+          "line": "रस्सी में लगी है छड़ी",
+          "emoji": "🥢"
+          },
+          {
+          "line": "छड़ी ने मारी झड़ी",
+          "emoji": "💥"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["playground"].top,
+            bottomColor: THEME_COLORS["playground"].bottom,
+            accentEmoji: THEME_COLORS["playground"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiAlooKachalu"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "आलू कचालू",
+            rhymeId: "aloo-kachalu",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "आलू कचालू बेटा कहाँ गए थे",
+          "emoji": "🥔"
+          },
+          {
+          "line": "बंदर की झोली में सो गए थे",
+          "emoji": "🐒"
+          },
+          {
+          "line": "बंदर ने लात मारी रो गए थे",
+          "emoji": "😢"
+          },
+          {
+          "line": "मम्मी ने प्यार किया हँस गए थे",
+          "emoji": "😊"
+          },
+          {
+          "line": "पापा ने पैसे दिए नाच गए थे",
+          "emoji": "💰"
+          },
+          {
+          "line": "भैया ने लड्डू दिए खा गए थे",
+          "emoji": "🍬"
+          },
+          {
+          "line": "दीदी ने चुटकी काटी रो गए थे",
+          "emoji": "😭"
+          },
+          {
+          "line": "नानी ने गोद लिया सो गए थे",
+          "emoji": "👵"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiAlooKachaluShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "आलू कचालू",
+            rhymeId: "aloo-kachalu",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "आलू कचालू बेटा कहाँ गए थे",
+          "emoji": "🥔"
+          },
+          {
+          "line": "बंदर की झोली में सो गए थे",
+          "emoji": "🐒"
+          },
+          {
+          "line": "बंदर ने लात मारी रो गए थे",
+          "emoji": "😢"
+          },
+          {
+          "line": "मम्मी ने प्यार किया हँस गए थे",
+          "emoji": "😊"
+          },
+          {
+          "line": "पापा ने पैसे दिए नाच गए थे",
+          "emoji": "💰"
+          },
+          {
+          "line": "भैया ने लड्डू दिए खा गए थे",
+          "emoji": "🍬"
+          },
+          {
+          "line": "दीदी ने चुटकी काटी रो गए थे",
+          "emoji": "😭"
+          },
+          {
+          "line": "नानी ने गोद लिया सो गए थे",
+          "emoji": "👵"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["playground"].top,
+            bottomColor: THEME_COLORS["playground"].bottom,
+            accentEmoji: THEME_COLORS["playground"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiGubbareWala"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "गुब्बारे वाला",
+            rhymeId: "gubbare-wala",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "गुब्बारे वाला आया आया",
+          "emoji": "🎈"
+          },
+          {
+          "line": "रंग बिरंगे गुब्बारे लाया",
+          "emoji": "🎊"
+          },
+          {
+          "line": "लाल पीला हरा नीला",
+          "emoji": "🔴"
+          },
+          {
+          "line": "सबसे प्यारा गुलाबी रंगीला",
+          "emoji": "💗"
+          },
+          {
+          "line": "हवा भरी तो फूल गए",
+          "emoji": "🎈"
+          },
+          {
+          "line": "आसमान में उड़ गए",
+          "emoji": "☁️"
+          },
+          {
+          "line": "बच्चे खुश हो ताली बजाएं",
+          "emoji": "👏"
+          },
+          {
+          "line": "गुब्बारे वाले को बुलाएं",
+          "emoji": "🤗"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiGubbareWalaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "गुब्बारे वाला",
+            rhymeId: "gubbare-wala",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "गुब्बारे वाला आया आया",
+          "emoji": "🎈"
+          },
+          {
+          "line": "रंग बिरंगे गुब्बारे लाया",
+          "emoji": "🎊"
+          },
+          {
+          "line": "लाल पीला हरा नीला",
+          "emoji": "🔴"
+          },
+          {
+          "line": "सबसे प्यारा गुलाबी रंगीला",
+          "emoji": "💗"
+          },
+          {
+          "line": "हवा भरी तो फूल गए",
+          "emoji": "🎈"
+          },
+          {
+          "line": "आसमान में उड़ गए",
+          "emoji": "☁️"
+          },
+          {
+          "line": "बच्चे खुश हो ताली बजाएं",
+          "emoji": "👏"
+          },
+          {
+          "line": "गुब्बारे वाले को बुलाएं",
+          "emoji": "🤗"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["playground"].top,
+            bottomColor: THEME_COLORS["playground"].bottom,
+            accentEmoji: THEME_COLORS["playground"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiBandarMama"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "बंदर मामा",
+            rhymeId: "bandar-mama",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "बंदर मामा पहन पजामा",
+          "emoji": "🐒"
+          },
+          {
+          "line": "दौड़ लगाए आया आया",
+          "emoji": "🏃"
+          },
+          {
+          "line": "टोपी वाला बंदर आया",
+          "emoji": "🎩"
+          },
+          {
+          "line": "सबको खूब हँसाया",
+          "emoji": "😄"
+          },
+          {
+          "line": "उछले कूदे डाली डाली",
+          "emoji": "🌳"
+          },
+          {
+          "line": "केले खाए पीली पीली",
+          "emoji": "🍌"
+          },
+          {
+          "line": "मस्ती करे दिन भर सारा",
+          "emoji": "🎪"
+          },
+          {
+          "line": "बंदर मामा सबसे प्यारा",
+          "emoji": "💕"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiBandarMamaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "बंदर मामा",
+            rhymeId: "bandar-mama",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "बंदर मामा पहन पजामा",
+          "emoji": "🐒"
+          },
+          {
+          "line": "दौड़ लगाए आया आया",
+          "emoji": "🏃"
+          },
+          {
+          "line": "टोपी वाला बंदर आया",
+          "emoji": "🎩"
+          },
+          {
+          "line": "सबको खूब हँसाया",
+          "emoji": "😄"
+          },
+          {
+          "line": "उछले कूदे डाली डाली",
+          "emoji": "🌳"
+          },
+          {
+          "line": "केले खाए पीली पीली",
+          "emoji": "🍌"
+          },
+          {
+          "line": "मस्ती करे दिन भर सारा",
+          "emoji": "🎪"
+          },
+          {
+          "line": "बंदर मामा सबसे प्यारा",
+          "emoji": "💕"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["playground"].top,
+            bottomColor: THEME_COLORS["playground"].bottom,
+            accentEmoji: THEME_COLORS["playground"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiChunnuMunnu"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "चुन्नू मुन्नू",
+            rhymeId: "chunnu-munnu",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "चुन्नू मुन्नू थे दो भाई",
+          "emoji": "👦"
+          },
+          {
+          "line": "दोनों ने मिलकर दुकान चलाई",
+          "emoji": "🏪"
+          },
+          {
+          "line": "चुन्नू ने बेचीं मिठाई",
+          "emoji": "🍭"
+          },
+          {
+          "line": "मुन्नू ने बेची मलाई",
+          "emoji": "🍦"
+          },
+          {
+          "line": "ग्राहक आए बहुत सारे",
+          "emoji": "👨‍👩‍👧‍👦"
+          },
+          {
+          "line": "सबने खाए पकवान प्यारे",
+          "emoji": "😋"
+          },
+          {
+          "line": "चुन्नू मुन्नू की जोड़ी निराली",
+          "emoji": "🤝"
+          },
+          {
+          "line": "सबकी बन गई दिवाली",
+          "emoji": "🎉"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiChunnuMunnuShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "चुन्नू मुन्नू",
+            rhymeId: "chunnu-munnu",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "चुन्नू मुन्नू थे दो भाई",
+          "emoji": "👦"
+          },
+          {
+          "line": "दोनों ने मिलकर दुकान चलाई",
+          "emoji": "🏪"
+          },
+          {
+          "line": "चुन्नू ने बेचीं मिठाई",
+          "emoji": "🍭"
+          },
+          {
+          "line": "मुन्नू ने बेची मलाई",
+          "emoji": "🍦"
+          },
+          {
+          "line": "ग्राहक आए बहुत सारे",
+          "emoji": "👨‍👩‍👧‍👦"
+          },
+          {
+          "line": "सबने खाए पकवान प्यारे",
+          "emoji": "😋"
+          },
+          {
+          "line": "चुन्नू मुन्नू की जोड़ी निराली",
+          "emoji": "🤝"
+          },
+          {
+          "line": "सबकी बन गई दिवाली",
+          "emoji": "🎉"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["playground"].top,
+            bottomColor: THEME_COLORS["playground"].bottom,
+            accentEmoji: THEME_COLORS["playground"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiGolGolDuniya"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "गोल गोल दुनिया",
+            rhymeId: "gol-gol-duniya",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "गोल गोल दुनिया गोल गोल",
+          "emoji": "🌍"
+          },
+          {
+          "line": "घूमे जा रही है रोल रोल",
+          "emoji": "🔄"
+          },
+          {
+          "line": "गोल है सूरज गोल है चंदा",
+          "emoji": "☀️"
+          },
+          {
+          "line": "गोल गेंद और गोल गुब्बारा",
+          "emoji": "⚽"
+          },
+          {
+          "line": "गोल रोटी माँ ने बनाई",
+          "emoji": "🫓"
+          },
+          {
+          "line": "गोल गोल सबको खिलाई",
+          "emoji": "🍽️"
+          },
+          {
+          "line": "गोल चक्का गाड़ी का",
+          "emoji": "🛞"
+          },
+          {
+          "line": "गोल गोल सारा जहान का",
+          "emoji": "🎡"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiGolGolDuniyaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "गोल गोल दुनिया",
+            rhymeId: "gol-gol-duniya",
+            theme: "playground" as RhymeTheme,
+            verses: [
+          {
+          "line": "गोल गोल दुनिया गोल गोल",
+          "emoji": "🌍"
+          },
+          {
+          "line": "घूमे जा रही है रोल रोल",
+          "emoji": "🔄"
+          },
+          {
+          "line": "गोल है सूरज गोल है चंदा",
+          "emoji": "☀️"
+          },
+          {
+          "line": "गोल गेंद और गोल गुब्बारा",
+          "emoji": "⚽"
+          },
+          {
+          "line": "गोल रोटी माँ ने बनाई",
+          "emoji": "🫓"
+          },
+          {
+          "line": "गोल गोल सबको खिलाई",
+          "emoji": "🍽️"
+          },
+          {
+          "line": "गोल चक्का गाड़ी का",
+          "emoji": "🛞"
+          },
+          {
+          "line": "गोल गोल सारा जहान का",
+          "emoji": "🎡"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["playground"].top,
+            bottomColor: THEME_COLORS["playground"].bottom,
+            accentEmoji: THEME_COLORS["playground"].emoji,
+          }}
+        />
+      </Folder>
+      <Folder name="Hindi-Outer-Space">
+        <Composition
+          id="HindiSurajNikla"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "सूरज निकला",
+            rhymeId: "suraj-nikla",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "सूरज निकला चमक चमक",
+          "emoji": "☀️"
+          },
+          {
+          "line": "धरती जागी दमक दमक",
+          "emoji": "🌅"
+          },
+          {
+          "line": "किरणें आईं सुनहरी सुनहरी",
+          "emoji": "🌞"
+          },
+          {
+          "line": "रोशनी फैली धरती भरी",
+          "emoji": "✨"
+          },
+          {
+          "line": "फूल खिले पंछी बोले",
+          "emoji": "🌸"
+          },
+          {
+          "line": "सूरज दादा दरवाज़े खोले",
+          "emoji": "🚪"
+          },
+          {
+          "line": "सबको जगाया सबको बुलाया",
+          "emoji": "🤗"
+          },
+          {
+          "line": "नया सवेरा नया दिन आया",
+          "emoji": "🌄"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiSurajNiklaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "सूरज निकला",
+            rhymeId: "suraj-nikla",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "सूरज निकला चमक चमक",
+          "emoji": "☀️"
+          },
+          {
+          "line": "धरती जागी दमक दमक",
+          "emoji": "🌅"
+          },
+          {
+          "line": "किरणें आईं सुनहरी सुनहरी",
+          "emoji": "🌞"
+          },
+          {
+          "line": "रोशनी फैली धरती भरी",
+          "emoji": "✨"
+          },
+          {
+          "line": "फूल खिले पंछी बोले",
+          "emoji": "🌸"
+          },
+          {
+          "line": "सूरज दादा दरवाज़े खोले",
+          "emoji": "🚪"
+          },
+          {
+          "line": "सबको जगाया सबको बुलाया",
+          "emoji": "🤗"
+          },
+          {
+          "line": "नया सवेरा नया दिन आया",
+          "emoji": "🌄"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["space"].top,
+            bottomColor: THEME_COLORS["space"].bottom,
+            accentEmoji: THEME_COLORS["space"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiBadalRaja"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "बादल राजा",
+            rhymeId: "badal-raja",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "बादल राजा आसमान के",
+          "emoji": "☁️"
+          },
+          {
+          "line": "घूमे फिरे सारे जहान के",
+          "emoji": "🌍"
+          },
+          {
+          "line": "कभी सफ़ेद कभी काले",
+          "emoji": "🖤"
+          },
+          {
+          "line": "गरजे बरसे पानी वाले",
+          "emoji": "🌧️"
+          },
+          {
+          "line": "धूप में छाया दे जाएं",
+          "emoji": "⛅"
+          },
+          {
+          "line": "गर्मी से सबको बचाएं",
+          "emoji": "🌡️"
+          },
+          {
+          "line": "इंद्रधनुष भी लाते हैं",
+          "emoji": "🌈"
+          },
+          {
+          "line": "सबका मन बहलाते हैं",
+          "emoji": "😊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiBadalRajaShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "बादल राजा",
+            rhymeId: "badal-raja",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "बादल राजा आसमान के",
+          "emoji": "☁️"
+          },
+          {
+          "line": "घूमे फिरे सारे जहान के",
+          "emoji": "🌍"
+          },
+          {
+          "line": "कभी सफ़ेद कभी काले",
+          "emoji": "🖤"
+          },
+          {
+          "line": "गरजे बरसे पानी वाले",
+          "emoji": "🌧️"
+          },
+          {
+          "line": "धूप में छाया दे जाएं",
+          "emoji": "⛅"
+          },
+          {
+          "line": "गर्मी से सबको बचाएं",
+          "emoji": "🌡️"
+          },
+          {
+          "line": "इंद्रधनुष भी लाते हैं",
+          "emoji": "🌈"
+          },
+          {
+          "line": "सबका मन बहलाते हैं",
+          "emoji": "😊"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["space"].top,
+            bottomColor: THEME_COLORS["space"].bottom,
+            accentEmoji: THEME_COLORS["space"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiRocketMeinBaithkar"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "रॉकेट में बैठकर",
+            rhymeId: "rocket-mein-baithkar",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "रॉकेट में बैठकर चलो",
+          "emoji": "🚀"
+          },
+          {
+          "line": "अंतरिक्ष में जाकर मिलो",
+          "emoji": "🌌"
+          },
+          {
+          "line": "चाँद सितारे छूकर आएं",
+          "emoji": "🌙"
+          },
+          {
+          "line": "मंगल ग्रह पर घूमकर आएं",
+          "emoji": "🔴"
+          },
+          {
+          "line": "शनि के छल्ले देखें जाकर",
+          "emoji": "🪐"
+          },
+          {
+          "line": "वापस आएं मस्ती पाकर",
+          "emoji": "🎉"
+          },
+          {
+          "line": "अंतरिक्ष है बहुत बड़ा",
+          "emoji": "🌠"
+          },
+          {
+          "line": "हर तरफ़ तारों का मेला खड़ा",
+          "emoji": "⭐"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiRocketMeinBaithkarShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "रॉकेट में बैठकर",
+            rhymeId: "rocket-mein-baithkar",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "रॉकेट में बैठकर चलो",
+          "emoji": "🚀"
+          },
+          {
+          "line": "अंतरिक्ष में जाकर मिलो",
+          "emoji": "🌌"
+          },
+          {
+          "line": "चाँद सितारे छूकर आएं",
+          "emoji": "🌙"
+          },
+          {
+          "line": "मंगल ग्रह पर घूमकर आएं",
+          "emoji": "🔴"
+          },
+          {
+          "line": "शनि के छल्ले देखें जाकर",
+          "emoji": "🪐"
+          },
+          {
+          "line": "वापस आएं मस्ती पाकर",
+          "emoji": "🎉"
+          },
+          {
+          "line": "अंतरिक्ष है बहुत बड़ा",
+          "emoji": "🌠"
+          },
+          {
+          "line": "हर तरफ़ तारों का मेला खड़ा",
+          "emoji": "⭐"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["space"].top,
+            bottomColor: THEME_COLORS["space"].bottom,
+            accentEmoji: THEME_COLORS["space"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiSitaronKiSair"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "सितारों की सैर",
+            rhymeId: "sitaron-ki-sair",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "सितारों की सैर को निकले हम",
+          "emoji": "🌟"
+          },
+          {
+          "line": "अंतरिक्ष में उड़ चले हम",
+          "emoji": "🚀"
+          },
+          {
+          "line": "बुध शुक्र पृथ्वी मंगल देखा",
+          "emoji": "🪐"
+          },
+          {
+          "line": "बृहस्पति शनि का नज़ारा देखा",
+          "emoji": "🔭"
+          },
+          {
+          "line": "अरुण वरुण भी मिल गए",
+          "emoji": "💫"
+          },
+          {
+          "line": "सारे ग्रह हमको दिख गए",
+          "emoji": "🌍"
+          },
+          {
+          "line": "कितना सुंदर है ब्रह्मांड",
+          "emoji": "🌌"
+          },
+          {
+          "line": "हर तरफ़ है नूर अखंड",
+          "emoji": "✨"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiSitaronKiSairShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "सितारों की सैर",
+            rhymeId: "sitaron-ki-sair",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "सितारों की सैर को निकले हम",
+          "emoji": "🌟"
+          },
+          {
+          "line": "अंतरिक्ष में उड़ चले हम",
+          "emoji": "🚀"
+          },
+          {
+          "line": "बुध शुक्र पृथ्वी मंगल देखा",
+          "emoji": "🪐"
+          },
+          {
+          "line": "बृहस्पति शनि का नज़ारा देखा",
+          "emoji": "🔭"
+          },
+          {
+          "line": "अरुण वरुण भी मिल गए",
+          "emoji": "💫"
+          },
+          {
+          "line": "सारे ग्रह हमको दिख गए",
+          "emoji": "🌍"
+          },
+          {
+          "line": "कितना सुंदर है ब्रह्मांड",
+          "emoji": "🌌"
+          },
+          {
+          "line": "हर तरफ़ है नूर अखंड",
+          "emoji": "✨"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["space"].top,
+            bottomColor: THEME_COLORS["space"].bottom,
+            accentEmoji: THEME_COLORS["space"].emoji,
+          }}
+        />
+        <Composition
+          id="HindiDhartiHamari"
+          component={HindiRhymeTemplate}
+          durationInFrames={1500}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            title: "धरती हमारी",
+            rhymeId: "dharti-hamari",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "धरती हमारी प्यारी धरती",
+          "emoji": "🌍"
+          },
+          {
+          "line": "सबका घर है सबकी धरती",
+          "emoji": "🏠"
+          },
+          {
+          "line": "नदियाँ पहाड़ और समंदर",
+          "emoji": "🏔️"
+          },
+          {
+          "line": "जंगल मैदान कितने सुंदर",
+          "emoji": "🌳"
+          },
+          {
+          "line": "हवा पानी और धूप मिले",
+          "emoji": "💧"
+          },
+          {
+          "line": "फूल पत्ते हर तरफ़ खिले",
+          "emoji": "🌺"
+          },
+          {
+          "line": "धरती माँ का करो सम्मान",
+          "emoji": "🙏"
+          },
+          {
+          "line": "इसको रखो साफ़ सुथरा महान",
+          "emoji": "♻️"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+          }}
+        />
+        <Composition
+          id="HindiDhartiHamariShorts"
+          component={ShortsRhyme}
+          durationInFrames={1500}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{
+            title: "धरती हमारी",
+            rhymeId: "dharti-hamari",
+            theme: "space" as RhymeTheme,
+            verses: [
+          {
+          "line": "धरती हमारी प्यारी धरती",
+          "emoji": "🌍"
+          },
+          {
+          "line": "सबका घर है सबकी धरती",
+          "emoji": "🏠"
+          },
+          {
+          "line": "नदियाँ पहाड़ और समंदर",
+          "emoji": "🏔️"
+          },
+          {
+          "line": "जंगल मैदान कितने सुंदर",
+          "emoji": "🌳"
+          },
+          {
+          "line": "हवा पानी और धूप मिले",
+          "emoji": "💧"
+          },
+          {
+          "line": "फूल पत्ते हर तरफ़ खिले",
+          "emoji": "🌺"
+          },
+          {
+          "line": "धरती माँ का करो सम्मान",
+          "emoji": "🙏"
+          },
+          {
+          "line": "इसको रखो साफ़ सुथरा महान",
+          "emoji": "♻️"
+          }
+          ],
+            verseDuration: 5,
+            introDuration: 5,
+            outroDuration: 5,
+            topColor: THEME_COLORS["space"].top,
+            bottomColor: THEME_COLORS["space"].bottom,
+            accentEmoji: THEME_COLORS["space"].emoji,
+          }}
+        />
+      </Folder>
+    </>
+  );
+};

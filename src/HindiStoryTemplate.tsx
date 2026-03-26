@@ -9,18 +9,18 @@ import {
   staticFile,
 } from "remotion";
 import { Audio } from "@remotion/media";
-import { loadFont } from "@remotion/google-fonts/BubblegumSans";
+import { loadFont } from "@remotion/google-fonts/Baloo2";
 import { loadFont as loadFontPoppins } from "@remotion/google-fonts/Poppins";
 import React from "react";
 
 const { fontFamily: funFont } = loadFont("normal", {
   weights: ["400"],
-  subsets: ["latin"],
+  subsets: ["devanagari"],
 });
 
 const { fontFamily: cleanFont } = loadFontPoppins("normal", {
   weights: ["400", "600", "700", "900"],
-  subsets: ["latin"],
+  subsets: ["devanagari"],
 });
 
 // ===================== TYPES =====================
@@ -35,7 +35,7 @@ export type RhymeTheme =
   | "forest"
   | "city";
 
-export type RhymeProps = {
+export type HindiStoryProps = {
   title: string;
   rhymeId: string;
   verses: {
@@ -43,6 +43,7 @@ export type RhymeProps = {
     emoji: string;
   }[];
   theme: RhymeTheme;
+  moral?: string;
   verseDuration?: number;
   introDuration?: number;
   outroDuration?: number;
@@ -69,8 +70,8 @@ const THEMES: Record<RhymeTheme, ThemeConfig> = {
     decorativeEmojis: ["⭐", "🌟", "✨", "💫", "🌙"],
     introEmojis: "⭐🌙⭐",
     outroEmojis: "🌟⭐🌙⭐🌟",
-    outroText: "Good Night!",
-    outroSubtext: "Sweet Dreams Little One",
+    outroText: "शुभ रात्रि!",
+    outroSubtext: "मीठे सपने देखो",
   },
   farm: {
     gradient: ["#87CEEB", "#4CAF50"],
@@ -79,8 +80,8 @@ const THEMES: Record<RhymeTheme, ThemeConfig> = {
     decorativeEmojis: ["🐔", "🐑", "🌻", "🐄", "🐷"],
     introEmojis: "🌾🐑🌾",
     outroEmojis: "🐔🌻🏡🌻🐔",
-    outroText: "The End!",
-    outroSubtext: "See You at the Farm!",
+    outroText: "समाप्त!",
+    outroSubtext: "खेत में फिर मिलेंगे!",
   },
   ocean: {
     gradient: ["#0077B6", "#00B4D8"],
@@ -89,8 +90,8 @@ const THEMES: Record<RhymeTheme, ThemeConfig> = {
     decorativeEmojis: ["🐠", "🐟", "🐙", "🦀", "🐚"],
     introEmojis: "🌊🐠🌊",
     outroEmojis: "🐟🌊🐬🌊🐟",
-    outroText: "The End!",
-    outroSubtext: "Swim Back Soon!",
+    outroText: "समाप्त!",
+    outroSubtext: "फिर तैरने आना!",
   },
   garden: {
     gradient: ["#F8BBD0", "#A5D6A7"],
@@ -99,8 +100,8 @@ const THEMES: Record<RhymeTheme, ThemeConfig> = {
     decorativeEmojis: ["🦋", "🌸", "🌺", "🌷", "🌈"],
     introEmojis: "🌸🦋🌸",
     outroEmojis: "🌺🦋🌈🦋🌺",
-    outroText: "The End!",
-    outroSubtext: "Come Back to the Garden!",
+    outroText: "समाप्त!",
+    outroSubtext: "फिर बगीचे में मिलेंगे!",
   },
   playground: {
     gradient: ["#FFF176", "#FFB74D"],
@@ -109,8 +110,8 @@ const THEMES: Record<RhymeTheme, ThemeConfig> = {
     decorativeEmojis: ["🎈", "🎉", "🎪", "🎠", "🎨"],
     introEmojis: "🎈🎉🎈",
     outroEmojis: "🎈🎪🎉🎪🎈",
-    outroText: "The End!",
-    outroSubtext: "Let's Play Again!",
+    outroText: "समाप्त!",
+    outroSubtext: "फिर खेलेंगे!",
   },
   space: {
     gradient: ["#000000", "#1A0533"],
@@ -119,8 +120,8 @@ const THEMES: Record<RhymeTheme, ThemeConfig> = {
     decorativeEmojis: ["🚀", "🪐", "👾", "🛸", "☄️"],
     introEmojis: "🚀🪐🚀",
     outroEmojis: "🛸🪐🌌🪐🛸",
-    outroText: "The End!",
-    outroSubtext: "See You in Space!",
+    outroText: "समाप्त!",
+    outroSubtext: "अंतरिक्ष में फिर मिलेंगे!",
   },
   forest: {
     gradient: ["#1B5E20", "#388E3C"],
@@ -129,8 +130,8 @@ const THEMES: Record<RhymeTheme, ThemeConfig> = {
     decorativeEmojis: ["🌲", "🐦", "🍄", "🦌", "🌿"],
     introEmojis: "🌲🦌🌲",
     outroEmojis: "🐦🌲🏕️🌲🐦",
-    outroText: "The End!",
-    outroSubtext: "Come Back to the Forest!",
+    outroText: "समाप्त!",
+    outroSubtext: "जंगल में फिर मिलेंगे!",
   },
   city: {
     gradient: ["#37474F", "#5C6BC0"],
@@ -139,8 +140,8 @@ const THEMES: Record<RhymeTheme, ThemeConfig> = {
     decorativeEmojis: ["🏙️", "🚗", "🚌", "🏢", "🌃"],
     introEmojis: "🏙️🚗🏙️",
     outroEmojis: "🚗🏢🌃🏢🚗",
-    outroText: "The End!",
-    outroSubtext: "See You in the City!",
+    outroText: "समाप्त!",
+    outroSubtext: "फिर शहर में मिलेंगे!",
   },
 };
 
@@ -1308,62 +1309,6 @@ const SparkleBurst: React.FC<{ color: string; emojis: string[] }> = ({
   );
 };
 
-// ===================== PER-VERSE GRADIENT GENERATOR =====================
-
-// Shifts a hex color lighter or darker by a percentage
-function shiftColor(hex: string, percent: number): string {
-  const num = parseInt(hex.replace("#", ""), 16);
-  const r = Math.min(255, Math.max(0, ((num >> 16) & 0xff) + Math.round(255 * percent)));
-  const g = Math.min(255, Math.max(0, ((num >> 8) & 0xff) + Math.round(255 * percent)));
-  const b = Math.min(255, Math.max(0, (num & 0xff) + Math.round(255 * percent)));
-  return `#${((r << 16) | (g << 8) | b).toString(16).padStart(6, "0")}`;
-}
-
-// Generate unique gradient for each verse based on theme + verse index
-function getVerseGradient(
-  themeConfig: ThemeConfig,
-  verseIndex: number,
-  totalVerses: number,
-): [string, string] {
-  const shift = ((verseIndex / Math.max(totalVerses - 1, 1)) - 0.5) * 0.15;
-  const hueShift = (verseIndex % 3 === 0) ? shift : (verseIndex % 3 === 1) ? -shift * 0.5 : shift * 0.8;
-  return [
-    shiftColor(themeConfig.gradient[0], hueShift),
-    shiftColor(themeConfig.gradient[1], -hueShift),
-  ];
-}
-
-// ===================== 3D ORBITING RING =====================
-
-const OrbitingRing: React.FC<{
-  size: number;
-  color: string;
-  speed: number;
-  tiltX: number;
-  tiltZ: number;
-  thickness: number;
-}> = ({ size, color, speed, tiltX, tiltZ, thickness }) => {
-  const frame = useCurrentFrame();
-  const rotation = frame * speed;
-
-  return (
-    <div
-      style={{
-        position: "absolute",
-        width: size,
-        height: size,
-        borderRadius: "50%",
-        border: `${thickness}px solid ${color}`,
-        top: `calc(50% - ${size / 2}px)`,
-        left: `calc(50% - ${size / 2}px)`,
-        transform: `rotateX(${tiltX}deg) rotateZ(${tiltZ + rotation}deg)`,
-        transformStyle: "preserve-3d",
-        opacity: 0.4,
-      }}
-    />
-  );
-};
-
 // ===================== VERSE SCENE =====================
 
 const VerseScene: React.FC<{
@@ -1393,13 +1338,9 @@ const VerseScene: React.FC<{
   const emojiScale = interpolate(emojiProgress, [0, 1], [0, 1]);
   const emojiFloat = Math.sin(frame * 0.06) * 15;
   const emojiRotY = Math.sin(frame * 0.04) * 12;
-  const emojiRotX = Math.sin(frame * 0.03 + 1) * 8;
 
   // Word-by-word text reveal
   const words = line.split(" ");
-
-  // Alternate text slide direction per verse
-  const slideFromLeft = verseIndex % 2 === 0;
 
   // Glow pulse
   const glowPulse = interpolate(
@@ -1408,41 +1349,20 @@ const VerseScene: React.FC<{
     [0.3, 0.7],
   );
 
-  // Per-verse unique background gradient
-  const [verseGrad0, verseGrad1] = getVerseGradient(themeConfig, verseIndex, totalVerses);
-
-  // Gradient angle rotates slightly per verse for visual variety
-  const gradAngle = 180 + (verseIndex * 15) % 60 - 30;
+  // Per-verse background gradient using accent color mixed with theme
+  const verseGrad0 = themeConfig.gradient[0];
+  const verseGrad1 = themeConfig.gradient[1];
 
   return (
     <AbsoluteFill
       style={{
-        background: `linear-gradient(${gradAngle}deg, ${verseGrad0} 0%, ${verseGrad1} 100%)`,
+        background: `linear-gradient(180deg, ${verseGrad0} 0%, ${verseGrad1} 100%)`,
         opacity: bgOpacity,
         overflow: "hidden",
       }}
     >
       {/* Theme-specific decorations */}
       <ThemeDecorations theme={theme} />
-
-      {/* 3D orbiting rings around emoji */}
-      <div
-        style={{
-          position: "absolute",
-          top: 0,
-          left: 0,
-          right: 0,
-          bottom: 0,
-          perspective: 800,
-          transformStyle: "preserve-3d",
-          zIndex: 5,
-          pointerEvents: "none",
-        }}
-      >
-        <OrbitingRing size={320} color={accentColor} speed={1.2} tiltX={65} tiltZ={0} thickness={3} />
-        <OrbitingRing size={360} color={`${accentColor}88`} speed={-0.8} tiltX={75} tiltZ={45} thickness={2} />
-        <OrbitingRing size={280} color={`${accentColor}66`} speed={1.5} tiltX={55} tiltZ={90} thickness={2} />
-      </div>
 
       {/* Center content */}
       <div
@@ -1459,7 +1379,7 @@ const VerseScene: React.FC<{
           zIndex: 10,
         }}
       >
-        {/* Big emoji with 3D perspective */}
+        {/* Big emoji */}
         <div
           style={{
             perspective: 1000,
@@ -1471,16 +1391,15 @@ const VerseScene: React.FC<{
             style={{
               fontSize: 200,
               lineHeight: 1,
-              transform: `rotateY(${emojiRotY}deg) rotateX(${emojiRotX}deg)`,
-              filter: `drop-shadow(0 0 40px ${accentColor}88) drop-shadow(0 20px 60px rgba(0,0,0,0.3))`,
-              transformStyle: "preserve-3d",
+              transform: `rotateY(${emojiRotY}deg)`,
+              filter: `drop-shadow(0 0 30px ${accentColor}66)`,
             }}
           >
             {emoji}
           </div>
         </div>
 
-        {/* Lyrics text - word by word with alternating slide */}
+        {/* Lyrics text - word by word */}
         <div
           style={{
             display: "flex",
@@ -1499,12 +1418,7 @@ const VerseScene: React.FC<{
               config: { damping: 8, stiffness: 150 },
             });
             const wordScale = interpolate(wordProgress, [0, 1], [0, 1]);
-            const wordSlideX = interpolate(
-              wordProgress,
-              [0, 1],
-              [slideFromLeft ? -80 : 80, 0],
-            );
-            const wordY = interpolate(wordProgress, [0, 1], [30, 0]);
+            const wordY = interpolate(wordProgress, [0, 1], [50, 0]);
             const wordOpacity = interpolate(
               frame,
               [wordDelay, wordDelay + 10],
@@ -1515,25 +1429,19 @@ const VerseScene: React.FC<{
               },
             );
 
-            // Highlight the current word with a glow effect
-            const isHighlighted = frame >= wordDelay + 5 && frame < wordDelay + 25;
-            const highlightGlow = isHighlighted ? `0 0 30px ${accentColor}` : "";
-
             return (
               <div
                 key={wi}
                 style={{
                   fontSize: 90,
                   fontWeight: 700,
-                  color: isHighlighted ? accentColor : "#fff",
+                  color: "#fff",
                   fontFamily: cleanFont,
                   textShadow: `0 0 20px ${accentColor}88,
                                0 0 40px ${accentColor}44,
-                               4px 4px 0px rgba(0,0,0,0.3)
-                               ${highlightGlow ? `, ${highlightGlow}` : ""}`,
+                               4px 4px 0px rgba(0,0,0,0.3)`,
                   opacity: wordOpacity,
-                  transform: `scale(${wordScale}) translateX(${wordSlideX}px) translateY(${wordY}px)`,
-                  transition: "color 0.1s",
+                  transform: `scale(${wordScale}) translateY(${wordY}px)`,
                 }}
               >
                 {word}
@@ -1579,7 +1487,7 @@ const VerseScene: React.FC<{
         />
       </div>
 
-      {/* Bottom accent strip with gradient animation */}
+      {/* Bottom accent strip */}
       <div
         style={{
           position: "absolute",
@@ -1587,10 +1495,8 @@ const VerseScene: React.FC<{
           left: 0,
           right: 0,
           height: 6,
-          background: `linear-gradient(90deg, transparent, ${accentColor}, #fff, ${accentColor}, transparent)`,
-          backgroundSize: "200% 100%",
-          backgroundPosition: `${frame * 2}% 0`,
-          opacity: 0.6,
+          background: `linear-gradient(90deg, ${accentColor}, #fff, ${accentColor})`,
+          opacity: 0.5,
           zIndex: 20,
         }}
       />
@@ -1786,7 +1692,8 @@ const IntroScene: React.FC<{
 const OutroScene: React.FC<{
   theme: RhymeTheme;
   themeConfig: ThemeConfig;
-}> = ({ theme, themeConfig }) => {
+  moral?: string;
+}> = ({ theme, themeConfig, moral }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
 
@@ -1803,6 +1710,16 @@ const OutroScene: React.FC<{
   });
 
   const gatherProgress = interpolate(frame, [0, 60], [0, 1], {
+    extrapolateRight: "clamp",
+    extrapolateLeft: "clamp",
+    easing: Easing.out(Easing.quad),
+  });
+
+  const moralOpacity = interpolate(frame, [30, 50], [0, 1], {
+    extrapolateRight: "clamp",
+    extrapolateLeft: "clamp",
+  });
+  const moralY = interpolate(frame, [30, 50], [30, 0], {
     extrapolateRight: "clamp",
     extrapolateLeft: "clamp",
     easing: Easing.out(Easing.quad),
@@ -1860,17 +1777,45 @@ const OutroScene: React.FC<{
         >
           {themeConfig.outroText}
         </div>
-        <div
-          style={{
-            fontSize: 80,
-            color: themeConfig.subtitleColor,
-            fontFamily: funFont,
-            marginTop: 20,
-            textShadow: "3px 3px 15px rgba(0,0,0,0.5)",
-          }}
-        >
-          {themeConfig.outroSubtext}
-        </div>
+        {moral ? (
+          <div
+            style={{
+              opacity: moralOpacity,
+              transform: `translateY(${moralY}px)`,
+              marginTop: 25,
+              textAlign: "center",
+              maxWidth: 1200,
+              padding: "0 40px",
+            }}
+          >
+            <div
+              style={{
+                fontSize: 70,
+                fontWeight: 700,
+                color: "#FFD700",
+                fontFamily: cleanFont,
+                textShadow: `0 0 20px rgba(255,215,0,0.5),
+                             0 0 40px rgba(255,215,0,0.25),
+                             4px 4px 0px rgba(0,0,0,0.3)`,
+                lineHeight: 1.4,
+              }}
+            >
+              {"सीख: "}{moral}
+            </div>
+          </div>
+        ) : (
+          <div
+            style={{
+              fontSize: 80,
+              color: themeConfig.subtitleColor,
+              fontFamily: funFont,
+              marginTop: 20,
+              textShadow: "3px 3px 15px rgba(0,0,0,0.5)",
+            }}
+          >
+            {themeConfig.outroSubtext}
+          </div>
+        )}
         <div
           style={{
             fontSize: 120,
@@ -1918,12 +1863,13 @@ const OutroScene: React.FC<{
 
 // ===================== MAIN COMPOSITION =====================
 
-export const RhymeTemplate: React.FC<RhymeProps> = ({
+export const HindiStoryTemplate: React.FC<HindiStoryProps> = ({
   title,
   rhymeId,
   verses,
   theme,
-  verseDuration = 5,
+  moral,
+  verseDuration = 6,
   introDuration = 5,
   outroDuration = 5,
 }) => {
@@ -1973,7 +1919,7 @@ export const RhymeTemplate: React.FC<RhymeProps> = ({
         durationInFrames={outroFrames}
         premountFor={fps}
       >
-        <OutroScene theme={theme} themeConfig={themeConfig} />
+        <OutroScene theme={theme} themeConfig={themeConfig} moral={moral} />
       </Sequence>
 
       {/* ===== AUDIO LAYERS ===== */}

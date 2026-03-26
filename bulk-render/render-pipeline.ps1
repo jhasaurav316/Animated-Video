@@ -12,6 +12,7 @@
 #   .\bulk-render\render-pipeline.ps1 -SkipRegister      # Skip composition registration
 #   .\bulk-render\render-pipeline.ps1 -RenderOnly        # Only render (skip audio + register)
 #   .\bulk-render\render-pipeline.ps1 -From 51 -To 100   # Render rhymes 51-100 only
+#   .\bulk-render\render-pipeline.ps1 -RenderOnly -IncludeShorts  # Also render shorts
 # ============================================================================
 
 param(
@@ -19,6 +20,7 @@ param(
     [switch]$SkipRegister,
     [switch]$RenderOnly,
     [switch]$SkipRender,
+    [switch]$IncludeShorts,  # Off by default — add flag to render shorts too
     [int]$From = 1,
     [int]$To = 0,           # 0 = all
     [int]$FolderSize = 10   # Videos per folder
@@ -215,29 +217,31 @@ if (!$SkipRender) {
             }
         }
 
-        # --- Render Shorts ---
-        if (Test-Path $shortsFile) {
-            Write-Host "    Shorts:   SKIP (exists)" -ForegroundColor DarkGray
-            $skipped++
-        } else {
-            Write-Host "    Shorts:   Rendering..." -ForegroundColor Cyan -NoNewline
-            $logMsg = "[$(Get-Date -Format 'HH:mm:ss')] RENDER $serialStr-$filenameSafe (shorts)"
-            $logMsg | Out-File $LOG_FILE -Append
+        # --- Render Shorts (only if -IncludeShorts flag is set) ---
+        if ($IncludeShorts) {
+            if (Test-Path $shortsFile) {
+                Write-Host "    Shorts:   SKIP (exists)" -ForegroundColor DarkGray
+                $skipped++
+            } else {
+                Write-Host "    Shorts:   Rendering..." -ForegroundColor Cyan -NoNewline
+                $logMsg = "[$(Get-Date -Format 'HH:mm:ss')] RENDER $serialStr-$filenameSafe (shorts)"
+                $logMsg | Out-File $LOG_FILE -Append
 
-            try {
-                $output = npx remotion render "${compId}Shorts" $shortsFile --concurrency=100% --log=error 2>&1
-                if ($LASTEXITCODE -eq 0) {
-                    Write-Host " DONE" -ForegroundColor Green
-                    $rendered++
-                    "[$(Get-Date -Format 'HH:mm:ss')] DONE $serialStr-$filenameSafe (shorts)" | Out-File $LOG_FILE -Append
-                } else {
-                    Write-Host " FAILED" -ForegroundColor Red
+                try {
+                    $output = npx remotion render "${compId}Shorts" $shortsFile --concurrency=100% --log=error 2>&1
+                    if ($LASTEXITCODE -eq 0) {
+                        Write-Host " DONE" -ForegroundColor Green
+                        $rendered++
+                        "[$(Get-Date -Format 'HH:mm:ss')] DONE $serialStr-$filenameSafe (shorts)" | Out-File $LOG_FILE -Append
+                    } else {
+                        Write-Host " FAILED" -ForegroundColor Red
+                        $failed++
+                        "[$(Get-Date -Format 'HH:mm:ss')] FAILED $serialStr-$filenameSafe (shorts): $output" | Out-File $LOG_FILE -Append
+                    }
+                } catch {
+                    Write-Host " ERROR: $($_.Exception.Message)" -ForegroundColor Red
                     $failed++
-                    "[$(Get-Date -Format 'HH:mm:ss')] FAILED $serialStr-$filenameSafe (shorts): $output" | Out-File $LOG_FILE -Append
                 }
-            } catch {
-                Write-Host " ERROR: $($_.Exception.Message)" -ForegroundColor Red
-                $failed++
             }
         }
     }

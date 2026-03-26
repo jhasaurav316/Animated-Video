@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 // ============================================================================
-// Auto-Register All Rhyme Compositions in Root.tsx
+// Auto-Register All Hindi Rhyme Compositions in HindiRoot.tsx
 // ============================================================================
-// Reads rhymes-catalog.json and generates a new Root.tsx that registers
-// every rhyme as both a landscape (1920x1080) and shorts (1080x1920)
-// Remotion composition, organized by theme in Folders.
+// Reads hindi-poems/catalog.json and generates a new HindiRoot.tsx that
+// registers every Hindi rhyme as both a landscape (1920x1080) and shorts
+// (1080x1920) Remotion composition, organized by theme in Folders.
 //
 // Usage:
-//   node bulk-render/register-compositions.js
+//   node hindi-poems/register-compositions.js
 // ============================================================================
 
 const path = require("path");
@@ -15,18 +15,15 @@ const fs = require("fs");
 
 // ---------- Configuration ----------
 const PROJECT_ROOT = path.resolve(__dirname, "..");
-// Look for catalog in bulk-render/ first, then project root
-const CATALOG_PATH = fs.existsSync(path.join(__dirname, "rhymes-catalog.json"))
-  ? path.join(__dirname, "rhymes-catalog.json")
-  : path.join(PROJECT_ROOT, "rhymes-catalog.json");
-const ROOT_TSX_PATH = path.join(PROJECT_ROOT, "src", "Root.tsx");
-const BACKUP_PATH = path.join(PROJECT_ROOT, "src", "Root.tsx.backup");
+const CATALOG_PATH = path.join(PROJECT_ROOT, "hindi-poems", "catalog.json");
+const ROOT_TSX_PATH = path.join(PROJECT_ROOT, "src", "HindiRoot.tsx");
+const BACKUP_PATH = path.join(PROJECT_ROOT, "src", "HindiRoot.tsx.backup");
 
 const FPS = 30;
 
 // ---------- Helpers ----------
 
-// Convert a rhymeId like "twinkle-twinkle" to PascalCase "TwinkleTwinkle"
+// Convert a rhymeId like "chanda-mama" to PascalCase "ChandaMama"
 function toPascalCase(str) {
   return str
     .split(/[-_\s]+/)
@@ -34,24 +31,24 @@ function toPascalCase(str) {
     .join("");
 }
 
-// Convert theme name to a display-friendly folder name
+// Convert theme name to a display-friendly folder name with Hindi- prefix
 function themeToFolder(theme) {
   const map = {
-    night: "Night-Sky",
-    farm: "Farm-Animals",
-    ocean: "Ocean-Adventures",
-    garden: "Garden-Nature",
-    playground: "Playground-Fun",
-    space: "Outer-Space",
-    forest: "Forest-Friends",
-    city: "City-Life",
+    night: "Hindi-Night-Sky",
+    farm: "Hindi-Farm-Animals",
+    ocean: "Hindi-Ocean-Adventures",
+    garden: "Hindi-Garden-Nature",
+    playground: "Hindi-Playground-Fun",
+    space: "Hindi-Outer-Space",
+    forest: "Hindi-Forest-Friends",
+    city: "Hindi-City-Life",
   };
-  return map[theme] || toPascalCase(theme);
+  return map[theme] || "Hindi-" + toPascalCase(theme);
 }
 
 // Calculate duration in frames for a rhyme
 function calcDurationInFrames(rhyme) {
-  const verseDuration = rhyme.verseDuration || 5; // seconds per verse (5s matches Twinkle quality)
+  const verseDuration = rhyme.verseDuration || 4; // seconds per verse
   const introDuration = rhyme.introDuration || 5; // intro seconds
   const outroDuration = rhyme.outroDuration || 5; // outro seconds
   const verseCount = (rhyme.verses || []).length;
@@ -63,12 +60,12 @@ function calcDurationInFrames(rhyme) {
 // ---------- Main ----------
 function main() {
   console.log("============================================");
-  console.log("  Register All Compositions in Root.tsx");
+  console.log("  Register All Hindi Compositions in HindiRoot.tsx");
   console.log("============================================\n");
 
   // Load catalog
   if (!fs.existsSync(CATALOG_PATH)) {
-    console.error(`ERROR: rhymes-catalog.json not found at ${CATALOG_PATH}`);
+    console.error(`ERROR: catalog.json not found at ${CATALOG_PATH}`);
     process.exit(1);
   }
 
@@ -82,10 +79,10 @@ function main() {
 
   console.log(`Found ${rhymes.length} rhymes in catalog.`);
 
-  // Back up existing Root.tsx
+  // Back up existing HindiRoot.tsx
   if (fs.existsSync(ROOT_TSX_PATH)) {
     fs.copyFileSync(ROOT_TSX_PATH, BACKUP_PATH);
-    console.log(`Backed up existing Root.tsx to Root.tsx.backup`);
+    console.log(`Backed up existing HindiRoot.tsx to HindiRoot.tsx.backup`);
   }
 
   // Group rhymes by theme
@@ -99,25 +96,25 @@ function main() {
   const themeNames = Object.keys(themeGroups).sort();
   console.log(`Themes: ${themeNames.join(", ")}`);
 
-  // ---------- Generate Root.tsx content ----------
+  // ---------- Generate HindiRoot.tsx content ----------
   let content = "";
 
   // Imports
   content += `import "./index.css";\n`;
   content += `import { Composition, Folder } from "remotion";\n`;
-  content += `import { RhymeTemplate } from "./RhymeTemplate";\n`;
-  content += `import type { RhymeProps, RhymeTheme } from "./RhymeTemplate";\n`;
+  content += `import { HindiRhymeTemplate } from "./HindiRhymeTemplate";\n`;
+  content += `import type { HindiRhymeProps, RhymeTheme } from "./HindiRhymeTemplate";\n`;
   content += `import { ShortsWrapper } from "./ShortsWrapper";\n`;
   content += `import React from "react";\n`;
   content += `\n`;
 
   // ShortsRhyme wrapper component
-  content += `// Wrapper that renders a rhyme inside the ShortsWrapper for portrait format\n`;
-  content += `const ShortsRhyme: React.FC<RhymeProps & { topColor: string; bottomColor: string; accentEmoji?: string }> = (props) => {\n`;
+  content += `// Wrapper that renders a Hindi rhyme inside the ShortsWrapper for portrait format\n`;
+  content += `const ShortsRhyme: React.FC<HindiRhymeProps & { topColor: string; bottomColor: string; accentEmoji?: string }> = (props) => {\n`;
   content += `  const { topColor, bottomColor, accentEmoji, ...rhymeProps } = props;\n`;
   content += `  return (\n`;
   content += `    <ShortsWrapper title={rhymeProps.title} topColor={topColor} bottomColor={bottomColor} accentEmoji={accentEmoji}>\n`;
-  content += `      <RhymeTemplate {...rhymeProps} />\n`;
+  content += `      <HindiRhymeTemplate {...rhymeProps} />\n`;
   content += `    </ShortsWrapper>\n`;
   content += `  );\n`;
   content += `};\n\n`;
@@ -149,7 +146,7 @@ function main() {
 
     for (const rhyme of rhymesInTheme) {
       const rhymeId = rhyme.rhymeId || rhyme.id;
-      const compId = toPascalCase(rhymeId);
+      const compId = "Hindi" + toPascalCase(rhymeId);
       const durationInFrames = calcDurationInFrames(rhyme);
 
       // Build defaultProps for this rhyme
@@ -161,7 +158,7 @@ function main() {
       // Landscape composition
       content += `        <Composition\n`;
       content += `          id="${compId}"\n`;
-      content += `          component={RhymeTemplate}\n`;
+      content += `          component={HindiRhymeTemplate}\n`;
       content += `          durationInFrames={${durationInFrames}}\n`;
       content += `          fps={${FPS}}\n`;
       content += `          width={1920}\n`;
@@ -211,7 +208,7 @@ function main() {
   fs.writeFileSync(ROOT_TSX_PATH, content, "utf-8");
 
   const totalCompositions = rhymes.length * 2;
-  console.log(`\nRoot.tsx generated successfully!`);
+  console.log(`\nHindiRoot.tsx generated successfully!`);
   console.log(`  Compositions: ${totalCompositions} (${rhymes.length} landscape + ${rhymes.length} shorts)`);
   console.log(`  Themes: ${themeNames.length}`);
   console.log(`  File: ${ROOT_TSX_PATH}`);

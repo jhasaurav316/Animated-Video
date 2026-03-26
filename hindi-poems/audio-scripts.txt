@@ -1,0 +1,1576 @@
+======================================================================
+  AUDIO SCRIPTS FOR HINDI POEM VIDEOS
+======================================================================
+  Total Poems: 50
+  Generated: 3/26/2026
+
+  HOW TO USE THIS DOCUMENT:
+  - Each poem is numbered (1-50) matching the video order
+  - Overall tone/emotion is listed under the title
+  - Individual line emotions are in (parentheses) where needed
+  - Record each poem as ONE continuous audio file
+  - Pause briefly (~0.5s) between lines
+  - Pause longer (~1.5s) between verses/stanzas
+  - Target pace: slow and clear, suitable for children ages 2-6
+
+  AUDIO FILES NEEDED PER POEM:
+  1. Voice narration/singing (this script)
+  2. Emotional/expressive version (use emotion cues below)
+
+======================================================================
+
+
+----------------------------------------------------------------------
+  #1. चंदा मामा दूर के (Uncle Moon Far Away)
+----------------------------------------------------------------------
+  ID:      chanda-mama
+  Theme:   night
+  Tone:    Soft, dreamy, affectionate longing
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. चंदा मामा दूर के  (wonder, calling out lovingly)
+     2. पूए पकाएं बूर के  (playful, rhythmic)
+     3. आप खाएं थाली में  (gentle narration)
+     4. मुन्ने को दें प्याली में  (tender, affectionate)
+     5. प्याली गई टूट  (surprise, slight sadness)
+     6. मुन्ना गया रूठ  (pouty, sulking)
+     7. चंदा मामा आओ ना  (pleading, hopeful)
+     8. एक फूल लाओ ना  (hopeful, gentle request)
+
+  PLAIN SCRIPT (for recording):
+
+    चंदा मामा दूर के
+    पूए पकाएं बूर के
+    आप खाएं थाली में
+    मुन्ने को दें प्याली में
+    प्याली गई टूट
+    मुन्ना गया रूठ
+    चंदा मामा आओ ना
+    एक फूल लाओ ना
+
+
+----------------------------------------------------------------------
+  #2. तारों की दुनिया (World of Stars)
+----------------------------------------------------------------------
+  ID:      taron-ki-duniya
+  Theme:   night
+  Tone:    Sparkly, wonder-filled, gentle excitement
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. तारों की दुनिया है प्यारी  (wonder, sparkly)
+     2. चमके रात अँधेरी सारी  (awe, twinkling)
+     3. एक दो तीन चार पाँच  (counting rhythm, playful)
+     4. तारे करते मीठी नाच  (joyful, dancing feel)
+     5. टिमटिम टिमटिम करते जाएं  (twinkling, rhythmic)
+     6. आसमान में खूब सजाएं  (admiration, wonder)
+     7. नन्हें मुन्ने देखो ज़रा  (tender, inviting)
+     8. तारों ने सजाया जग सारा  (grand, wonder)
+
+  PLAIN SCRIPT (for recording):
+
+    तारों की दुनिया है प्यारी
+    चमके रात अँधेरी सारी
+    एक दो तीन चार पाँच
+    तारे करते मीठी नाच
+    टिमटिम टिमटिम करते जाएं
+    आसमान में खूब सजाएं
+    नन्हें मुन्ने देखो ज़रा
+    तारों ने सजाया जग सारा
+
+
+----------------------------------------------------------------------
+  #3. सो जा मेरी लाडली (Sleep My Dear)
+----------------------------------------------------------------------
+  ID:      so-ja-rajkumari
+  Theme:   night
+  Tone:    Soothing lullaby, warm, motherly tenderness
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. सो जा मेरी लाडली  (soothing, lullaby)
+     2. आँखें बंद कर ले तू  (gentle whisper)
+     3. चंदा मामा आएँगे  (comforting promise)
+     4. लोरी मीठी गाएँगे  (melodic, sweet)
+     5. तारे भी सो जाएँगे  (dreamy, soft)
+     6. सपनों में ले जाएँगे  (drifting, magical)
+     7. नींद की परी आएगी  (whispery, enchanting)
+     8. मीठे सपने लाएगी  (warm, reassuring)
+
+  PLAIN SCRIPT (for recording):
+
+    सो जा मेरी लाडली
+    आँखें बंद कर ले तू
+    चंदा मामा आएँगे
+    लोरी मीठी गाएँगे
+    तारे भी सो जाएँगे
+    सपनों में ले जाएँगे
+    नींद की परी आएगी
+    मीठे सपने लाएगी
+
+
+----------------------------------------------------------------------
+  #4. नन्ही परी (Little Fairy)
+----------------------------------------------------------------------
+  ID:      nanhi-pari
+  Theme:   night
+  Tone:    Magical, enchanting, fairy-tale wonder
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. नन्ही परी आसमान से आई  (wonder, magical arrival)
+     2. संग में अपने चाँदनी लाई  (glowing, ethereal)
+     3. पंख हैं उसके चमकीले  (sparkly, admiration)
+     4. रंग बिरंगे रेशमी पीले  (colorful, vivid)
+     5. जादू की छड़ी घुमाए  (magical, dramatic)
+     6. सबको प्यारे सपने दे जाए  (tender, dreamy)
+     7. सुबह होते ही उड़ जाए  (light, fleeting)
+     8. फिर से रात को आए  (promising, gentle)
+
+  PLAIN SCRIPT (for recording):
+
+    नन्ही परी आसमान से आई
+    संग में अपने चाँदनी लाई
+    पंख हैं उसके चमकीले
+    रंग बिरंगे रेशमी पीले
+    जादू की छड़ी घुमाए
+    सबको प्यारे सपने दे जाए
+    सुबह होते ही उड़ जाए
+    फिर से रात को आए
+
+
+----------------------------------------------------------------------
+  #5. जुगनू (Firefly)
+----------------------------------------------------------------------
+  ID:      jugnu
+  Theme:   night
+  Tone:    Twinkling, lively, gentle fascination
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. जुगनू जुगनू जग मग जग मग  (rhythmic, twinkling)
+     2. रात अँधेरी में तू दमदम  (mysterious, glowing)
+     3. टिमटिम टिमटिम करता जाए  (flickering, playful)
+     4. अँधियारे में रोशनी लाए  (warm, hopeful)
+     5. छोटा सा तू दीपक प्यारा  (tender, affectionate)
+     6. रात में करता उजियारा  (admiration, warm)
+     7. उड़ता फिरता बाग़ में तू  (light, free-spirited)
+     8. सबका मन बहलाता तू  (joyful, cheerful)
+
+  PLAIN SCRIPT (for recording):
+
+    जुगनू जुगनू जग मग जग मग
+    रात अँधेरी में तू दमदम
+    टिमटिम टिमटिम करता जाए
+    अँधियारे में रोशनी लाए
+    छोटा सा तू दीपक प्यारा
+    रात में करता उजियारा
+    उड़ता फिरता बाग़ में तू
+    सबका मन बहलाता तू
+
+
+----------------------------------------------------------------------
+  #6. चाँदनी रात (Moonlit Night)
+----------------------------------------------------------------------
+  ID:      chandni-raat
+  Theme:   night
+  Tone:    Serene, peaceful, softly radiant
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. चाँदनी रात में निकले चंदा  (serene, glowing)
+     2. दुनिया लगे कितनी सुंदर  (awe, admiration)
+     3. चाँद की किरणें चमकें ऐसे  (sparkly, wonder)
+     4. चाँदी बिछी हो ज़मीं पे जैसे  (vivid, dreamy)
+     5. झिलमिल झिलमिल तारे गाएं  (twinkling, musical)
+     6. चंदा मामा मुस्काएं  (warm, smiling)
+     7. ठंडी ठंडी हवा भी आए  (gentle breeze feel)
+     8. सबको नींद सुहानी लाए  (soothing, sleepy)
+
+  PLAIN SCRIPT (for recording):
+
+    चाँदनी रात में निकले चंदा
+    दुनिया लगे कितनी सुंदर
+    चाँद की किरणें चमकें ऐसे
+    चाँदी बिछी हो ज़मीं पे जैसे
+    झिलमिल झिलमिल तारे गाएं
+    चंदा मामा मुस्काएं
+    ठंडी ठंडी हवा भी आए
+    सबको नींद सुहानी लाए
+
+
+----------------------------------------------------------------------
+  #7. नानी तेरी मोरनी (Grandma's Peacock)
+----------------------------------------------------------------------
+  ID:      nani-teri-morni
+  Theme:   farm
+  Tone:    Lively, storytelling, playful with a touch of drama
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. नानी तेरी मोरनी को मोर ले गए  (dramatic storytelling)
+     2. बाकी जो बचा था काले चोर ले गए  (mischievous, dramatic)
+     3. मोरनी का दर्द ना जाने कोई  (sympathetic, sad)
+     4. छम छम नाचे कोई तो रोई  (contrasting emotions)
+     5. नानी ने बुलाई गोरी गोरी  (warm, grandmotherly)
+     6. चुन्नी में लपेटी एक कहानी  (storytelling, cozy)
+     7. नानी की कहानी बड़ी सुहानी  (warm, affectionate)
+     8. मोरनी लौट आई बनकर रानी  (triumphant, happy ending)
+
+  PLAIN SCRIPT (for recording):
+
+    नानी तेरी मोरनी को मोर ले गए
+    बाकी जो बचा था काले चोर ले गए
+    मोरनी का दर्द ना जाने कोई
+    छम छम नाचे कोई तो रोई
+    नानी ने बुलाई गोरी गोरी
+    चुन्नी में लपेटी एक कहानी
+    नानी की कहानी बड़ी सुहानी
+    मोरनी लौट आई बनकर रानी
+
+
+----------------------------------------------------------------------
+  #8. गैया मेरी (My Cow)
+----------------------------------------------------------------------
+  ID:      gaiya-meri
+  Theme:   farm
+  Tone:    Gentle, loving, warm pastoral feel
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. गैया मेरी प्यारी गैया  (affectionate, loving)
+     2. सबसे अच्छी न्यारी गैया  (admiration, pride)
+     3. दूध दे मीठा मीठा  (sweet, appreciative)
+     4. मक्खन दे ताज़ा ताज़ा  (delicious, happy)
+     5. हरा हरा चारा खाती  (gentle, pastoral)
+     6. खेतों में घूम कर आती  (peaceful, roaming)
+     7. सुबह शाम दूध देती  (rhythmic, routine)
+     8. सबकी सेवा करती रहती  (grateful, respectful)
+
+  PLAIN SCRIPT (for recording):
+
+    गैया मेरी प्यारी गैया
+    सबसे अच्छी न्यारी गैया
+    दूध दे मीठा मीठा
+    मक्खन दे ताज़ा ताज़ा
+    हरा हरा चारा खाती
+    खेतों में घूम कर आती
+    सुबह शाम दूध देती
+    सबकी सेवा करती रहती
+
+
+----------------------------------------------------------------------
+  #9. मुर्गा बोला कुकड़ू कूँ (Rooster Crowed)
+----------------------------------------------------------------------
+  ID:      murga-bola
+  Theme:   farm
+  Tone:    Bright, energetic morning wake-up call
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. मुर्गा बोला कुकड़ू कूँ  (loud, energetic crow)
+     2. सुबह हो गई उठो अब तूँ  (cheerful, waking up)
+     3. सूरज निकला पूरब से  (bright, warm)
+     4. किरणें आईं दूर दूर से  (expansive, glowing)
+     5. चिड़िया चहकी डाली पर  (chirpy, lively)
+     6. फूल खिले हर क्यारी पर  (blooming, fresh)
+     7. गाय चली है खेत को  (gentle, pastoral)
+     8. किसान चला है बेट को  (hardworking, steady)
+
+  PLAIN SCRIPT (for recording):
+
+    मुर्गा बोला कुकड़ू कूँ
+    सुबह हो गई उठो अब तूँ
+    सूरज निकला पूरब से
+    किरणें आईं दूर दूर से
+    चिड़िया चहकी डाली पर
+    फूल खिले हर क्यारी पर
+    गाय चली है खेत को
+    किसान चला है बेट को
+
+
+----------------------------------------------------------------------
+  #10. किसान (Farmer)
+----------------------------------------------------------------------
+  ID:      kisan
+  Theme:   farm
+  Tone:    Respectful, hardworking, proud salute
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. किसान दादा खेतों में जाएं  (respectful, steady)
+     2. हल जोतें और बीज लगाएं  (hardworking, rhythmic)
+     3. धूप में मेहनत करते जाएं  (perseverance, warm)
+     4. खेतों को पानी पिलाएं  (caring, nurturing)
+     5. फसलें उगें हरी भरी  (joyful, abundant)
+     6. गेहूँ चावल सब्ज़ी खरी  (listing, proud)
+     7. किसान दादा बड़े महान  (admiration, salute)
+     8. देश का गौरव देश की शान  (patriotic, proud)
+
+  PLAIN SCRIPT (for recording):
+
+    किसान दादा खेतों में जाएं
+    हल जोतें और बीज लगाएं
+    धूप में मेहनत करते जाएं
+    खेतों को पानी पिलाएं
+    फसलें उगें हरी भरी
+    गेहूँ चावल सब्ज़ी खरी
+    किसान दादा बड़े महान
+    देश का गौरव देश की शान
+
+
+----------------------------------------------------------------------
+  #11. बिल्ली मौसी (Cat Aunty)
+----------------------------------------------------------------------
+  ID:      billi-mausi
+  Theme:   farm
+  Tone:    Playful, mischievous, comic storytelling
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. बिल्ली मौसी बिल्ली मौसी कहाँ चली  (curious, calling out)
+     2. दूध की कटोरी लेकर बाहर चली  (sneaky, playful)
+     3. म्याऊँ म्याऊँ करती जाए  (cat voice, playful)
+     4. पूँछ हिलाकर नाचती आए  (prancing, funny)
+     5. चूहा देखा भागी भागी  (excited, chasing)
+     6. मूँछें फैला दौड़ी आगी  (dramatic, intense)
+     7. चूहा भागा बिल में जाकर  (fast, escaping)
+     8. बिल्ली बैठी मुँह लटकाकर  (disappointed, comic)
+
+  PLAIN SCRIPT (for recording):
+
+    बिल्ली मौसी बिल्ली मौसी कहाँ चली
+    दूध की कटोरी लेकर बाहर चली
+    म्याऊँ म्याऊँ करती जाए
+    पूँछ हिलाकर नाचती आए
+    चूहा देखा भागी भागी
+    मूँछें फैला दौड़ी आगी
+    चूहा भागा बिल में जाकर
+    बिल्ली बैठी मुँह लटकाकर
+
+
+----------------------------------------------------------------------
+  #12. चूहे राजा (Mouse King)
+----------------------------------------------------------------------
+  ID:      chuhe-raja
+  Theme:   farm
+  Tone:    Sneaky, funny, fast-paced adventure
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. चूहे राजा चूहे राजा  (playful, calling out)
+     2. तुम तो हो बड़े मज़ेदार  (amused, teasing)
+     3. बिल में रहते छुपकर तुम  (sneaky, whispery)
+     4. रात को निकलो चुपके से  (stealthy, quiet)
+     5. रोटी लेकर भागो चुपके  (quick, mischievous)
+     6. बिल्ली आए तो छुपके  (scared, hiding)
+     7. चूहे राजा भागो भागो  (urgent, fast)
+     8. बिल्ली आई जागो जागो  (alert, warning)
+
+  PLAIN SCRIPT (for recording):
+
+    चूहे राजा चूहे राजा
+    तुम तो हो बड़े मज़ेदार
+    बिल में रहते छुपकर तुम
+    रात को निकलो चुपके से
+    रोटी लेकर भागो चुपके
+    बिल्ली आए तो छुपके
+    चूहे राजा भागो भागो
+    बिल्ली आई जागो जागो
+
+
+----------------------------------------------------------------------
+  #13. बकरी चली बाज़ार (Goat Goes to Market)
+----------------------------------------------------------------------
+  ID:      bakri-chali
+  Theme:   farm
+  Tone:    Cheerful, bouncy, humorous
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. बकरी चली बाज़ार को  (cheerful, bouncy)
+     2. लेने सब्ज़ी हार को  (purposeful, happy)
+     3. मैं मैं करती जाए वो  (goat voice, funny)
+     4. सबको हँसाती जाए वो  (humorous, jolly)
+     5. गाजर मूली लेकर आई  (listing, rhythmic)
+     6. घर में सबको बाँट खिलाई  (generous, warm)
+     7. बकरी रानी बड़ी सयानी  (admiration, proud)
+     8. सबकी प्यारी सबकी नानी  (affectionate, loving)
+
+  PLAIN SCRIPT (for recording):
+
+    बकरी चली बाज़ार को
+    लेने सब्ज़ी हार को
+    मैं मैं करती जाए वो
+    सबको हँसाती जाए वो
+    गाजर मूली लेकर आई
+    घर में सबको बाँट खिलाई
+    बकरी रानी बड़ी सयानी
+    सबकी प्यारी सबकी नानी
+
+
+----------------------------------------------------------------------
+  #14. मछली जल की रानी है (Fish is Queen of Water)
+----------------------------------------------------------------------
+  ID:      machli-jal-ki-rani
+  Theme:   ocean
+  Tone:    Classic, gentle, educational with wonder
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. मछली जल की रानी है  (declarative, proud)
+     2. जीवन उसका पानी है  (factual, gentle)
+     3. हाथ लगाओ डर जाएगी  (cautious, warning)
+     4. बाहर निकालो मर जाएगी  (serious, empathetic)
+     5. पानी में वो तैरती जाए  (flowing, graceful)
+     6. इधर उधर वो मुस्काए  (happy, playful)
+     7. रंग बिरंगी मछली प्यारी  (colorful, admiring)
+     8. पानी में है दुनिया सारी  (wonder, expansive)
+
+  PLAIN SCRIPT (for recording):
+
+    मछली जल की रानी है
+    जीवन उसका पानी है
+    हाथ लगाओ डर जाएगी
+    बाहर निकालो मर जाएगी
+    पानी में वो तैरती जाए
+    इधर उधर वो मुस्काए
+    रंग बिरंगी मछली प्यारी
+    पानी में है दुनिया सारी
+
+
+----------------------------------------------------------------------
+  #15. नदी किनारे (By the River)
+----------------------------------------------------------------------
+  ID:      nadi-kinare
+  Theme:   ocean
+  Tone:    Peaceful, flowing, nature's melody
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. नदी किनारे बैठ के देखो  (inviting, calm)
+     2. पानी कैसे बहता देखो  (wonder, observing)
+     3. कल कल कल कल करती नदिया  (flowing rhythm, musical)
+     4. मस्ती में बहती जाए गदिया  (carefree, joyful)
+     5. नाव चली है धीरे धीरे  (slow, gentle)
+     6. मछली उछली तीरे तीरे  (playful, splashing)
+     7. हरे हरे हैं दोनों किनारे  (lush, scenic)
+     8. नदिया तू है सबसे प्यारे  (affectionate, warm)
+
+  PLAIN SCRIPT (for recording):
+
+    नदी किनारे बैठ के देखो
+    पानी कैसे बहता देखो
+    कल कल कल कल करती नदिया
+    मस्ती में बहती जाए गदिया
+    नाव चली है धीरे धीरे
+    मछली उछली तीरे तीरे
+    हरे हरे हैं दोनों किनारे
+    नदिया तू है सबसे प्यारे
+
+
+----------------------------------------------------------------------
+  #16. कागज़ की नाव (Paper Boat)
+----------------------------------------------------------------------
+  ID:      kagaz-ki-naav
+  Theme:   ocean
+  Tone:    Imaginative, hopeful, childlike wonder
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. कागज़ की नाव बनाई मैंने  (proud, creative)
+     2. पानी में उसको डाली मैंने  (excited, hopeful)
+     3. तैरती जाए दूर तलक  (dreamy, watching)
+     4. हवा के संग चली चलक  (breezy, flowing)
+     5. छोटी सी नाव मेरी प्यारी  (tender, affectionate)
+     6. लहरों में बहती जाए सारी  (gentle, flowing)
+     7. दूर देशों को जाएगी  (imaginative, dreamy)
+     8. मेरा संदेशा लाएगी  (hopeful, sweet)
+
+  PLAIN SCRIPT (for recording):
+
+    कागज़ की नाव बनाई मैंने
+    पानी में उसको डाली मैंने
+    तैरती जाए दूर तलक
+    हवा के संग चली चलक
+    छोटी सी नाव मेरी प्यारी
+    लहरों में बहती जाए सारी
+    दूर देशों को जाएगी
+    मेरा संदेशा लाएगी
+
+
+----------------------------------------------------------------------
+  #17. सागर की लहरें (Ocean Waves)
+----------------------------------------------------------------------
+  ID:      sagar-ki-leherein
+  Theme:   ocean
+  Tone:    Rhythmic, powerful, joyful splashing
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. सागर की लहरें आती जाती  (rhythmic, wave-like)
+     2. किनारे पे आकर गीत सुनाती  (musical, melodic)
+     3. ज़ोर से आएं छपाक छपाक  (loud, splashing)
+     4. रेत पे लिख दें धपाक धपाक  (playful, crashing)
+     5. सीपी और शंख बिछाएं  (gentle, gifting)
+     6. बच्चों को खूब हँसाएं  (joyful, cheerful)
+     7. नीला नीला सागर देखो  (awe, vast)
+     8. कितना सुंदर मंज़र देखो  (admiration, wonder)
+
+  PLAIN SCRIPT (for recording):
+
+    सागर की लहरें आती जाती
+    किनारे पे आकर गीत सुनाती
+    ज़ोर से आएं छपाक छपाक
+    रेत पे लिख दें धपाक धपाक
+    सीपी और शंख बिछाएं
+    बच्चों को खूब हँसाएं
+    नीला नीला सागर देखो
+    कितना सुंदर मंज़र देखो
+
+
+----------------------------------------------------------------------
+  #18. बारिश की बूँदें (Raindrops)
+----------------------------------------------------------------------
+  ID:      barish-ki-boonden
+  Theme:   ocean
+  Tone:    Rhythmic, pitter-patter, joyful rain sounds
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. बारिश की बूँदें टपकें छम छम  (rhythmic, patter)
+     2. पत्तों पे गिरें धम धम धम  (rhythmic, percussive)
+     3. छतों पे बजे टिप टिप टिप  (light, tapping)
+     4. नाचे मोर और बोले पिप  (joyful, dancing)
+     5. पानी में कश्ती तैराएं  (playful, floating)
+     6. कागज़ की नाव बनाएं  (creative, excited)
+     7. बारिश रानी आओ ना  (inviting, hopeful)
+     8. खूब मज़ा करवाओ ना  (excited, pleading)
+
+  PLAIN SCRIPT (for recording):
+
+    बारिश की बूँदें टपकें छम छम
+    पत्तों पे गिरें धम धम धम
+    छतों पे बजे टिप टिप टिप
+    नाचे मोर और बोले पिप
+    पानी में कश्ती तैराएं
+    कागज़ की नाव बनाएं
+    बारिश रानी आओ ना
+    खूब मज़ा करवाओ ना
+
+
+----------------------------------------------------------------------
+  #19. मेघा आए (Clouds Came)
+----------------------------------------------------------------------
+  ID:      megha-aaye
+  Theme:   ocean
+  Tone:    Dramatic build-up, thunderous, then joyful celebration
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. मेघा आए मेघा आए  (announcing, excited)
+     2. झमझम पानी बरसाए  (rhythmic, pouring)
+     3. काले काले बादल छाए  (dramatic, building)
+     4. बिजली चमकी धड़ धड़ आए  (thunderous, dramatic)
+     5. मेंढक बोले टर्र टर्र  (animal voice, funny)
+     6. पानी भर गए नदी नाले  (flowing, rushing)
+     7. हरियाली छा गई चारों ओर  (fresh, joyful)
+     8. नाचे ख़ुशी से सब मिलकर और  (celebratory, dancing)
+
+  PLAIN SCRIPT (for recording):
+
+    मेघा आए मेघा आए
+    झमझम पानी बरसाए
+    काले काले बादल छाए
+    बिजली चमकी धड़ धड़ आए
+    मेंढक बोले टर्र टर्र
+    पानी भर गए नदी नाले
+    हरियाली छा गई चारों ओर
+    नाचे ख़ुशी से सब मिलकर और
+
+
+----------------------------------------------------------------------
+  #20. तितली उड़ी (Butterfly Flew)
+----------------------------------------------------------------------
+  ID:      titli-udi
+  Theme:   garden
+  Tone:    Light, fluttery, colorful, carefree
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. तितली उड़ी बस में चढ़ी  (playful, rhythmic)
+     2. हवा आई तितली उड़ी  (breezy, fluttery)
+     3. रंग बिरंगे पंख हैं इसके  (colorful, admiring)
+     4. फूल फूल पर बैठे किसके  (curious, wondering)
+     5. लाल गुलाबी पीली नीली  (listing colors, vivid)
+     6. तितली रानी बड़ी रंगीली  (cheerful, proud)
+     7. बगीचे में घूमती जाए  (free, floating)
+     8. फूलों से मीठी बात सुनाए  (sweet, gentle)
+
+  PLAIN SCRIPT (for recording):
+
+    तितली उड़ी बस में चढ़ी
+    हवा आई तितली उड़ी
+    रंग बिरंगे पंख हैं इसके
+    फूल फूल पर बैठे किसके
+    लाल गुलाबी पीली नीली
+    तितली रानी बड़ी रंगीली
+    बगीचे में घूमती जाए
+    फूलों से मीठी बात सुनाए
+
+
+----------------------------------------------------------------------
+  #21. चंपा चमेली (Champa Chameli Flowers)
+----------------------------------------------------------------------
+  ID:      champa-chameli
+  Theme:   garden
+  Tone:    Fragrant, blooming, lively garden atmosphere
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. चंपा चमेली गेंदा जूही  (listing, fragrant)
+     2. फूलों की बगिया कितनी सुंदर  (admiration, wonder)
+     3. गुलाब लाल खिला है देखो  (pointing out, vivid)
+     4. सूरजमुखी भी खिला है देखो  (bright, cheerful)
+     5. भँवरा गाए गुनगुन गुनगुन  (buzzing, musical)
+     6. फूलों पर जाए चुनचुन चुनचुन  (rhythmic, gentle)
+     7. खुशबू फैले चारों ओर  (spreading, fragrant)
+     8. फूलों से सजा ये सुंदर ठौर  (proud, beautiful)
+
+  PLAIN SCRIPT (for recording):
+
+    चंपा चमेली गेंदा जूही
+    फूलों की बगिया कितनी सुंदर
+    गुलाब लाल खिला है देखो
+    सूरजमुखी भी खिला है देखो
+    भँवरा गाए गुनगुन गुनगुन
+    फूलों पर जाए चुनचुन चुनचुन
+    खुशबू फैले चारों ओर
+    फूलों से सजा ये सुंदर ठौर
+
+
+----------------------------------------------------------------------
+  #22. कोयल (Cuckoo Bird)
+----------------------------------------------------------------------
+  ID:      koyal
+  Theme:   garden
+  Tone:    Melodious, sweet singing, spring freshness
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. कोयल रानी कोयल रानी  (calling, melodious)
+     2. मीठी बोली मीठी बानी  (sweet, honeyed)
+     3. कूकू कूकू गाना गाए  (singing, melodic)
+     4. आम के पेड़ पर आन बिराजे  (settled, peaceful)
+     5. काली काली सुंदर कोयल  (describing, admiring)
+     6. गीत सुनाती मीठे बोल  (melodious, warm)
+     7. बसंत आए तो गाए ख़ूब  (seasonal joy, lively)
+     8. सबका दिल बहलाए ख़ूब  (heartwarming, cheerful)
+
+  PLAIN SCRIPT (for recording):
+
+    कोयल रानी कोयल रानी
+    मीठी बोली मीठी बानी
+    कूकू कूकू गाना गाए
+    आम के पेड़ पर आन बिराजे
+    काली काली सुंदर कोयल
+    गीत सुनाती मीठे बोल
+    बसंत आए तो गाए ख़ूब
+    सबका दिल बहलाए ख़ूब
+
+
+----------------------------------------------------------------------
+  #23. चिड़िया रानी (Bird Queen)
+----------------------------------------------------------------------
+  ID:      chidiya-rani
+  Theme:   garden
+  Tone:    Chirpy, nurturing, gentle storytelling
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. चिड़िया रानी बड़ी सयानी  (admiring, proud)
+     2. दाना चुगती पीती पानी  (simple, rhythmic)
+     3. चीं चीं चीं करती है गाना  (bird voice, chirpy)
+     4. पेड़ की डाली है उसका ठिकाना  (homely, cozy)
+     5. तिनका तिनका जोड़ के लाई  (hardworking, building)
+     6. प्यारा सा एक घोंसला बनाई  (proud, accomplished)
+     7. अंडे दिए छोटे छोटे  (gentle, tender)
+     8. बच्चे निकले गोल मटोल  (joyful, cute)
+
+  PLAIN SCRIPT (for recording):
+
+    चिड़िया रानी बड़ी सयानी
+    दाना चुगती पीती पानी
+    चीं चीं चीं करती है गाना
+    पेड़ की डाली है उसका ठिकाना
+    तिनका तिनका जोड़ के लाई
+    प्यारा सा एक घोंसला बनाई
+    अंडे दिए छोटे छोटे
+    बच्चे निकले गोल मटोल
+
+
+----------------------------------------------------------------------
+  #24. फूलों का बगीचा (Flower Garden)
+----------------------------------------------------------------------
+  ID:      phoolon-ka-bagicha
+  Theme:   garden
+  Tone:    Blooming, scenic, morning freshness
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. फूलों का बगीचा कितना प्यारा  (admiration, wonder)
+     2. लगता है ये दुनिया का नज़ारा  (awe, expansive)
+     3. लाल गुलाबी पीले फूल  (colorful, listing)
+     4. हरी हरी पत्तियाँ और धूल  (scenic, earthy)
+     5. तितली भँवरा आते जाते  (lively, buzzing)
+     6. फूलों से रस मीठा पाते  (sweet, gentle)
+     7. सुबह सवेरे फूल खिलें  (morning freshness, blooming)
+     8. खुशबू से सब दिल मिलें  (warm, fragrant)
+
+  PLAIN SCRIPT (for recording):
+
+    फूलों का बगीचा कितना प्यारा
+    लगता है ये दुनिया का नज़ारा
+    लाल गुलाबी पीले फूल
+    हरी हरी पत्तियाँ और धूल
+    तितली भँवरा आते जाते
+    फूलों से रस मीठा पाते
+    सुबह सवेरे फूल खिलें
+    खुशबू से सब दिल मिलें
+
+
+----------------------------------------------------------------------
+  #25. तोता मैना (Parrot and Mynah)
+----------------------------------------------------------------------
+  ID:      tota-maina
+  Theme:   garden
+  Tone:    Cheerful duo, talkative, musical friendship
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. तोता मैना की जोड़ी प्यारी  (cheerful, introducing)
+     2. दोनों करें मस्ती भारी  (playful, fun)
+     3. तोता बोले मिट्ठू मिट्ठू  (parrot voice, mimicking)
+     4. हरे हरे पंखों वाला बिट्टू  (descriptive, colorful)
+     5. मैना गाए मीठे गाने  (melodious, sweet)
+     6. सबको लगते बड़े सुहाने  (appreciating, warm)
+     7. पेड़ पर बैठें दोनों साथ  (friendly, together)
+     8. गीत सुनाएं सब के साथ  (joyful, communal)
+
+  PLAIN SCRIPT (for recording):
+
+    तोता मैना की जोड़ी प्यारी
+    दोनों करें मस्ती भारी
+    तोता बोले मिट्ठू मिट्ठू
+    हरे हरे पंखों वाला बिट्टू
+    मैना गाए मीठे गाने
+    सबको लगते बड़े सुहाने
+    पेड़ पर बैठें दोनों साथ
+    गीत सुनाएं सब के साथ
+
+
+----------------------------------------------------------------------
+  #26. रंग बिरंगी तितलियाँ (Colorful Butterflies)
+----------------------------------------------------------------------
+  ID:      rang-birangi-titliyan
+  Theme:   garden
+  Tone:    Vivid colors, fluttery, delightful parade
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. रंग बिरंगी तितलियाँ आईं  (excited, colorful arrival)
+     2. बगीचे में ख़ूब सजाईं  (decorating, lively)
+     3. पीली तितली पीले फूल पर  (matching, visual)
+     4. लाल तितली गुलाब के ऊपर  (vivid, pairing)
+     5. नीली तितली आसमान सी  (dreamy, expansive)
+     6. सफ़ेद तितली चाँदनी सी  (ethereal, glowing)
+     7. उड़ती फिरती इधर उधर  (free, fluttering)
+     8. सबका मन करतीं मगन  (happy, contented)
+
+  PLAIN SCRIPT (for recording):
+
+    रंग बिरंगी तितलियाँ आईं
+    बगीचे में ख़ूब सजाईं
+    पीली तितली पीले फूल पर
+    लाल तितली गुलाब के ऊपर
+    नीली तितली आसमान सी
+    सफ़ेद तितली चाँदनी सी
+    उड़ती फिरती इधर उधर
+    सबका मन करतीं मगन
+
+
+----------------------------------------------------------------------
+  #27. लकड़ी की काठी (Wooden Stick)
+----------------------------------------------------------------------
+  ID:      lakdi-ki-kathi
+  Theme:   playground
+  Tone:    Bouncy, galloping, slapstick humor
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. लकड़ी की काठी काठी पे घोड़ा  (bouncy, galloping rhythm)
+     2. घोड़े की दुम पे जो मारा हथौड़ा  (dramatic, funny)
+     3. दौड़ा दौड़ा दौड़ा घोड़ा  (fast, galloping)
+     4. दम दबा के हट गया छोरा  (comic, ducking)
+     5. लकड़ी की काठी काठी का घोड़ा  (rhythmic repeat)
+     6. घोड़ा लेकर दौड़ा छोरा  (energetic, running)
+     7. बाज़ार में जाकर रुक गया  (stopping, pause)
+     8. सबने देखा हँस पड़ा  (laughing, comic ending)
+
+  PLAIN SCRIPT (for recording):
+
+    लकड़ी की काठी काठी पे घोड़ा
+    घोड़े की दुम पे जो मारा हथौड़ा
+    दौड़ा दौड़ा दौड़ा घोड़ा
+    दम दबा के हट गया छोरा
+    लकड़ी की काठी काठी का घोड़ा
+    घोड़ा लेकर दौड़ा छोरा
+    बाज़ार में जाकर रुक गया
+    सबने देखा हँस पड़ा
+
+
+----------------------------------------------------------------------
+  #28. अक्कड़ बक्कड़ (Counting Rhyme)
+----------------------------------------------------------------------
+  ID:      akkad-bakkad
+  Theme:   playground
+  Tone:    Fast counting rhythm, chanting, playground energy
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. अक्कड़ बक्कड़ बंबे बो  (fast chanting, rhythmic)
+     2. अस्सी नब्बे पूरे सौ  (counting, building)
+     3. सौ में लगा धागा  (surprise, twist)
+     4. चोर निकल के भागा  (dramatic, running)
+     5. चोर की दाढ़ी लंबी  (funny, descriptive)
+     6. उसमें बँधी है रस्सी  (silly, imaginative)
+     7. रस्सी में लगी है छड़ी  (chain, building)
+     8. छड़ी ने मारी झड़ी  (punchline, dramatic)
+
+  PLAIN SCRIPT (for recording):
+
+    अक्कड़ बक्कड़ बंबे बो
+    अस्सी नब्बे पूरे सौ
+    सौ में लगा धागा
+    चोर निकल के भागा
+    चोर की दाढ़ी लंबी
+    उसमें बँधी है रस्सी
+    रस्सी में लगी है छड़ी
+    छड़ी ने मारी झड़ी
+
+
+----------------------------------------------------------------------
+  #29. आलू कचालू (Potato Rhyme)
+----------------------------------------------------------------------
+  ID:      aloo-kachalu
+  Theme:   playground
+  Tone:    Comic, story-like, emotional rollercoaster for kids
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. आलू कचालू बेटा कहाँ गए थे  (questioning, curious)
+     2. बंदर की झोली में सो गए थे  (funny, sleepy)
+     3. बंदर ने लात मारी रो गए थे  (sad, crying)
+     4. मम्मी ने प्यार किया हँस गए थे  (happy, comforted)
+     5. पापा ने पैसे दिए नाच गए थे  (excited, dancing)
+     6. भैया ने लड्डू दिए खा गए थे  (yummy, delighted)
+     7. दीदी ने चुटकी काटी रो गए थे  (ouch, crying again)
+     8. नानी ने गोद लिया सो गए थे  (warm, peaceful sleep)
+
+  PLAIN SCRIPT (for recording):
+
+    आलू कचालू बेटा कहाँ गए थे
+    बंदर की झोली में सो गए थे
+    बंदर ने लात मारी रो गए थे
+    मम्मी ने प्यार किया हँस गए थे
+    पापा ने पैसे दिए नाच गए थे
+    भैया ने लड्डू दिए खा गए थे
+    दीदी ने चुटकी काटी रो गए थे
+    नानी ने गोद लिया सो गए थे
+
+
+----------------------------------------------------------------------
+  #30. गुब्बारे वाला (Balloon Seller)
+----------------------------------------------------------------------
+  ID:      gubbare-wala
+  Theme:   playground
+  Tone:    Colorful, festive, childlike excitement
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. गुब्बारे वाला आया आया  (excited announcement)
+     2. रंग बिरंगे गुब्बारे लाया  (colorful, festive)
+     3. लाल पीला हरा नीला  (listing colors, bright)
+     4. सबसे प्यारा गुलाबी रंगीला  (picking favorite, joyful)
+     5. हवा भरी तो फूल गए  (inflating, growing)
+     6. आसमान में उड़ गए  (wonder, floating up)
+     7. बच्चे खुश हो ताली बजाएं  (clapping, celebrating)
+     8. गुब्बारे वाले को बुलाएं  (calling, eager)
+
+  PLAIN SCRIPT (for recording):
+
+    गुब्बारे वाला आया आया
+    रंग बिरंगे गुब्बारे लाया
+    लाल पीला हरा नीला
+    सबसे प्यारा गुलाबी रंगीला
+    हवा भरी तो फूल गए
+    आसमान में उड़ गए
+    बच्चे खुश हो ताली बजाएं
+    गुब्बारे वाले को बुलाएं
+
+
+----------------------------------------------------------------------
+  #31. बंदर मामा (Monkey Uncle)
+----------------------------------------------------------------------
+  ID:      bandar-mama
+  Theme:   playground
+  Tone:    Comical, energetic, monkey antics
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. बंदर मामा पहन पजामा  (funny, visual)
+     2. दौड़ लगाए आया आया  (energetic, running)
+     3. टोपी वाला बंदर आया  (comic, visual)
+     4. सबको खूब हँसाया  (laughing, jolly)
+     5. उछले कूदे डाली डाली  (jumping, acrobatic)
+     6. केले खाए पीली पीली  (munching, happy)
+     7. मस्ती करे दिन भर सारा  (playful, tireless)
+     8. बंदर मामा सबसे प्यारा  (affectionate, loving)
+
+  PLAIN SCRIPT (for recording):
+
+    बंदर मामा पहन पजामा
+    दौड़ लगाए आया आया
+    टोपी वाला बंदर आया
+    सबको खूब हँसाया
+    उछले कूदे डाली डाली
+    केले खाए पीली पीली
+    मस्ती करे दिन भर सारा
+    बंदर मामा सबसे प्यारा
+
+
+----------------------------------------------------------------------
+  #32. चुन्नू मुन्नू (Two Brothers)
+----------------------------------------------------------------------
+  ID:      chunnu-munnu
+  Theme:   playground
+  Tone:    Friendly, teamwork, sweet sibling story
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. चुन्नू मुन्नू थे दो भाई  (introducing, friendly)
+     2. दोनों ने मिलकर दुकान चलाई  (teamwork, proud)
+     3. चुन्नू ने बेचीं मिठाई  (sweet, yummy)
+     4. मुन्नू ने बेची मलाई  (creamy, delicious)
+     5. ग्राहक आए बहुत सारे  (busy, bustling)
+     6. सबने खाए पकवान प्यारे  (happy eating, satisfied)
+     7. चुन्नू मुन्नू की जोड़ी निराली  (admiring, unique)
+     8. सबकी बन गई दिवाली  (festive, celebratory)
+
+  PLAIN SCRIPT (for recording):
+
+    चुन्नू मुन्नू थे दो भाई
+    दोनों ने मिलकर दुकान चलाई
+    चुन्नू ने बेचीं मिठाई
+    मुन्नू ने बेची मलाई
+    ग्राहक आए बहुत सारे
+    सबने खाए पकवान प्यारे
+    चुन्नू मुन्नू की जोड़ी निराली
+    सबकी बन गई दिवाली
+
+
+----------------------------------------------------------------------
+  #33. गोल गोल दुनिया (Round Round World)
+----------------------------------------------------------------------
+  ID:      gol-gol-duniya
+  Theme:   playground
+  Tone:    Spinning, curious, discovery of shapes
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. गोल गोल दुनिया गोल गोल  (spinning, rhythmic)
+     2. घूमे जा रही है रोल रोल  (rotating, fun)
+     3. गोल है सूरज गोल है चंदा  (pointing out, discovering)
+     4. गोल गेंद और गोल गुब्बारा  (listing, playful)
+     5. गोल रोटी माँ ने बनाई  (homely, warm)
+     6. गोल गोल सबको खिलाई  (sharing, loving)
+     7. गोल चक्का गाड़ी का  (observing, curious)
+     8. गोल गोल सारा जहान का  (grand, wonder)
+
+  PLAIN SCRIPT (for recording):
+
+    गोल गोल दुनिया गोल गोल
+    घूमे जा रही है रोल रोल
+    गोल है सूरज गोल है चंदा
+    गोल गेंद और गोल गुब्बारा
+    गोल रोटी माँ ने बनाई
+    गोल गोल सबको खिलाई
+    गोल चक्का गाड़ी का
+    गोल गोल सारा जहान का
+
+
+----------------------------------------------------------------------
+  #34. सूरज निकला (Sun Came Out)
+----------------------------------------------------------------------
+  ID:      suraj-nikla
+  Theme:   space
+  Tone:    Bright, warm, energetic morning glory
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. सूरज निकला चमक चमक  (bright, radiant)
+     2. धरती जागी दमक दमक  (waking, glowing)
+     3. किरणें आईं सुनहरी सुनहरी  (warm, golden)
+     4. रोशनी फैली धरती भरी  (expansive, bright)
+     5. फूल खिले पंछी बोले  (fresh, lively)
+     6. सूरज दादा दरवाज़े खोले  (personified, welcoming)
+     7. सबको जगाया सबको बुलाया  (energetic, calling)
+     8. नया सवेरा नया दिन आया  (hopeful, fresh start)
+
+  PLAIN SCRIPT (for recording):
+
+    सूरज निकला चमक चमक
+    धरती जागी दमक दमक
+    किरणें आईं सुनहरी सुनहरी
+    रोशनी फैली धरती भरी
+    फूल खिले पंछी बोले
+    सूरज दादा दरवाज़े खोले
+    सबको जगाया सबको बुलाया
+    नया सवेरा नया दिन आया
+
+
+----------------------------------------------------------------------
+  #35. बादल राजा (Cloud King)
+----------------------------------------------------------------------
+  ID:      badal-raja
+  Theme:   space
+  Tone:    Majestic, changeable, playful sky drama
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. बादल राजा आसमान के  (regal, grand)
+     2. घूमे फिरे सारे जहान के  (roaming, free)
+     3. कभी सफ़ेद कभी काले  (changeable, dramatic)
+     4. गरजे बरसे पानी वाले  (thunderous, powerful)
+     5. धूप में छाया दे जाएं  (comforting, relief)
+     6. गर्मी से सबको बचाएं  (protective, caring)
+     7. इंद्रधनुष भी लाते हैं  (magical, colorful)
+     8. सबका मन बहलाते हैं  (cheerful, pleasing)
+
+  PLAIN SCRIPT (for recording):
+
+    बादल राजा आसमान के
+    घूमे फिरे सारे जहान के
+    कभी सफ़ेद कभी काले
+    गरजे बरसे पानी वाले
+    धूप में छाया दे जाएं
+    गर्मी से सबको बचाएं
+    इंद्रधनुष भी लाते हैं
+    सबका मन बहलाते हैं
+
+
+----------------------------------------------------------------------
+  #36. रॉकेट में बैठकर (Sitting in a Rocket)
+----------------------------------------------------------------------
+  ID:      rocket-mein-baithkar
+  Theme:   space
+  Tone:    Adventurous, zooming, thrilling space exploration
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. रॉकेट में बैठकर चलो  (exciting, let's go)
+     2. अंतरिक्ष में जाकर मिलो  (adventurous, zooming)
+     3. चाँद सितारे छूकर आएं  (reaching, dreamy)
+     4. मंगल ग्रह पर घूमकर आएं  (exploring, curious)
+     5. शनि के छल्ले देखें जाकर  (wonder, amazement)
+     6. वापस आएं मस्ती पाकर  (satisfied, happy return)
+     7. अंतरिक्ष है बहुत बड़ा  (awe, vast)
+     8. हर तरफ़ तारों का मेला खड़ा  (grand, sparkling)
+
+  PLAIN SCRIPT (for recording):
+
+    रॉकेट में बैठकर चलो
+    अंतरिक्ष में जाकर मिलो
+    चाँद सितारे छूकर आएं
+    मंगल ग्रह पर घूमकर आएं
+    शनि के छल्ले देखें जाकर
+    वापस आएं मस्ती पाकर
+    अंतरिक्ष है बहुत बड़ा
+    हर तरफ़ तारों का मेला खड़ा
+
+
+----------------------------------------------------------------------
+  #37. सितारों की सैर (Trip Among Stars)
+----------------------------------------------------------------------
+  ID:      sitaron-ki-sair
+  Theme:   space
+  Tone:    Educational adventure, cosmic wonder, listing planets
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. सितारों की सैर को निकले हम  (embarking, excited)
+     2. अंतरिक्ष में उड़ चले हम  (soaring, free)
+     3. बुध शुक्र पृथ्वी मंगल देखा  (listing, educational)
+     4. बृहस्पति शनि का नज़ारा देखा  (awe, grand)
+     5. अरुण वरुण भी मिल गए  (discovering, happy)
+     6. सारे ग्रह हमको दिख गए  (accomplished, proud)
+     7. कितना सुंदर है ब्रह्मांड  (wonder, vast)
+     8. हर तरफ़ है नूर अखंड  (spiritual, bright)
+
+  PLAIN SCRIPT (for recording):
+
+    सितारों की सैर को निकले हम
+    अंतरिक्ष में उड़ चले हम
+    बुध शुक्र पृथ्वी मंगल देखा
+    बृहस्पति शनि का नज़ारा देखा
+    अरुण वरुण भी मिल गए
+    सारे ग्रह हमको दिख गए
+    कितना सुंदर है ब्रह्मांड
+    हर तरफ़ है नूर अखंड
+
+
+----------------------------------------------------------------------
+  #38. धरती हमारी (Our Earth)
+----------------------------------------------------------------------
+  ID:      dharti-hamari
+  Theme:   space
+  Tone:    Loving, respectful, environmental awareness
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. धरती हमारी प्यारी धरती  (loving, proud)
+     2. सबका घर है सबकी धरती  (inclusive, warm)
+     3. नदियाँ पहाड़ और समंदर  (scenic, listing)
+     4. जंगल मैदान कितने सुंदर  (admiration, nature)
+     5. हवा पानी और धूप मिले  (essentials, grateful)
+     6. फूल पत्ते हर तरफ़ खिले  (blooming, joyful)
+     7. धरती माँ का करो सम्मान  (respectful, serious)
+     8. इसको रखो साफ़ सुथरा महान  (responsibility, caring)
+
+  PLAIN SCRIPT (for recording):
+
+    धरती हमारी प्यारी धरती
+    सबका घर है सबकी धरती
+    नदियाँ पहाड़ और समंदर
+    जंगल मैदान कितने सुंदर
+    हवा पानी और धूप मिले
+    फूल पत्ते हर तरफ़ खिले
+    धरती माँ का करो सम्मान
+    इसको रखो साफ़ सुथरा महान
+
+
+----------------------------------------------------------------------
+  #39. जंगल जंगल बात चली है (Jungle Jungle)
+----------------------------------------------------------------------
+  ID:      jungle-jungle
+  Theme:   forest
+  Tone:    Adventurous, whispering gossip, jungle excitement
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. जंगल जंगल बात चली है  (whispering, spreading news)
+     2. पता चला है पता चला है  (excited, gossip)
+     3. अरे छोटा भीम आता है  (announcing, joyful)
+     4. जंगल में सबको हँसाता है  (funny, entertaining)
+     5. शेर भालू और बंदर सारे  (listing, lively)
+     6. जंगल के हैं वासी प्यारे  (warm, community)
+     7. मिलजुल कर सब रहते हैं  (togetherness, harmony)
+     8. ख़ुशी ख़ुशी से कहते हैं  (happy, singing)
+
+  PLAIN SCRIPT (for recording):
+
+    जंगल जंगल बात चली है
+    पता चला है पता चला है
+    अरे छोटा भीम आता है
+    जंगल में सबको हँसाता है
+    शेर भालू और बंदर सारे
+    जंगल के हैं वासी प्यारे
+    मिलजुल कर सब रहते हैं
+    ख़ुशी ख़ुशी से कहते हैं
+
+
+----------------------------------------------------------------------
+  #40. शेर आया शेर (The Lion Came)
+----------------------------------------------------------------------
+  ID:      sher-aaya
+  Theme:   forest
+  Tone:    Dramatic, roaring, brave but friendly ending
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. शेर आया शेर आया भागो भागो  (alarming, dramatic)
+     2. दहाड़ सुनकर सब डर जाएं  (scared, shaking)
+     3. जंगल का राजा है शेर  (proud, majestic)
+     4. सबसे ताक़तवर है शेर  (powerful, admiring)
+     5. बड़े बड़े पंजे बड़ी दहाड़  (fierce, descriptive)
+     6. सबसे निराला उसका अंदाज़  (cool, stylish)
+     7. पर बच्चों से डरो नहीं  (reassuring, gentle)
+     8. शेर है प्यारा बुरा नहीं  (warm, friendly twist)
+
+  PLAIN SCRIPT (for recording):
+
+    शेर आया शेर आया भागो भागो
+    दहाड़ सुनकर सब डर जाएं
+    जंगल का राजा है शेर
+    सबसे ताक़तवर है शेर
+    बड़े बड़े पंजे बड़ी दहाड़
+    सबसे निराला उसका अंदाज़
+    पर बच्चों से डरो नहीं
+    शेर है प्यारा बुरा नहीं
+
+
+----------------------------------------------------------------------
+  #41. हाथी राजा बहुत बड़े (Elephant King)
+----------------------------------------------------------------------
+  ID:      hathi-raja
+  Theme:   forest
+  Tone:    Heavy, thumping, gentle giant warmth
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. हाथी राजा बहुत बड़े  (big, grand)
+     2. सूँड़ उठाकर खूब खड़े  (tall, proud)
+     3. कान हिलाएं पंखे जैसे  (fanning, visual)
+     4. चलें धम धम ताल से जैसे  (thumping, rhythmic)
+     5. हाथी राजा कहाँ चले  (curious, asking)
+     6. बाग़ में सेब तोड़ने चले  (purposeful, happy)
+     7. सूँड़ से सेब तोड़ कर खाएं  (munching, delighted)
+     8. मस्ती में झूम के जाएं  (swaying, joyful)
+
+  PLAIN SCRIPT (for recording):
+
+    हाथी राजा बहुत बड़े
+    सूँड़ उठाकर खूब खड़े
+    कान हिलाएं पंखे जैसे
+    चलें धम धम ताल से जैसे
+    हाथी राजा कहाँ चले
+    बाग़ में सेब तोड़ने चले
+    सूँड़ से सेब तोड़ कर खाएं
+    मस्ती में झूम के जाएं
+
+
+----------------------------------------------------------------------
+  #42. एक मोटा हाथी (One Fat Elephant)
+----------------------------------------------------------------------
+  ID:      ek-mota-hathi
+  Theme:   forest
+  Tone:    Jolly, thumping, water-splashing fun
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. एक मोटा हाथी झूम के चला  (jolly, swaying)
+     2. सबको देख के मुस्काए वो भला  (friendly, smiling)
+     3. सूँड़ में पानी भरकर लाया  (building up, playful)
+     4. बच्चों पर छिड़क के हँसाया  (splashing, laughing)
+     5. गन्ना खाए केला खाए  (munching, happy)
+     6. मोटा पेट और मोटे पाँव हिलाए  (heavy, funny)
+     7. धम धम धम करता जाए  (thumping, rhythmic)
+     8. जंगल में ख़ुशी मनाए  (celebrating, joyful)
+
+  PLAIN SCRIPT (for recording):
+
+    एक मोटा हाथी झूम के चला
+    सबको देख के मुस्काए वो भला
+    सूँड़ में पानी भरकर लाया
+    बच्चों पर छिड़क के हँसाया
+    गन्ना खाए केला खाए
+    मोटा पेट और मोटे पाँव हिलाए
+    धम धम धम करता जाए
+    जंगल में ख़ुशी मनाए
+
+
+----------------------------------------------------------------------
+  #43. बंदर ने खोली दुकान (Monkey's Shop)
+----------------------------------------------------------------------
+  ID:      bandar-ki-dukan
+  Theme:   forest
+  Tone:    Entrepreneurial, bustling, funny marketplace
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. बंदर ने खोली दुकान  (announcing, proud)
+     2. बेचे केले और गन्ने महान  (listing, seller's call)
+     3. भालू आया खरीदने को  (customer arriving)
+     4. खरगोश आया गाजर लेने को  (another customer, busy)
+     5. हाथी भैया भी आ गए  (big customer, lively)
+     6. सबने मिलकर ख़ूब खाए  (feasting, happy)
+     7. बंदर की दुकान चमकी  (success, shining)
+     8. जंगल में धूम मची  (celebration, famous)
+
+  PLAIN SCRIPT (for recording):
+
+    बंदर ने खोली दुकान
+    बेचे केले और गन्ने महान
+    भालू आया खरीदने को
+    खरगोश आया गाजर लेने को
+    हाथी भैया भी आ गए
+    सबने मिलकर ख़ूब खाए
+    बंदर की दुकान चमकी
+    जंगल में धूम मची
+
+
+----------------------------------------------------------------------
+  #44. खरगोश और कछुआ (Hare and Tortoise)
+----------------------------------------------------------------------
+  ID:      khargosh-aur-kachua
+  Theme:   forest
+  Tone:    Racing, moral story, slow-and-steady wisdom
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. खरगोश और कछुआ दौड़ लगाएं  (competitive, exciting)
+     2. कौन जीतेगा कौन बताए  (suspenseful, wondering)
+     3. खरगोश भागा तेज़ हवा सा  (fast, whooshing)
+     4. कछुआ चला धीरे बच्चा सा  (slow, steady)
+     5. खरगोश ने सोचा सो जाऊँ  (lazy, overconfident)
+     6. थोड़ा आराम करके उठ जाऊँ  (casual, sleepy)
+     7. कछुआ चलता गया लगातार  (persistent, determined)
+     8. कछुआ जीता ये था करिश्मा यार  (triumphant, moral)
+
+  PLAIN SCRIPT (for recording):
+
+    खरगोश और कछुआ दौड़ लगाएं
+    कौन जीतेगा कौन बताए
+    खरगोश भागा तेज़ हवा सा
+    कछुआ चला धीरे बच्चा सा
+    खरगोश ने सोचा सो जाऊँ
+    थोड़ा आराम करके उठ जाऊँ
+    कछुआ चलता गया लगातार
+    कछुआ जीता ये था करिश्मा यार
+
+
+----------------------------------------------------------------------
+  #45. रेल गाड़ी (Train)
+----------------------------------------------------------------------
+  ID:      rail-gadi
+  Theme:   city
+  Tone:    Chugging rhythm, exciting journey, whistle blowing
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. छुक छुक छुक छुक रेल गाड़ी  (chugging rhythm, train sound)
+     2. पटरी पर दौड़े सवारी  (fast, moving)
+     3. गार्ड ने बाजा बजाया  (whistle, official)
+     4. इंजन ने ज़ोर लगाया  (powerful, steaming)
+     5. स्टेशन से स्टेशन जाए  (journey, rhythmic)
+     6. सबको मंज़िल पहुँचाए  (purposeful, helpful)
+     7. छुक छुक करती जाए आगे  (steady, chugging)
+     8. सबके दिल में प्यार जगाए  (warm, loving)
+
+  PLAIN SCRIPT (for recording):
+
+    छुक छुक छुक छुक रेल गाड़ी
+    पटरी पर दौड़े सवारी
+    गार्ड ने बाजा बजाया
+    इंजन ने ज़ोर लगाया
+    स्टेशन से स्टेशन जाए
+    सबको मंज़िल पहुँचाए
+    छुक छुक करती जाए आगे
+    सबके दिल में प्यार जगाए
+
+
+----------------------------------------------------------------------
+  #46. पोस्टमैन आया (Postman Came)
+----------------------------------------------------------------------
+  ID:      postman-aaya
+  Theme:   city
+  Tone:    Dutiful, cheerful delivery, all-weather dedication
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. डाकिया डाकिया डाक लाया  (announcing, cheerful)
+     2. चिट्ठी लाया चिट्ठी लाया  (excited, repetitive joy)
+     3. घर घर जाकर देता जाए  (dedicated, routine)
+     4. सबकी ख़बरें पहुँचाए  (connecting, important)
+     5. धूप हो बारिश हो या ठंड  (listing challenges, serious)
+     6. डाकिया करता नहीं है बंद  (determined, admiring)
+     7. खाकी कपड़े थैला भारी  (descriptive, heavy load)
+     8. डाकिया दादा की ड्यूटी प्यारी  (respectful, salute)
+
+  PLAIN SCRIPT (for recording):
+
+    डाकिया डाकिया डाक लाया
+    चिट्ठी लाया चिट्ठी लाया
+    घर घर जाकर देता जाए
+    सबकी ख़बरें पहुँचाए
+    धूप हो बारिश हो या ठंड
+    डाकिया करता नहीं है बंद
+    खाकी कपड़े थैला भारी
+    डाकिया दादा की ड्यूटी प्यारी
+
+
+----------------------------------------------------------------------
+  #47. धोबी आया (Washerman Came)
+----------------------------------------------------------------------
+  ID:      dhobi-aaya
+  Theme:   city
+  Tone:    Rhythmic washing, hardworking, satisfying clean
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. धोबी आया धोबी आया  (announcing, arrival)
+     2. कपड़ों का गट्ठर लाया  (heavy load, descriptive)
+     3. साबुन लगाकर धोता जाए  (scrubbing rhythm, working)
+     4. पत्थर पर पटक पटक लगाए  (slapping rhythm, vigorous)
+     5. धूप में कपड़े सुखाए  (sunny, drying)
+     6. इस्त्री करके चमकाए  (pressing, satisfying)
+     7. मैले कपड़े साफ़ हो जाएं  (transformation, clean)
+     8. धोबी दादा मुस्काएं  (satisfied, proud smile)
+
+  PLAIN SCRIPT (for recording):
+
+    धोबी आया धोबी आया
+    कपड़ों का गट्ठर लाया
+    साबुन लगाकर धोता जाए
+    पत्थर पर पटक पटक लगाए
+    धूप में कपड़े सुखाए
+    इस्त्री करके चमकाए
+    मैले कपड़े साफ़ हो जाएं
+    धोबी दादा मुस्काएं
+
+
+----------------------------------------------------------------------
+  #48. स्कूल चलें हम (Let's Go to School)
+----------------------------------------------------------------------
+  ID:      school-chale-hum
+  Theme:   city
+  Tone:    Enthusiastic, marching, eager to learn
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. स्कूल चलें हम स्कूल चलें हम  (marching, enthusiastic)
+     2. पढ़ना लिखना सीखें हम  (eager, motivated)
+     3. बस्ता लेकर तैयार हो जाएं  (getting ready, excited)
+     4. सुबह सवेरे स्कूल को जाएं  (morning energy, fresh)
+     5. टीचर जी को नमस्ते बोलें  (respectful, polite)
+     6. किताबें अपनी कॉपी खोलें  (opening, ready)
+     7. गिनती पहाड़े गीत सुनाएं  (learning, rhythmic)
+     8. पढ़ लिखकर हम आगे जाएं  (aspirational, bright future)
+
+  PLAIN SCRIPT (for recording):
+
+    स्कूल चलें हम स्कूल चलें हम
+    पढ़ना लिखना सीखें हम
+    बस्ता लेकर तैयार हो जाएं
+    सुबह सवेरे स्कूल को जाएं
+    टीचर जी को नमस्ते बोलें
+    किताबें अपनी कॉपी खोलें
+    गिनती पहाड़े गीत सुनाएं
+    पढ़ लिखकर हम आगे जाएं
+
+
+----------------------------------------------------------------------
+  #49. रिक्शा वाला (Rickshaw Driver)
+----------------------------------------------------------------------
+  ID:      rickshaw-wala
+  Theme:   city
+  Tone:    Bell-ringing, pedaling energy, hardworking helper
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. रिक्शा वाला आया आया  (announcing, bell ringing)
+     2. छन छन घंटी बजाया  (bell sound, rhythmic)
+     3. बैठो बैठो जल्दी आओ  (inviting, hurrying)
+     4. बाज़ार चलें स्कूल को जाओ  (directions, purposeful)
+     5. पैडल मारे ज़ोर लगाए  (pedaling, effort)
+     6. सड़कों पर वो दौड़ लगाए  (speeding, energetic)
+     7. रिक्शा वाला मेहनत करता  (hardworking, admiring)
+     8. सबको मंज़िल तक पहुँचाता  (helpful, reliable)
+
+  PLAIN SCRIPT (for recording):
+
+    रिक्शा वाला आया आया
+    छन छन घंटी बजाया
+    बैठो बैठो जल्दी आओ
+    बाज़ार चलें स्कूल को जाओ
+    पैडल मारे ज़ोर लगाए
+    सड़कों पर वो दौड़ लगाए
+    रिक्शा वाला मेहनत करता
+    सबको मंज़िल तक पहुँचाता
+
+
+----------------------------------------------------------------------
+  #50. बाज़ार में (In the Market)
+----------------------------------------------------------------------
+  ID:      bazaar-mein
+  Theme:   city
+  Tone:    Bustling, colorful, exciting marketplace sounds
+  Lines:   8
+
+  SCRIPT (with emotion cues):
+
+     1. चलो चलें बाज़ार में  (inviting, let's go)
+     2. ख़रीदें सामान हज़ार में  (exciting, shopping)
+     3. सब्ज़ी वाला सब्ज़ी लाया  (vendor calls, bustling)
+     4. फल वाले ने फल दिखाया  (showing, colorful)
+     5. मिठाई की दुकान सजी  (sweet, tempting)
+     6. खिलौनों की दुकान खुली  (exciting, toyful)
+     7. बाज़ार में रौनक बहुत है  (lively, vibrant)
+     8. ख़रीदारी की धूम बहुत है  (festive, bustling)
+
+  PLAIN SCRIPT (for recording):
+
+    चलो चलें बाज़ार में
+    ख़रीदें सामान हज़ार में
+    सब्ज़ी वाला सब्ज़ी लाया
+    फल वाले ने फल दिखाया
+    मिठाई की दुकान सजी
+    खिलौनों की दुकान खुली
+    बाज़ार में रौनक बहुत है
+    ख़रीदारी की धूम बहुत है
+
+
+======================================================================
+  END OF AUDIO SCRIPTS
+  Total: 50 Hindi Poems
+======================================================================
