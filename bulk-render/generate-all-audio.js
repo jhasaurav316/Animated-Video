@@ -21,7 +21,10 @@ const fs = require("fs");
 
 // ---------- Configuration ----------
 const PROJECT_ROOT = path.resolve(__dirname, "..");
-const CATALOG_PATH = path.join(PROJECT_ROOT, "rhymes-catalog.json");
+// Look for catalog in bulk-render/ first, then project root
+const CATALOG_PATH = fs.existsSync(path.join(__dirname, "rhymes-catalog.json"))
+  ? path.join(__dirname, "rhymes-catalog.json")
+  : path.join(PROJECT_ROOT, "rhymes-catalog.json");
 const PUBLIC_DIR = path.join(PROJECT_ROOT, "public");
 const BATCH_SIZE = 5;
 

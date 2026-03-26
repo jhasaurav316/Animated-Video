@@ -15,7 +15,10 @@ const fs = require("fs");
 
 // ---------- Configuration ----------
 const PROJECT_ROOT = path.resolve(__dirname, "..");
-const CATALOG_PATH = path.join(PROJECT_ROOT, "rhymes-catalog.json");
+// Look for catalog in bulk-render/ first, then project root
+const CATALOG_PATH = fs.existsSync(path.join(__dirname, "rhymes-catalog.json"))
+  ? path.join(__dirname, "rhymes-catalog.json")
+  : path.join(PROJECT_ROOT, "rhymes-catalog.json");
 const ROOT_TSX_PATH = path.join(PROJECT_ROOT, "src", "Root.tsx");
 const BACKUP_PATH = path.join(PROJECT_ROOT, "src", "Root.tsx.backup");
 
