@@ -158,7 +158,7 @@ if (!$SkipRender) {
 
     for ($i = ($From - 1); $i -lt $To; $i++) {
         $rhyme = $rhymes[$i]
-        $serialNum = $i + 1
+        [int]$serialNum = $i + 1
         $serialStr = $serialNum.ToString("D3")  # 001, 002, ... 150
 
         $rhymeId = if ($rhyme.rhymeId) { $rhyme.rhymeId } else { $rhyme.id }
@@ -167,9 +167,9 @@ if (!$SkipRender) {
         $filenameSafe = ConvertTo-FilenameSafe $title
 
         # Calculate which batch folder this goes into
-        $batchNum = [Math]::Ceiling($serialNum / $FolderSize)
-        $batchStart = (($batchNum - 1) * $FolderSize) + 1
-        $batchEnd = $batchNum * $FolderSize
+        [int]$batchNum = [Math]::Ceiling($serialNum / $FolderSize)
+        [int]$batchStart = (($batchNum - 1) * $FolderSize) + 1
+        [int]$batchEnd = $batchNum * $FolderSize
         $batchFolder = "Batch-$($batchNum.ToString('D2'))_($batchStart-$batchEnd)"
 
         # YouTube (landscape) output
@@ -264,16 +264,16 @@ if (!$SkipRender) {
 
     for ($i = ($From - 1); $i -lt $To; $i++) {
         $rhyme = $rhymes[$i]
-        $serialNum = $i + 1
+        [int]$serialNum = $i + 1
         $serialStr = $serialNum.ToString("D3")
         $rhymeId = if ($rhyme.rhymeId) { $rhyme.rhymeId } else { $rhyme.id }
         $title = $rhyme.title
         $theme = if ($rhyme.theme) { $rhyme.theme } else { "playground" }
         $filenameSafe = ConvertTo-FilenameSafe $title
 
-        $batchNum = [Math]::Ceiling($serialNum / $FolderSize)
-        $batchStart = (($batchNum - 1) * $FolderSize) + 1
-        $batchEnd = $batchNum * $FolderSize
+        [int]$batchNum = [Math]::Ceiling($serialNum / $FolderSize)
+        [int]$batchStart = (($batchNum - 1) * $FolderSize) + 1
+        [int]$batchEnd = $batchNum * $FolderSize
         $batchFolder = "Batch-$($batchNum.ToString('D2'))_($batchStart-$batchEnd)"
 
         $ytFile = "youtube\$batchFolder\$serialStr-$filenameSafe.mp4"
