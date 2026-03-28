@@ -6,6 +6,3506 @@ export const KidsLearningRemotionRoot: React.FC = () => {
   return (
     <>
       <Composition
+        id="KidsAnimalsDomestic1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Domestic Animals Part 1",
+          videoId: "animals-domestic-1",
+          bgGradient: ["#56AB2F","#A8E063"] as [string, string],
+          accentColor: "#27AE60",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Angora Rabbit",
+          "emoji": "🐰",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "B",
+          "word": "Brahma Chicken",
+          "emoji": "🐔",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "C",
+          "word": "Cow",
+          "emoji": "🐄",
+          "bgColor": "#F5DEB3"
+          },
+          {
+          "letter": "D",
+          "word": "Duck",
+          "emoji": "🦆",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "E",
+          "word": "Emu",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "F",
+          "word": "Farm Cat",
+          "emoji": "🐱",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "G",
+          "word": "Goose",
+          "emoji": "🪿",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "H",
+          "word": "Hen",
+          "emoji": "🐔",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Buffalo",
+          "emoji": "🐃",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "J",
+          "word": "Jersey Cow",
+          "emoji": "🐄",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "K",
+          "word": "Koi Fish",
+          "emoji": "🐟",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "L",
+          "word": "Llama",
+          "emoji": "🦙",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "M",
+          "word": "Mule",
+          "emoji": "🫏",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "N",
+          "word": "Nanny Goat",
+          "emoji": "🐐",
+          "bgColor": "#D2B48C"
+          },
+          {
+          "letter": "O",
+          "word": "Ox",
+          "emoji": "🐂",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "P",
+          "word": "Pigeon",
+          "emoji": "🐦",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "Q",
+          "word": "Quail",
+          "emoji": "🐦",
+          "bgColor": "#BC8F8F"
+          },
+          {
+          "letter": "R",
+          "word": "Ram",
+          "emoji": "🐏",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "S",
+          "word": "Silkie Chicken",
+          "emoji": "🐔",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "T",
+          "word": "Turkey",
+          "emoji": "🦃",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "U",
+          "word": "Udder Goat",
+          "emoji": "🐐",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "V",
+          "word": "Vietnamese Pig",
+          "emoji": "🐷",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "W",
+          "word": "White Rabbit",
+          "emoji": "🐰",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "X-breed Dog",
+          "emoji": "🐶",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak",
+          "emoji": "🐂",
+          "bgColor": "#4A2C2A"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebu Cattle",
+          "emoji": "🐄",
+          "bgColor": "#DEB887"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsBirdsOwls1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Owls & Night Birds Part 1",
+          videoId: "birds-owls-1",
+          bgGradient: ["#0F2027","#2C5364"] as [string, string],
+          accentColor: "#2980B9",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Asian Barred Owlet",
+          "emoji": "🦉",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "B",
+          "word": "Barn Owl",
+          "emoji": "🦉",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "C",
+          "word": "Common Nightjar",
+          "emoji": "🐦",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "D",
+          "word": "Dusky Eagle Owl",
+          "emoji": "🦉",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "E",
+          "word": "Eurasian Eagle Owl",
+          "emoji": "🦉",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "F",
+          "word": "Forest Owlet",
+          "emoji": "🦉",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "G",
+          "word": "Great Horned Owl",
+          "emoji": "🦉",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "H",
+          "word": "Hawk Owl",
+          "emoji": "🦉",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Scops Owl",
+          "emoji": "🦉",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "J",
+          "word": "Jungle Owlet",
+          "emoji": "🦉",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "K",
+          "word": "Koel (Night Singer)",
+          "emoji": "🐦",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "L",
+          "word": "Long-eared Owl",
+          "emoji": "🦉",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "M",
+          "word": "Mottled Wood Owl",
+          "emoji": "🦉",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "N",
+          "word": "Night Heron",
+          "emoji": "🐦",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "O",
+          "word": "Oriental Bay Owl",
+          "emoji": "🦉",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "P",
+          "word": "Pygmy Owl",
+          "emoji": "🦉",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiet Night Owl",
+          "emoji": "🦉",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "R",
+          "word": "Rock Eagle Owl",
+          "emoji": "🦉",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "S",
+          "word": "Snowy Owl",
+          "emoji": "🦉",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "T",
+          "word": "Tawny Owl",
+          "emoji": "🦉",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "U",
+          "word": "Ural Owl",
+          "emoji": "🦉",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "V",
+          "word": "Verreaux Eagle Owl",
+          "emoji": "🦉",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "W",
+          "word": "Whiskered Screech Owl",
+          "emoji": "🦉",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "X",
+          "word": "Xantus Owl",
+          "emoji": "🦉",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Nightjar",
+          "emoji": "🐦",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Z",
+          "word": "Zenith Night Bird",
+          "emoji": "🐦",
+          "bgColor": "#191970"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsFruitsSummer1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Summer Fruits Part 1",
+          videoId: "fruits-summer-1",
+          bgGradient: ["#F7971E","#FFD200"] as [string, string],
+          accentColor: "#F39C12",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Aam (Mango)",
+          "emoji": "🥭",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "B",
+          "word": "Banana",
+          "emoji": "🍌",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "C",
+          "word": "Cherry",
+          "emoji": "🍒",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "D",
+          "word": "Dragon Fruit",
+          "emoji": "🐉",
+          "bgColor": "#FF1493"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant Apple",
+          "emoji": "🍏",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "Fresh Coconut",
+          "emoji": "🥥",
+          "bgColor": "#2E8B57"
+          },
+          {
+          "letter": "G",
+          "word": "Grapes",
+          "emoji": "🍇",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "H",
+          "word": "Honeydew Melon",
+          "emoji": "🍈",
+          "bgColor": "#98FB98"
+          },
+          {
+          "letter": "I",
+          "word": "Ice Apple",
+          "emoji": "🍈",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "J",
+          "word": "Jamun",
+          "emoji": "🫐",
+          "bgColor": "#191970"
+          },
+          {
+          "letter": "K",
+          "word": "Kharbooja (Muskmelon)",
+          "emoji": "🍈",
+          "bgColor": "#F4A460"
+          },
+          {
+          "letter": "L",
+          "word": "Litchi",
+          "emoji": "🍒",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "M",
+          "word": "Mango",
+          "emoji": "🥭",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "N",
+          "word": "Nimboo (Lemon)",
+          "emoji": "🍋",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Peach",
+          "emoji": "🍑",
+          "bgColor": "#FFDAB9"
+          },
+          {
+          "letter": "Q",
+          "word": "Quenching Watermelon",
+          "emoji": "🍉",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "R",
+          "word": "Rasbhari",
+          "emoji": "🍒",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "S",
+          "word": "Sugarcane",
+          "emoji": "🌾",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "T",
+          "word": "Tarbuz (Watermelon)",
+          "emoji": "🍉",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "U",
+          "word": "Ugli Fruit",
+          "emoji": "🍊",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "V",
+          "word": "Vine Melon",
+          "emoji": "🍈",
+          "bgColor": "#98FB98"
+          },
+          {
+          "letter": "W",
+          "word": "Watermelon",
+          "emoji": "🍉",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "X",
+          "word": "Ximenia",
+          "emoji": "🍒",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Mango",
+          "emoji": "🥭",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Ziziphus (Ber)",
+          "emoji": "🍒",
+          "bgColor": "#8B0000"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVehiclesFuture1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Future Vehicles Part 1",
+          videoId: "vehicles-future-1",
+          bgGradient: ["#0F2027","#2C5364"] as [string, string],
+          accentColor: "#2980B9",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Autonomous Car",
+          "emoji": "🚗",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "B",
+          "word": "Bullet Train",
+          "emoji": "🚅",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "C",
+          "word": "Cybertruck",
+          "emoji": "🚙",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "D",
+          "word": "Delivery Drone",
+          "emoji": "🛸",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Bus",
+          "emoji": "🚌",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "Flying Car",
+          "emoji": "🚗",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "G",
+          "word": "Green Hydrogen Car",
+          "emoji": "🚗",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "H",
+          "word": "Hyperloop",
+          "emoji": "🚄",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "I",
+          "word": "Invisible Stealth Jet",
+          "emoji": "✈️",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "J",
+          "word": "Jet Pack",
+          "emoji": "🚀",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "K",
+          "word": "Kinetic Scooter",
+          "emoji": "🛴",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "L",
+          "word": "Laser Train",
+          "emoji": "🚄",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "M",
+          "word": "Maglev Train",
+          "emoji": "🚄",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "N",
+          "word": "Neon Bike",
+          "emoji": "🏍️",
+          "bgColor": "#FF00FF"
+          },
+          {
+          "letter": "O",
+          "word": "Orbital Shuttle",
+          "emoji": "🚀",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "P",
+          "word": "Pod Taxi",
+          "emoji": "🚕",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Q",
+          "word": "Quantum Submarine",
+          "emoji": "🚢",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "R",
+          "word": "Robot Taxi",
+          "emoji": "🚕",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "S",
+          "word": "Solar Airplane",
+          "emoji": "✈️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "T",
+          "word": "Tesla Car",
+          "emoji": "🚗",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "U",
+          "word": "Underwater Drone",
+          "emoji": "🛸",
+          "bgColor": "#191970"
+          },
+          {
+          "letter": "V",
+          "word": "Vacuum Tube Train",
+          "emoji": "🚄",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "W",
+          "word": "Wind-powered Ship",
+          "emoji": "⛵",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "X",
+          "word": "X-wing Aircraft",
+          "emoji": "✈️",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yacht Electric",
+          "emoji": "🛥️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Emission Bus",
+          "emoji": "🚌",
+          "bgColor": "#32CD32"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsScienceMath1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Math & Numbers Part 1",
+          videoId: "science-math-1",
+          bgGradient: ["#4B6CB7","#182848"] as [string, string],
+          accentColor: "#2980B9",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Addition",
+          "emoji": "➕",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "B",
+          "word": "Bar Graph",
+          "emoji": "📊",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "C",
+          "word": "Circle",
+          "emoji": "⭕",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "D",
+          "word": "Division",
+          "emoji": "➗",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "E",
+          "word": "Equation",
+          "emoji": "🟰",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "F",
+          "word": "Fraction",
+          "emoji": "🔢",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "G",
+          "word": "Geometry",
+          "emoji": "📐",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "H",
+          "word": "Hundred",
+          "emoji": "💯",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "I",
+          "word": "Infinity",
+          "emoji": "♾️",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "J",
+          "word": "Join (Add)",
+          "emoji": "➕",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "K",
+          "word": "Kilo (1000)",
+          "emoji": "🔢",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "L",
+          "word": "Less Than",
+          "emoji": "◀️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "M",
+          "word": "Multiplication",
+          "emoji": "✖️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "N",
+          "word": "Number Line",
+          "emoji": "📏",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "O",
+          "word": "Odd Number",
+          "emoji": "🔢",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Pi",
+          "emoji": "🥧",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "Q",
+          "word": "Quadrilateral",
+          "emoji": "🟦",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "R",
+          "word": "Ruler",
+          "emoji": "📏",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "S",
+          "word": "Subtraction",
+          "emoji": "➖",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "T",
+          "word": "Triangle",
+          "emoji": "🔺",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "U",
+          "word": "Unit",
+          "emoji": "1️⃣",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "V",
+          "word": "Volume",
+          "emoji": "📦",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "W",
+          "word": "Whole Number",
+          "emoji": "🔢",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "X",
+          "word": "X-axis",
+          "emoji": "📊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "Y",
+          "word": "Y-axis",
+          "emoji": "📊",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero",
+          "emoji": "0️⃣",
+          "bgColor": "#1C1C1C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsGeographyDeserts1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Deserts of the World Part 1",
+          videoId: "geography-deserts-1",
+          bgGradient: ["#F2994A","#F2C94C"] as [string, string],
+          accentColor: "#E67E22",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Arabian Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "B",
+          "word": "Badlands",
+          "emoji": "🏜️",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "C",
+          "word": "Chihuahuan Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "D",
+          "word": "Dasht-e-Kavir",
+          "emoji": "🏜️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "E",
+          "word": "Empty Quarter",
+          "emoji": "🏜️",
+          "bgColor": "#F4A460"
+          },
+          {
+          "letter": "F",
+          "word": "Fachi Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "G",
+          "word": "Gobi Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "H",
+          "word": "Hohokam Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Thar Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "J",
+          "word": "Judean Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "K",
+          "word": "Kalahari Desert",
+          "emoji": "🏜️",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "L",
+          "word": "Libyan Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "M",
+          "word": "Mojave Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "N",
+          "word": "Namib Desert",
+          "emoji": "🏜️",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "O",
+          "word": "Ordos Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "P",
+          "word": "Patagonian Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "Q",
+          "word": "Qaidam Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "R",
+          "word": "Rub al Khali",
+          "emoji": "🏜️",
+          "bgColor": "#F4A460"
+          },
+          {
+          "letter": "S",
+          "word": "Sahara Desert",
+          "emoji": "🏜️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "T",
+          "word": "Thar Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "U",
+          "word": "Ustyurt Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "V",
+          "word": "Victoria Desert",
+          "emoji": "🏜️",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "W",
+          "word": "White Desert Egypt",
+          "emoji": "🏜️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "Xerophytic Desert",
+          "emoji": "🌵",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Sand Dunes",
+          "emoji": "🏜️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zagros Desert",
+          "emoji": "🏜️",
+          "bgColor": "#DEB887"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsGeographyWaterfalls1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Waterfalls of India Part 1",
+          videoId: "geography-waterfalls-1",
+          bgGradient: ["#2193B0","#6DD5ED"] as [string, string],
+          accentColor: "#0077B6",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Athirappilly Falls",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "B",
+          "word": "Bhagsu Falls",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "C",
+          "word": "Chitrakote Falls",
+          "emoji": "🌊",
+          "bgColor": "#2E8B57"
+          },
+          {
+          "letter": "D",
+          "word": "Dudhsagar Falls",
+          "emoji": "🌊",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant Falls",
+          "emoji": "🐘",
+          "bgColor": "#708090"
+          },
+          {
+          "letter": "F",
+          "word": "Falls of Hogenakkal",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "G",
+          "word": "Gokak Falls",
+          "emoji": "🌊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "H",
+          "word": "Hogenakkal Falls",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "I",
+          "word": "Iruppu Falls",
+          "emoji": "🌊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "J",
+          "word": "Jog Falls",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "K",
+          "word": "Kempty Falls",
+          "emoji": "🌊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "L",
+          "word": "Lushington Falls",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "M",
+          "word": "Meenmutty Falls",
+          "emoji": "🌊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "N",
+          "word": "Nohkalikai Falls",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "O",
+          "word": "Ooty Falls",
+          "emoji": "🌊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "P",
+          "word": "Palaruvi Falls",
+          "emoji": "🌊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiet Cascade",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "R",
+          "word": "Raneh Falls",
+          "emoji": "🌊",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "S",
+          "word": "Shivanasamudra Falls",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "T",
+          "word": "Thoseghar Falls",
+          "emoji": "🌊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Falls",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "V",
+          "word": "Vazhachal Falls",
+          "emoji": "🌊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "W",
+          "word": "Waterfall of Courtallam",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "X",
+          "word": "X-tra Tall Falls",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellapur Falls",
+          "emoji": "🌊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Z",
+          "word": "Zanzari Falls",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsSportsBallGames1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ball Games Part 1",
+          videoId: "sports-ball-games-1",
+          bgGradient: ["#F7971E","#FFD200"] as [string, string],
+          accentColor: "#F39C12",
+          letters: [
+          {
+          "letter": "A",
+          "word": "American Football",
+          "emoji": "🏈",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "B",
+          "word": "Basketball",
+          "emoji": "🏀",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "C",
+          "word": "Cricket",
+          "emoji": "🏏",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "D",
+          "word": "Dodgeball",
+          "emoji": "🏐",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "E",
+          "word": "Eight Ball Pool",
+          "emoji": "🎱",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "F",
+          "word": "Football",
+          "emoji": "⚽",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "G",
+          "word": "Golf Ball",
+          "emoji": "⛳",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "H",
+          "word": "Handball",
+          "emoji": "🤾",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "I",
+          "word": "Indoor Football",
+          "emoji": "⚽",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "J",
+          "word": "Jai Alai",
+          "emoji": "🏐",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "K",
+          "word": "Kickball",
+          "emoji": "⚽",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "L",
+          "word": "Lacrosse",
+          "emoji": "🥍",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "M",
+          "word": "Marble Game",
+          "emoji": "🔮",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "N",
+          "word": "Netball",
+          "emoji": "🏐",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "O",
+          "word": "Olympic Volleyball",
+          "emoji": "🏐",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "P",
+          "word": "Ping Pong",
+          "emoji": "🏓",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Tennis",
+          "emoji": "🎾",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "R",
+          "word": "Rugby",
+          "emoji": "🏉",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "S",
+          "word": "Squash",
+          "emoji": "🏸",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "T",
+          "word": "Tennis",
+          "emoji": "🎾",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "U",
+          "word": "Ultimate Frisbee",
+          "emoji": "🥏",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "V",
+          "word": "Volleyball",
+          "emoji": "🏐",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "W",
+          "word": "Water Polo Ball",
+          "emoji": "🤽",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "X",
+          "word": "X-treme Ball Sport",
+          "emoji": "⚽",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "Y",
+          "word": "Yukigassen (Snowball)",
+          "emoji": "❄️",
+          "bgColor": "#E0FFFF"
+          },
+          {
+          "letter": "Z",
+          "word": "Zorb Ball",
+          "emoji": "⚽",
+          "bgColor": "#00CED1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsSportsRacquet1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Racquet Sports Part 1",
+          videoId: "sports-racquet-1",
+          bgGradient: ["#11998E","#38EF7D"] as [string, string],
+          accentColor: "#1ABC9C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Airminton",
+          "emoji": "🏸",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "B",
+          "word": "Badminton",
+          "emoji": "🏸",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "C",
+          "word": "Court Tennis",
+          "emoji": "🎾",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "D",
+          "word": "Doubles Tennis",
+          "emoji": "🎾",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "E",
+          "word": "Exhibition Match",
+          "emoji": "🏆",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "F",
+          "word": "Frontenis",
+          "emoji": "🎾",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "G",
+          "word": "Grand Slam Tennis",
+          "emoji": "🏆",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "H",
+          "word": "Hard Court Tennis",
+          "emoji": "🎾",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "I",
+          "word": "Indoor Badminton",
+          "emoji": "🏸",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "J",
+          "word": "Jai Alai",
+          "emoji": "🏐",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "K",
+          "word": "Kids Badminton",
+          "emoji": "🏸",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "L",
+          "word": "Lawn Tennis",
+          "emoji": "🎾",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "M",
+          "word": "Mixed Doubles",
+          "emoji": "🎾",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "N",
+          "word": "Net Game",
+          "emoji": "🏸",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "O",
+          "word": "Olympic Badminton",
+          "emoji": "🏸",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "P",
+          "word": "Padel Tennis",
+          "emoji": "🎾",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "Q",
+          "word": "Quarterfinal Match",
+          "emoji": "🏆",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "R",
+          "word": "Racquetball",
+          "emoji": "🎾",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "S",
+          "word": "Squash",
+          "emoji": "🏸",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "T",
+          "word": "Table Tennis",
+          "emoji": "🏓",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "U",
+          "word": "Umpire Decision",
+          "emoji": "🧑‍⚖️",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "V",
+          "word": "Volley Shot",
+          "emoji": "🎾",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "W",
+          "word": "Wimbledon",
+          "emoji": "🏆",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "X",
+          "word": "X-tra Set Match",
+          "emoji": "🎾",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "Y",
+          "word": "Youth Championship",
+          "emoji": "🏆",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zone Defense",
+          "emoji": "🏸",
+          "bgColor": "#4169E1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsAnimalsForest1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Forest Animals Part 1",
+          videoId: "animals-forest-1",
+          bgGradient: ["#134E5E","#71B280"] as [string, string],
+          accentColor: "#1B5E20",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Antler Deer",
+          "emoji": "🦌",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "B",
+          "word": "Badger",
+          "emoji": "🦡",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "C",
+          "word": "Chipmunk",
+          "emoji": "🐿️",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "D",
+          "word": "Dormouse",
+          "emoji": "🐭",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "E",
+          "word": "Elk",
+          "emoji": "🫎",
+          "bgColor": "#6B4226"
+          },
+          {
+          "letter": "F",
+          "word": "Ferret",
+          "emoji": "🐿️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "G",
+          "word": "Grizzly Bear",
+          "emoji": "🐻",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "H",
+          "word": "Hare",
+          "emoji": "🐰",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Fox",
+          "emoji": "🦊",
+          "bgColor": "#D2691E"
+          },
+          {
+          "letter": "J",
+          "word": "Jay Bird",
+          "emoji": "🐦",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "K",
+          "word": "Koala",
+          "emoji": "🐨",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "L",
+          "word": "Lynx",
+          "emoji": "🐱",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "M",
+          "word": "Moose",
+          "emoji": "🫎",
+          "bgColor": "#6B4226"
+          },
+          {
+          "letter": "N",
+          "word": "Nightingale",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "O",
+          "word": "Opossum",
+          "emoji": "🐭",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "P",
+          "word": "Pine Marten",
+          "emoji": "🐿️",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "Q",
+          "word": "Quail",
+          "emoji": "🐦",
+          "bgColor": "#BC8F8F"
+          },
+          {
+          "letter": "R",
+          "word": "Red Squirrel",
+          "emoji": "🐿️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "S",
+          "word": "Stag",
+          "emoji": "🦌",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "T",
+          "word": "Tree Frog",
+          "emoji": "🐸",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "U",
+          "word": "Ural Owl",
+          "emoji": "🦉",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "V",
+          "word": "Vole",
+          "emoji": "🐭",
+          "bgColor": "#8B7355"
+          },
+          {
+          "letter": "W",
+          "word": "Woodpecker",
+          "emoji": "🐦",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "X",
+          "word": "Xenops Bird",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Warbler",
+          "emoji": "🐦",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zorro Fox",
+          "emoji": "🦊",
+          "bgColor": "#FF4500"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsBirdsEagles1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Eagles & Hawks Part 1",
+          videoId: "birds-eagles-1",
+          bgGradient: ["#C0392B","#E74C3C"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "African Fish Eagle",
+          "emoji": "🦅",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "B",
+          "word": "Brahminy Kite",
+          "emoji": "🦅",
+          "bgColor": "#B22222"
+          },
+          {
+          "letter": "C",
+          "word": "Changeable Hawk-Eagle",
+          "emoji": "🦅",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "D",
+          "word": "Dark Kite",
+          "emoji": "🦅",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "E",
+          "word": "Eastern Imperial Eagle",
+          "emoji": "🦅",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "F",
+          "word": "Fishing Eagle",
+          "emoji": "🦅",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "G",
+          "word": "Golden Eagle",
+          "emoji": "🦅",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "H",
+          "word": "Harrier Hawk",
+          "emoji": "🦅",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Black Eagle",
+          "emoji": "🦅",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Hawk",
+          "emoji": "🦅",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "K",
+          "word": "Kite",
+          "emoji": "🦅",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "L",
+          "word": "Lappet-faced Vulture",
+          "emoji": "🦅",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "M",
+          "word": "Martial Eagle",
+          "emoji": "🦅",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "N",
+          "word": "Northern Hawk",
+          "emoji": "🦅",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "O",
+          "word": "Ornate Hawk-Eagle",
+          "emoji": "🦅",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "P",
+          "word": "Philippine Eagle",
+          "emoji": "🦅",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Hawk",
+          "emoji": "🦅",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "R",
+          "word": "Red Kite",
+          "emoji": "🦅",
+          "bgColor": "#B22222"
+          },
+          {
+          "letter": "S",
+          "word": "Short-toed Eagle",
+          "emoji": "🦅",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "T",
+          "word": "Tawny Eagle",
+          "emoji": "🦅",
+          "bgColor": "#D2B48C"
+          },
+          {
+          "letter": "U",
+          "word": "Ural Eagle",
+          "emoji": "🦅",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "V",
+          "word": "Verreaux Eagle",
+          "emoji": "🦅",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "W",
+          "word": "White-bellied Eagle",
+          "emoji": "🦅",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "Xingu Eagle",
+          "emoji": "🦅",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow-billed Kite",
+          "emoji": "🦅",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Z",
+          "word": "Zone-tailed Hawk",
+          "emoji": "🦅",
+          "bgColor": "#2F4F4F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsFruitsCommon1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Common Everyday Fruits Part 1",
+          videoId: "fruits-common-1",
+          bgGradient: ["#FF6B6B","#FFE66D"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Apple",
+          "emoji": "🍎",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "B",
+          "word": "Banana",
+          "emoji": "🍌",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "C",
+          "word": "Cherry",
+          "emoji": "🍒",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "D",
+          "word": "Date",
+          "emoji": "🌴",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "E",
+          "word": "Elderberry",
+          "emoji": "🫐",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "F",
+          "word": "Fig",
+          "emoji": "🍈",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "G",
+          "word": "Grapes",
+          "emoji": "🍇",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "H",
+          "word": "Honeydew",
+          "emoji": "🍈",
+          "bgColor": "#98FB98"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Plum",
+          "emoji": "🍑",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "J",
+          "word": "Jackfruit",
+          "emoji": "🍈",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "K",
+          "word": "Kiwi",
+          "emoji": "🥝",
+          "bgColor": "#6B8E23"
+          },
+          {
+          "letter": "L",
+          "word": "Lemon",
+          "emoji": "🍋",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "M",
+          "word": "Mango",
+          "emoji": "🥭",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "N",
+          "word": "Nectarine",
+          "emoji": "🍑",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Pear",
+          "emoji": "🍐",
+          "bgColor": "#9ACD32"
+          },
+          {
+          "letter": "Q",
+          "word": "Quince",
+          "emoji": "🍐",
+          "bgColor": "#BDB76B"
+          },
+          {
+          "letter": "R",
+          "word": "Raspberry",
+          "emoji": "🍒",
+          "bgColor": "#FF1493"
+          },
+          {
+          "letter": "S",
+          "word": "Strawberry",
+          "emoji": "🍓",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "T",
+          "word": "Tangerine",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "U",
+          "word": "Ugli Fruit",
+          "emoji": "🍊",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "V",
+          "word": "Vine Grapes",
+          "emoji": "🍇",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "W",
+          "word": "Watermelon",
+          "emoji": "🍉",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "X",
+          "word": "Ximenia",
+          "emoji": "🍒",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Apple",
+          "emoji": "🍏",
+          "bgColor": "#9ACD32"
+          },
+          {
+          "letter": "Z",
+          "word": "Zucchini",
+          "emoji": "🥒",
+          "bgColor": "#2E8B57"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVegetablesSpices1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Spices Part 1",
+          videoId: "vegetables-spices-1",
+          bgGradient: ["#C0392B","#E74C3C"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Ajwain",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "B",
+          "word": "Bay Leaf",
+          "emoji": "🌿",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "C",
+          "word": "Cardamom",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "D",
+          "word": "Dalchini (Cinnamon)",
+          "emoji": "🌿",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "E",
+          "word": "Elaichi (Cardamom)",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "Fennel Seeds",
+          "emoji": "🌿",
+          "bgColor": "#6B8E23"
+          },
+          {
+          "letter": "G",
+          "word": "Garam Masala",
+          "emoji": "🌶️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "H",
+          "word": "Haldi (Turmeric)",
+          "emoji": "🫚",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Saffron",
+          "emoji": "🌸",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "J",
+          "word": "Jeera (Cumin)",
+          "emoji": "🌿",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "K",
+          "word": "Kalonji",
+          "emoji": "🌿",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "L",
+          "word": "Laung (Cloves)",
+          "emoji": "🌿",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "M",
+          "word": "Methi (Fenugreek)",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "N",
+          "word": "Nutmeg",
+          "emoji": "🌰",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "O",
+          "word": "Oregano",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "P",
+          "word": "Pepper",
+          "emoji": "🌿",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Spice (Saffron)",
+          "emoji": "🌸",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "R",
+          "word": "Red Chili",
+          "emoji": "🌶️",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "S",
+          "word": "Star Anise",
+          "emoji": "⭐",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "T",
+          "word": "Tamarind",
+          "emoji": "🍈",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "U",
+          "word": "Urad Dal",
+          "emoji": "🫘",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "V",
+          "word": "Vanilla",
+          "emoji": "🌿",
+          "bgColor": "#F5DEB3"
+          },
+          {
+          "letter": "W",
+          "word": "White Pepper",
+          "emoji": "🌿",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "X",
+          "word": "X-tra Hot Chili",
+          "emoji": "🌶️",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Mustard",
+          "emoji": "🌿",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zaatar Spice",
+          "emoji": "🌿",
+          "bgColor": "#556B2F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsCultureWeddings1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Wedding Items Part 1",
+          videoId: "culture-weddings-1",
+          bgGradient: ["#ED4264","#FFEDBC"] as [string, string],
+          accentColor: "#C0392B",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Aarti Thali",
+          "emoji": "🪔",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "B",
+          "word": "Baraat",
+          "emoji": "🐴",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "C",
+          "word": "Chooda Bangles",
+          "emoji": "💍",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "D",
+          "word": "Dulhan (Bride)",
+          "emoji": "👰",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "E",
+          "word": "Engagement Ring",
+          "emoji": "💍",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "F",
+          "word": "Fire (Agni)",
+          "emoji": "🔥",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "G",
+          "word": "Garland (Jaimala)",
+          "emoji": "💐",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "H",
+          "word": "Haldi Ceremony",
+          "emoji": "🫚",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "I",
+          "word": "Invitation Card",
+          "emoji": "💌",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "J",
+          "word": "Jewellery",
+          "emoji": "💎",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "K",
+          "word": "Kalash",
+          "emoji": "🏺",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "L",
+          "word": "Lehenga",
+          "emoji": "👗",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "M",
+          "word": "Mehendi",
+          "emoji": "✋",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "N",
+          "word": "Nath (Nose Ring)",
+          "emoji": "💍",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "O",
+          "word": "Om Symbol",
+          "emoji": "🕉️",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Pheras (Rounds)",
+          "emoji": "🔥",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Bride",
+          "emoji": "👸",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "R",
+          "word": "Rangoli",
+          "emoji": "🎨",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "S",
+          "word": "Sindoor",
+          "emoji": "🔴",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "T",
+          "word": "Toran",
+          "emoji": "🌸",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "U",
+          "word": "Uttariya",
+          "emoji": "🧣",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "V",
+          "word": "Vidaai",
+          "emoji": "😢",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "W",
+          "word": "Wedding Mandap",
+          "emoji": "🛕",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "X",
+          "word": "X-tra Decoration",
+          "emoji": "🎊",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Saree",
+          "emoji": "👗",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zari Dupatta",
+          "emoji": "🧣",
+          "bgColor": "#FFD700"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsProfessionsNature1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Nature & Environment Jobs Part 1",
+          videoId: "professions-nature-1",
+          bgGradient: ["#56AB2F","#A8E063"] as [string, string],
+          accentColor: "#27AE60",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Arborist",
+          "emoji": "🌳",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "B",
+          "word": "Botanist",
+          "emoji": "🌿",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "C",
+          "word": "Conservationist",
+          "emoji": "🌍",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "D",
+          "word": "Diver (Marine)",
+          "emoji": "🤿",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "E",
+          "word": "Ecologist",
+          "emoji": "🌍",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "Forest Ranger",
+          "emoji": "🌲",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "G",
+          "word": "Geologist",
+          "emoji": "🪨",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "H",
+          "word": "Horticulturist",
+          "emoji": "🌸",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "I",
+          "word": "Insect Scientist",
+          "emoji": "🐛",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "J",
+          "word": "Jungle Guide",
+          "emoji": "🌴",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "K",
+          "word": "Keeper (Wildlife)",
+          "emoji": "🦁",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "L",
+          "word": "Landscaper",
+          "emoji": "🌳",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "M",
+          "word": "Marine Biologist",
+          "emoji": "🐋",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "N",
+          "word": "Naturalist",
+          "emoji": "🌍",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "O",
+          "word": "Oceanographer",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "P",
+          "word": "Park Ranger",
+          "emoji": "🌲",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "Q",
+          "word": "Quality Water Tester",
+          "emoji": "💧",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "R",
+          "word": "Recycling Manager",
+          "emoji": "♻️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "S",
+          "word": "Soil Scientist",
+          "emoji": "🌍",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "T",
+          "word": "Tree Planter",
+          "emoji": "🌳",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "U",
+          "word": "Urban Farmer",
+          "emoji": "🧑‍🌾",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "V",
+          "word": "Volcanologist",
+          "emoji": "🌋",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "W",
+          "word": "Wildlife Photographer",
+          "emoji": "📷",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "X",
+          "word": "Xeriscaper",
+          "emoji": "🌵",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Y",
+          "word": "Yogi Nature Guide",
+          "emoji": "🧘",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoologist",
+          "emoji": "🧑‍🔬",
+          "bgColor": "#228B22"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsAnimalsCute1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Cute Animals Part 1",
+          videoId: "animals-cute-1",
+          bgGradient: ["#FF6B6B","#FFE66D"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Alpaca",
+          "emoji": "🦙",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "B",
+          "word": "Bunny",
+          "emoji": "🐰",
+          "bgColor": "#FFB6C1"
+          },
+          {
+          "letter": "C",
+          "word": "Chinchilla",
+          "emoji": "🐭",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "D",
+          "word": "Deer",
+          "emoji": "🦌",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "E",
+          "word": "Ermine",
+          "emoji": "🐿️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "F",
+          "word": "Fox Cub",
+          "emoji": "🦊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "G",
+          "word": "Guinea Pig",
+          "emoji": "🐹",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "H",
+          "word": "Hedgehog",
+          "emoji": "🦔",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "I",
+          "word": "Irish Setter Puppy",
+          "emoji": "🐶",
+          "bgColor": "#B22222"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Chin",
+          "emoji": "🐶",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "K",
+          "word": "Koala Baby",
+          "emoji": "🐨",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "L",
+          "word": "Little Penguin",
+          "emoji": "🐧",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "M",
+          "word": "Mini Pony",
+          "emoji": "🐴",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "N",
+          "word": "Nemo Fish",
+          "emoji": "🐠",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "O",
+          "word": "Otter",
+          "emoji": "🦦",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "P",
+          "word": "Panda Baby",
+          "emoji": "🐼",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quokka",
+          "emoji": "🐭",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "R",
+          "word": "Red Panda",
+          "emoji": "🐼",
+          "bgColor": "#B22222"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Otter",
+          "emoji": "🦦",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "T",
+          "word": "Teddy Bear Dog",
+          "emoji": "🐶",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Fish",
+          "emoji": "🐟",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "V",
+          "word": "Very Small Mouse",
+          "emoji": "🐭",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "W",
+          "word": "White Kitten",
+          "emoji": "🐱",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "X-small Hamster",
+          "emoji": "🐹",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Duckling",
+          "emoji": "🐥",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Baby",
+          "emoji": "🦓",
+          "bgColor": "#1C1C1C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsBirdsParrots1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Parrots of the World Part 1",
+          videoId: "birds-parrots-1",
+          bgGradient: ["#11998E","#38EF7D"] as [string, string],
+          accentColor: "#1ABC9C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "African Grey Parrot",
+          "emoji": "🦜",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "B",
+          "word": "Blue-and-Gold Macaw",
+          "emoji": "🦜",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "C",
+          "word": "Conure",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "D",
+          "word": "Double Yellow-head",
+          "emoji": "🦜",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "E",
+          "word": "Eclectus Parrot",
+          "emoji": "🦜",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "F",
+          "word": "Fischer's Lovebird",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "G",
+          "word": "Green-winged Macaw",
+          "emoji": "🦜",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "H",
+          "word": "Hawk-headed Parrot",
+          "emoji": "🦜",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Ringneck",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "J",
+          "word": "Jardine's Parrot",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "K",
+          "word": "Kea Parrot",
+          "emoji": "🦜",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "L",
+          "word": "Lorikeet",
+          "emoji": "🦜",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "M",
+          "word": "Military Macaw",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "N",
+          "word": "Nanday Conure",
+          "emoji": "🦜",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "O",
+          "word": "Orange-bellied Parrot",
+          "emoji": "🦜",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Plum-headed Parakeet",
+          "emoji": "🦜",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "Q",
+          "word": "Quaker Parrot",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "R",
+          "word": "Rose-ringed Parakeet",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "S",
+          "word": "Sun Conure",
+          "emoji": "🦜",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "T",
+          "word": "Turquoise Parrot",
+          "emoji": "🦜",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "U",
+          "word": "Ultramarine Lorikeet",
+          "emoji": "🦜",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "V",
+          "word": "Vernal Hanging Parrot",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "W",
+          "word": "White Cockatoo",
+          "emoji": "🦜",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "Xanthogenys Parrot",
+          "emoji": "🦜",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow-naped Amazon",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Z",
+          "word": "Zenker's Parrot",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsScienceComputers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Computers & Technology Part 1",
+          videoId: "science-computers-1",
+          bgGradient: ["#4B6CB7","#182848"] as [string, string],
+          accentColor: "#2980B9",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Algorithm",
+          "emoji": "💻",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "B",
+          "word": "Binary Code",
+          "emoji": "🔢",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "C",
+          "word": "CPU",
+          "emoji": "💻",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "D",
+          "word": "Database",
+          "emoji": "💾",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "E",
+          "word": "Email",
+          "emoji": "📧",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "F",
+          "word": "Firewall",
+          "emoji": "🔥",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "G",
+          "word": "Gigabyte",
+          "emoji": "💾",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "H",
+          "word": "Hardware",
+          "emoji": "🖥️",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "I",
+          "word": "Internet",
+          "emoji": "🌐",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "J",
+          "word": "JavaScript",
+          "emoji": "📱",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "K",
+          "word": "Kernel",
+          "emoji": "⚙️",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "L",
+          "word": "Linux",
+          "emoji": "🐧",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "M",
+          "word": "Memory (RAM)",
+          "emoji": "💾",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "N",
+          "word": "Network",
+          "emoji": "🌐",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "O",
+          "word": "Operating System",
+          "emoji": "💻",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "P",
+          "word": "Pixel",
+          "emoji": "🟦",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "Q",
+          "word": "Query",
+          "emoji": "🔍",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "R",
+          "word": "Router",
+          "emoji": "📡",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "S",
+          "word": "Software",
+          "emoji": "💻",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "T",
+          "word": "Touchscreen",
+          "emoji": "📱",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "U",
+          "word": "USB Port",
+          "emoji": "🔌",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "V",
+          "word": "Virtual Reality",
+          "emoji": "🥽",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "W",
+          "word": "WiFi",
+          "emoji": "📶",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "X",
+          "word": "XML Code",
+          "emoji": "💻",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "Y",
+          "word": "YouTube",
+          "emoji": "📺",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "Z",
+          "word": "Zip File",
+          "emoji": "📦",
+          "bgColor": "#FFD700"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsGeographyCapitals1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "World Capitals Part 1",
+          videoId: "geography-capitals-1",
+          bgGradient: ["#654EA3","#EAAFC8"] as [string, string],
+          accentColor: "#8E44AD",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Abu Dhabi",
+          "emoji": "🏛️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "B",
+          "word": "Berlin",
+          "emoji": "🏛️",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "C",
+          "word": "Canberra",
+          "emoji": "🏛️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "D",
+          "word": "Delhi",
+          "emoji": "🏛️",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "E",
+          "word": "Edinburgh",
+          "emoji": "🏰",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "F",
+          "word": "Frankfurt",
+          "emoji": "🏛️",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "G",
+          "word": "Geneva",
+          "emoji": "🏛️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "H",
+          "word": "Hanoi",
+          "emoji": "🏛️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "I",
+          "word": "Islamabad",
+          "emoji": "🏛️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "J",
+          "word": "Jakarta",
+          "emoji": "🏛️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "K",
+          "word": "Kathmandu",
+          "emoji": "🏛️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "L",
+          "word": "London",
+          "emoji": "🏛️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "M",
+          "word": "Moscow",
+          "emoji": "🏛️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "N",
+          "word": "Nairobi",
+          "emoji": "🏛️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "O",
+          "word": "Ottawa",
+          "emoji": "🏛️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "P",
+          "word": "Paris",
+          "emoji": "🗼",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "Q",
+          "word": "Quito",
+          "emoji": "🏛️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "R",
+          "word": "Rome",
+          "emoji": "🏛️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "S",
+          "word": "Seoul",
+          "emoji": "🏛️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "T",
+          "word": "Tokyo",
+          "emoji": "🗼",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "U",
+          "word": "Ulaanbaatar",
+          "emoji": "🏛️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "V",
+          "word": "Vienna",
+          "emoji": "🏛️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "W",
+          "word": "Washington DC",
+          "emoji": "🏛️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "Xi'an (Historic)",
+          "emoji": "🏛️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yangon",
+          "emoji": "🏛️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zagreb",
+          "emoji": "🏛️",
+          "bgColor": "#4169E1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsCultureArt1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Art Forms Part 1",
+          videoId: "culture-art-1",
+          bgGradient: ["#F7971E","#FFD200"] as [string, string],
+          accentColor: "#F39C12",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Aipan Art",
+          "emoji": "🎨",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "B",
+          "word": "Batik Painting",
+          "emoji": "🎨",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "C",
+          "word": "Cheriyal Painting",
+          "emoji": "🎨",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "D",
+          "word": "Dokra Metal Art",
+          "emoji": "🎨",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "E",
+          "word": "Embroidery",
+          "emoji": "🧵",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "F",
+          "word": "Fresco Painting",
+          "emoji": "🎨",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "G",
+          "word": "Gond Painting",
+          "emoji": "🎨",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "H",
+          "word": "Henna Art",
+          "emoji": "✋",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Miniature",
+          "emoji": "🎨",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "J",
+          "word": "Jaipur Blue Pottery",
+          "emoji": "🏺",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "K",
+          "word": "Kalamkari",
+          "emoji": "🎨",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "L",
+          "word": "Lippan Art",
+          "emoji": "🎨",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "M",
+          "word": "Madhubani Painting",
+          "emoji": "🎨",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "N",
+          "word": "Naga Weaving",
+          "emoji": "🧵",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "O",
+          "word": "Origami Indian",
+          "emoji": "📄",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "P",
+          "word": "Pattachitra",
+          "emoji": "🎨",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "Q",
+          "word": "Quilting Art",
+          "emoji": "🧵",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "R",
+          "word": "Rangoli",
+          "emoji": "🎨",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "S",
+          "word": "Sanjhi Paper Cut",
+          "emoji": "✂️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "T",
+          "word": "Tanjore Painting",
+          "emoji": "🎨",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "U",
+          "word": "Uruli Decoration",
+          "emoji": "🪷",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "V",
+          "word": "Varanasi Silk Weave",
+          "emoji": "🧵",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "W",
+          "word": "Warli Painting",
+          "emoji": "🎨",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "X-stitch Craft",
+          "emoji": "🧵",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yantra Art",
+          "emoji": "🔯",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zardozi Embroidery",
+          "emoji": "✨",
+          "bgColor": "#FFD700"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
         id="KidsAnimalsSafari1"
         component={AlphabetShortsTemplate}
         durationInFrames={2520}
@@ -1756,6 +5256,881 @@ export const KidsLearningRemotionRoot: React.FC = () => {
         }}
       />
       <Composition
+        id="KidsAnimalsDesert1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Desert Animals Part 1",
+          videoId: "animals-desert-1",
+          bgGradient: ["#F2994A","#F2C94C"] as [string, string],
+          accentColor: "#E67E22",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Addax",
+          "emoji": "🦌",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "B",
+          "word": "Bactrian Camel",
+          "emoji": "🐫",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "C",
+          "word": "Camel",
+          "emoji": "🐪",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "D",
+          "word": "Desert Fox",
+          "emoji": "🦊",
+          "bgColor": "#F4A460"
+          },
+          {
+          "letter": "E",
+          "word": "Egyptian Cobra",
+          "emoji": "🐍",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "F",
+          "word": "Fennec Fox",
+          "emoji": "🦊",
+          "bgColor": "#FAEBD7"
+          },
+          {
+          "letter": "G",
+          "word": "Gila Monster",
+          "emoji": "🦎",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "H",
+          "word": "Horned Viper",
+          "emoji": "🐍",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Desert Cat",
+          "emoji": "🐱",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "J",
+          "word": "Jerboa",
+          "emoji": "🐭",
+          "bgColor": "#F4A460"
+          },
+          {
+          "letter": "K",
+          "word": "Kit Fox",
+          "emoji": "🦊",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "L",
+          "word": "Lizard",
+          "emoji": "🦎",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "M",
+          "word": "Monitor Lizard",
+          "emoji": "🦎",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "N",
+          "word": "Nightjar",
+          "emoji": "🐦",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "O",
+          "word": "Oryx",
+          "emoji": "🦌",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "P",
+          "word": "Pronghorn",
+          "emoji": "🦌",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "Q",
+          "word": "Quail",
+          "emoji": "🐦",
+          "bgColor": "#BC8F8F"
+          },
+          {
+          "letter": "R",
+          "word": "Rattlesnake",
+          "emoji": "🐍",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "S",
+          "word": "Scorpion",
+          "emoji": "🦂",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "T",
+          "word": "Thorny Devil",
+          "emoji": "🦎",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "U",
+          "word": "Uromastyx",
+          "emoji": "🦎",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "V",
+          "word": "Vulture",
+          "emoji": "🦅",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "W",
+          "word": "Wild Ass",
+          "emoji": "🫏",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "X",
+          "word": "Xerus",
+          "emoji": "🐿️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Scorpion",
+          "emoji": "🦂",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra-tailed Lizard",
+          "emoji": "🦎",
+          "bgColor": "#DAA520"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsAnimalsBaby1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Baby Animals Part 1",
+          videoId: "animals-baby-1",
+          bgGradient: ["#FF6B6B","#FFE66D"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Armadillo Pup",
+          "emoji": "🐾",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "B",
+          "word": "Bear Cub",
+          "emoji": "🐻",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "C",
+          "word": "Calf",
+          "emoji": "🐄",
+          "bgColor": "#F5DEB3"
+          },
+          {
+          "letter": "D",
+          "word": "Duckling",
+          "emoji": "🐥",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "E",
+          "word": "Eaglet",
+          "emoji": "🦅",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "F",
+          "word": "Fawn",
+          "emoji": "🦌",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "G",
+          "word": "Gosling",
+          "emoji": "🐣",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "H",
+          "word": "Hatchling",
+          "emoji": "🐣",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "I",
+          "word": "Infant Monkey",
+          "emoji": "🐒",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "J",
+          "word": "Joey",
+          "emoji": "🦘",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "K",
+          "word": "Kitten",
+          "emoji": "🐱",
+          "bgColor": "#FFB6C1"
+          },
+          {
+          "letter": "L",
+          "word": "Lamb",
+          "emoji": "🐑",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "M",
+          "word": "Mouse Baby",
+          "emoji": "🐭",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "N",
+          "word": "Nestling",
+          "emoji": "🐦",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "O",
+          "word": "Owlet",
+          "emoji": "🦉",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "P",
+          "word": "Puppy",
+          "emoji": "🐶",
+          "bgColor": "#F4A460"
+          },
+          {
+          "letter": "Q",
+          "word": "Quail Chick",
+          "emoji": "🐦",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "R",
+          "word": "Rabbit Kit",
+          "emoji": "🐰",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "S",
+          "word": "Seal Pup",
+          "emoji": "🦭",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "T",
+          "word": "Tadpole",
+          "emoji": "🐸",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "U",
+          "word": "Urchin Baby",
+          "emoji": "🦔",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "V",
+          "word": "Vealcalf",
+          "emoji": "🐄",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "W",
+          "word": "Whelp",
+          "emoji": "🐶",
+          "bgColor": "#F4A460"
+          },
+          {
+          "letter": "X",
+          "word": "X-small Puppy",
+          "emoji": "🐶",
+          "bgColor": "#FFB6C1"
+          },
+          {
+          "letter": "Y",
+          "word": "Young Foal",
+          "emoji": "🐴",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Foal",
+          "emoji": "🦓",
+          "bgColor": "#1C1C1C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsAnimalsNocturnal1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Nocturnal Animals Part 1",
+          videoId: "animals-nocturnal-1",
+          bgGradient: ["#0F2027","#2C5364"] as [string, string],
+          accentColor: "#2980B9",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Aye-Aye",
+          "emoji": "🐒",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "B",
+          "word": "Bat",
+          "emoji": "🦇",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "C",
+          "word": "Civet",
+          "emoji": "🐱",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "D",
+          "word": "Dark Owl",
+          "emoji": "🦉",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "E",
+          "word": "Eastern Screech Owl",
+          "emoji": "🦉",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "F",
+          "word": "Flying Fox",
+          "emoji": "🦇",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "G",
+          "word": "Glow Worm",
+          "emoji": "🪱",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "H",
+          "word": "Hedgehog",
+          "emoji": "🦔",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Pangolin",
+          "emoji": "🐾",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "J",
+          "word": "Jackal",
+          "emoji": "🐺",
+          "bgColor": "#A0522D"
+          },
+          {
+          "letter": "K",
+          "word": "Kinkajou",
+          "emoji": "🐒",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Cat",
+          "emoji": "🐆",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "M",
+          "word": "Moon Moth",
+          "emoji": "🦋",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "N",
+          "word": "Night Monkey",
+          "emoji": "🐵",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "O",
+          "word": "Opossum",
+          "emoji": "🐭",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "P",
+          "word": "Porcupine",
+          "emoji": "🦔",
+          "bgColor": "#6B4423"
+          },
+          {
+          "letter": "Q",
+          "word": "Quoll",
+          "emoji": "🐱",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "R",
+          "word": "Raccoon",
+          "emoji": "🦝",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "S",
+          "word": "Slow Loris",
+          "emoji": "🐒",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "T",
+          "word": "Tarsier",
+          "emoji": "🐒",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Moth",
+          "emoji": "🦋",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "V",
+          "word": "Vampire Bat",
+          "emoji": "🦇",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "W",
+          "word": "Wolf",
+          "emoji": "🐺",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "X",
+          "word": "Xerus Night",
+          "emoji": "🐿️",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Bat",
+          "emoji": "🦇",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Z",
+          "word": "Zorilla",
+          "emoji": "🦨",
+          "bgColor": "#1C1C1C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsAnimalsEndangered1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Endangered Animals Part 1",
+          videoId: "animals-endangered-1",
+          bgGradient: ["#C0392B","#E74C3C"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Amur Leopard",
+          "emoji": "🐆",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Whale",
+          "emoji": "🐋",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "C",
+          "word": "Cross River Gorilla",
+          "emoji": "🦍",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "D",
+          "word": "Dhole",
+          "emoji": "🐺",
+          "bgColor": "#B22222"
+          },
+          {
+          "letter": "E",
+          "word": "Eastern Gorilla",
+          "emoji": "🦍",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "F",
+          "word": "Fin Whale",
+          "emoji": "🐋",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "G",
+          "word": "Giant Panda",
+          "emoji": "🐼",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "H",
+          "word": "Hawksbill Turtle",
+          "emoji": "🐢",
+          "bgColor": "#2E8B57"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Elephant",
+          "emoji": "🐘",
+          "bgColor": "#708090"
+          },
+          {
+          "letter": "J",
+          "word": "Javan Rhino",
+          "emoji": "🦏",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "K",
+          "word": "Kakapo",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "L",
+          "word": "Leatherback Turtle",
+          "emoji": "🐢",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "M",
+          "word": "Mountain Gorilla",
+          "emoji": "🦍",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "N",
+          "word": "Narwhal",
+          "emoji": "🐋",
+          "bgColor": "#5F9EA0"
+          },
+          {
+          "letter": "O",
+          "word": "Orangutan",
+          "emoji": "🦧",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Pangolin",
+          "emoji": "🐾",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "Q",
+          "word": "Quokka",
+          "emoji": "🐭",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "R",
+          "word": "Red Panda",
+          "emoji": "🐼",
+          "bgColor": "#B22222"
+          },
+          {
+          "letter": "S",
+          "word": "Snow Leopard",
+          "emoji": "🐆",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "U",
+          "word": "Uakari",
+          "emoji": "🐒",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "V",
+          "word": "Vaquita",
+          "emoji": "🐬",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "W",
+          "word": "Whale Shark",
+          "emoji": "🦈",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "X",
+          "word": "Xenopus Frog",
+          "emoji": "🐸",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow-eyed Penguin",
+          "emoji": "🐧",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zanzibar Leopard",
+          "emoji": "🐆",
+          "bgColor": "#DAA520"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsAnimalsMountain1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Mountain Animals Part 1",
+          videoId: "animals-mountain-1",
+          bgGradient: ["#E0EAFC","#CFDEF3"] as [string, string],
+          accentColor: "#2980B9",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Alpine Ibex",
+          "emoji": "🐐",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "B",
+          "word": "Bharal",
+          "emoji": "🐏",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "C",
+          "word": "Chamois",
+          "emoji": "🐐",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "D",
+          "word": "Dall Sheep",
+          "emoji": "🐏",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Eagle",
+          "emoji": "🦅",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "F",
+          "word": "Fisher Cat",
+          "emoji": "🐱",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "G",
+          "word": "Golden Eagle",
+          "emoji": "🦅",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "H",
+          "word": "Himalayan Bear",
+          "emoji": "🐻",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "I",
+          "word": "Ibex",
+          "emoji": "🐐",
+          "bgColor": "#6B4226"
+          },
+          {
+          "letter": "J",
+          "word": "Jackal",
+          "emoji": "🐺",
+          "bgColor": "#A0522D"
+          },
+          {
+          "letter": "K",
+          "word": "Kashmir Stag",
+          "emoji": "🦌",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "L",
+          "word": "Lynx",
+          "emoji": "🐱",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "M",
+          "word": "Markhor",
+          "emoji": "🐐",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "N",
+          "word": "Nayan",
+          "emoji": "🐏",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "O",
+          "word": "Osprey",
+          "emoji": "🦅",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "P",
+          "word": "Pika",
+          "emoji": "🐹",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "Q",
+          "word": "Quail",
+          "emoji": "🐦",
+          "bgColor": "#BC8F8F"
+          },
+          {
+          "letter": "R",
+          "word": "Red Fox",
+          "emoji": "🦊",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "S",
+          "word": "Snow Leopard",
+          "emoji": "🐆",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "T",
+          "word": "Tahr",
+          "emoji": "🐐",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "U",
+          "word": "Urial",
+          "emoji": "🐏",
+          "bgColor": "#B8860B"
+          },
+          {
+          "letter": "V",
+          "word": "Vulture",
+          "emoji": "🦅",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "W",
+          "word": "Wild Goat",
+          "emoji": "🐐",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "X",
+          "word": "Xeric Mouse",
+          "emoji": "🐭",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Marmot",
+          "emoji": "🐿️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Z",
+          "word": "Zokor",
+          "emoji": "🐭",
+          "bgColor": "#8B7355"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
         id="KidsBirdsGarden1"
         component={AlphabetShortsTemplate}
         durationInFrames={2520}
@@ -2623,6 +6998,881 @@ export const KidsLearningRemotionRoot: React.FC = () => {
           "word": "Zone-tailed Hawk",
           "emoji": "🦅",
           "bgColor": "#2F4F4F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsBirdsForest1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Forest Birds Part 1",
+          videoId: "birds-forest-1",
+          bgGradient: ["#134E5E","#71B280"] as [string, string],
+          accentColor: "#1B5E20",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Asian Koel",
+          "emoji": "🐦",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "B",
+          "word": "Barbet",
+          "emoji": "🐦",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "C",
+          "word": "Cuckoo",
+          "emoji": "🐦",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "D",
+          "word": "Drongo",
+          "emoji": "🐦",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "E",
+          "word": "Emerald Dove",
+          "emoji": "🕊️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "Fairy Bluebird",
+          "emoji": "🐦",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "G",
+          "word": "Great Tit",
+          "emoji": "🐦",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "H",
+          "word": "Hoopoe",
+          "emoji": "🐦",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Pitta",
+          "emoji": "🐦",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "J",
+          "word": "Jungle Fowl",
+          "emoji": "🐔",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "K",
+          "word": "Kookaburra",
+          "emoji": "🐦",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "L",
+          "word": "Leafbird",
+          "emoji": "🐦",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "M",
+          "word": "Minivet",
+          "emoji": "🐦",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "N",
+          "word": "Nuthatch",
+          "emoji": "🐦",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "O",
+          "word": "Oriental Pied Hornbill",
+          "emoji": "🐦",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "P",
+          "word": "Paradise Flycatcher",
+          "emoji": "🐦",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "Q",
+          "word": "Quetzal",
+          "emoji": "🐦",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "R",
+          "word": "Redstart",
+          "emoji": "🐦",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "S",
+          "word": "Sunbird",
+          "emoji": "🐦",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "T",
+          "word": "Trogon",
+          "emoji": "🐦",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "U",
+          "word": "Ultramarine Flycatcher",
+          "emoji": "🐦",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "V",
+          "word": "Verditer Flycatcher",
+          "emoji": "🐦",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "W",
+          "word": "Woodpecker",
+          "emoji": "🐦",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "X",
+          "word": "Xenops",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow-billed Babbler",
+          "emoji": "🐦",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Wren",
+          "emoji": "🐦",
+          "bgColor": "#8B4513"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsBirdsSinging1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Singing Birds Part 1",
+          videoId: "birds-singing-1",
+          bgGradient: ["#F7971E","#FFD200"] as [string, string],
+          accentColor: "#F39C12",
+          letters: [
+          {
+          "letter": "A",
+          "word": "American Robin",
+          "emoji": "🐦",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "B",
+          "word": "Blackbird",
+          "emoji": "🐦",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "C",
+          "word": "Canary",
+          "emoji": "🐦",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "D",
+          "word": "Dawn Chorus",
+          "emoji": "🐦",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "E",
+          "word": "Eastern Bluebird",
+          "emoji": "🐦",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "F",
+          "word": "Flycatcher",
+          "emoji": "🐦",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "G",
+          "word": "Goldcrest",
+          "emoji": "🐦",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "H",
+          "word": "House Wren",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Cuckoo",
+          "emoji": "🐦",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "J",
+          "word": "Java Sparrow",
+          "emoji": "🐦",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "K",
+          "word": "Koel",
+          "emoji": "🐦",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "L",
+          "word": "Lark",
+          "emoji": "🐦",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "M",
+          "word": "Mockingbird",
+          "emoji": "🐦",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "N",
+          "word": "Nightingale",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "O",
+          "word": "Oriole",
+          "emoji": "🐦",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Pied Wagtail",
+          "emoji": "🐦",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quail",
+          "emoji": "🐦",
+          "bgColor": "#BC8F8F"
+          },
+          {
+          "letter": "R",
+          "word": "Reed Warbler",
+          "emoji": "🐦",
+          "bgColor": "#6B8E23"
+          },
+          {
+          "letter": "S",
+          "word": "Song Thrush",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "T",
+          "word": "Twite",
+          "emoji": "🐦",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "U",
+          "word": "Upland Lark",
+          "emoji": "🐦",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "V",
+          "word": "Vireo",
+          "emoji": "🐦",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "W",
+          "word": "Warbler",
+          "emoji": "🐦",
+          "bgColor": "#6B8E23"
+          },
+          {
+          "letter": "X",
+          "word": "Xanthus Warbler",
+          "emoji": "🐦",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellowhammer",
+          "emoji": "🐦",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zenith Songbird",
+          "emoji": "🐦",
+          "bgColor": "#4169E1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsBirdsPet1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Pet Birds Part 1",
+          videoId: "birds-pet-1",
+          bgGradient: ["#FF6B6B","#FFE66D"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "African Grey",
+          "emoji": "🦜",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "B",
+          "word": "Budgerigar",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "C",
+          "word": "Cockatiel",
+          "emoji": "🦜",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "D",
+          "word": "Diamond Dove",
+          "emoji": "🕊️",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "E",
+          "word": "Eclectus Parrot",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "F",
+          "word": "Finch",
+          "emoji": "🐦",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "G",
+          "word": "Green Parrot",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "H",
+          "word": "Hill Myna",
+          "emoji": "🐦",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Ringneck",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "J",
+          "word": "Java Finch",
+          "emoji": "🐦",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "K",
+          "word": "King Parrot",
+          "emoji": "🦜",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "L",
+          "word": "Lovebird",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "M",
+          "word": "Macaw",
+          "emoji": "🦜",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "N",
+          "word": "Nanday Conure",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Canary",
+          "emoji": "🐦",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Parakeet",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "Q",
+          "word": "Quaker Parrot",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "R",
+          "word": "Rainbow Lorikeet",
+          "emoji": "🦜",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "S",
+          "word": "Sun Conure",
+          "emoji": "🦜",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "T",
+          "word": "Toucan",
+          "emoji": "🐦",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Cockatoo",
+          "emoji": "🦜",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "V",
+          "word": "Violet Lovebird",
+          "emoji": "🦜",
+          "bgColor": "#8B008B"
+          },
+          {
+          "letter": "W",
+          "word": "White Dove",
+          "emoji": "🕊️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "Xeno Parakeet",
+          "emoji": "🦜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Cockatiel",
+          "emoji": "🦜",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Finch",
+          "emoji": "🐦",
+          "bgColor": "#FF6347"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsBirdsMigratory1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Migratory Birds Part 1",
+          videoId: "birds-migratory-1",
+          bgGradient: ["#654EA3","#EAAFC8"] as [string, string],
+          accentColor: "#8E44AD",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Arctic Tern",
+          "emoji": "🐦",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "B",
+          "word": "Bar-headed Goose",
+          "emoji": "🪿",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "C",
+          "word": "Common Crane",
+          "emoji": "🐦",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "D",
+          "word": "Demoiselle Crane",
+          "emoji": "🐦",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "E",
+          "word": "Eurasian Wigeon",
+          "emoji": "🦆",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "F",
+          "word": "Flamingo",
+          "emoji": "🦩",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "G",
+          "word": "Greylag Goose",
+          "emoji": "🪿",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "H",
+          "word": "Houbara Bustard",
+          "emoji": "🐦",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Skimmer",
+          "emoji": "🐦",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "J",
+          "word": "Jack Snipe",
+          "emoji": "🐦",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "K",
+          "word": "Knot",
+          "emoji": "🐦",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "L",
+          "word": "Long-tailed Duck",
+          "emoji": "🦆",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "M",
+          "word": "Mallard",
+          "emoji": "🦆",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "N",
+          "word": "Northern Pintail",
+          "emoji": "🦆",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "O",
+          "word": "Osprey",
+          "emoji": "🦅",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "P",
+          "word": "Peregrine Falcon",
+          "emoji": "🦅",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "Q",
+          "word": "Quail",
+          "emoji": "🐦",
+          "bgColor": "#BC8F8F"
+          },
+          {
+          "letter": "R",
+          "word": "Rosy Starling",
+          "emoji": "🐦",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "S",
+          "word": "Siberian Crane",
+          "emoji": "🐦",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "T",
+          "word": "Teal",
+          "emoji": "🦆",
+          "bgColor": "#008080"
+          },
+          {
+          "letter": "U",
+          "word": "Upland Sandpiper",
+          "emoji": "🐦",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "V",
+          "word": "Vagrant Shrike",
+          "emoji": "🐦",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "W",
+          "word": "Wagtail",
+          "emoji": "🐦",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "X",
+          "word": "Xema Gull",
+          "emoji": "🐦",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Wagtail",
+          "emoji": "🐦",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoothera Thrush",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsBirdsFlightless1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Flightless Birds Part 1",
+          videoId: "birds-flightless-1",
+          bgGradient: ["#636363","#A2AB58"] as [string, string],
+          accentColor: "#7F8C8D",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Adzebill",
+          "emoji": "🐦",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "B",
+          "word": "Brown Kiwi",
+          "emoji": "🐦",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "C",
+          "word": "Cassowary",
+          "emoji": "🐦",
+          "bgColor": "#191970"
+          },
+          {
+          "letter": "D",
+          "word": "Dodo",
+          "emoji": "🐦",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "E",
+          "word": "Emu",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "F",
+          "word": "Flightless Cormorant",
+          "emoji": "🐦",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "G",
+          "word": "Grebe",
+          "emoji": "🐦",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "H",
+          "word": "Hen",
+          "emoji": "🐔",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "I",
+          "word": "Inaccessible Island Rail",
+          "emoji": "🐦",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "J",
+          "word": "Junglefowl",
+          "emoji": "🐔",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "K",
+          "word": "Kakapo",
+          "emoji": "🦜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "L",
+          "word": "Lesser Rhea",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "M",
+          "word": "Magellanic Penguin",
+          "emoji": "🐧",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "N",
+          "word": "North Island Kiwi",
+          "emoji": "🐦",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "O",
+          "word": "Ostrich",
+          "emoji": "🦤",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "P",
+          "word": "Penguin",
+          "emoji": "🐧",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Penguin",
+          "emoji": "🐧",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "R",
+          "word": "Rhea",
+          "emoji": "🐦",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "S",
+          "word": "Steamer Duck",
+          "emoji": "🦆",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "T",
+          "word": "Takahe",
+          "emoji": "🐦",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "U",
+          "word": "Upland Goose",
+          "emoji": "🪿",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "V",
+          "word": "Victoria Penguin",
+          "emoji": "🐧",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "W",
+          "word": "Weka",
+          "emoji": "🐦",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "X",
+          "word": "Xenicus",
+          "emoji": "🐦",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow-eyed Penguin",
+          "emoji": "🐧",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zapata Rail",
+          "emoji": "🐦",
+          "bgColor": "#556B2F"
           }
           ],
           letterDuration: 3,
@@ -3506,6 +8756,881 @@ export const KidsLearningRemotionRoot: React.FC = () => {
         }}
       />
       <Composition
+        id="KidsFruitsCitrus1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Citrus Fruits Part 1",
+          videoId: "fruits-citrus-1",
+          bgGradient: ["#F7971E","#FFD200"] as [string, string],
+          accentColor: "#F39C12",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Amla",
+          "emoji": "🍈",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "B",
+          "word": "Blood Orange",
+          "emoji": "🍊",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "C",
+          "word": "Clementine",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "D",
+          "word": "Dried Lemon",
+          "emoji": "🍋",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "E",
+          "word": "Etrog",
+          "emoji": "🍋",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "F",
+          "word": "Finger Lime",
+          "emoji": "🍈",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "G",
+          "word": "Grapefruit",
+          "emoji": "🍊",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "H",
+          "word": "Honey Tangerine",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Lime",
+          "emoji": "🍋",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Orange",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "K",
+          "word": "Kumquat",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "L",
+          "word": "Lemon",
+          "emoji": "🍋",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "M",
+          "word": "Mandarin",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "N",
+          "word": "Navel Orange",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Pomelo",
+          "emoji": "🍊",
+          "bgColor": "#98FB98"
+          },
+          {
+          "letter": "Q",
+          "word": "Quince Lemon",
+          "emoji": "🍋",
+          "bgColor": "#BDB76B"
+          },
+          {
+          "letter": "R",
+          "word": "Rangpur Lime",
+          "emoji": "🍋",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "S",
+          "word": "Sweet Lime",
+          "emoji": "🍈",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "T",
+          "word": "Tangerine",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "U",
+          "word": "Ugli Fruit",
+          "emoji": "🍊",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "V",
+          "word": "Valencia Orange",
+          "emoji": "🍊",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "W",
+          "word": "White Grapefruit",
+          "emoji": "🍊",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "X",
+          "word": "Xigua Citrus",
+          "emoji": "🍊",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "Y",
+          "word": "Yuzu",
+          "emoji": "🍋",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zest Lime",
+          "emoji": "🍋",
+          "bgColor": "#32CD32"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsFruitsDryfruits1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Dry Fruits & Nuts Part 1",
+          videoId: "fruits-dryfruits-1",
+          bgGradient: ["#8B4513","#DEB887"] as [string, string],
+          accentColor: "#8B4513",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Almond",
+          "emoji": "🌰",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "B",
+          "word": "Brazil Nut",
+          "emoji": "🌰",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "C",
+          "word": "Cashew",
+          "emoji": "🌰",
+          "bgColor": "#F5DEB3"
+          },
+          {
+          "letter": "D",
+          "word": "Dates",
+          "emoji": "🌴",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "E",
+          "word": "Eldernut",
+          "emoji": "🌰",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "F",
+          "word": "Fig (Dried)",
+          "emoji": "🍈",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "G",
+          "word": "Golden Raisin",
+          "emoji": "🍇",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "H",
+          "word": "Hazelnut",
+          "emoji": "🌰",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Walnut",
+          "emoji": "🌰",
+          "bgColor": "#6B4226"
+          },
+          {
+          "letter": "J",
+          "word": "Jordannut",
+          "emoji": "🌰",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "K",
+          "word": "Kaju (Cashew)",
+          "emoji": "🌰",
+          "bgColor": "#F5DEB3"
+          },
+          {
+          "letter": "L",
+          "word": "Lotus Seed",
+          "emoji": "🪷",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "M",
+          "word": "Macadamia",
+          "emoji": "🌰",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "N",
+          "word": "Nutmeg",
+          "emoji": "🌰",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "O",
+          "word": "Olive (Dried)",
+          "emoji": "🫒",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "P",
+          "word": "Pistachio",
+          "emoji": "🌰",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Q",
+          "word": "Quinoa Seed",
+          "emoji": "🌾",
+          "bgColor": "#F5DEB3"
+          },
+          {
+          "letter": "R",
+          "word": "Raisin",
+          "emoji": "🍇",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower Seed",
+          "emoji": "🌻",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "T",
+          "word": "Tahini Seed",
+          "emoji": "🌾",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "U",
+          "word": "Unshelled Peanut",
+          "emoji": "🥜",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "V",
+          "word": "Vine Raisin",
+          "emoji": "🍇",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "W",
+          "word": "Walnut",
+          "emoji": "🌰",
+          "bgColor": "#6B4226"
+          },
+          {
+          "letter": "X",
+          "word": "Xerophyte Nut",
+          "emoji": "🌰",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Raisin",
+          "emoji": "🍇",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zante Currant",
+          "emoji": "🍇",
+          "bgColor": "#1C1C1C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVegetablesIndian1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Vegetables Part 1",
+          videoId: "vegetables-indian-1",
+          bgGradient: ["#FF9933","#138808"] as [string, string],
+          accentColor: "#FF6600",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Aloo (Potato)",
+          "emoji": "🥔",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "B",
+          "word": "Baingan (Brinjal)",
+          "emoji": "🍆",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "C",
+          "word": "Capsicum",
+          "emoji": "🫑",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "D",
+          "word": "Drumstick",
+          "emoji": "🥬",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant Yam",
+          "emoji": "🥔",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "F",
+          "word": "French Beans",
+          "emoji": "🫘",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "G",
+          "word": "Gajar (Carrot)",
+          "emoji": "🥕",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "H",
+          "word": "Hari Mirch (Green Chili)",
+          "emoji": "🌶️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "I",
+          "word": "Ivy Gourd",
+          "emoji": "🥒",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "J",
+          "word": "Jackfruit",
+          "emoji": "🍈",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "K",
+          "word": "Karela (Bitter Gourd)",
+          "emoji": "🥒",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "L",
+          "word": "Lauki (Bottle Gourd)",
+          "emoji": "🥒",
+          "bgColor": "#98FB98"
+          },
+          {
+          "letter": "M",
+          "word": "Methi (Fenugreek)",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "N",
+          "word": "Nenua (Ridge Gourd)",
+          "emoji": "🥒",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "O",
+          "word": "Okra (Bhindi)",
+          "emoji": "🥒",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "P",
+          "word": "Palak (Spinach)",
+          "emoji": "🥬",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "Q",
+          "word": "Quinoa",
+          "emoji": "🌾",
+          "bgColor": "#F5DEB3"
+          },
+          {
+          "letter": "R",
+          "word": "Rai (Mustard Greens)",
+          "emoji": "🥬",
+          "bgColor": "#6B8E23"
+          },
+          {
+          "letter": "S",
+          "word": "Shimla Mirch (Bell Pepper)",
+          "emoji": "🫑",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "T",
+          "word": "Tori (Ridge Gourd)",
+          "emoji": "🥒",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "U",
+          "word": "Urad Dal Plant",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "V",
+          "word": "Valor (Indian Beans)",
+          "emoji": "🫘",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "W",
+          "word": "Water Chestnut",
+          "emoji": "🌰",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "X",
+          "word": "X-tra Hot Chili",
+          "emoji": "🌶️",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Pumpkin",
+          "emoji": "🎃",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "Z",
+          "word": "Zucchini",
+          "emoji": "🥒",
+          "bgColor": "#2E8B57"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVegetablesGarden1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Garden Vegetables Part 1",
+          videoId: "vegetables-garden-1",
+          bgGradient: ["#56AB2F","#A8E063"] as [string, string],
+          accentColor: "#27AE60",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Asparagus",
+          "emoji": "🥒",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "B",
+          "word": "Broccoli",
+          "emoji": "🥦",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "C",
+          "word": "Cauliflower",
+          "emoji": "🥦",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "D",
+          "word": "Daikon",
+          "emoji": "🥕",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Eggplant",
+          "emoji": "🍆",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "F",
+          "word": "Fennel",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "G",
+          "word": "Garlic",
+          "emoji": "🧄",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "H",
+          "word": "Horseradish",
+          "emoji": "🥕",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "I",
+          "word": "Italian Pepper",
+          "emoji": "🫑",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "J",
+          "word": "Jalapeno",
+          "emoji": "🌶️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "K",
+          "word": "Kohlrabi",
+          "emoji": "🥬",
+          "bgColor": "#98FB98"
+          },
+          {
+          "letter": "L",
+          "word": "Leek",
+          "emoji": "🧅",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "M",
+          "word": "Mushroom",
+          "emoji": "🍄",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "N",
+          "word": "Neem Leaves",
+          "emoji": "🌿",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "O",
+          "word": "Onion",
+          "emoji": "🧅",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "P",
+          "word": "Peas",
+          "emoji": "🫛",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Olive",
+          "emoji": "🫒",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "R",
+          "word": "Radish",
+          "emoji": "🥕",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "S",
+          "word": "Squash",
+          "emoji": "🎃",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "T",
+          "word": "Tomato",
+          "emoji": "🍅",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "U",
+          "word": "Upo Squash",
+          "emoji": "🥒",
+          "bgColor": "#98FB98"
+          },
+          {
+          "letter": "V",
+          "word": "Vine Tomato",
+          "emoji": "🍅",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "W",
+          "word": "Watermelon Rind",
+          "emoji": "🍉",
+          "bgColor": "#2E8B57"
+          },
+          {
+          "letter": "X",
+          "word": "Xigua Melon",
+          "emoji": "🍉",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Squash",
+          "emoji": "🎃",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zucchini",
+          "emoji": "🥒",
+          "bgColor": "#2E8B57"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVegetablesCooking1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Cooking Vegetables Part 1",
+          videoId: "vegetables-cooking-1",
+          bgGradient: ["#F2994A","#F2C94C"] as [string, string],
+          accentColor: "#E67E22",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Artichoke",
+          "emoji": "🥬",
+          "bgColor": "#6B8E23"
+          },
+          {
+          "letter": "B",
+          "word": "Bell Pepper",
+          "emoji": "🫑",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "C",
+          "word": "Corn",
+          "emoji": "🌽",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "D",
+          "word": "Drumstick",
+          "emoji": "🥬",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "E",
+          "word": "Edamame",
+          "emoji": "🫘",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "French Beans",
+          "emoji": "🫘",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "G",
+          "word": "Green Peas",
+          "emoji": "🫛",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "H",
+          "word": "Hot Pepper",
+          "emoji": "🌶️",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Corn",
+          "emoji": "🌽",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "J",
+          "word": "Jerusalem Artichoke",
+          "emoji": "🥔",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "K",
+          "word": "Kidney Beans",
+          "emoji": "🫘",
+          "bgColor": "#8B0000"
+          },
+          {
+          "letter": "L",
+          "word": "Lima Beans",
+          "emoji": "🫘",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "M",
+          "word": "Mint",
+          "emoji": "🌿",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Beans",
+          "emoji": "🫘",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "O",
+          "word": "Okra",
+          "emoji": "🥒",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "P",
+          "word": "Parsley",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Q",
+          "word": "Quinoa",
+          "emoji": "🌾",
+          "bgColor": "#F5DEB3"
+          },
+          {
+          "letter": "R",
+          "word": "Red Cabbage",
+          "emoji": "🥬",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "S",
+          "word": "Spring Onion",
+          "emoji": "🧅",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "T",
+          "word": "Turnip",
+          "emoji": "🥕",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "U",
+          "word": "Urad Dal",
+          "emoji": "🫘",
+          "bgColor": "#F5F5DC"
+          },
+          {
+          "letter": "V",
+          "word": "Vidalia Onion",
+          "emoji": "🧅",
+          "bgColor": "#F5DEB3"
+          },
+          {
+          "letter": "W",
+          "word": "White Beans",
+          "emoji": "🫘",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "X-tra Spicy Pepper",
+          "emoji": "🌶️",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Beans",
+          "emoji": "🫘",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zucchini",
+          "emoji": "🥒",
+          "bgColor": "#2E8B57"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
         id="KidsVehiclesRoad1"
         component={AlphabetShortsTemplate}
         durationInFrames={2520}
@@ -4373,6 +10498,881 @@ export const KidsLearningRemotionRoot: React.FC = () => {
           "word": "Zero-turn Mower",
           "emoji": "🚜",
           "bgColor": "#228B22"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVehiclesEmergency1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Emergency Vehicles Part 1",
+          videoId: "vehicles-emergency-1",
+          bgGradient: ["#C0392B","#E74C3C"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Ambulance",
+          "emoji": "🚑",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "B",
+          "word": "Bomb Squad Van",
+          "emoji": "🚐",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "C",
+          "word": "Coast Guard Ship",
+          "emoji": "🚢",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "D",
+          "word": "Disaster Relief Truck",
+          "emoji": "🚛",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "E",
+          "word": "Emergency Chopper",
+          "emoji": "🚁",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "F",
+          "word": "Fire Engine",
+          "emoji": "🚒",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "G",
+          "word": "Gas Leak Van",
+          "emoji": "🚐",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "H",
+          "word": "Hospital Bus",
+          "emoji": "🚌",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "I",
+          "word": "ICU Ambulance",
+          "emoji": "🚑",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "J",
+          "word": "Jet Rescue",
+          "emoji": "✈️",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "K",
+          "word": "K-9 Unit Van",
+          "emoji": "🚐",
+          "bgColor": "#000080"
+          },
+          {
+          "letter": "L",
+          "word": "Lifeguard Boat",
+          "emoji": "🚤",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "M",
+          "word": "Medical Van",
+          "emoji": "🚐",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Rescue Ship",
+          "emoji": "🚢",
+          "bgColor": "#000080"
+          },
+          {
+          "letter": "O",
+          "word": "Oil Spill Cleaner",
+          "emoji": "🚢",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Police Car",
+          "emoji": "🚓",
+          "bgColor": "#000080"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Response Unit",
+          "emoji": "🚑",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "R",
+          "word": "Rescue Helicopter",
+          "emoji": "🚁",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "S",
+          "word": "Search Drone",
+          "emoji": "🛸",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "T",
+          "word": "Tow Truck",
+          "emoji": "🚛",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "U",
+          "word": "Utility Emergency Van",
+          "emoji": "🚐",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "V",
+          "word": "Volunteer Fire Truck",
+          "emoji": "🚒",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "W",
+          "word": "Water Tanker",
+          "emoji": "🚛",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "X",
+          "word": "X-ray Mobile Unit",
+          "emoji": "🚐",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Alert Van",
+          "emoji": "🚐",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zone Patrol Car",
+          "emoji": "🚓",
+          "bgColor": "#000080"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVehiclesSpace1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Space Vehicles Part 1",
+          videoId: "vehicles-space-1",
+          bgGradient: ["#0F2027","#2C5364"] as [string, string],
+          accentColor: "#2980B9",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Apollo Capsule",
+          "emoji": "🚀",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "B",
+          "word": "Booster Rocket",
+          "emoji": "🚀",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "C",
+          "word": "Chandrayaan",
+          "emoji": "🚀",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "D",
+          "word": "Deep Space Probe",
+          "emoji": "🛸",
+          "bgColor": "#191970"
+          },
+          {
+          "letter": "E",
+          "word": "Explorer Satellite",
+          "emoji": "🛰️",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "F",
+          "word": "Falcon Rocket",
+          "emoji": "🚀",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "G",
+          "word": "Gaganyaan",
+          "emoji": "🚀",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "H",
+          "word": "Hubble Telescope",
+          "emoji": "🔭",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "I",
+          "word": "ISRO Rocket",
+          "emoji": "🚀",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "J",
+          "word": "James Webb Telescope",
+          "emoji": "🔭",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "K",
+          "word": "Kennedy Shuttle",
+          "emoji": "🚀",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "L",
+          "word": "Lunar Lander",
+          "emoji": "🚀",
+          "bgColor": "#808080"
+          },
+          {
+          "letter": "M",
+          "word": "Mars Rover",
+          "emoji": "🤖",
+          "bgColor": "#B22222"
+          },
+          {
+          "letter": "N",
+          "word": "NASA Shuttle",
+          "emoji": "🚀",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "O",
+          "word": "Orbital Station",
+          "emoji": "🛰️",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "P",
+          "word": "PSLV Rocket",
+          "emoji": "🚀",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "Q",
+          "word": "Quantum Satellite",
+          "emoji": "🛰️",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "R",
+          "word": "Reusable Rocket",
+          "emoji": "🚀",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "S",
+          "word": "Space Station",
+          "emoji": "🛰️",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "T",
+          "word": "Titan Probe",
+          "emoji": "🛸",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "U",
+          "word": "Unmanned Probe",
+          "emoji": "🛸",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "V",
+          "word": "Voyager Probe",
+          "emoji": "🛸",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "W",
+          "word": "Weather Satellite",
+          "emoji": "🛰️",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "X",
+          "word": "X-37B Spaceplane",
+          "emoji": "🚀",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yuri Capsule",
+          "emoji": "🚀",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero-G Aircraft",
+          "emoji": "✈️",
+          "bgColor": "#87CEEB"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVehiclesFarm1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Farm Vehicles Part 1",
+          videoId: "vehicles-farm-1",
+          bgGradient: ["#56AB2F","#A8E063"] as [string, string],
+          accentColor: "#27AE60",
+          letters: [
+          {
+          "letter": "A",
+          "word": "ATV",
+          "emoji": "🚜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "B",
+          "word": "Baler",
+          "emoji": "🚜",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "C",
+          "word": "Combine Harvester",
+          "emoji": "🚜",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "D",
+          "word": "Disc Harrow",
+          "emoji": "🚜",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Tractor",
+          "emoji": "🚜",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "F",
+          "word": "Fertilizer Spreader",
+          "emoji": "🚜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "G",
+          "word": "Grain Cart",
+          "emoji": "🚜",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "H",
+          "word": "Hay Rake",
+          "emoji": "🚜",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "I",
+          "word": "Irrigation Pump",
+          "emoji": "💧",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "J",
+          "word": "John Deere Tractor",
+          "emoji": "🚜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "K",
+          "word": "Kisan Tractor",
+          "emoji": "🚜",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "L",
+          "word": "Land Leveler",
+          "emoji": "🚜",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "M",
+          "word": "Milking Machine",
+          "emoji": "🥛",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "N",
+          "word": "Nut Harvester",
+          "emoji": "🚜",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "O",
+          "word": "Ox Cart",
+          "emoji": "🐂",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "P",
+          "word": "Plough",
+          "emoji": "🚜",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "Q",
+          "word": "Quad Bike",
+          "emoji": "🏍️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "R",
+          "word": "Rice Transplanter",
+          "emoji": "🚜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "S",
+          "word": "Seed Drill",
+          "emoji": "🚜",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "T",
+          "word": "Tractor",
+          "emoji": "🚜",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "U",
+          "word": "Utility Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "V",
+          "word": "Vegetable Picker",
+          "emoji": "🚜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "W",
+          "word": "Water Tanker",
+          "emoji": "🚛",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "X",
+          "word": "X-tra Large Tractor",
+          "emoji": "🚜",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Y",
+          "word": "Yard Truck",
+          "emoji": "🚛",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero-turn Mower",
+          "emoji": "🚜",
+          "bgColor": "#228B22"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVehiclesIndian1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Vehicles Part 1",
+          videoId: "vehicles-indian-1",
+          bgGradient: ["#FF9933","#138808"] as [string, string],
+          accentColor: "#FF6600",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Auto Rickshaw",
+          "emoji": "🛺",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "B",
+          "word": "Bullock Cart",
+          "emoji": "🐂",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "C",
+          "word": "Cycle Rickshaw",
+          "emoji": "🚲",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "D",
+          "word": "Delhi Metro",
+          "emoji": "🚇",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Bus",
+          "emoji": "🚌",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "Freight Train",
+          "emoji": "🚂",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "G",
+          "word": "Garib Rath Train",
+          "emoji": "🚂",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "H",
+          "word": "Hand Cart",
+          "emoji": "🛒",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Railways",
+          "emoji": "🚂",
+          "bgColor": "#000080"
+          },
+          {
+          "letter": "J",
+          "word": "Jugaad Vehicle",
+          "emoji": "🚜",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "K",
+          "word": "Kerala Houseboat",
+          "emoji": "🚢",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "L",
+          "word": "Local Train",
+          "emoji": "🚃",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "M",
+          "word": "Mumbai Taxi",
+          "emoji": "🚕",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "N",
+          "word": "Nano Car",
+          "emoji": "🚗",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "O",
+          "word": "Ola Auto",
+          "emoji": "🛺",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "P",
+          "word": "Palkhi (Palanquin)",
+          "emoji": "👑",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Metro",
+          "emoji": "🚇",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "R",
+          "word": "Rajdhani Express",
+          "emoji": "🚂",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "S",
+          "word": "Shikara Boat",
+          "emoji": "🛶",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "T",
+          "word": "Tempo",
+          "emoji": "🚛",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "U",
+          "word": "Uber Auto",
+          "emoji": "🛺",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "V",
+          "word": "Vande Bharat Express",
+          "emoji": "🚄",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "W",
+          "word": "Water Taxi",
+          "emoji": "🚤",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "X",
+          "word": "X-press Highway Bus",
+          "emoji": "🚌",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Ambassador",
+          "emoji": "🚕",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoom Car",
+          "emoji": "🚗",
+          "bgColor": "#4169E1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsVehiclesBicycle1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Bicycles & Two Wheelers Part 1",
+          videoId: "vehicles-bicycle-1",
+          bgGradient: ["#11998E","#38EF7D"] as [string, string],
+          accentColor: "#1ABC9C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Adventure Bike",
+          "emoji": "🚲",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "B",
+          "word": "BMX Bike",
+          "emoji": "🚲",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "C",
+          "word": "City Cycle",
+          "emoji": "🚲",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "D",
+          "word": "Dirt Bike",
+          "emoji": "🏍️",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Scooter",
+          "emoji": "🛵",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "F",
+          "word": "Folding Bike",
+          "emoji": "🚲",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "G",
+          "word": "Gear Cycle",
+          "emoji": "🚲",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "H",
+          "word": "Harley Davidson",
+          "emoji": "🏍️",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Bike",
+          "emoji": "🏍️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "J",
+          "word": "Jawa Motorcycle",
+          "emoji": "🏍️",
+          "bgColor": "#8B0000"
+          },
+          {
+          "letter": "K",
+          "word": "Kids Bicycle",
+          "emoji": "🚲",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "L",
+          "word": "Luna Moped",
+          "emoji": "🛵",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "M",
+          "word": "Mountain Bike",
+          "emoji": "🚲",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "N",
+          "word": "Ninja Bike",
+          "emoji": "🏍️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "O",
+          "word": "Off-road Bike",
+          "emoji": "🏍️",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "P",
+          "word": "Pedal Cycle",
+          "emoji": "🚲",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "Q",
+          "word": "Quad Cycle",
+          "emoji": "🚲",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "R",
+          "word": "Racing Bike",
+          "emoji": "🏍️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "S",
+          "word": "Scooter",
+          "emoji": "🛵",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "T",
+          "word": "Tricycle",
+          "emoji": "🚲",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "U",
+          "word": "Unicycle",
+          "emoji": "🚲",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "V",
+          "word": "Vespa Scooter",
+          "emoji": "🛵",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "W",
+          "word": "Wheelie Bike",
+          "emoji": "🚲",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "X",
+          "word": "X-treme Bike",
+          "emoji": "🏍️",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "Y",
+          "word": "Yamaha Bike",
+          "emoji": "🏍️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "Z",
+          "word": "Zip Scooter",
+          "emoji": "🛵",
+          "bgColor": "#32CD32"
           }
           ],
           letterDuration: 3,
@@ -5256,6 +12256,881 @@ export const KidsLearningRemotionRoot: React.FC = () => {
         }}
       />
       <Composition
+        id="KidsScienceElectronics1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Electronic Devices Part 1",
+          videoId: "science-electronics-1",
+          bgGradient: ["#4B6CB7","#182848"] as [string, string],
+          accentColor: "#2980B9",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Air Conditioner",
+          "emoji": "❄️",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "B",
+          "word": "Bluetooth Speaker",
+          "emoji": "🔊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "C",
+          "word": "Computer",
+          "emoji": "💻",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "D",
+          "word": "Digital Camera",
+          "emoji": "📷",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Fan",
+          "emoji": "🌀",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "F",
+          "word": "Fridge",
+          "emoji": "🧊",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "G",
+          "word": "Gaming Console",
+          "emoji": "🎮",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "H",
+          "word": "Headphones",
+          "emoji": "🎧",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "I",
+          "word": "iPad",
+          "emoji": "📱",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "J",
+          "word": "Juicer",
+          "emoji": "🧃",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "K",
+          "word": "Kettle",
+          "emoji": "🫖",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "L",
+          "word": "Laptop",
+          "emoji": "💻",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "M",
+          "word": "Microwave",
+          "emoji": "📡",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "N",
+          "word": "Notebook Computer",
+          "emoji": "💻",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "O",
+          "word": "Oven",
+          "emoji": "🔥",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "P",
+          "word": "Printer",
+          "emoji": "🖨️",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "Q",
+          "word": "QR Scanner",
+          "emoji": "📱",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "R",
+          "word": "Robot Vacuum",
+          "emoji": "🤖",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "S",
+          "word": "Smartphone",
+          "emoji": "📱",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "T",
+          "word": "Television",
+          "emoji": "📺",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "U",
+          "word": "USB Drive",
+          "emoji": "💾",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "V",
+          "word": "Vacuum Cleaner",
+          "emoji": "🧹",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "W",
+          "word": "Washing Machine",
+          "emoji": "🫧",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "Xbox",
+          "emoji": "🎮",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Y",
+          "word": "YouTube Player",
+          "emoji": "📱",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoom Camera",
+          "emoji": "📷",
+          "bgColor": "#1C1C1C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsScienceEnergy1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Energy Sources Part 1",
+          videoId: "science-energy-1",
+          bgGradient: ["#F7971E","#FFD200"] as [string, string],
+          accentColor: "#F39C12",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Atom Energy",
+          "emoji": "⚛️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "B",
+          "word": "Biomass",
+          "emoji": "🌿",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "C",
+          "word": "Coal Power",
+          "emoji": "🪨",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "D",
+          "word": "Dam Energy",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Grid",
+          "emoji": "⚡",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "F",
+          "word": "Fossil Fuel",
+          "emoji": "🛢️",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "G",
+          "word": "Geothermal",
+          "emoji": "🌋",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "H",
+          "word": "Hydro Power",
+          "emoji": "💧",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "I",
+          "word": "ISRO Solar Panel",
+          "emoji": "☀️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "J",
+          "word": "Jet Fuel",
+          "emoji": "✈️",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "K",
+          "word": "Kinetic Energy",
+          "emoji": "🔄",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "L",
+          "word": "Lightning",
+          "emoji": "⚡",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "M",
+          "word": "Methane Gas",
+          "emoji": "💨",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "N",
+          "word": "Nuclear Power",
+          "emoji": "☢️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "O",
+          "word": "Oil Refinery",
+          "emoji": "🏭",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "P",
+          "word": "Petrol",
+          "emoji": "⛽",
+          "bgColor": "#FF4500"
+          },
+          {
+          "letter": "Q",
+          "word": "Quantum Energy",
+          "emoji": "⚛️",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "R",
+          "word": "Renewable Energy",
+          "emoji": "♻️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "S",
+          "word": "Solar Panel",
+          "emoji": "☀️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "T",
+          "word": "Tidal Energy",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "U",
+          "word": "Uranium",
+          "emoji": "☢️",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "V",
+          "word": "Voltage",
+          "emoji": "⚡",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "W",
+          "word": "Wind Turbine",
+          "emoji": "💨",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "X",
+          "word": "X-ray Energy",
+          "emoji": "🩻",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Sun Energy",
+          "emoji": "☀️",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Carbon",
+          "emoji": "🌍",
+          "bgColor": "#228B22"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsScienceColorsShapes1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Colors & Shapes Part 1",
+          videoId: "science-colors-shapes-1",
+          bgGradient: ["#FF6B6B","#FFE66D"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Aqua",
+          "emoji": "🟦",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "B",
+          "word": "Blue",
+          "emoji": "🔵",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "C",
+          "word": "Circle",
+          "emoji": "⭕",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "D",
+          "word": "Diamond Shape",
+          "emoji": "💎",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "E",
+          "word": "Ellipse",
+          "emoji": "🟠",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "F",
+          "word": "Fuchsia",
+          "emoji": "🟣",
+          "bgColor": "#FF00FF"
+          },
+          {
+          "letter": "G",
+          "word": "Green",
+          "emoji": "🟢",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "H",
+          "word": "Hexagon",
+          "emoji": "⬡",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🟣",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "J",
+          "word": "Jade Green",
+          "emoji": "🟢",
+          "bgColor": "#00A86B"
+          },
+          {
+          "letter": "K",
+          "word": "Khaki",
+          "emoji": "🟤",
+          "bgColor": "#C3B091"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender",
+          "emoji": "🟣",
+          "bgColor": "#E6E6FA"
+          },
+          {
+          "letter": "M",
+          "word": "Magenta",
+          "emoji": "🟣",
+          "bgColor": "#FF00FF"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Blue",
+          "emoji": "🔵",
+          "bgColor": "#000080"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🟠",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Pentagon",
+          "emoji": "⬟",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "Q",
+          "word": "Quadrilateral",
+          "emoji": "🟦",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "S",
+          "word": "Square",
+          "emoji": "🟧",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "T",
+          "word": "Triangle",
+          "emoji": "🔺",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "U",
+          "word": "Ultramarine",
+          "emoji": "🔵",
+          "bgColor": "#120A8F"
+          },
+          {
+          "letter": "V",
+          "word": "Violet",
+          "emoji": "🟣",
+          "bgColor": "#8B008B"
+          },
+          {
+          "letter": "W",
+          "word": "White",
+          "emoji": "⬜",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "X-shaped Cross",
+          "emoji": "❌",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow",
+          "emoji": "🟡",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zigzag Shape",
+          "emoji": "⚡",
+          "bgColor": "#FF6347"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsSportsIndoor1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indoor Sports & Games Part 1",
+          videoId: "sports-indoor-1",
+          bgGradient: ["#654EA3","#EAAFC8"] as [string, string],
+          accentColor: "#8E44AD",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Air Hockey",
+          "emoji": "🏒",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "B",
+          "word": "Badminton",
+          "emoji": "🏸",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "C",
+          "word": "Carrom",
+          "emoji": "🎯",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "D",
+          "word": "Darts",
+          "emoji": "🎯",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "E",
+          "word": "E-sports",
+          "emoji": "🎮",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "F",
+          "word": "Foosball",
+          "emoji": "⚽",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "G",
+          "word": "Gymnastics",
+          "emoji": "🤸",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "H",
+          "word": "Hide and Seek",
+          "emoji": "🙈",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "I",
+          "word": "Indoor Cricket",
+          "emoji": "🏏",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "J",
+          "word": "Jigsaw Puzzle",
+          "emoji": "🧩",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "K",
+          "word": "Karate",
+          "emoji": "🥋",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "L",
+          "word": "Ludo",
+          "emoji": "🎲",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "M",
+          "word": "Musical Chairs",
+          "emoji": "🪑",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "N",
+          "word": "Nine Pin Bowling",
+          "emoji": "🎳",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "O",
+          "word": "Obstacle Course",
+          "emoji": "🏃",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "P",
+          "word": "Pool (Billiards)",
+          "emoji": "🎱",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiz Game",
+          "emoji": "❓",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "R",
+          "word": "Ring Toss",
+          "emoji": "⭕",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "S",
+          "word": "Snakes & Ladders",
+          "emoji": "🐍",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "T",
+          "word": "Table Tennis",
+          "emoji": "🏓",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "U",
+          "word": "Uno Card Game",
+          "emoji": "🃏",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "V",
+          "word": "Video Games",
+          "emoji": "🎮",
+          "bgColor": "#4B0082"
+          },
+          {
+          "letter": "W",
+          "word": "Wii Sports",
+          "emoji": "🎮",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "X-box Gaming",
+          "emoji": "🎮",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Y",
+          "word": "Yoga Indoors",
+          "emoji": "🧘",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "Z",
+          "word": "Zen Chess",
+          "emoji": "♟️",
+          "bgColor": "#8B4513"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsSportsMartial1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Martial Arts Part 1",
+          videoId: "sports-martial-1",
+          bgGradient: ["#C0392B","#E74C3C"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Aikido",
+          "emoji": "🥋",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "B",
+          "word": "Boxing",
+          "emoji": "🥊",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "C",
+          "word": "Capoeira",
+          "emoji": "🤸",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "D",
+          "word": "Dragon Kung Fu",
+          "emoji": "🐉",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "E",
+          "word": "Eagle Claw",
+          "emoji": "🦅",
+          "bgColor": "#8B6914"
+          },
+          {
+          "letter": "F",
+          "word": "Fencing",
+          "emoji": "🤺",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "G",
+          "word": "Gatka",
+          "emoji": "⚔️",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "H",
+          "word": "Hapkido",
+          "emoji": "🥋",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Wrestling",
+          "emoji": "🤼",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "J",
+          "word": "Judo",
+          "emoji": "🥋",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "K",
+          "word": "Karate",
+          "emoji": "🥋",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "L",
+          "word": "Lathi Play",
+          "emoji": "🏏",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "M",
+          "word": "Muay Thai",
+          "emoji": "🥊",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "N",
+          "word": "Ninjutsu",
+          "emoji": "🥷",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "O",
+          "word": "Olympic Taekwondo",
+          "emoji": "🥋",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "P",
+          "word": "Pehlwani",
+          "emoji": "🤼",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "Q",
+          "word": "Qigong",
+          "emoji": "🧘",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "R",
+          "word": "Ring Fighting",
+          "emoji": "🥊",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "S",
+          "word": "Silambam",
+          "emoji": "🤺",
+          "bgColor": "#8B0000"
+          },
+          {
+          "letter": "T",
+          "word": "Taekwondo",
+          "emoji": "🥋",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "U",
+          "word": "UFC",
+          "emoji": "🥊",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "V",
+          "word": "Varma Kalai",
+          "emoji": "🥋",
+          "bgColor": "#8B0000"
+          },
+          {
+          "letter": "W",
+          "word": "Wing Chun",
+          "emoji": "🥋",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "X",
+          "word": "X-treme Fighting",
+          "emoji": "🥊",
+          "bgColor": "#FF0000"
+          },
+          {
+          "letter": "Y",
+          "word": "Yaw-Yan",
+          "emoji": "🥊",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "Z",
+          "word": "Zen Martial Art",
+          "emoji": "🥋",
+          "bgColor": "#F5F5F5"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
         id="KidsSportsOutdoor1"
         component={AlphabetShortsTemplate}
         durationInFrames={2520}
@@ -5773,6 +13648,881 @@ export const KidsLearningRemotionRoot: React.FC = () => {
           "word": "Zumba",
           "emoji": "💃",
           "bgColor": "#FF1493"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsGeographyMountains1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Mountains of India Part 1",
+          videoId: "geography-mountains-1",
+          bgGradient: ["#E0EAFC","#CFDEF3"] as [string, string],
+          accentColor: "#2980B9",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Aravalli Range",
+          "emoji": "🏔️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Mountains (Nilgiris)",
+          "emoji": "🏔️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "C",
+          "word": "Cardamom Hills",
+          "emoji": "🏔️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "D",
+          "word": "Dhauladhar Range",
+          "emoji": "🏔️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Eastern Ghats",
+          "emoji": "🏔️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "Foam Valley",
+          "emoji": "🏔️",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "G",
+          "word": "Great Himalayas",
+          "emoji": "🏔️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "H",
+          "word": "Himalaya Range",
+          "emoji": "🏔️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "I",
+          "word": "Indo-Gangetic Plains",
+          "emoji": "🌾",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "J",
+          "word": "Jawai Hills",
+          "emoji": "🏔️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "K",
+          "word": "Kanchenjunga",
+          "emoji": "🏔️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "L",
+          "word": "Ladakh Range",
+          "emoji": "🏔️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "M",
+          "word": "Mount Everest",
+          "emoji": "🏔️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "N",
+          "word": "Nanda Devi",
+          "emoji": "🏔️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "O",
+          "word": "Ooty Hills",
+          "emoji": "🏔️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "P",
+          "word": "Pir Panjal Range",
+          "emoji": "🏔️",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen of Hills (Mussoorie)",
+          "emoji": "🏔️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "R",
+          "word": "Rohtang Pass",
+          "emoji": "🏔️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "S",
+          "word": "Satpura Range",
+          "emoji": "🏔️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "T",
+          "word": "Thar Desert Hills",
+          "emoji": "🏜️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "U",
+          "word": "Udayagiri Hills",
+          "emoji": "🏔️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "V",
+          "word": "Vindhya Range",
+          "emoji": "🏔️",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "W",
+          "word": "Western Ghats",
+          "emoji": "🏔️",
+          "bgColor": "#006400"
+          },
+          {
+          "letter": "X",
+          "word": "Xeri Pass",
+          "emoji": "🏔️",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "Y",
+          "word": "Yamunotri Peak",
+          "emoji": "🏔️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "Z",
+          "word": "Zaskar Range",
+          "emoji": "🏔️",
+          "bgColor": "#DEB887"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsGeographyOceans1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Oceans & Seas Part 1",
+          videoId: "geography-oceans-1",
+          bgGradient: ["#0077B6","#00B4D8"] as [string, string],
+          accentColor: "#0077B6",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Arabian Sea",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "B",
+          "word": "Bay of Bengal",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "C",
+          "word": "Caribbean Sea",
+          "emoji": "🌊",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "D",
+          "word": "Dead Sea",
+          "emoji": "🌊",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "E",
+          "word": "East China Sea",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "F",
+          "word": "Fiji Sea",
+          "emoji": "🌊",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "G",
+          "word": "Gulf of Mexico",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "H",
+          "word": "Hudson Bay",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Ocean",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "J",
+          "word": "Java Sea",
+          "emoji": "🌊",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "K",
+          "word": "Kara Sea",
+          "emoji": "🌊",
+          "bgColor": "#E0FFFF"
+          },
+          {
+          "letter": "L",
+          "word": "Laccadive Sea",
+          "emoji": "🌊",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "M",
+          "word": "Mediterranean Sea",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "N",
+          "word": "North Sea",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "O",
+          "word": "Ocean Pacific",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "P",
+          "word": "Pacific Ocean",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "Q",
+          "word": "Qinghai Lake",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "R",
+          "word": "Red Sea",
+          "emoji": "🌊",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "S",
+          "word": "South China Sea",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "T",
+          "word": "Tasman Sea",
+          "emoji": "🌊",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "U",
+          "word": "Ural Sea",
+          "emoji": "🌊",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "V",
+          "word": "Vast Atlantic",
+          "emoji": "🌊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "W",
+          "word": "Weddell Sea",
+          "emoji": "🌊",
+          "bgColor": "#E0FFFF"
+          },
+          {
+          "letter": "X",
+          "word": "Xisha Islands Sea",
+          "emoji": "🌊",
+          "bgColor": "#00CED1"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Sea",
+          "emoji": "🌊",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Z",
+          "word": "Zuari River Estuary",
+          "emoji": "🌊",
+          "bgColor": "#2E8B57"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsMusicPercussion1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Percussion Instruments Part 1",
+          videoId: "music-percussion-1",
+          bgGradient: ["#C0392B","#E74C3C"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Agogo Bells",
+          "emoji": "🔔",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "B",
+          "word": "Bongo Drums",
+          "emoji": "🥁",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "C",
+          "word": "Cymbals",
+          "emoji": "🥁",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "D",
+          "word": "Djembe",
+          "emoji": "🥁",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Drums",
+          "emoji": "🥁",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "F",
+          "word": "Frame Drum",
+          "emoji": "🥁",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "G",
+          "word": "Gong",
+          "emoji": "🔔",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "H",
+          "word": "Hand Drum",
+          "emoji": "🥁",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Tabla",
+          "emoji": "🥁",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "J",
+          "word": "Jingle Bells",
+          "emoji": "🔔",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "K",
+          "word": "Kettle Drum",
+          "emoji": "🥁",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "L",
+          "word": "Log Drum",
+          "emoji": "🥁",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "M",
+          "word": "Maracas",
+          "emoji": "🎵",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "N",
+          "word": "Nagara",
+          "emoji": "🥁",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "O",
+          "word": "Ocean Drum",
+          "emoji": "🥁",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "P",
+          "word": "Pakhawaj",
+          "emoji": "🥁",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quinto Drum",
+          "emoji": "🥁",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "R",
+          "word": "Rain Stick",
+          "emoji": "🎵",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "S",
+          "word": "Snare Drum",
+          "emoji": "🥁",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "T",
+          "word": "Tambourine",
+          "emoji": "🎵",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "U",
+          "word": "Udu Drum",
+          "emoji": "🏺",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "V",
+          "word": "Vibraphone",
+          "emoji": "🎵",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "W",
+          "word": "Wood Block",
+          "emoji": "🪵",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "X",
+          "word": "Xylophone",
+          "emoji": "🎵",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "Y",
+          "word": "Yuka Drum",
+          "emoji": "🥁",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "Z",
+          "word": "Zills (Finger Cymbals)",
+          "emoji": "🔔",
+          "bgColor": "#FFD700"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsMusicFolk1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Folk Music Instruments Part 1",
+          videoId: "music-folk-1",
+          bgGradient: ["#FF9933","#138808"] as [string, string],
+          accentColor: "#FF6600",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Alghoza",
+          "emoji": "🎵",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "B",
+          "word": "Been (Snake Charmer)",
+          "emoji": "🐍",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "C",
+          "word": "Chimta",
+          "emoji": "🎵",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "D",
+          "word": "Damru",
+          "emoji": "🥁",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "E",
+          "word": "Ektara",
+          "emoji": "🎸",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "F",
+          "word": "Folk Flute",
+          "emoji": "🎵",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "G",
+          "word": "Ghungroo",
+          "emoji": "🔔",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "H",
+          "word": "Hurdy Gurdy",
+          "emoji": "🎵",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Folk Drum",
+          "emoji": "🥁",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "J",
+          "word": "Jaw Harp",
+          "emoji": "🎵",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "K",
+          "word": "Khartal",
+          "emoji": "🎵",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "L",
+          "word": "Lavani Drum",
+          "emoji": "🥁",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "M",
+          "word": "Morchang",
+          "emoji": "🎵",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "N",
+          "word": "Nagada",
+          "emoji": "🥁",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "O",
+          "word": "Ottu",
+          "emoji": "🎵",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "P",
+          "word": "Pungi",
+          "emoji": "🐍",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Q",
+          "word": "Qawwali Drum",
+          "emoji": "🥁",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "R",
+          "word": "Ravanhatha",
+          "emoji": "🎻",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "S",
+          "word": "Shehnai",
+          "emoji": "🎺",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "T",
+          "word": "Tumbi",
+          "emoji": "🎸",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "U",
+          "word": "Urumi Drum",
+          "emoji": "🥁",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "V",
+          "word": "Village Drum",
+          "emoji": "🥁",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "W",
+          "word": "Whistle Flute",
+          "emoji": "🎵",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "X",
+          "word": "Xalam",
+          "emoji": "🎸",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "Y",
+          "word": "Yazh",
+          "emoji": "🎸",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "Z",
+          "word": "Zither",
+          "emoji": "🎸",
+          "bgColor": "#8B4513"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsMusicKids1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Kids Music & Sounds Part 1",
+          videoId: "music-kids-1",
+          bgGradient: ["#FF6B6B","#FFE66D"] as [string, string],
+          accentColor: "#E74C3C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "ABC Song",
+          "emoji": "🎵",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "B",
+          "word": "Baby Rattle",
+          "emoji": "🎵",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "C",
+          "word": "Clapping",
+          "emoji": "👏",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "D",
+          "word": "Drum Set",
+          "emoji": "🥁",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "E",
+          "word": "Echo Sound",
+          "emoji": "🔊",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "F",
+          "word": "Finger Snapping",
+          "emoji": "🤌",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "G",
+          "word": "Guitar Strum",
+          "emoji": "🎸",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "H",
+          "word": "Humming",
+          "emoji": "🎵",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Nursery Rhyme",
+          "emoji": "🎶",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "J",
+          "word": "Jingle",
+          "emoji": "🔔",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "K",
+          "word": "Kazoo",
+          "emoji": "🎵",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "L",
+          "word": "Lullaby",
+          "emoji": "🎵",
+          "bgColor": "#E6E6FA"
+          },
+          {
+          "letter": "M",
+          "word": "Music Box",
+          "emoji": "🎵",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "N",
+          "word": "Nursery Rhyme",
+          "emoji": "🎶",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "O",
+          "word": "Old MacDonald Song",
+          "emoji": "🎵",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "P",
+          "word": "Piano Keys",
+          "emoji": "🎹",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiet Music",
+          "emoji": "🎵",
+          "bgColor": "#E6E6FA"
+          },
+          {
+          "letter": "R",
+          "word": "Rain Sound",
+          "emoji": "🌧️",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "S",
+          "word": "Singing",
+          "emoji": "🎤",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "T",
+          "word": "Toy Piano",
+          "emoji": "🎹",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "U",
+          "word": "Ukulele",
+          "emoji": "🪕",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "V",
+          "word": "Voice",
+          "emoji": "🎤",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "W",
+          "word": "Whistle",
+          "emoji": "🎵",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "X",
+          "word": "Xylophone",
+          "emoji": "🎵",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "Y",
+          "word": "Yelling Sound",
+          "emoji": "📢",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zither Sound",
+          "emoji": "🎸",
+          "bgColor": "#8B4513"
           }
           ],
           letterDuration: 3,
@@ -7172,6 +15922,1231 @@ export const KidsLearningRemotionRoot: React.FC = () => {
           "letter": "Z",
           "word": "Zarda Rice",
           "emoji": "🍚",
+          "bgColor": "#FFD700"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsProfessionsMedical1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Medical Professions Part 1",
+          videoId: "professions-medical-1",
+          bgGradient: ["#11998E","#38EF7D"] as [string, string],
+          accentColor: "#1ABC9C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Anaesthetist",
+          "emoji": "👨‍⚕️",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "B",
+          "word": "Blood Bank Tech",
+          "emoji": "🩸",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "C",
+          "word": "Cardiologist",
+          "emoji": "❤️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "D",
+          "word": "Dentist",
+          "emoji": "🦷",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "E",
+          "word": "ENT Specialist",
+          "emoji": "👂",
+          "bgColor": "#DEB887"
+          },
+          {
+          "letter": "F",
+          "word": "Family Doctor",
+          "emoji": "👨‍⚕️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "G",
+          "word": "General Surgeon",
+          "emoji": "👨‍⚕️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "H",
+          "word": "Heart Surgeon",
+          "emoji": "🫀",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "I",
+          "word": "ICU Nurse",
+          "emoji": "👩‍⚕️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "J",
+          "word": "Junior Doctor",
+          "emoji": "👨‍⚕️",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "K",
+          "word": "Kidney Specialist",
+          "emoji": "👨‍⚕️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "L",
+          "word": "Lab Technician",
+          "emoji": "🔬",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "M",
+          "word": "Midwife",
+          "emoji": "👩‍⚕️",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "N",
+          "word": "Neurologist",
+          "emoji": "🧠",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "O",
+          "word": "Ophthalmologist",
+          "emoji": "👁️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "P",
+          "word": "Pharmacist",
+          "emoji": "💊",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Q",
+          "word": "Quality Nurse",
+          "emoji": "👩‍⚕️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "R",
+          "word": "Radiologist",
+          "emoji": "🩻",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "S",
+          "word": "Surgeon",
+          "emoji": "👨‍⚕️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "T",
+          "word": "Therapist",
+          "emoji": "🧑‍⚕️",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "U",
+          "word": "Ultrasound Tech",
+          "emoji": "🩻",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "V",
+          "word": "Veterinarian",
+          "emoji": "🧑‍⚕️",
+          "bgColor": "#32CD32"
+          },
+          {
+          "letter": "W",
+          "word": "Ward Nurse",
+          "emoji": "👩‍⚕️",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "X-ray Doctor",
+          "emoji": "🩻",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "Y",
+          "word": "Yoga Therapist",
+          "emoji": "🧘",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoologist",
+          "emoji": "🧑‍🔬",
+          "bgColor": "#228B22"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsProfessionsCreative1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Creative Professions Part 1",
+          videoId: "professions-creative-1",
+          bgGradient: ["#ED4264","#FFEDBC"] as [string, string],
+          accentColor: "#C0392B",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Actor",
+          "emoji": "🎭",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "B",
+          "word": "Book Writer",
+          "emoji": "📚",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "C",
+          "word": "Choreographer",
+          "emoji": "💃",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "D",
+          "word": "Director",
+          "emoji": "🎬",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "E",
+          "word": "Editor",
+          "emoji": "✍️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "F",
+          "word": "Fashion Designer",
+          "emoji": "👗",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "G",
+          "word": "Graphic Designer",
+          "emoji": "🎨",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "H",
+          "word": "Hair Stylist",
+          "emoji": "💇",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "I",
+          "word": "Illustrator",
+          "emoji": "🖌️",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "J",
+          "word": "Journalist",
+          "emoji": "📰",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "K",
+          "word": "Knitter",
+          "emoji": "🧶",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "L",
+          "word": "Lyricist",
+          "emoji": "🎵",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "M",
+          "word": "Musician",
+          "emoji": "🎵",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "N",
+          "word": "Novelist",
+          "emoji": "📖",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "O",
+          "word": "Opera Singer",
+          "emoji": "🎤",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "P",
+          "word": "Photographer",
+          "emoji": "📷",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quilter",
+          "emoji": "🧵",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "R",
+          "word": "Radio Jockey",
+          "emoji": "📻",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "S",
+          "word": "Sculptor",
+          "emoji": "🗿",
+          "bgColor": "#696969"
+          },
+          {
+          "letter": "T",
+          "word": "Tattoo Artist",
+          "emoji": "🎨",
+          "bgColor": "#1C1C1C"
+          },
+          {
+          "letter": "U",
+          "word": "UI Artist",
+          "emoji": "🎨",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "V",
+          "word": "Voice Actor",
+          "emoji": "🎤",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "W",
+          "word": "Writer",
+          "emoji": "✍️",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "X",
+          "word": "Xerigrapher",
+          "emoji": "🖼️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "Y",
+          "word": "Yarn Artist",
+          "emoji": "🧶",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "Z",
+          "word": "Zen Artist",
+          "emoji": "🎨",
+          "bgColor": "#228B22"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsProfessionsDefense1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Defense & Armed Forces Part 1",
+          videoId: "professions-defense-1",
+          bgGradient: ["#2F4F4F","#556B2F"] as [string, string],
+          accentColor: "#2F4F4F",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Army Soldier",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "B",
+          "word": "Border Guard (BSF)",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "C",
+          "word": "Captain",
+          "emoji": "⚓",
+          "bgColor": "#000080"
+          },
+          {
+          "letter": "D",
+          "word": "Defense Scientist",
+          "emoji": "🧑‍🔬",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "E",
+          "word": "Engineer (Military)",
+          "emoji": "👷",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "F",
+          "word": "Fighter Pilot",
+          "emoji": "👨‍✈️",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "G",
+          "word": "General",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "H",
+          "word": "Helicopter Pilot",
+          "emoji": "🚁",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Air Force",
+          "emoji": "✈️",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "J",
+          "word": "Jawan (Soldier)",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "K",
+          "word": "K-9 Handler",
+          "emoji": "🐕",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "L",
+          "word": "Lieutenant",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "M",
+          "word": "Major",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Officer",
+          "emoji": "⚓",
+          "bgColor": "#000080"
+          },
+          {
+          "letter": "O",
+          "word": "Operations Commander",
+          "emoji": "🪖",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "P",
+          "word": "Paratrooper",
+          "emoji": "🪂",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quartermaster",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "R",
+          "word": "Rifleman",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "S",
+          "word": "Submarine Captain",
+          "emoji": "⚓",
+          "bgColor": "#000080"
+          },
+          {
+          "letter": "T",
+          "word": "Tank Commander",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "U",
+          "word": "UAV Operator",
+          "emoji": "🛸",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "V",
+          "word": "Vice Admiral",
+          "emoji": "⚓",
+          "bgColor": "#000080"
+          },
+          {
+          "letter": "W",
+          "word": "Wing Commander",
+          "emoji": "✈️",
+          "bgColor": "#87CEEB"
+          },
+          {
+          "letter": "X",
+          "word": "X-ray Analyst",
+          "emoji": "🩻",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "Y",
+          "word": "Yeoman",
+          "emoji": "🪖",
+          "bgColor": "#556B2F"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Fighter Pilot",
+          "emoji": "✈️",
+          "bgColor": "#4682B4"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsCultureClothing1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Clothing Part 1",
+          videoId: "culture-clothing-1",
+          bgGradient: ["#654EA3","#EAAFC8"] as [string, string],
+          accentColor: "#8E44AD",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Anarkali Suit",
+          "emoji": "👗",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "B",
+          "word": "Bandhani",
+          "emoji": "👗",
+          "bgColor": "#FF6347"
+          },
+          {
+          "letter": "C",
+          "word": "Churidar",
+          "emoji": "👗",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "D",
+          "word": "Dhoti",
+          "emoji": "👔",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Embroidered Kurta",
+          "emoji": "👔",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "F",
+          "word": "Frock",
+          "emoji": "👗",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "G",
+          "word": "Ghagra Choli",
+          "emoji": "👗",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "H",
+          "word": "Half Saree",
+          "emoji": "👗",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "I",
+          "word": "Indo-Western",
+          "emoji": "👔",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "J",
+          "word": "Jodhpuri Suit",
+          "emoji": "👔",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "K",
+          "word": "Kurta Pajama",
+          "emoji": "👔",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "L",
+          "word": "Lehenga",
+          "emoji": "👗",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "M",
+          "word": "Mekhela Chador",
+          "emoji": "👗",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "N",
+          "word": "Nehru Jacket",
+          "emoji": "👔",
+          "bgColor": "#2F4F4F"
+          },
+          {
+          "letter": "O",
+          "word": "Odhni",
+          "emoji": "🧣",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "P",
+          "word": "Pattu Pavadai",
+          "emoji": "👗",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Q",
+          "word": "Quilted Jacket",
+          "emoji": "🧥",
+          "bgColor": "#8B0000"
+          },
+          {
+          "letter": "R",
+          "word": "Rajasthani Turban",
+          "emoji": "👳",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "S",
+          "word": "Saree",
+          "emoji": "👗",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "T",
+          "word": "Topi (Cap)",
+          "emoji": "🧢",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "U",
+          "word": "Uttariya (Stole)",
+          "emoji": "🧣",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "V",
+          "word": "Vest (Bandi)",
+          "emoji": "🦺",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "W",
+          "word": "Wedding Sherwani",
+          "emoji": "👔",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "X",
+          "word": "X-tra Embroidered",
+          "emoji": "👗",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Silk Saree",
+          "emoji": "👗",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Z",
+          "word": "Zari Work",
+          "emoji": "✨",
+          "bgColor": "#FFD700"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsCultureLanguages1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Languages Part 1",
+          videoId: "culture-languages-1",
+          bgGradient: ["#FF9933","#138808"] as [string, string],
+          accentColor: "#FF6600",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Assamese",
+          "emoji": "🗣️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "B",
+          "word": "Bengali",
+          "emoji": "🗣️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "C",
+          "word": "Chhattisgarhi",
+          "emoji": "🗣️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "D",
+          "word": "Dogri",
+          "emoji": "🗣️",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "E",
+          "word": "English",
+          "emoji": "🗣️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "F",
+          "word": "French (Puducherry)",
+          "emoji": "🗣️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "G",
+          "word": "Gujarati",
+          "emoji": "🗣️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "H",
+          "word": "Hindi",
+          "emoji": "🗣️",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Sign Language",
+          "emoji": "🤟",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "J",
+          "word": "Javanese (Spoken)",
+          "emoji": "🗣️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "K",
+          "word": "Kannada",
+          "emoji": "🗣️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "L",
+          "word": "Ladakhi",
+          "emoji": "🗣️",
+          "bgColor": "#4682B4"
+          },
+          {
+          "letter": "M",
+          "word": "Malayalam",
+          "emoji": "🗣️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "N",
+          "word": "Nepali",
+          "emoji": "🗣️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "O",
+          "word": "Odia",
+          "emoji": "🗣️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "P",
+          "word": "Punjabi",
+          "emoji": "🗣️",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "Q",
+          "word": "Quechua (Tribal)",
+          "emoji": "🗣️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "R",
+          "word": "Rajasthani",
+          "emoji": "🗣️",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "S",
+          "word": "Sanskrit",
+          "emoji": "🗣️",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "T",
+          "word": "Tamil",
+          "emoji": "🗣️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "U",
+          "word": "Urdu",
+          "emoji": "🗣️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "V",
+          "word": "Vietnamese (Community)",
+          "emoji": "🗣️",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "W",
+          "word": "Written Scripts",
+          "emoji": "✍️",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "X",
+          "word": "Xhosa (Tribal)",
+          "emoji": "🗣️",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Y",
+          "word": "Yiddish (Community)",
+          "emoji": "🗣️",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "Z",
+          "word": "Zou (Tribal)",
+          "emoji": "🗣️",
+          "bgColor": "#228B22"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsCultureFreedomFighters1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Freedom Fighters Part 1",
+          videoId: "culture-freedom-fighters-1",
+          bgGradient: ["#FF9933","#FFFFFF"] as [string, string],
+          accentColor: "#FF6600",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Ashfaqulla Khan",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "B",
+          "word": "Bhagat Singh",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "C",
+          "word": "Chandrashekhar Azad",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "D",
+          "word": "Dadabhai Naoroji",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "E",
+          "word": "Ezhuthachan",
+          "emoji": "🇮🇳",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "Freedom Movement",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "G",
+          "word": "Gandhiji",
+          "emoji": "🇮🇳",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "H",
+          "word": "Har Dayal",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "I",
+          "word": "Indian National Congress",
+          "emoji": "🇮🇳",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "J",
+          "word": "Jawaharlal Nehru",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "K",
+          "word": "Kittur Rani Chennamma",
+          "emoji": "🇮🇳",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "L",
+          "word": "Lala Lajpat Rai",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "M",
+          "word": "Mangal Pandey",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "N",
+          "word": "Netaji Subhas Chandra Bose",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "O",
+          "word": "Our Freedom Heroes",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "P",
+          "word": "Pandit Nehru",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "Q",
+          "word": "Quit India Movement",
+          "emoji": "🇮🇳",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "R",
+          "word": "Rani Lakshmibai",
+          "emoji": "🇮🇳",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "S",
+          "word": "Sardar Patel",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "T",
+          "word": "Tilak",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "U",
+          "word": "Unity Leaders",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "V",
+          "word": "Veer Savarkar",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "W",
+          "word": "Women Freedom Fighters",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF69B4"
+          },
+          {
+          "letter": "X",
+          "word": "X-tra Brave Heroes",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "Y",
+          "word": "Young India Movement",
+          "emoji": "🇮🇳",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "Z",
+          "word": "Zeal for Freedom",
+          "emoji": "🇮🇳",
+          "bgColor": "#FF9933"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="KidsCultureTemples1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Famous Indian Temples Part 1",
+          videoId: "culture-temples-1",
+          bgGradient: ["#F2994A","#F2C94C"] as [string, string],
+          accentColor: "#E67E22",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Akshardham Temple",
+          "emoji": "🛕",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "B",
+          "word": "Badrinath Temple",
+          "emoji": "🛕",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "C",
+          "word": "Chidambaram Temple",
+          "emoji": "🛕",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "D",
+          "word": "Dwarkadhish Temple",
+          "emoji": "🛕",
+          "bgColor": "#4169E1"
+          },
+          {
+          "letter": "E",
+          "word": "Ekambareswarar Temple",
+          "emoji": "🛕",
+          "bgColor": "#228B22"
+          },
+          {
+          "letter": "F",
+          "word": "Famous Somnath",
+          "emoji": "🛕",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "G",
+          "word": "Golden Temple",
+          "emoji": "🛕",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "H",
+          "word": "Hampi Temple",
+          "emoji": "🛕",
+          "bgColor": "#CD853F"
+          },
+          {
+          "letter": "I",
+          "word": "ISKCON Temple",
+          "emoji": "🛕",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "J",
+          "word": "Jagannath Puri Temple",
+          "emoji": "🛕",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "K",
+          "word": "Kedarnath Temple",
+          "emoji": "🛕",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "L",
+          "word": "Lingaraj Temple",
+          "emoji": "🛕",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "M",
+          "word": "Meenakshi Temple",
+          "emoji": "🛕",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "N",
+          "word": "Nataraja Temple",
+          "emoji": "🛕",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "O",
+          "word": "Om Temple",
+          "emoji": "🕉️",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "P",
+          "word": "Padmanabhaswamy",
+          "emoji": "🛕",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiet Monastery",
+          "emoji": "🛕",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "R",
+          "word": "Ram Mandir Ayodhya",
+          "emoji": "🛕",
+          "bgColor": "#FF9933"
+          },
+          {
+          "letter": "S",
+          "word": "Sun Temple Konark",
+          "emoji": "🛕",
+          "bgColor": "#FF8C00"
+          },
+          {
+          "letter": "T",
+          "word": "Tirupati Balaji",
+          "emoji": "🛕",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "U",
+          "word": "Ujjain Mahakal",
+          "emoji": "🛕",
+          "bgColor": "#DAA520"
+          },
+          {
+          "letter": "V",
+          "word": "Vaishno Devi",
+          "emoji": "🛕",
+          "bgColor": "#DC143C"
+          },
+          {
+          "letter": "W",
+          "word": "White Marble Temples",
+          "emoji": "🛕",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "X",
+          "word": "Xavier Church Goa",
+          "emoji": "⛪",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "Y",
+          "word": "Yamunotri Temple",
+          "emoji": "🛕",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "Z",
+          "word": "Zen Buddhist Temple",
+          "emoji": "🛕",
           "bgColor": "#FFD700"
           }
           ],
