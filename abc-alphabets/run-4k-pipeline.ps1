@@ -228,12 +228,13 @@ for ($i = 0; $i -lt $Total; $i++) {
 
         $ErrorActionPreference = "Continue"
         $output = Invoke-Expression $cmd 2>&1
+        $exitCode = $LASTEXITCODE
         $ErrorActionPreference = "Stop"
 
         $elapsed = (Get-Date) - $videoStart
         $secs = [Math]::Round($elapsed.TotalSeconds)
 
-        if ($LASTEXITCODE -eq 0) {
+        if ($exitCode -eq 0 -and (Test-Path $OutputFile)) {
             $fileSizeBytes = (Get-Item $OutputFile).Length
             $fileSizeMB = [Math]::Round($fileSizeBytes / 1048576, 1)
             Write-Host (" DONE (" + $secs + "s, " + $fileSizeMB + "MB)") -ForegroundColor Green
@@ -242,10 +243,15 @@ for ($i = 0; $i -lt $Total; $i++) {
             $doneLine = "[" + $doneTime + "] DONE " + $serialStr + " (" + $secs + "s, " + $fileSizeMB + "MB)"
             $doneLine | Out-File $LogFile -Append
         } else {
+            # Show the actual error so we can debug
             Write-Host " FAILED" -ForegroundColor Red
+            $outputStr = $output | Out-String
+            if ($outputStr.Length -gt 0) {
+                Write-Host ("    ERROR: " + $outputStr.Substring(0, [Math]::Min(500, $outputStr.Length))) -ForegroundColor DarkRed
+            }
             $Failed++
             $failTime = Get-Date -Format "HH:mm:ss"
-            $failLine = "[" + $failTime + "] FAILED " + $serialStr
+            $failLine = "[" + $failTime + "] FAILED " + $serialStr + " : " + $outputStr
             $failLine | Out-File $LogFile -Append
         }
     } catch {
