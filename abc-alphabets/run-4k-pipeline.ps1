@@ -220,7 +220,7 @@ for ($i = 0; $i -lt $Total; $i++) {
 
     try {
         # Build render command string
-        $cmd = "npx remotion render src/index.ts " + $CompId + " `"" + $OutputFile + "`" --concurrency=" + $CONCURRENCY + " --log=error --crf=" + $QUALITY_CRF + " --codec=" + $QUALITY_CODEC + " --pixel-format=yuv420p --video-bitrate=" + $QUALITY_BITRATE
+        $cmd = "npx remotion render src/index.ts " + $CompId + " `"" + $OutputFile + "`" --concurrency=" + $CONCURRENCY + " --log=verbose --codec=" + $QUALITY_CODEC + " --pixel-format=yuv420p --crf=" + $QUALITY_CRF
 
         if ($QUALITY_SCALE -gt 1) {
             $cmd = $cmd + " --scale=" + $QUALITY_SCALE
