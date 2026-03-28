@@ -1,25 +1,88 @@
 [
   {
     "id": "hindi-swar-fruits",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0938\u094d\u0935\u0930 - \u092b\u0932",
+    "title": "हिंदी स्वर - फल",
     "category": "hindi-swar",
-    "bgGradient": ["#FF9933", "#FFD700"],
+    "bgGradient": [
+      "#FF9933",
+      "#FFD700"
+    ],
     "accentColor": "#FF6600",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u0906\u0913 \u0938\u0940\u0916\u0947\u0902!",
+    "connectorWord": "से",
+    "subtitleText": "आओ सीखें!",
     "items": [
-      {"letter": "\u0905", "word": "\u0905\u0928\u093e\u0930", "emoji": "\ud83c\udf4e", "bgColor": "#DC143C"},
-      {"letter": "\u0906", "word": "\u0906\u092e", "emoji": "\ud83e\udd6d", "bgColor": "#FF8C00"},
-      {"letter": "\u0907", "word": "\u0907\u092e\u0932\u0940", "emoji": "\ud83c\udf4b", "bgColor": "#8B4513"},
-      {"letter": "\u0908", "word": "\u0908\u0916", "emoji": "\ud83c\udf38", "bgColor": "#228B22"},
-      {"letter": "\u0909", "word": "\u0909\u0932\u094d\u0932\u0942", "emoji": "\ud83e\udd89", "bgColor": "#8B4513"},
-      {"letter": "\u090a", "word": "\u090a\u0928", "emoji": "\ud83c\udfb5", "bgColor": "#4169E1"},
-      {"letter": "\u090f", "word": "\u090f\u0915\u0924\u093e\u0930\u093e", "emoji": "\ud83c\udfb8", "bgColor": "#8B4513"},
-      {"letter": "\u0910", "word": "\u0910\u0928\u0915", "emoji": "\ud83d\udc53", "bgColor": "#2F4F4F"},
-      {"letter": "\u0913", "word": "\u0913\u0938", "emoji": "\ud83d\udca7", "bgColor": "#4682B4"},
-      {"letter": "\u0914", "word": "\u0914\u0930\u0924", "emoji": "\ud83d\udc8a", "bgColor": "#DC143C"},
-      {"letter": "\u0905\u0902", "word": "\u0905\u0902\u0917\u0942\u0930", "emoji": "\ud83c\udf47", "bgColor": "#800080"},
-      {"letter": "\u0905\u0903", "word": "\u0905\u0903 (\u0935\u093f\u0938\u0930\u094d\u0917)", "emoji": "\ud83d\udcab", "bgColor": "#FFD700"}
+      {
+        "letter": "अ",
+        "word": "अनार",
+        "emoji": "🍎",
+        "bgColor": "#DC143C"
+      },
+      {
+        "letter": "आ",
+        "word": "आम",
+        "emoji": "🥭",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "इ",
+        "word": "इमली",
+        "emoji": "🍋",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "ई",
+        "word": "ईख",
+        "emoji": "🌸",
+        "bgColor": "#228B22"
+      },
+      {
+        "letter": "उ",
+        "word": "उल्लू",
+        "emoji": "🦉",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "ऊ",
+        "word": "ऊन",
+        "emoji": "🎵",
+        "bgColor": "#4169E1"
+      },
+      {
+        "letter": "ए",
+        "word": "एकतारा",
+        "emoji": "🎸",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "ऐ",
+        "word": "ऐनक",
+        "emoji": "👓",
+        "bgColor": "#2F4F4F"
+      },
+      {
+        "letter": "ओ",
+        "word": "ओस",
+        "emoji": "💧",
+        "bgColor": "#4682B4"
+      },
+      {
+        "letter": "औ",
+        "word": "औरत",
+        "emoji": "💊",
+        "bgColor": "#DC143C"
+      },
+      {
+        "letter": "अं",
+        "word": "अंगूर",
+        "emoji": "🍇",
+        "bgColor": "#800080"
+      },
+      {
+        "letter": "अः",
+        "word": "अः (विसर्ग)",
+        "emoji": "💫",
+        "bgColor": "#FFD700"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
@@ -27,28 +90,106 @@
   },
   {
     "id": "hindi-vyanjan-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0935\u094d\u092f\u0902\u091c\u0928 - \u092d\u093e\u0917 1",
+    "title": "हिंदी व्यंजन - भाग 1",
     "category": "hindi-vyanjan",
-    "bgGradient": ["#FF6B6B", "#FFE66D"],
+    "bgGradient": [
+      "#FF6B6B",
+      "#FFE66D"
+    ],
     "accentColor": "#E74C3C",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u0906\u0913 \u0938\u0940\u0916\u0947\u0902!",
+    "connectorWord": "से",
+    "subtitleText": "आओ सीखें!",
     "items": [
-      {"letter": "\u0915", "word": "\u0915\u092c\u0942\u0924\u0930", "emoji": "\ud83d\udc26", "bgColor": "#808080"},
-      {"letter": "\u0916", "word": "\u0916\u0930\u0917\u094b\u0936", "emoji": "\ud83d\udc30", "bgColor": "#F5F5F5"},
-      {"letter": "\u0917", "word": "\u0917\u093e\u092f", "emoji": "\ud83d\udc04", "bgColor": "#F5DEB3"},
-      {"letter": "\u0918", "word": "\u0918\u0921\u093c\u0940", "emoji": "\u231a", "bgColor": "#C0C0C0"},
-      {"letter": "\u0919", "word": "\u0919 (\u0905\u0902\u0917)", "emoji": "\ud83d\udcab", "bgColor": "#FFD700"},
-      {"letter": "\u091a", "word": "\u091a\u092e\u094d\u092e\u091a", "emoji": "\ud83e\udea4", "bgColor": "#DEB887"},
-      {"letter": "\u091b", "word": "\u091b\u0924\u0930\u0940", "emoji": "\u2602\ufe0f", "bgColor": "#4169E1"},
-      {"letter": "\u091c", "word": "\u091c\u0939\u093e\u091c\u093c", "emoji": "\u2708\ufe0f", "bgColor": "#4682B4"},
-      {"letter": "\u091d", "word": "\u091d\u0930\u0928\u093e", "emoji": "\ud83c\udf0a", "bgColor": "#00CED1"},
-      {"letter": "\u091e", "word": "\u091e\u093e\u0928", "emoji": "\ud83d\udcda", "bgColor": "#8B4513"},
-      {"letter": "\u091f", "word": "\u091f\u092e\u093e\u091f\u0930", "emoji": "\ud83c\udf45", "bgColor": "#FF0000"},
-      {"letter": "\u0920", "word": "\u0920\u0947\u0932\u093e", "emoji": "\ud83d\ude8e", "bgColor": "#4682B4"},
-      {"letter": "\u0921", "word": "\u0921\u092e\u0930\u0942", "emoji": "\ud83e\udd41", "bgColor": "#8B4513"},
-      {"letter": "\u0922", "word": "\u0922\u094b\u0932\u0915", "emoji": "\ud83e\udd41", "bgColor": "#CD853F"},
-      {"letter": "\u0923", "word": "\u0923 (\u092e\u0942\u0930\u094d\u0927\u0928\u094d\u092f)", "emoji": "\ud83d\udcab", "bgColor": "#FFD700"}
+      {
+        "letter": "क",
+        "word": "कबूतर",
+        "emoji": "🐦",
+        "bgColor": "#808080"
+      },
+      {
+        "letter": "ख",
+        "word": "खरगोश",
+        "emoji": "🐰",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "ग",
+        "word": "गाय",
+        "emoji": "🐄",
+        "bgColor": "#F5DEB3"
+      },
+      {
+        "letter": "घ",
+        "word": "घड़ी",
+        "emoji": "⌚",
+        "bgColor": "#C0C0C0"
+      },
+      {
+        "letter": "ङ",
+        "word": "ङ (अंग)",
+        "emoji": "💫",
+        "bgColor": "#FFD700"
+      },
+      {
+        "letter": "च",
+        "word": "चम्मच",
+        "emoji": "🪤",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "छ",
+        "word": "छतरी",
+        "emoji": "☂️",
+        "bgColor": "#4169E1"
+      },
+      {
+        "letter": "ज",
+        "word": "जहाज़",
+        "emoji": "✈️",
+        "bgColor": "#4682B4"
+      },
+      {
+        "letter": "झ",
+        "word": "झरना",
+        "emoji": "🌊",
+        "bgColor": "#00CED1"
+      },
+      {
+        "letter": "ञ",
+        "word": "ञान",
+        "emoji": "📚",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "ट",
+        "word": "टमाटर",
+        "emoji": "🍅",
+        "bgColor": "#FF0000"
+      },
+      {
+        "letter": "ठ",
+        "word": "ठेला",
+        "emoji": "🚎",
+        "bgColor": "#4682B4"
+      },
+      {
+        "letter": "ड",
+        "word": "डमरू",
+        "emoji": "🥁",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "ढ",
+        "word": "ढोलक",
+        "emoji": "🥁",
+        "bgColor": "#CD853F"
+      },
+      {
+        "letter": "ण",
+        "word": "ण (मूर्धन्य)",
+        "emoji": "💫",
+        "bgColor": "#FFD700"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
@@ -56,27 +197,100 @@
   },
   {
     "id": "hindi-vyanjan-2",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0935\u094d\u092f\u0902\u091c\u0928 - \u092d\u093e\u0917 2",
+    "title": "हिंदी व्यंजन - भाग 2",
     "category": "hindi-vyanjan",
-    "bgGradient": ["#56AB2F", "#A8E063"],
+    "bgGradient": [
+      "#56AB2F",
+      "#A8E063"
+    ],
     "accentColor": "#27AE60",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u0906\u0913 \u0938\u0940\u0916\u0947\u0902!",
+    "connectorWord": "से",
+    "subtitleText": "आओ सीखें!",
     "items": [
-      {"letter": "\u0924", "word": "\u0924\u094b\u0924\u093e", "emoji": "\ud83e\udd9c", "bgColor": "#32CD32"},
-      {"letter": "\u0925", "word": "\u0925\u0948\u0932\u0940", "emoji": "\ud83d\udc5c", "bgColor": "#FF69B4"},
-      {"letter": "\u0926", "word": "\u0926\u0930\u0935\u093e\u091c\u093c\u093e", "emoji": "\ud83d\udeaa", "bgColor": "#8B4513"},
-      {"letter": "\u0927", "word": "\u0927\u0928\u0941\u0937", "emoji": "\ud83c\udff9", "bgColor": "#DAA520"},
-      {"letter": "\u0928", "word": "\u0928\u0932", "emoji": "\ud83d\udeb0", "bgColor": "#4682B4"},
-      {"letter": "\u092a", "word": "\u092a\u0924\u0902\u0917", "emoji": "\ud83e\ude81", "bgColor": "#FF6347"},
-      {"letter": "\u092b", "word": "\u092b\u0942\u0932", "emoji": "\ud83c\udf3a", "bgColor": "#FF69B4"},
-      {"letter": "\u092c", "word": "\u092c\u0902\u0926\u0930", "emoji": "\ud83d\udc12", "bgColor": "#8B4513"},
-      {"letter": "\u092d", "word": "\u092d\u093e\u0932\u0942", "emoji": "\ud83d\udc3b", "bgColor": "#8B4513"},
-      {"letter": "\u092e", "word": "\u092e\u094b\u0930", "emoji": "\ud83e\udd9a", "bgColor": "#228B22"},
-      {"letter": "\u092f", "word": "\u092f\u093e\u0915", "emoji": "\ud83d\udc02", "bgColor": "#4A2C2A"},
-      {"letter": "\u0930", "word": "\u0930\u093e\u091c\u093e", "emoji": "\ud83e\udd34", "bgColor": "#FFD700"},
-      {"letter": "\u0932", "word": "\u0932\u0921\u094d\u0921\u0942", "emoji": "\ud83c\udf6c", "bgColor": "#FFD700"},
-      {"letter": "\u0935", "word": "\u0935\u093e\u092f\u0941\u092f\u093e\u0928", "emoji": "\u2708\ufe0f", "bgColor": "#87CEEB"}
+      {
+        "letter": "त",
+        "word": "तोता",
+        "emoji": "🦜",
+        "bgColor": "#32CD32"
+      },
+      {
+        "letter": "थ",
+        "word": "थैली",
+        "emoji": "👜",
+        "bgColor": "#FF69B4"
+      },
+      {
+        "letter": "द",
+        "word": "दरवाज़ा",
+        "emoji": "🚪",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "ध",
+        "word": "धनुष",
+        "emoji": "🏹",
+        "bgColor": "#DAA520"
+      },
+      {
+        "letter": "न",
+        "word": "नल",
+        "emoji": "🚰",
+        "bgColor": "#4682B4"
+      },
+      {
+        "letter": "प",
+        "word": "पतंग",
+        "emoji": "🪁",
+        "bgColor": "#FF6347"
+      },
+      {
+        "letter": "फ",
+        "word": "फूल",
+        "emoji": "🌺",
+        "bgColor": "#FF69B4"
+      },
+      {
+        "letter": "ब",
+        "word": "बंदर",
+        "emoji": "🐒",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "भ",
+        "word": "भालू",
+        "emoji": "🐻",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "म",
+        "word": "मोर",
+        "emoji": "🦚",
+        "bgColor": "#228B22"
+      },
+      {
+        "letter": "य",
+        "word": "याक",
+        "emoji": "🐂",
+        "bgColor": "#4A2C2A"
+      },
+      {
+        "letter": "र",
+        "word": "राजा",
+        "emoji": "🤴",
+        "bgColor": "#FFD700"
+      },
+      {
+        "letter": "ल",
+        "word": "लड्डू",
+        "emoji": "🍬",
+        "bgColor": "#FFD700"
+      },
+      {
+        "letter": "व",
+        "word": "वायुयान",
+        "emoji": "✈️",
+        "bgColor": "#87CEEB"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
@@ -84,21 +298,64 @@
   },
   {
     "id": "hindi-vyanjan-3",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0935\u094d\u092f\u0902\u091c\u0928 - \u092d\u093e\u0917 3",
+    "title": "हिंदी व्यंजन - भाग 3",
     "category": "hindi-vyanjan",
-    "bgGradient": ["#654EA3", "#EAAFC8"],
+    "bgGradient": [
+      "#654EA3",
+      "#EAAFC8"
+    ],
     "accentColor": "#8E44AD",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u0906\u0913 \u0938\u0940\u0916\u0947\u0902!",
+    "connectorWord": "से",
+    "subtitleText": "आओ सीखें!",
     "items": [
-      {"letter": "\u0936", "word": "\u0936\u0947\u0930", "emoji": "\ud83e\udd81", "bgColor": "#FF8C00"},
-      {"letter": "\u0937", "word": "\u0937\u091f\u094d\u0915\u094b\u0923", "emoji": "\u2b21", "bgColor": "#4169E1"},
-      {"letter": "\u0938", "word": "\u0938\u0947\u092c", "emoji": "\ud83c\udf4e", "bgColor": "#DC143C"},
-      {"letter": "\u0939", "word": "\u0939\u093e\u0925\u0940", "emoji": "\ud83d\udc18", "bgColor": "#708090"},
-      {"letter": "\u0915\u094d\u0937", "word": "\u0915\u094d\u0937\u0924\u094d\u0930\u093f\u092f", "emoji": "\u2694\ufe0f", "bgColor": "#C0C0C0"},
-      {"letter": "\u0924\u094d\u0930", "word": "\u0924\u094d\u0930\u093f\u0936\u0942\u0932", "emoji": "\ud83d\udd31", "bgColor": "#4169E1"},
-      {"letter": "\u091c\u094d\u091e", "word": "\u091c\u094d\u091e\u093e\u0928", "emoji": "\ud83d\udcda", "bgColor": "#8B4513"},
-      {"letter": "\u0936\u094d\u0930", "word": "\u0936\u094d\u0930\u0940\u092e\u093e\u0928", "emoji": "\ud83d\ude4f", "bgColor": "#FFD700"}
+      {
+        "letter": "श",
+        "word": "शेर",
+        "emoji": "🦁",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "ष",
+        "word": "षट्कोण",
+        "emoji": "⬡",
+        "bgColor": "#4169E1"
+      },
+      {
+        "letter": "स",
+        "word": "सेब",
+        "emoji": "🍎",
+        "bgColor": "#DC143C"
+      },
+      {
+        "letter": "ह",
+        "word": "हाथी",
+        "emoji": "🐘",
+        "bgColor": "#708090"
+      },
+      {
+        "letter": "क्ष",
+        "word": "क्षत्रिय",
+        "emoji": "⚔️",
+        "bgColor": "#C0C0C0"
+      },
+      {
+        "letter": "त्र",
+        "word": "त्रिशूल",
+        "emoji": "🔱",
+        "bgColor": "#4169E1"
+      },
+      {
+        "letter": "ज्ञ",
+        "word": "ज्ञान",
+        "emoji": "📚",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "श्र",
+        "word": "श्रीमान",
+        "emoji": "🙏",
+        "bgColor": "#FFD700"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
@@ -106,29 +363,112 @@
   },
   {
     "id": "hindi-fruits-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u092b\u0932\u094b\u0902 \u0915\u0947 \u0928\u093e\u092e",
+    "title": "हिंदी फलों के नाम",
     "category": "hindi-fruits",
-    "bgGradient": ["#F7971E", "#FFD200"],
+    "bgGradient": [
+      "#F7971E",
+      "#FFD200"
+    ],
     "accentColor": "#F39C12",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u092b\u0932 \u0938\u0940\u0916\u094b!",
+    "connectorWord": "से",
+    "subtitleText": "फल सीखो!",
     "items": [
-      {"letter": "\u0905", "word": "\u0905\u0928\u093e\u0930", "emoji": "\ud83c\udf4e", "bgColor": "#DC143C"},
-      {"letter": "\u0906", "word": "\u0906\u092e", "emoji": "\ud83e\udd6d", "bgColor": "#FF8C00"},
-      {"letter": "\u0907", "word": "\u0907\u092e\u0932\u0940", "emoji": "\ud83c\udf4b", "bgColor": "#8B4513"},
-      {"letter": "\u0915", "word": "\u0915\u0947\u0932\u093e", "emoji": "\ud83c\udf4c", "bgColor": "#FFD700"},
-      {"letter": "\u0916", "word": "\u0916\u0930\u092c\u0942\u091c\u093e", "emoji": "\ud83c\udf48", "bgColor": "#F4A460"},
-      {"letter": "\u0917", "word": "\u0917\u0928\u094d\u0928\u093e", "emoji": "\ud83c\udf36\ufe0f", "bgColor": "#228B22"},
-      {"letter": "\u091a", "word": "\u091a\u0940\u0915\u0942", "emoji": "\ud83c\udf48", "bgColor": "#8B4513"},
-      {"letter": "\u091c", "word": "\u091c\u093e\u092e\u0941\u0928", "emoji": "\ud83e\uded0", "bgColor": "#191970"},
-      {"letter": "\u0924", "word": "\u0924\u0930\u092c\u0942\u091c\u093c", "emoji": "\ud83c\udf49", "bgColor": "#FF6347"},
-      {"letter": "\u0928", "word": "\u0928\u093e\u0930\u093f\u092f\u0932", "emoji": "\ud83c\udf4a", "bgColor": "#FF8C00"},
-      {"letter": "\u092a", "word": "\u092a\u092a\u0940\u0924\u093e", "emoji": "\ud83c\udf48", "bgColor": "#FF6347"},
-      {"letter": "\u092c", "word": "\u092c\u0947\u0930", "emoji": "\ud83c\udf52", "bgColor": "#8B0000"},
-      {"letter": "\u092e", "word": "\u092e\u094c\u0938\u092e\u0940", "emoji": "\ud83c\udf48", "bgColor": "#F4A460"},
-      {"letter": "\u0932", "word": "\u0932\u0940\u091a\u0940", "emoji": "\ud83c\udf52", "bgColor": "#FF6347"},
-      {"letter": "\u0938", "word": "\u0938\u0902\u0924\u0930\u093e", "emoji": "\ud83c\udf4a", "bgColor": "#FF8C00"},
-      {"letter": "\u0905\u0902", "word": "\u0905\u0902\u0917\u0942\u0930", "emoji": "\ud83c\udf47", "bgColor": "#800080"}
+      {
+        "letter": "अ",
+        "word": "अनार",
+        "emoji": "🍎",
+        "bgColor": "#DC143C"
+      },
+      {
+        "letter": "आ",
+        "word": "आम",
+        "emoji": "🥭",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "इ",
+        "word": "इमली",
+        "emoji": "🍋",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "क",
+        "word": "केला",
+        "emoji": "🍌",
+        "bgColor": "#FFD700"
+      },
+      {
+        "letter": "ख",
+        "word": "खरबूजा",
+        "emoji": "🍈",
+        "bgColor": "#F4A460"
+      },
+      {
+        "letter": "ग",
+        "word": "गन्ना",
+        "emoji": "🌶️",
+        "bgColor": "#228B22"
+      },
+      {
+        "letter": "च",
+        "word": "चीकू",
+        "emoji": "🍈",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "ज",
+        "word": "जामुन",
+        "emoji": "🫐",
+        "bgColor": "#191970"
+      },
+      {
+        "letter": "त",
+        "word": "तरबूज़",
+        "emoji": "🍉",
+        "bgColor": "#FF6347"
+      },
+      {
+        "letter": "न",
+        "word": "नारियल",
+        "emoji": "🍊",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "प",
+        "word": "पपीता",
+        "emoji": "🍈",
+        "bgColor": "#FF6347"
+      },
+      {
+        "letter": "ब",
+        "word": "बेर",
+        "emoji": "🍒",
+        "bgColor": "#8B0000"
+      },
+      {
+        "letter": "म",
+        "word": "मौसमी",
+        "emoji": "🍈",
+        "bgColor": "#F4A460"
+      },
+      {
+        "letter": "ल",
+        "word": "लीची",
+        "emoji": "🍒",
+        "bgColor": "#FF6347"
+      },
+      {
+        "letter": "स",
+        "word": "संतरा",
+        "emoji": "🍊",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "अं",
+        "word": "अंगूर",
+        "emoji": "🍇",
+        "bgColor": "#800080"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
@@ -136,28 +476,106 @@
   },
   {
     "id": "hindi-animals-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u091c\u093e\u0928\u0935\u0930\u094b\u0902 \u0915\u0947 \u0928\u093e\u092e",
+    "title": "हिंदी जानवरों के नाम",
     "category": "hindi-animals",
-    "bgGradient": ["#134E5E", "#71B280"],
+    "bgGradient": [
+      "#134E5E",
+      "#71B280"
+    ],
     "accentColor": "#1B5E20",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u091c\u093e\u0928\u0935\u0930 \u0938\u0940\u0916\u094b!",
+    "connectorWord": "से",
+    "subtitleText": "जानवर सीखो!",
     "items": [
-      {"letter": "\u0915", "word": "\u0915\u0941\u0924\u094d\u0924\u093e", "emoji": "\ud83d\udc36", "bgColor": "#DAA520"},
-      {"letter": "\u0916", "word": "\u0916\u0930\u0917\u094b\u0936", "emoji": "\ud83d\udc30", "bgColor": "#F5F5F5"},
-      {"letter": "\u0917", "word": "\u0917\u093e\u092f", "emoji": "\ud83d\udc04", "bgColor": "#F5DEB3"},
-      {"letter": "\u0918", "word": "\u0918\u094b\u0921\u093c\u093e", "emoji": "\ud83d\udc0e", "bgColor": "#8B4513"},
-      {"letter": "\u091a", "word": "\u091a\u0940\u0924\u093e", "emoji": "\ud83e\udd8c", "bgColor": "#CD853F"},
-      {"letter": "\u091c", "word": "\u091c\u093f\u0930\u093e\u092b\u093c", "emoji": "\ud83e\udd92", "bgColor": "#F4A460"},
-      {"letter": "\u0924", "word": "\u0924\u094b\u0924\u093e", "emoji": "\ud83e\udd9c", "bgColor": "#32CD32"},
-      {"letter": "\u092c", "word": "\u092c\u093f\u0932\u094d\u0932\u0940", "emoji": "\ud83d\udc31", "bgColor": "#FF8C00"},
-      {"letter": "\u092d", "word": "\u092d\u093e\u0932\u0942", "emoji": "\ud83d\udc3b", "bgColor": "#8B4513"},
-      {"letter": "\u092e", "word": "\u092e\u094b\u0930", "emoji": "\ud83e\udd9a", "bgColor": "#006400"},
-      {"letter": "\u0936", "word": "\u0936\u0947\u0930", "emoji": "\ud83e\udd81", "bgColor": "#FF8C00"},
-      {"letter": "\u0938", "word": "\u0938\u093e\u0901\u092a", "emoji": "\ud83d\udc0d", "bgColor": "#228B22"},
-      {"letter": "\u0939", "word": "\u0939\u093e\u0925\u0940", "emoji": "\ud83d\udc18", "bgColor": "#708090"},
-      {"letter": "\u092c\u0902", "word": "\u092c\u0902\u0926\u0930", "emoji": "\ud83d\udc12", "bgColor": "#8B6914"},
-      {"letter": "\u092e\u094b", "word": "\u092e\u094b\u0930\u0917\u0940", "emoji": "\ud83d\udc14", "bgColor": "#DC143C"}
+      {
+        "letter": "क",
+        "word": "कुत्ता",
+        "emoji": "🐶",
+        "bgColor": "#DAA520"
+      },
+      {
+        "letter": "ख",
+        "word": "खरगोश",
+        "emoji": "🐰",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "ग",
+        "word": "गाय",
+        "emoji": "🐄",
+        "bgColor": "#F5DEB3"
+      },
+      {
+        "letter": "घ",
+        "word": "घोड़ा",
+        "emoji": "🐎",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "च",
+        "word": "चीता",
+        "emoji": "🦌",
+        "bgColor": "#CD853F"
+      },
+      {
+        "letter": "ज",
+        "word": "जिराफ़",
+        "emoji": "🦒",
+        "bgColor": "#F4A460"
+      },
+      {
+        "letter": "त",
+        "word": "तोता",
+        "emoji": "🦜",
+        "bgColor": "#32CD32"
+      },
+      {
+        "letter": "ब",
+        "word": "बिल्ली",
+        "emoji": "🐱",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "भ",
+        "word": "भालू",
+        "emoji": "🐻",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "म",
+        "word": "मोर",
+        "emoji": "🦚",
+        "bgColor": "#006400"
+      },
+      {
+        "letter": "श",
+        "word": "शेर",
+        "emoji": "🦁",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "स",
+        "word": "साँप",
+        "emoji": "🐍",
+        "bgColor": "#228B22"
+      },
+      {
+        "letter": "ह",
+        "word": "हाथी",
+        "emoji": "🐘",
+        "bgColor": "#708090"
+      },
+      {
+        "letter": "बं",
+        "word": "बंदर",
+        "emoji": "🐒",
+        "bgColor": "#8B6914"
+      },
+      {
+        "letter": "मो",
+        "word": "मोरगी",
+        "emoji": "🐔",
+        "bgColor": "#DC143C"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
@@ -165,28 +583,106 @@
   },
   {
     "id": "hindi-vegetables-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0938\u092c\u094d\u091c\u093f\u092f\u094b\u0902 \u0915\u0947 \u0928\u093e\u092e",
+    "title": "हिंदी सब्जियों के नाम",
     "category": "hindi-vegetables",
-    "bgGradient": ["#56AB2F", "#A8E063"],
+    "bgGradient": [
+      "#56AB2F",
+      "#A8E063"
+    ],
     "accentColor": "#27AE60",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u0938\u092c\u094d\u091c\u093c\u0940 \u0938\u0940\u0916\u094b!",
+    "connectorWord": "से",
+    "subtitleText": "सब्ज़ी सीखो!",
     "items": [
-      {"letter": "\u0906", "word": "\u0906\u0932\u0942", "emoji": "\ud83e\udd54", "bgColor": "#DEB887"},
-      {"letter": "\u092c", "word": "\u092c\u0948\u0902\u0917\u0928", "emoji": "\ud83c\udf46", "bgColor": "#800080"},
-      {"letter": "\u0917", "word": "\u0917\u093e\u091c\u0930", "emoji": "\ud83e\udd55", "bgColor": "#FF8C00"},
-      {"letter": "\u0918", "word": "\u0918\u0940\u092f\u093e", "emoji": "\ud83e\uddc8", "bgColor": "#DAA520"},
-      {"letter": "\u091f", "word": "\u091f\u092e\u093e\u091f\u0930", "emoji": "\ud83c\udf45", "bgColor": "#FF0000"},
-      {"letter": "\u092a", "word": "\u092a\u093e\u0932\u0915", "emoji": "\ud83e\udd6c", "bgColor": "#006400"},
-      {"letter": "\u092b", "word": "\u092b\u0942\u0932\u0917\u094b\u092d\u0940", "emoji": "\ud83e\udd66", "bgColor": "#F5F5F5"},
-      {"letter": "\u092d", "word": "\u092d\u093f\u0902\u0921\u0940", "emoji": "\ud83e\udd52", "bgColor": "#228B22"},
-      {"letter": "\u092e", "word": "\u092e\u091f\u0930", "emoji": "\ud83e\uded1", "bgColor": "#228B22"},
-      {"letter": "\u0932", "word": "\u0932\u094c\u0915\u0940", "emoji": "\ud83e\udd52", "bgColor": "#98FB98"},
-      {"letter": "\u0936", "word": "\u0936\u0932\u0917\u092e", "emoji": "\ud83e\udd52", "bgColor": "#228B22"},
-      {"letter": "\u0938", "word": "\u0938\u0947\u092e", "emoji": "\ud83c\udf4f", "bgColor": "#228B22"},
-      {"letter": "\u0915", "word": "\u0915\u0926\u094d\u0926\u0942", "emoji": "\ud83c\udf83", "bgColor": "#FF8C00"},
-      {"letter": "\u091a", "word": "\u091a\u0941\u0915\u0902\u0926\u0930", "emoji": "\ud83e\udd55", "bgColor": "#DEB887"},
-      {"letter": "\u092e\u0942", "word": "\u092e\u0942\u0932\u0940", "emoji": "\ud83e\udd55", "bgColor": "#F5F5F5"}
+      {
+        "letter": "आ",
+        "word": "आलू",
+        "emoji": "🥔",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "ब",
+        "word": "बैंगन",
+        "emoji": "🍆",
+        "bgColor": "#800080"
+      },
+      {
+        "letter": "ग",
+        "word": "गाजर",
+        "emoji": "🥕",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "घ",
+        "word": "घीया",
+        "emoji": "🧈",
+        "bgColor": "#DAA520"
+      },
+      {
+        "letter": "ट",
+        "word": "टमाटर",
+        "emoji": "🍅",
+        "bgColor": "#FF0000"
+      },
+      {
+        "letter": "प",
+        "word": "पालक",
+        "emoji": "🥬",
+        "bgColor": "#006400"
+      },
+      {
+        "letter": "फ",
+        "word": "फूलगोभी",
+        "emoji": "🥦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "भ",
+        "word": "भिंडी",
+        "emoji": "🥒",
+        "bgColor": "#228B22"
+      },
+      {
+        "letter": "म",
+        "word": "मटर",
+        "emoji": "🫑",
+        "bgColor": "#228B22"
+      },
+      {
+        "letter": "ल",
+        "word": "लौकी",
+        "emoji": "🥒",
+        "bgColor": "#98FB98"
+      },
+      {
+        "letter": "श",
+        "word": "शलगम",
+        "emoji": "🥒",
+        "bgColor": "#228B22"
+      },
+      {
+        "letter": "स",
+        "word": "सेम",
+        "emoji": "🍏",
+        "bgColor": "#228B22"
+      },
+      {
+        "letter": "क",
+        "word": "कद्दू",
+        "emoji": "🎃",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "च",
+        "word": "चुकंदर",
+        "emoji": "🥕",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "मू",
+        "word": "मूली",
+        "emoji": "🥕",
+        "bgColor": "#F5F5F5"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
@@ -194,27 +690,100 @@
   },
   {
     "id": "hindi-birds-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u092a\u0915\u094d\u0937\u093f\u092f\u094b\u0902 \u0915\u0947 \u0928\u093e\u092e",
+    "title": "हिंदी पक्षियों के नाम",
     "category": "hindi-birds",
-    "bgGradient": ["#2193B0", "#6DD5ED"],
+    "bgGradient": [
+      "#2193B0",
+      "#6DD5ED"
+    ],
     "accentColor": "#0077B6",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u092a\u0915\u094d\u0937\u0940 \u0938\u0940\u0916\u094b!",
+    "connectorWord": "से",
+    "subtitleText": "पक्षी सीखो!",
     "items": [
-      {"letter": "\u0915", "word": "\u0915\u094c\u0906", "emoji": "\ud83d\udc26", "bgColor": "#1C1C1C"},
-      {"letter": "\u0917", "word": "\u0917\u094c\u0930\u0948\u092f\u093e", "emoji": "\ud83d\udc26", "bgColor": "#808080"},
-      {"letter": "\u091a", "word": "\u091a\u0915\u094d\u0930\u0935\u093e\u0915", "emoji": "\ud83e\udeb6", "bgColor": "#8B4513"},
-      {"letter": "\u0924", "word": "\u0924\u094b\u0924\u093e", "emoji": "\ud83e\udd9c", "bgColor": "#32CD32"},
-      {"letter": "\u092e", "word": "\u092e\u094b\u0930", "emoji": "\ud83e\udd9a", "bgColor": "#006400"},
-      {"letter": "\u092c", "word": "\u092c\u0941\u0932\u092c\u0941\u0932", "emoji": "\ud83d\udc26", "bgColor": "#8B6914"},
-      {"letter": "\u0915\u094b", "word": "\u0915\u094b\u092f\u0932", "emoji": "\ud83d\udc26", "bgColor": "#1C1C1C"},
-      {"letter": "\u0917\u093f", "word": "\u0917\u093f\u0926\u094d\u0927", "emoji": "\ud83e\udd85", "bgColor": "#8B6914"},
-      {"letter": "\u0939", "word": "\u0939\u0902\u0938", "emoji": "\ud83e\udda2", "bgColor": "#F5F5F5"},
-      {"letter": "\u0909", "word": "\u0909\u0932\u094d\u0932\u0942", "emoji": "\ud83e\udd89", "bgColor": "#8B4513"},
-      {"letter": "\u092c\u091f", "word": "\u092c\u091f\u0947\u0930", "emoji": "\ud83e\udeb6", "bgColor": "#DEB887"},
-      {"letter": "\u0924\u0940", "word": "\u0924\u0940\u0924\u0930", "emoji": "\ud83d\udc26", "bgColor": "#DC143C"},
-      {"letter": "\u092e\u0948", "word": "\u092e\u0948\u0928\u093e", "emoji": "\ud83d\udc26", "bgColor": "#8B6914"},
-      {"letter": "\u0938\u093e", "word": "\u0938\u093e\u0930\u0938", "emoji": "\ud83e\udda9", "bgColor": "#FF69B4"}
+      {
+        "letter": "क",
+        "word": "कौआ",
+        "emoji": "🐦",
+        "bgColor": "#1C1C1C"
+      },
+      {
+        "letter": "ग",
+        "word": "गौरैया",
+        "emoji": "🐦",
+        "bgColor": "#808080"
+      },
+      {
+        "letter": "च",
+        "word": "चक्रवाक",
+        "emoji": "🪶",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "त",
+        "word": "तोता",
+        "emoji": "🦜",
+        "bgColor": "#32CD32"
+      },
+      {
+        "letter": "म",
+        "word": "मोर",
+        "emoji": "🦚",
+        "bgColor": "#006400"
+      },
+      {
+        "letter": "ब",
+        "word": "बुलबुल",
+        "emoji": "🐦",
+        "bgColor": "#8B6914"
+      },
+      {
+        "letter": "को",
+        "word": "कोयल",
+        "emoji": "🐦",
+        "bgColor": "#1C1C1C"
+      },
+      {
+        "letter": "गि",
+        "word": "गिद्ध",
+        "emoji": "🦅",
+        "bgColor": "#8B6914"
+      },
+      {
+        "letter": "ह",
+        "word": "हंस",
+        "emoji": "🦢",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "उ",
+        "word": "उल्लू",
+        "emoji": "🦉",
+        "bgColor": "#8B4513"
+      },
+      {
+        "letter": "बट",
+        "word": "बटेर",
+        "emoji": "🪶",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "ती",
+        "word": "तीतर",
+        "emoji": "🐦",
+        "bgColor": "#DC143C"
+      },
+      {
+        "letter": "मै",
+        "word": "मैना",
+        "emoji": "🐦",
+        "bgColor": "#8B6914"
+      },
+      {
+        "letter": "सा",
+        "word": "सारस",
+        "emoji": "🦩",
+        "bgColor": "#FF69B4"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
@@ -222,25 +791,88 @@
   },
   {
     "id": "hindi-colors-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0930\u0902\u0917\u094b\u0902 \u0915\u0947 \u0928\u093e\u092e",
+    "title": "हिंदी रंगों के नाम",
     "category": "hindi-colors",
-    "bgGradient": ["#FF6B6B", "#FFE66D"],
+    "bgGradient": [
+      "#FF6B6B",
+      "#FFE66D"
+    ],
     "accentColor": "#E74C3C",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u0930\u0902\u0917 \u0938\u0940\u0916\u094b!",
+    "connectorWord": "से",
+    "subtitleText": "रंग सीखो!",
     "items": [
-      {"letter": "\u0932\u093e", "word": "\u0932\u093e\u0932", "emoji": "\ud83d\udd34", "bgColor": "#FF0000"},
-      {"letter": "\u0928\u0940", "word": "\u0928\u0940\u0932\u093e", "emoji": "\ud83d\udd35", "bgColor": "#4169E1"},
-      {"letter": "\u0939", "word": "\u0939\u0930\u093e", "emoji": "\ud83d\udfe2", "bgColor": "#228B22"},
-      {"letter": "\u092a\u0940", "word": "\u092a\u0940\u0932\u093e", "emoji": "\ud83d\udfe1", "bgColor": "#FFD700"},
-      {"letter": "\u0938\u092b", "word": "\u0938\u092b\u0947\u0926", "emoji": "\u2b1c", "bgColor": "#F5F5F5"},
-      {"letter": "\u0915\u093e", "word": "\u0915\u093e\u0932\u093e", "emoji": "\u2b1b", "bgColor": "#1C1C1C"},
-      {"letter": "\u0928\u093e", "word": "\u0928\u093e\u0930\u0902\u0917\u0940", "emoji": "\ud83d\udfe0", "bgColor": "#FF8C00"},
-      {"letter": "\u0917\u0941", "word": "\u0917\u0941\u0932\u093e\u092c\u0940", "emoji": "\ud83d\udfe3", "bgColor": "#FF69B4"},
-      {"letter": "\u092c\u0948", "word": "\u092c\u0948\u0902\u0917\u0928\u0940", "emoji": "\ud83d\udfe3", "bgColor": "#800080"},
-      {"letter": "\u092d\u0942", "word": "\u092d\u0942\u0930\u093e", "emoji": "\ud83d\udfe4", "bgColor": "#808080"},
-      {"letter": "\u0938\u0941", "word": "\u0938\u0941\u0928\u0939\u0930\u093e", "emoji": "\ud83d\udfe1", "bgColor": "#FFD700"},
-      {"letter": "\u0906\u0938", "word": "\u0906\u0938\u092e\u093e\u0928\u0940", "emoji": "\ud83d\udd35", "bgColor": "#87CEEB"}
+      {
+        "letter": "ला",
+        "word": "लाल",
+        "emoji": "🔴",
+        "bgColor": "#FF0000"
+      },
+      {
+        "letter": "नी",
+        "word": "नीला",
+        "emoji": "🔵",
+        "bgColor": "#4169E1"
+      },
+      {
+        "letter": "ह",
+        "word": "हरा",
+        "emoji": "🟢",
+        "bgColor": "#228B22"
+      },
+      {
+        "letter": "पी",
+        "word": "पीला",
+        "emoji": "🟡",
+        "bgColor": "#FFD700"
+      },
+      {
+        "letter": "सफ",
+        "word": "सफेद",
+        "emoji": "⬜",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "का",
+        "word": "काला",
+        "emoji": "⬛",
+        "bgColor": "#1C1C1C"
+      },
+      {
+        "letter": "ना",
+        "word": "नारंगी",
+        "emoji": "🟠",
+        "bgColor": "#FF8C00"
+      },
+      {
+        "letter": "गु",
+        "word": "गुलाबी",
+        "emoji": "🟣",
+        "bgColor": "#FF69B4"
+      },
+      {
+        "letter": "बै",
+        "word": "बैंगनी",
+        "emoji": "🟣",
+        "bgColor": "#800080"
+      },
+      {
+        "letter": "भू",
+        "word": "भूरा",
+        "emoji": "🟤",
+        "bgColor": "#808080"
+      },
+      {
+        "letter": "सु",
+        "word": "सुनहरा",
+        "emoji": "🟡",
+        "bgColor": "#FFD700"
+      },
+      {
+        "letter": "आस",
+        "word": "आसमानी",
+        "emoji": "🔵",
+        "bgColor": "#87CEEB"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
@@ -248,170 +880,100 @@
   },
   {
     "id": "hindi-body-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0936\u0930\u0940\u0930 \u0915\u0947 \u0905\u0902\u0917",
+    "title": "हिंदी शरीर के अंग",
     "category": "hindi-body",
-    "bgGradient": ["#E44D26", "#F16529"],
+    "bgGradient": [
+      "#E44D26",
+      "#F16529"
+    ],
     "accentColor": "#E74C3C",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u0936\u0930\u0940\u0930 \u0938\u0940\u0916\u094b!",
+    "connectorWord": "से",
+    "subtitleText": "शरीर सीखो!",
     "items": [
-      {"letter": "\u0906\u0901", "word": "\u0906\u0901\u0916", "emoji": "\ud83d\udc41\ufe0f", "bgColor": "#4169E1"},
-      {"letter": "\u0915", "word": "\u0915\u093e\u0928", "emoji": "\ud83d\udc42", "bgColor": "#DEB887"},
-      {"letter": "\u0917", "word": "\u0917\u0930\u094d\u0926\u0928", "emoji": "\ud83e\uddd1", "bgColor": "#DEB887"},
-      {"letter": "\u0928", "word": "\u0928\u093e\u0915", "emoji": "\ud83d\udc43", "bgColor": "#DEB887"},
-      {"letter": "\u092e\u0941", "word": "\u092e\u0941\u0901\u0939", "emoji": "\ud83d\udc44", "bgColor": "#DC143C"},
-      {"letter": "\u0939", "word": "\u0939\u093e\u0925", "emoji": "\u270b", "bgColor": "#DEB887"},
-      {"letter": "\u092a\u0948", "word": "\u092a\u0948\u0930", "emoji": "\ud83e\uddb6", "bgColor": "#DEB887"},
-      {"letter": "\u0938\u093f", "word": "\u0938\u093f\u0930", "emoji": "\ud83d\ude00", "bgColor": "#FFD700"},
-      {"letter": "\u092a\u0947", "word": "\u092a\u0947\u091f", "emoji": "\ud83e\udeb4", "bgColor": "#FF6347"},
-      {"letter": "\u0926\u093e\u0901", "word": "\u0926\u093e\u0901\u0924", "emoji": "\ud83e\uddb7", "bgColor": "#F5F5F5"},
-      {"letter": "\u0909\u0902", "word": "\u0909\u0902\u0917\u0932\u0940", "emoji": "\u261d\ufe0f", "bgColor": "#DEB887"},
-      {"letter": "\u0918\u0941", "word": "\u0918\u0941\u091f\u0928\u093e", "emoji": "\ud83e\uddce", "bgColor": "#DEB887"},
-      {"letter": "\u0915\u0902", "word": "\u0915\u0902\u0927\u093e", "emoji": "\ud83e\uddb4", "bgColor": "#DEB887"},
-      {"letter": "\u091b\u093e", "word": "\u091b\u093e\u0924\u0940", "emoji": "\ud83e\udef8", "bgColor": "#DEB887"}
-    ],
-    "letterDuration": 4,
-    "introDuration": 4,
-    "outroDuration": 3
-  },
-  {
-    "id": "hindi-numbers-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0917\u093f\u0928\u0924\u0940 1-20",
-    "category": "hindi-numbers",
-    "bgGradient": ["#4B6CB7", "#182848"],
-    "accentColor": "#2980B9",
-    "connectorWord": "-",
-    "subtitleText": "\u0917\u093f\u0928\u0924\u0940 \u0938\u0940\u0916\u094b!",
-    "items": [
-      {"letter": "\u0967", "word": "\u090f\u0915", "emoji": "1\ufe0f\u20e3", "bgColor": "#DC143C"},
-      {"letter": "\u0968", "word": "\u0926\u094b", "emoji": "2\ufe0f\u20e3", "bgColor": "#FF8C00"},
-      {"letter": "\u0969", "word": "\u0924\u0940\u0928", "emoji": "3\ufe0f\u20e3", "bgColor": "#FFD700"},
-      {"letter": "\u096a", "word": "\u091a\u093e\u0930", "emoji": "4\ufe0f\u20e3", "bgColor": "#228B22"},
-      {"letter": "\u096b", "word": "\u092a\u093e\u0901\u091a", "emoji": "5\ufe0f\u20e3", "bgColor": "#4169E1"},
-      {"letter": "\u096c", "word": "\u091b\u0903", "emoji": "6\ufe0f\u20e3", "bgColor": "#8B008B"},
-      {"letter": "\u096d", "word": "\u0938\u093e\u0924", "emoji": "7\ufe0f\u20e3", "bgColor": "#FF69B4"},
-      {"letter": "\u096e", "word": "\u0906\u0920", "emoji": "8\ufe0f\u20e3", "bgColor": "#00CED1"},
-      {"letter": "\u096f", "word": "\u0928\u094c", "emoji": "9\ufe0f\u20e3", "bgColor": "#FF4500"},
-      {"letter": "\u0967\u0966", "word": "\u0926\u0938", "emoji": "\ud83d\udd1f", "bgColor": "#DAA520"},
-      {"letter": "\u0967\u0967", "word": "\u0917\u094d\u092f\u093e\u0930\u0939", "emoji": "\ud83c\udfaf", "bgColor": "#DC143C"},
-      {"letter": "\u0967\u0968", "word": "\u092c\u093e\u0930\u0939", "emoji": "\ud83c\udf1f", "bgColor": "#FFD700"},
-      {"letter": "\u0967\u0969", "word": "\u0924\u0947\u0930\u0939", "emoji": "\ud83d\udd22", "bgColor": "#4169E1"},
-      {"letter": "\u0967\u096a", "word": "\u091a\u094c\u0926\u0939", "emoji": "\ud83d\udd22", "bgColor": "#228B22"},
-      {"letter": "\u0967\u096b", "word": "\u092a\u0902\u0926\u094d\u0930\u0939", "emoji": "\ud83d\udd22", "bgColor": "#8B008B"},
-      {"letter": "\u0968\u0966", "word": "\u092c\u0940\u0938", "emoji": "\ud83d\udd22", "bgColor": "#FF8C00"}
-    ],
-    "letterDuration": 4,
-    "introDuration": 4,
-    "outroDuration": 3
-  },
-  {
-    "id": "hindi-vehicles-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0935\u093e\u0939\u0928\u094b\u0902 \u0915\u0947 \u0928\u093e\u092e",
-    "category": "hindi-vehicles",
-    "bgGradient": ["#4B6CB7", "#182848"],
-    "accentColor": "#2980B9",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u0935\u093e\u0939\u0928 \u0938\u0940\u0916\u094b!",
-    "items": [
-      {"letter": "\u0915", "word": "\u0915\u093e\u0930", "emoji": "\ud83d\ude97", "bgColor": "#DC143C"},
-      {"letter": "\u092c", "word": "\u092c\u0938", "emoji": "\ud83d\ude8c", "bgColor": "#FFD700"},
-      {"letter": "\u0930", "word": "\u0930\u093f\u0915\u094d\u0936\u093e", "emoji": "\ud83d\udefa", "bgColor": "#32CD32"},
-      {"letter": "\u091f\u094d\u0930", "word": "\u091f\u094d\u0930\u0947\u0928", "emoji": "\ud83d\ude82", "bgColor": "#4682B4"},
-      {"letter": "\u0939", "word": "\u0939\u0935\u093e\u0908 \u091c\u0939\u093e\u091c\u093c", "emoji": "\u2708\ufe0f", "bgColor": "#87CEEB"},
-      {"letter": "\u0938\u093e", "word": "\u0938\u093e\u0907\u0915\u093f\u0932", "emoji": "\ud83d\udeb2", "bgColor": "#4169E1"},
-      {"letter": "\u092e\u094b", "word": "\u092e\u094b\u091f\u0930\u0938\u093e\u0907\u0915\u093f\u0932", "emoji": "\ud83c\udfcd\ufe0f", "bgColor": "#1C1C1C"},
-      {"letter": "\u091c", "word": "\u091c\u0939\u093e\u091c\u093c", "emoji": "\ud83d\udea2", "bgColor": "#4682B4"},
-      {"letter": "\u0928\u093e", "word": "\u0928\u093e\u0935", "emoji": "\u26f5", "bgColor": "#4169E1"},
-      {"letter": "\u0930\u0949", "word": "\u0930\u0949\u0915\u0947\u091f", "emoji": "\ud83d\ude80", "bgColor": "#FF4500"},
-      {"letter": "\u091f\u094d\u0930\u0915", "word": "\u091f\u094d\u0930\u0915", "emoji": "\ud83d\ude9b", "bgColor": "#DAA520"},
-      {"letter": "\u0939\u0947", "word": "\u0939\u0947\u0932\u093f\u0915\u0949\u092a\u094d\u091f\u0930", "emoji": "\ud83d\ude81", "bgColor": "#4682B4"},
-      {"letter": "\u0938\u094d\u0915\u0942", "word": "\u0938\u094d\u0915\u0942\u091f\u0930", "emoji": "\ud83d\udef5", "bgColor": "#4682B4"},
-      {"letter": "\u091f\u0948", "word": "\u091f\u0948\u0915\u094d\u0938\u0940", "emoji": "\ud83d\ude95", "bgColor": "#FFD700"},
-      {"letter": "\u092e\u0947", "word": "\u092e\u0947\u091f\u094d\u0930\u094b", "emoji": "\ud83d\ude87", "bgColor": "#4169E1"}
-    ],
-    "letterDuration": 4,
-    "introDuration": 4,
-    "outroDuration": 3
-  },
-  {
-    "id": "hindi-flowers-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u092b\u0942\u0932\u094b\u0902 \u0915\u0947 \u0928\u093e\u092e",
-    "category": "hindi-flowers",
-    "bgGradient": ["#ED4264", "#FFEDBC"],
-    "accentColor": "#C0392B",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u092b\u0942\u0932 \u0938\u0940\u0916\u094b!",
-    "items": [
-      {"letter": "\u0917\u0941", "word": "\u0917\u0941\u0932\u093e\u092c", "emoji": "\ud83c\udf39", "bgColor": "#DC143C"},
-      {"letter": "\u0915", "word": "\u0915\u092e\u0932", "emoji": "\ud83e\udeb7", "bgColor": "#FF69B4"},
-      {"letter": "\u0917\u0947", "word": "\u0917\u0947\u0902\u0926\u093e", "emoji": "\ud83c\udf3c", "bgColor": "#FF8C00"},
-      {"letter": "\u091a\u092e", "word": "\u091a\u092e\u0947\u0932\u0940", "emoji": "\ud83c\udf3c", "bgColor": "#FFD700"},
-      {"letter": "\u091c\u0942", "word": "\u091c\u0942\u0939\u0940", "emoji": "\ud83c\udf3b", "bgColor": "#FFD700"},
-      {"letter": "\u091a\u0902", "word": "\u091a\u0902\u092a\u093e", "emoji": "\ud83c\udf3c", "bgColor": "#F5F5F5"},
-      {"letter": "\u0917\u0941\u0932", "word": "\u0917\u0941\u0932\u092e\u094b\u0939\u0930", "emoji": "\ud83c\udf3a", "bgColor": "#FF4500"},
-      {"letter": "\u0930\u091c", "word": "\u0930\u091c\u0928\u0940\u0917\u0902\u0927\u093e", "emoji": "\ud83c\udf38", "bgColor": "#FF69B4"},
-      {"letter": "\u092a\u093e", "word": "\u092a\u093e\u0930\u093f\u091c\u093e\u0924", "emoji": "\ud83c\udf38", "bgColor": "#8B008B"},
-      {"letter": "\u091a\u093e", "word": "\u091a\u093e\u0901\u0926\u0928\u0940", "emoji": "\ud83c\udf3c", "bgColor": "#F5F5F5"},
-      {"letter": "\u0917\u0941\u0921", "word": "\u0917\u0941\u0921\u0939\u0932", "emoji": "\ud83c\udf3a", "bgColor": "#DC143C"},
-      {"letter": "\u092a\u0932", "word": "\u092a\u0932\u093e\u0936", "emoji": "\ud83c\udf3a", "bgColor": "#FF4500"},
-      {"letter": "\u0938\u0942", "word": "\u0938\u0942\u0930\u091c\u092e\u0941\u0916\u0940", "emoji": "\ud83c\udf3b", "bgColor": "#FFD700"},
-      {"letter": "\u0917\u0941\u0932\u093e", "word": "\u0917\u0941\u0932\u093e\u092c\u091c\u093e\u092e\u0941\u0928", "emoji": "\ud83c\udf3a", "bgColor": "#DC143C"}
-    ],
-    "letterDuration": 4,
-    "introDuration": 4,
-    "outroDuration": 3
-  },
-  {
-    "id": "hindi-family-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u092a\u0930\u093f\u0935\u093e\u0930 \u0915\u0947 \u0938\u0926\u0938\u094d\u092f",
-    "category": "hindi-family",
-    "bgGradient": ["#FF6B6B", "#FFE66D"],
-    "accentColor": "#E74C3C",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u092a\u0930\u093f\u0935\u093e\u0930 \u0938\u0940\u0916\u094b!",
-    "items": [
-      {"letter": "\u092e\u093e\u0901", "word": "\u092e\u093e\u0901 (Mother)", "emoji": "\ud83d\udc69", "bgColor": "#FF69B4"},
-      {"letter": "\u092a\u093e\u092a\u093e", "word": "\u092a\u093e\u092a\u093e (Father)", "emoji": "\ud83d\udc68", "bgColor": "#4169E1"},
-      {"letter": "\u0926\u093e\u0926\u0940", "word": "\u0926\u093e\u0926\u0940 (Grandpa)", "emoji": "\ud83d\udc74", "bgColor": "#DAA520"},
-      {"letter": "\u0926\u093e\u0926\u0940", "word": "\u0926\u093e\u0926\u0940 (Grandma)", "emoji": "\ud83d\udc75", "bgColor": "#DEB887"},
-      {"letter": "\u092d\u093e\u0908", "word": "\u092d\u093e\u0908 (Brother)", "emoji": "\ud83d\udc66", "bgColor": "#4169E1"},
-      {"letter": "\u092c\u0939\u0928", "word": "\u092c\u0939\u0928 (Sister)", "emoji": "\ud83d\udc67", "bgColor": "#FF69B4"},
-      {"letter": "\u091a\u093e\u091a\u093e", "word": "\u091a\u093e\u091a\u093e (Uncle)", "emoji": "\ud83d\udc68", "bgColor": "#228B22"},
-      {"letter": "\u091a\u093e\u091a\u0940", "word": "\u091a\u093e\u091a\u0940 (Aunt)", "emoji": "\ud83d\udc69", "bgColor": "#DC143C"},
-      {"letter": "\u092e\u093e\u092e\u093e", "word": "\u092e\u093e\u092e\u093e (Uncle)", "emoji": "\ud83d\udc68", "bgColor": "#FF8C00"},
-      {"letter": "\u092e\u093e\u092e\u0940", "word": "\u092e\u093e\u092e\u0940 (Aunt)", "emoji": "\ud83d\udc69", "bgColor": "#8B008B"},
-      {"letter": "\u092c\u0947\u091f\u093e", "word": "\u092c\u0947\u091f\u093e (Son)", "emoji": "\ud83d\udc66", "bgColor": "#32CD32"},
-      {"letter": "\u092c\u0947\u091f\u0940", "word": "\u092c\u0947\u091f\u0940 (Daughter)", "emoji": "\ud83d\udc67", "bgColor": "#FF69B4"},
-      {"letter": "\u0928\u093e\u0928\u093e", "word": "\u0928\u093e\u0928\u093e (Grandpa)", "emoji": "\ud83d\udc74", "bgColor": "#DAA520"},
-      {"letter": "\u0928\u093e\u0928\u0940", "word": "\u0928\u093e\u0928\u0940 (Grandma)", "emoji": "\ud83d\udc75", "bgColor": "#DEB887"}
-    ],
-    "letterDuration": 4,
-    "introDuration": 4,
-    "outroDuration": 3
-  },
-  {
-    "id": "hindi-festivals-1",
-    "title": "\u0939\u093f\u0902\u0926\u0940 \u0924\u094d\u092f\u094b\u0939\u093e\u0930",
-    "category": "hindi-festivals",
-    "bgGradient": ["#FF9933", "#FFD700"],
-    "accentColor": "#FF6600",
-    "connectorWord": "\u0938\u0947",
-    "subtitleText": "\u0924\u094d\u092f\u094b\u0939\u093e\u0930 \u0938\u0940\u0916\u094b!",
-    "items": [
-      {"letter": "\u0926\u0940", "word": "\u0926\u0940\u0935\u093e\u0932\u0940", "emoji": "\ud83e\udea4", "bgColor": "#FFD700"},
-      {"letter": "\u0939\u094b", "word": "\u0939\u094b\u0932\u0940", "emoji": "\ud83c\udfa8", "bgColor": "#FF1493"},
-      {"letter": "\u0930\u0915", "word": "\u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928", "emoji": "\ud83c\udf80", "bgColor": "#FF69B4"},
-      {"letter": "\u0928\u0935", "word": "\u0928\u0935\u0930\u093e\u0924\u094d\u0930\u093f", "emoji": "\ud83d\udc83", "bgColor": "#DC143C"},
-      {"letter": "\u092e\u0915", "word": "\u092e\u0915\u0930 \u0938\u0902\u0915\u094d\u0930\u093e\u0902\u0924\u093f", "emoji": "\ud83e\ude81", "bgColor": "#FFD700"},
-      {"letter": "\u091c\u0928", "word": "\u091c\u0928\u094d\u092e\u093e\u0937\u094d\u091f\u092e\u0940", "emoji": "\ud83e\ude48", "bgColor": "#4169E1"},
-      {"letter": "\u0917\u0923", "word": "\u0917\u0923\u0947\u0936 \u091a\u0924\u0941\u0930\u094d\u0925\u0940", "emoji": "\ud83d\udc18", "bgColor": "#FF8C00"},
-      {"letter": "\u0932\u094b", "word": "\u0932\u094b\u0939\u0930\u0940", "emoji": "\ud83d\udd25", "bgColor": "#FF4500"},
-      {"letter": "\u0908\u0926", "word": "\u0908\u0926", "emoji": "\ud83c\udf19", "bgColor": "#228B22"},
-      {"letter": "\u092a\u094b", "word": "\u092a\u094b\u0902\u0917\u0932", "emoji": "\ud83c\udf5a", "bgColor": "#FF8C00"},
-      {"letter": "\u0913\u0923", "word": "\u0913\u0923\u092e", "emoji": "\ud83c\udf38", "bgColor": "#FFD700"},
-      {"letter": "\u0926\u0941", "word": "\u0926\u0941\u0930\u094d\u0917\u093e \u092a\u0942\u091c\u093e", "emoji": "\ud83d\ude4f", "bgColor": "#DC143C"},
-      {"letter": "\u091b\u0920", "word": "\u091b\u0920 \u092a\u0942\u091c\u093e", "emoji": "\ud83c\udf05", "bgColor": "#FF6347"},
-      {"letter": "\u092c\u0948", "word": "\u092c\u0948\u0938\u093e\u0916\u0940", "emoji": "\ud83c\udf3e", "bgColor": "#FF8C00"}
+      {
+        "letter": "आँ",
+        "word": "आँख",
+        "emoji": "👁️",
+        "bgColor": "#4169E1"
+      },
+      {
+        "letter": "क",
+        "word": "कान",
+        "emoji": "👂",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "ग",
+        "word": "गर्दन",
+        "emoji": "🧑",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "न",
+        "word": "नाक",
+        "emoji": "👃",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "मु",
+        "word": "मुँह",
+        "emoji": "👄",
+        "bgColor": "#DC143C"
+      },
+      {
+        "letter": "ह",
+        "word": "हाथ",
+        "emoji": "✋",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "पै",
+        "word": "पैर",
+        "emoji": "🦶",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "सि",
+        "word": "सिर",
+        "emoji": "😀",
+        "bgColor": "#FFD700"
+      },
+      {
+        "letter": "पे",
+        "word": "पेट",
+        "emoji": "🪴",
+        "bgColor": "#FF6347"
+      },
+      {
+        "letter": "दाँ",
+        "word": "दाँत",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "उं",
+        "word": "उंगली",
+        "emoji": "☝️",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "घु",
+        "word": "घुटना",
+        "emoji": "🧎",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "कं",
+        "word": "कंधा",
+        "emoji": "🦴",
+        "bgColor": "#DEB887"
+      },
+      {
+        "letter": "छा",
+        "word": "छाती",
+        "emoji": "🫸",
+        "bgColor": "#DEB887"
+      }
     ],
     "letterDuration": 4,
     "introDuration": 4,
