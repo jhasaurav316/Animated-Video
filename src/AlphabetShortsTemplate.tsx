@@ -37,6 +37,8 @@ export type AlphabetShortsProps = {
   letterDuration?: number;
   introDuration?: number;
   outroDuration?: number;
+  connectorWord?: string; // "for" (English) or "\u0938\u0947" (Hindi) etc.
+  subtitleText?: string;  // "Let's Learn!" or "\u0906\u0913 \u0938\u0940\u0916\u0947\u0902!" etc.
 };
 
 // ---------------------------------------------------------------------------
@@ -148,7 +150,8 @@ const IntroScene: React.FC<{
   bgGradient: [string, string];
   accentColor: string;
   letters?: AlphabetShortsProps["letters"];
-}> = ({ title, bgGradient, accentColor, letters = [] }) => {
+  subtitleText?: string;
+}> = ({ title, bgGradient, accentColor, letters = [], subtitleText }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
 
@@ -398,7 +401,7 @@ const IntroScene: React.FC<{
               opacity: subSpring,
             }}
           >
-            {"\uD83C\uDF1F"} Let's Learn! {"\uD83C\uDF1F"}
+            {"\uD83C\uDF1F"} {subtitleText || "Let's Learn!"} {"\uD83C\uDF1F"}
           </div>
         </div>
       </div>
@@ -450,7 +453,8 @@ const LetterScene: React.FC<{
   accentColor: string;
   letterIndex: number;
   totalLetters: number;
-}> = ({ letter, word, emoji, bgColor, accentColor, letterIndex, totalLetters }) => {
+  connectorWord?: string;
+}> = ({ letter, word, emoji, bgColor, accentColor, letterIndex, totalLetters, connectorWord = "for" }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
 
@@ -547,7 +551,7 @@ const LetterScene: React.FC<{
             }),
           }}
         >
-          {letter.toUpperCase()} for
+          {letter.toUpperCase()} {connectorWord}
         </div>
       </div>
 
@@ -898,6 +902,8 @@ export const AlphabetShortsTemplate: React.FC<AlphabetShortsProps> = ({
   letterDuration = 3,
   introDuration = 3,
   outroDuration = 3,
+  connectorWord = "for",
+  subtitleText,
 }) => {
   const { fps } = useVideoConfig();
 
@@ -917,6 +923,7 @@ export const AlphabetShortsTemplate: React.FC<AlphabetShortsProps> = ({
           bgGradient={bgGradient}
           accentColor={accentColor}
           letters={letters}
+          subtitleText={subtitleText}
         />
       </Sequence>
 
@@ -937,6 +944,7 @@ export const AlphabetShortsTemplate: React.FC<AlphabetShortsProps> = ({
             accentColor={accentColor}
             letterIndex={i}
             totalLetters={letters.length}
+            connectorWord={connectorWord}
           />
         </Sequence>
       ))}

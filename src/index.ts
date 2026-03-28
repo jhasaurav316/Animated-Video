@@ -5,6 +5,7 @@ import { HindiStoryRemotionRoot } from "./HindiStoryRoot";
 import { AlphabetRemotionRoot } from "./AlphabetRoot";
 import { AbcAlphabetRemotionRoot } from "./AbcAlphabetRoot";
 import { KidsLearningRemotionRoot } from "./KidsLearningRoot";
+import { HindiKidsRemotionRoot } from "./HindiKidsRoot";
 import React from "react";
 
 const CombinedRoot: React.FC = () => {
@@ -14,7 +15,8 @@ const CombinedRoot: React.FC = () => {
     React.createElement(HindiStoryRemotionRoot),
     React.createElement(AlphabetRemotionRoot),
     React.createElement(AbcAlphabetRemotionRoot),
-    React.createElement(KidsLearningRemotionRoot)
+    React.createElement(KidsLearningRemotionRoot),
+    React.createElement(HindiKidsRemotionRoot)
   );
 };
 
