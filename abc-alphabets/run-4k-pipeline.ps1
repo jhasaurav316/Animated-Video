@@ -17,11 +17,20 @@ $ProjectRoot = Split-Path -Parent (Split-Path -Parent $MyInvocation.MyCommand.Pa
 Set-Location $ProjectRoot
 
 # ---------- Configuration ----------
-$QUALITY_CRF = 16                # Lower = better quality (12-18 range)
-$QUALITY_SCALE = 2               # 2x = 4K (2160x3840)
+# Set to "hd" for 1080x1920 (fast, YouTube Shorts native) or "4k" for 2160x3840
+$MODE = "hd"
+
+if ($MODE -eq "4k") {
+    $QUALITY_CRF = 16
+    $QUALITY_SCALE = 2
+    $QUALITY_BITRATE = "20M"
+} else {
+    $QUALITY_CRF = 16            # High quality HD
+    $QUALITY_SCALE = 1
+    $QUALITY_BITRATE = "10M"     # 10 Mbps for crisp HD
+}
 $QUALITY_CODEC = "h264"
 $QUALITY_PIXEL_FORMAT = "yuv420p"
-$QUALITY_BITRATE = "20M"         # 20 Mbps for crisp 4K
 $FOLDER_SIZE = 10                # Videos per output folder
 $CONCURRENCY = "100%"            # Use all CPU cores
 
@@ -32,9 +41,11 @@ $LogFile = Join-Path $ProjectRoot "render-log-4k.txt"
 $PYTHON = "python"
 
 Write-Host ""
+$resLabel = if ($MODE -eq "4k") { "4K UHD (2160x3840)" } else { "Full HD (1080x1920)" }
+
 Write-Host "╔══════════════════════════════════════════════════════════╗" -ForegroundColor Cyan
-Write-Host "║        ABC ALPHABETS — 4K RENDER PIPELINE               ║" -ForegroundColor Cyan
-Write-Host "║        RTX 4090 • 4K UHD (2160x3840) • CRF $QUALITY_CRF            ║" -ForegroundColor Cyan
+Write-Host "║        ABC ALPHABETS — RENDER PIPELINE                  ║" -ForegroundColor Cyan
+Write-Host "║        RTX 4090 • $resLabel • CRF $QUALITY_CRF       ║" -ForegroundColor Cyan
 Write-Host "╚══════════════════════════════════════════════════════════╝" -ForegroundColor Cyan
 Write-Host ""
 
@@ -157,7 +168,7 @@ if (-not (Test-Path $OutputDir)) {
     "════════════════════════════════════════════════"
     "  4K Render Log — $(Get-Date)"
     "  Videos: $Total"
-    "  Quality: 4K (2160x3840) CRF $QUALITY_CRF Bitrate $QUALITY_BITRATE"
+    "  Quality: $resLabel CRF $QUALITY_CRF Bitrate $QUALITY_BITRATE"
     "════════════════════════════════════════════════"
     ""
 ) | Set-Content $LogFile
@@ -207,14 +218,12 @@ for ($i = 0; $i -lt $Total; $i++) {
     $videoStart = Get-Date
 
     try {
-        $output = npx remotion render src/index.ts $CompId $OutputFile `
-            --concurrency=$CONCURRENCY `
-            --log=error `
-            --scale=$QUALITY_SCALE `
-            --crf=$QUALITY_CRF `
-            --codec=$QUALITY_CODEC `
-            --pixel-format=$QUALITY_PIXEL_FORMAT `
-            --video-bitrate=$QUALITY_BITRATE 2>&1
+        # Build render args
+        $renderArgs = @("remotion", "render", "src/index.ts", $CompId, $OutputFile, "--concurrency=$CONCURRENCY", "--log=error", "--crf=$QUALITY_CRF", "--codec=$QUALITY_CODEC", "--pixel-format=$QUALITY_PIXEL_FORMAT", "--video-bitrate=$QUALITY_BITRATE")
+        if ($QUALITY_SCALE -gt 1) {
+            $renderArgs += "--scale=$QUALITY_SCALE"
+        }
+        $output = & npx @renderArgs 2>&1
 
         $videoDuration = [Math]::Round(((Get-Date) - $videoStart).TotalSeconds)
 
@@ -248,7 +257,7 @@ Write-Host "╔═════════════════════�
 Write-Host "║                    PIPELINE COMPLETE!                    ║" -ForegroundColor Green
 Write-Host "╚══════════════════════════════════════════════════════════╝" -ForegroundColor Green
 Write-Host ""
-Write-Host "  Resolution:    2160 x 3840 (4K UHD)" -ForegroundColor White
+Write-Host "  Resolution:    $resLabel" -ForegroundColor White
 Write-Host "  CRF:           $QUALITY_CRF" -ForegroundColor White
 Write-Host "  Bitrate:       $QUALITY_BITRATE" -ForegroundColor White
 Write-Host "  Rendered:      $Rendered" -ForegroundColor Green
@@ -264,7 +273,7 @@ Write-Host ""
     ""
     "════════════════════════════════════════════════"
     "  PIPELINE COMPLETE"
-    "  4K (2160x3840) CRF $QUALITY_CRF Bitrate $QUALITY_BITRATE"
+    "  $resLabel CRF $QUALITY_CRF Bitrate $QUALITY_BITRATE"
     "  Rendered: $Rendered | Skipped: $Skipped | Failed: $Failed"
     "  Render: $($RenderElapsed.Hours)h $($RenderElapsed.Minutes)m $($RenderElapsed.Seconds)s"
     "  Total:  $($TotalElapsed.Hours)h $($TotalElapsed.Minutes)m $($TotalElapsed.Seconds)s"
