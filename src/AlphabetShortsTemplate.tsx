@@ -141,148 +141,296 @@ function generateSideEmojis(count: number, seed: number) {
 }
 
 // ---------------------------------------------------------------------------
-// Intro Scene
+// Intro Scene (Enhanced - eye-catching for kids)
 // ---------------------------------------------------------------------------
 const IntroScene: React.FC<{
   title: string;
   bgGradient: [string, string];
   accentColor: string;
-}> = ({ title, bgGradient, accentColor }) => {
+  letters?: AlphabetShortsProps["letters"];
+}> = ({ title, bgGradient, accentColor, letters = [] }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
 
-  const titleScale = spring({ frame, fps, config: { damping: 8, mass: 0.8 } });
-  const titleOpacity = interpolate(frame, [0, 10], [0, 1], {
+  // Pick 8 emojis from the video content to display
+  const previewEmojis = letters
+    .filter((_, i) => i % Math.max(1, Math.floor(letters.length / 8)) === 0)
+    .slice(0, 8)
+    .map((l) => l.emoji);
+
+  // === Animations ===
+  // Background zoom pulse
+  const bgScale = interpolate(frame, [0, 45, 90], [1.1, 1.0, 1.05], {
     extrapolateRight: "clamp",
   });
 
-  const subtitleProgress = spring({
-    frame: Math.max(0, frame - 20),
+  // Starburst entry
+  const burstProgress = spring({ frame, fps, config: { damping: 12, mass: 0.6 } });
+  const burstScale = interpolate(burstProgress, [0, 1], [0, 1]);
+
+  // Title slam-in
+  const titleSpring = spring({
+    frame: Math.max(0, frame - 8),
     fps,
-    config: { damping: 10 },
+    config: { damping: 6, mass: 1.0, stiffness: 80 },
+  });
+  const titleScale = interpolate(titleSpring, [0, 1], [3, 1]);
+  const titleOpacity = interpolate(frame, [8, 16], [0, 1], { extrapolateRight: "clamp" });
+
+  // Subtitle bounce
+  const subSpring = spring({
+    frame: Math.max(0, frame - 30),
+    fps,
+    config: { damping: 5, mass: 1.2 },
   });
 
-  // Bouncing ABC letters
-  const abcLetters = ["A", "B", "C"];
-  const sparkles = generateSparkles(20, 42);
+  // "Let's Learn" wiggle
+  const wiggle = Math.sin(frame * 0.15) * 3;
+
+  // Rainbow border rotation
+  const borderRotation = frame * 4;
+
+  // Emoji ring rotation
+  const emojiRingAngle = frame * 0.03;
 
   return (
     <AbsoluteFill
       style={{
-        background: `linear-gradient(160deg, ${bgGradient[0]}, ${bgGradient[1]})`,
-        justifyContent: "center",
-        alignItems: "center",
+        background: `linear-gradient(${135 + Math.sin(frame * 0.02) * 20}deg, ${bgGradient[0]}, ${bgGradient[1]}, ${accentColor}88)`,
+        overflow: "hidden",
+        transform: `scale(${bgScale})`,
       }}
     >
-      {/* Sparkles */}
-      {sparkles.map((s, i) => (
-        <Sparkle
-          key={i}
-          x={s.x}
-          y={s.y}
-          size={s.size}
-          delay={s.delay}
-          color={i % 2 === 0 ? "#FFD700" : "#FF69B4"}
-          frame={frame}
-        />
-      ))}
+      {/* === Animated rainbow border === */}
+      <div
+        style={{
+          position: "absolute",
+          top: 15,
+          left: 15,
+          right: 15,
+          bottom: 15,
+          borderRadius: 40,
+          border: "6px solid transparent",
+          background: `linear-gradient(${bgGradient[0]}, ${bgGradient[1]}) padding-box, linear-gradient(${borderRotation}deg, #FF6B6B, #FFE66D, #4ECDC4, #FF69B4, #88D8FF, #A8E6CF, #FF6B6B) border-box`,
+          zIndex: 1,
+        }}
+      />
 
-      {/* Bouncing ABC letters in background */}
-      {abcLetters.map((letter, i) => {
-        const letterSpring = spring({
-          frame: Math.max(0, frame - i * 8),
-          fps,
-          config: { damping: 5, mass: 1.2 },
-        });
-        const floatY = Math.sin((frame + i * 30) / 15) * 30;
-        const floatX = Math.cos((frame + i * 20) / 20) * 40;
-        const rotation = Math.sin((frame + i * 25) / 18) * 20;
+      {/* === Starburst rays behind title === */}
+      <div
+        style={{
+          position: "absolute",
+          top: "50%",
+          left: "50%",
+          width: 0,
+          height: 0,
+          transform: `translate(-50%, -50%) scale(${burstScale})`,
+          zIndex: 2,
+        }}
+      >
+        {Array.from({ length: 16 }).map((_, i) => {
+          const angle = (i / 16) * 360 + frame * 0.8;
+          const length = 900 + Math.sin(frame * 0.1 + i) * 100;
+          return (
+            <div
+              key={i}
+              style={{
+                position: "absolute",
+                width: 8,
+                height: length,
+                background: `linear-gradient(to bottom, rgba(255,255,255,${0.15 + Math.sin(frame * 0.08 + i) * 0.08}), transparent)`,
+                transformOrigin: "top center",
+                transform: `rotate(${angle}deg)`,
+                borderRadius: 4,
+              }}
+            />
+          );
+        })}
+      </div>
 
+      {/* === Floating sparkle particles === */}
+      {Array.from({ length: 40 }).map((_, i) => {
+        const hash1 = ((i * 137 + 50) % 1000) / 1000;
+        const hash2 = ((i * 211 + 100) % 1000) / 1000;
+        const sparkX = hash1 * 1080;
+        const sparkY = hash2 * 1920;
+        const sparkSize = 4 + (i % 6) * 3;
+        const sparkOpacity = interpolate(
+          (frame + i * 7) % 60,
+          [0, 15, 30, 45, 60],
+          [0, 0.8, 0.3, 0.8, 0]
+        );
+        const drift = Math.sin((frame + i * 13) / 18) * 15;
+        const colors = ["#FFD700", "#FF69B4", "#4ECDC4", "#FF6B6B", "#88D8FF", "#A8E6CF", "#FFE66D", "#FF9FF3"];
         return (
           <div
-            key={letter}
+            key={i}
             style={{
               position: "absolute",
-              left: 150 + i * 300 + floatX,
-              top: 300 + floatY,
-              fontSize: 180,
-              fontWeight: 900,
-              fontFamily: funFont,
-              color: "rgba(255,255,255,0.25)",
-              transform: `scale(${letterSpring}) rotate(${rotation}deg)`,
-              textShadow: `0 0 40px rgba(255,255,255,0.3)`,
+              left: sparkX,
+              top: sparkY + drift,
+              width: sparkSize,
+              height: sparkSize,
+              borderRadius: "50%",
+              backgroundColor: colors[i % colors.length],
+              opacity: sparkOpacity,
+              boxShadow: `0 0 ${sparkSize * 2}px ${colors[i % colors.length]}`,
+              zIndex: 3,
+            }}
+          />
+        );
+      })}
+
+      {/* === Orbiting emoji circle === */}
+      {previewEmojis.map((emoji, i) => {
+        const angle = (i / previewEmojis.length) * Math.PI * 2 + emojiRingAngle;
+        const radius = 380;
+        const x = 540 + Math.cos(angle) * radius;
+        const y = 960 + Math.sin(angle) * radius * 0.55;
+        const emojiSpring = spring({
+          frame: Math.max(0, frame - 15 - i * 4),
+          fps,
+          config: { damping: 6, mass: 1.0 },
+        });
+        const bounce = Math.sin((frame + i * 20) / 10) * 8;
+        return (
+          <div
+            key={i}
+            style={{
+              position: "absolute",
+              left: x - 50,
+              top: y + bounce - 50,
+              fontSize: 90,
+              transform: `scale(${emojiSpring}) rotate(${Math.sin((frame + i * 15) / 12) * 15}deg)`,
+              filter: "drop-shadow(4px 6px 12px rgba(0,0,0,0.3))",
+              zIndex: 5,
             }}
           >
-            {letter}
+            {emoji}
           </div>
         );
       })}
 
-      {/* Title */}
+      {/* === Main title card === */}
       <div
         style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
           display: "flex",
           flexDirection: "column",
+          justifyContent: "center",
           alignItems: "center",
-          transform: `scale(${titleScale})`,
-          opacity: titleOpacity,
+          zIndex: 10,
         }}
       >
+        {/* Glowing title background pill */}
         <div
           style={{
-            fontSize: 110,
-            fontWeight: 900,
-            fontFamily: funFont,
-            color: "#FFFFFF",
-            textAlign: "center",
-            textShadow: `5px 5px 0 ${accentColor}, 0 0 50px rgba(255,255,255,0.5)`,
-            lineHeight: 1.2,
-            padding: "0 50px",
+            background: `radial-gradient(ellipse, rgba(0,0,0,0.4) 0%, transparent 70%)`,
+            padding: "80px 60px",
+            borderRadius: 50,
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            transform: `scale(${interpolate(titleSpring, [0, 1], [0.5, 1])})`,
           }}
         >
-          {title}
-        </div>
+          {/* Star emoji top */}
+          <div
+            style={{
+              fontSize: 80,
+              marginBottom: 20,
+              opacity: interpolate(frame, [5, 15], [0, 1], { extrapolateRight: "clamp" }),
+              transform: `rotate(${Math.sin(frame * 0.1) * 20}deg) scale(${1 + Math.sin(frame * 0.15) * 0.15})`,
+              filter: "drop-shadow(0 0 20px rgba(255,215,0,0.8))",
+            }}
+          >
+            {"\u2B50"}
+          </div>
 
-        {/* Subtitle */}
-        <div
-          style={{
-            marginTop: 50,
-            fontSize: 50,
-            fontWeight: 700,
-            fontFamily: cleanFont,
-            color: "#FFD700",
-            textShadow: "2px 2px 0 rgba(0,0,0,0.3), 0 0 20px rgba(255,215,0,0.5)",
-            transform: `scale(${subtitleProgress})`,
-            opacity: subtitleProgress,
-          }}
-        >
-          Let's Learn!
+          {/* Title text with 3D shadow */}
+          <div
+            style={{
+              fontSize: 100,
+              fontWeight: 900,
+              fontFamily: funFont,
+              color: "#FFFFFF",
+              textAlign: "center",
+              textShadow: `
+                4px 4px 0 ${accentColor},
+                8px 8px 0 rgba(0,0,0,0.2),
+                0 0 40px rgba(255,255,255,0.5),
+                0 0 80px ${accentColor}66
+              `,
+              lineHeight: 1.15,
+              padding: "0 40px",
+              transform: `scale(${titleScale})`,
+              opacity: titleOpacity,
+            }}
+          >
+            {title}
+          </div>
+
+          {/* Decorative line */}
+          <div
+            style={{
+              width: interpolate(frame, [20, 35], [0, 400], { extrapolateRight: "clamp" }),
+              height: 5,
+              borderRadius: 3,
+              background: `linear-gradient(90deg, transparent, #FFD700, ${accentColor}, #FFD700, transparent)`,
+              marginTop: 25,
+              marginBottom: 25,
+            }}
+          />
+
+          {/* "Let's Learn!" with bounce */}
+          <div
+            style={{
+              fontSize: 65,
+              fontWeight: 900,
+              fontFamily: cleanFont,
+              color: "#FFD700",
+              textShadow: `3px 3px 0 rgba(0,0,0,0.4), 0 0 30px rgba(255,215,0,0.6)`,
+              transform: `scale(${subSpring}) rotate(${wiggle}deg)`,
+              opacity: subSpring,
+            }}
+          >
+            {"\uD83C\uDF1F"} Let's Learn! {"\uD83C\uDF1F"}
+          </div>
         </div>
       </div>
 
-      {/* Confetti dots */}
-      {Array.from({ length: 30 }).map((_, i) => {
-        const cx = ((i * 137 + 50) % 1080);
-        const cy = ((i * 193 + 100) % 1920);
-        const confettiOpacity = interpolate(
-          (frame + i * 7) % 50,
-          [0, 15, 35, 50],
-          [0, 1, 1, 0]
-        );
-        const colors = ["#FF6B6B", "#4ECDC4", "#FFE66D", "#A8E6CF", "#FF69B4", "#88D8FF"];
+      {/* === Confetti explosion === */}
+      {Array.from({ length: 50 }).map((_, i) => {
+        const angle = (i / 50) * Math.PI * 2;
+        const speed = 8 + (i % 5) * 4;
+        const dist = interpolate(frame, [0, 20, 60, 90], [0, speed * 30, speed * 40, speed * 45], {
+          extrapolateRight: "clamp",
+        });
+        const cx = 540 + Math.cos(angle) * dist;
+        const cy = 960 + Math.sin(angle) * dist - (frame * frame * 0.02);
+        const confOpacity = interpolate(frame, [0, 8, 50, 90], [0, 1, 0.7, 0], {
+          extrapolateRight: "clamp",
+        });
+        const confColors = ["#FF6B6B", "#4ECDC4", "#FFE66D", "#A8E6CF", "#FF69B4", "#88D8FF", "#FFD700", "#FF9FF3"];
+        const size = 8 + (i % 10);
         return (
           <div
             key={i}
             style={{
               position: "absolute",
               left: cx,
-              top: cy + Math.sin((frame + i * 11) / 12) * 15,
-              width: 12 + (i % 8),
-              height: 12 + (i % 8),
-              borderRadius: i % 3 === 0 ? "50%" : "2px",
-              backgroundColor: colors[i % colors.length],
-              opacity: confettiOpacity,
-              transform: `rotate(${frame * 3 + i * 45}deg)`,
+              top: cy,
+              width: size,
+              height: i % 3 === 0 ? size : size * 0.5,
+              borderRadius: i % 4 === 0 ? "50%" : "2px",
+              backgroundColor: confColors[i % confColors.length],
+              opacity: confOpacity,
+              transform: `rotate(${frame * 5 + i * 37}deg)`,
+              zIndex: 4,
             }}
           />
         );
@@ -768,6 +916,7 @@ export const AlphabetShortsTemplate: React.FC<AlphabetShortsProps> = ({
           title={title}
           bgGradient={bgGradient}
           accentColor={accentColor}
+          letters={letters}
         />
       </Sequence>
 
