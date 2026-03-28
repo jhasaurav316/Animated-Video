@@ -56,30 +56,36 @@ Write-Host "  STEP 0: Setup" -ForegroundColor Yellow
 Write-Host "------------------------------------------------------------" -ForegroundColor DarkGray
 
 Write-Host "  Pulling latest code..." -ForegroundColor White
-git pull origin main 2>&1 | Out-Null
+$ErrorActionPreference = "Continue"
+git pull origin main 2>&1 | Out-Host
+$ErrorActionPreference = "Stop"
 Write-Host "  OK: Code updated" -ForegroundColor Green
 
 Write-Host "  Installing npm dependencies..." -ForegroundColor White
-npm install --silent 2>&1 | Out-Null
+$ErrorActionPreference = "Continue"
+npm install --silent 2>&1 | Out-Host
+$ErrorActionPreference = "Stop"
 Write-Host "  OK: Dependencies installed" -ForegroundColor Green
 
 Write-Host "  Checking edge-tts..." -ForegroundColor White
-try {
-    & $PYTHON -m edge_tts --version 2>&1 | Out-Null
-    Write-Host "  OK: edge-tts ready" -ForegroundColor Green
-} catch {
+$ErrorActionPreference = "Continue"
+$edgeCheck = & $PYTHON -m edge_tts --version 2>&1
+if ($LASTEXITCODE -ne 0) {
     Write-Host "  Installing edge-tts..." -ForegroundColor Yellow
-    & $PYTHON -m pip install edge-tts --quiet 2>&1 | Out-Null
+    & $PYTHON -m pip install edge-tts --quiet 2>&1 | Out-Host
     Write-Host "  OK: edge-tts installed" -ForegroundColor Green
+} else {
+    Write-Host "  OK: edge-tts ready" -ForegroundColor Green
 }
 
-try {
-    ffmpeg -version 2>&1 | Out-Null
-    Write-Host "  OK: ffmpeg ready" -ForegroundColor Green
-} catch {
+$ffmpegCheck = ffmpeg -version 2>&1
+if ($LASTEXITCODE -ne 0) {
     Write-Host "  ERROR: ffmpeg not found! Install from https://ffmpeg.org/download.html" -ForegroundColor Red
     exit 1
+} else {
+    Write-Host "  OK: ffmpeg ready" -ForegroundColor Green
 }
+$ErrorActionPreference = "Stop"
 
 # Disable sleep
 powercfg /change standby-timeout-ac 0 2>$null
@@ -220,7 +226,9 @@ for ($i = 0; $i -lt $Total; $i++) {
             $cmd = $cmd + " --scale=" + $QUALITY_SCALE
         }
 
+        $ErrorActionPreference = "Continue"
         $output = Invoke-Expression $cmd 2>&1
+        $ErrorActionPreference = "Stop"
 
         $elapsed = (Get-Date) - $videoStart
         $secs = [Math]::Round($elapsed.TotalSeconds)
