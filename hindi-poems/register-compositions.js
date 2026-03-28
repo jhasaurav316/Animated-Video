@@ -133,7 +133,7 @@ function main() {
   content += `};\n\n`;
 
   // RemotionRoot component
-  content += `export const RemotionRoot: React.FC = () => {\n`;
+  content += `export const HindiRemotionRoot: React.FC = () => {\n`;
   content += `  return (\n`;
   content += `    <>\n`;
 

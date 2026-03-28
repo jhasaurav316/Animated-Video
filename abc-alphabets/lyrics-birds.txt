@@ -1,0 +1,347 @@
+======================================================================
+LYRICS: BIRD VIDEOS (5 Videos)
+======================================================================
+
+#1. Colorful Birds (birds-colorful)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/birds-colorful-audio/
+
+Letter 0: A for Albatross
+Letter 1: B for Blue Jay
+Letter 2: C for Cardinal
+Letter 3: D for Dove
+Letter 4: E for Eagle
+Letter 5: F for Flamingo
+Letter 6: G for Goldfinch
+Letter 7: H for Hummingbird
+Letter 8: I for Ibis
+Letter 9: J for Jay
+Letter 10: K for Kiwi
+Letter 11: L for Lark
+Letter 12: M for Macaw
+Letter 13: N for Nightingale
+Letter 14: O for Oriole
+Letter 15: P for Peacock
+Letter 16: Q for Quail
+Letter 17: R for Robin
+Letter 18: S for Sparrow
+Letter 19: T for Toucan
+Letter 20: U for Umbrellabird
+Letter 21: V for Vulture
+Letter 22: W for Woodpecker
+Letter 23: X for Xenops
+Letter 24: Y for Yellow Warbler
+Letter 25: Z for Zebra Finch
+Letter 26: K for Kingfisher
+Letter 27: P for Parakeet
+Letter 28: C for Cockatoo
+Letter 29: P for Pelican
+
+PLAIN TEXT:
+A for Albatross
+B for Blue Jay
+C for Cardinal
+D for Dove
+E for Eagle
+F for Flamingo
+G for Goldfinch
+H for Hummingbird
+I for Ibis
+J for Jay
+K for Kiwi
+L for Lark
+M for Macaw
+N for Nightingale
+O for Oriole
+P for Peacock
+Q for Quail
+R for Robin
+S for Sparrow
+T for Toucan
+U for Umbrellabird
+V for Vulture
+W for Woodpecker
+X for Xenops
+Y for Yellow Warbler
+Z for Zebra Finch
+K for Kingfisher
+P for Parakeet
+C for Cockatoo
+P for Pelican
+
+
+#2. Tropical Birds (birds-tropical)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/birds-tropical-audio/
+
+Letter 0: A for Amazon Parrot
+Letter 1: B for Bird of Paradise
+Letter 2: C for Cockatiel
+Letter 3: D for Drongo
+Letter 4: E for Emerald Dove
+Letter 5: F for Frigate Bird
+Letter 6: G for Green Parrot
+Letter 7: H for Hoopoe
+Letter 8: I for Indian Roller
+Letter 9: J for Jacana
+Letter 10: K for Koel
+Letter 11: L for Lorikeet
+Letter 12: M for Myna
+Letter 13: N for Nuthatch
+Letter 14: O for Oropendola
+Letter 15: P for Parrotlet
+Letter 16: Q for Quetzal
+Letter 17: R for Rosella
+Letter 18: S for Sunbird
+Letter 19: T for Trogon
+Letter 20: U for Umbrella Cockatoo
+Letter 21: V for Violet Sabrewing
+Letter 22: W for Wren
+Letter 23: X for Xenops
+Letter 24: Y for Yellowhammer
+Letter 25: Z for Zosterops
+Letter 26: T for Tanager
+Letter 27: S for Starling
+Letter 28: B for Bulbul
+Letter 29: C for Cuckoo
+
+PLAIN TEXT:
+A for Amazon Parrot
+B for Bird of Paradise
+C for Cockatiel
+D for Drongo
+E for Emerald Dove
+F for Frigate Bird
+G for Green Parrot
+H for Hoopoe
+I for Indian Roller
+J for Jacana
+K for Koel
+L for Lorikeet
+M for Myna
+N for Nuthatch
+O for Oropendola
+P for Parrotlet
+Q for Quetzal
+R for Rosella
+S for Sunbird
+T for Trogon
+U for Umbrella Cockatoo
+V for Violet Sabrewing
+W for Wren
+X for Xenops
+Y for Yellowhammer
+Z for Zosterops
+T for Tanager
+S for Starling
+B for Bulbul
+C for Cuckoo
+
+
+#3. Birds of Flight (birds-flying)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/birds-flying-audio/
+
+Letter 0: A for Albatross
+Letter 1: B for Bald Eagle
+Letter 2: C for Condor
+Letter 3: D for Duck
+Letter 4: E for Egyptian Vulture
+Letter 5: F for Falcon
+Letter 6: G for Goose
+Letter 7: H for Hawk
+Letter 8: I for Imperial Eagle
+Letter 9: J for Jabiru
+Letter 10: K for Kestrel
+Letter 11: L for Loon
+Letter 12: M for Merlin
+Letter 13: N for Northern Harrier
+Letter 14: O for Osprey
+Letter 15: P for Peregrine
+Letter 16: Q for Quail
+Letter 17: R for Red Kite
+Letter 18: S for Stork
+Letter 19: T for Tern
+Letter 20: U for Upland Sandpiper
+Letter 21: V for Verdin
+Letter 22: W for Wagtail
+Letter 23: X for Xantus
+Letter 24: Y for Yellowlegs
+Letter 25: Z for Zitting Cisticola
+Letter 26: S for Swift
+Letter 27: C for Crane
+Letter 28: H for Heron
+Letter 29: P for Pelican
+
+PLAIN TEXT:
+A for Albatross
+B for Bald Eagle
+C for Condor
+D for Duck
+E for Egyptian Vulture
+F for Falcon
+G for Goose
+H for Hawk
+I for Imperial Eagle
+J for Jabiru
+K for Kestrel
+L for Loon
+M for Merlin
+N for Northern Harrier
+O for Osprey
+P for Peregrine
+Q for Quail
+R for Red Kite
+S for Stork
+T for Tern
+U for Upland Sandpiper
+V for Verdin
+W for Wagtail
+X for Xantus
+Y for Yellowlegs
+Z for Zitting Cisticola
+S for Swift
+C for Crane
+H for Heron
+P for Pelican
+
+
+#4. Garden Birds (birds-garden)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/birds-garden-audio/
+
+Letter 0: A for American Robin
+Letter 1: B for Bluebird
+Letter 2: C for Chickadee
+Letter 3: D for Dove
+Letter 4: E for Eastern Bluebird
+Letter 5: F for Finch
+Letter 6: G for Grackle
+Letter 7: H for House Sparrow
+Letter 8: I for Indigo Bunting
+Letter 9: J for Junco
+Letter 10: K for Killdeer
+Letter 11: L for Linnet
+Letter 12: M for Mockingbird
+Letter 13: N for Nuthatch
+Letter 14: O for Oriole
+Letter 15: P for Pigeon
+Letter 16: Q for Quail
+Letter 17: R for Redstart
+Letter 18: S for Swallow
+Letter 19: T for Thrasher
+Letter 20: U for Ural Owl
+Letter 21: V for Vireo
+Letter 22: W for Waxwing
+Letter 23: X for Xenops
+Letter 24: Y for Yellowthroat
+Letter 25: Z for Zenaida Dove
+Letter 26: T for Titmouse
+Letter 27: W for Wren
+Letter 28: S for Starling
+Letter 29: C for Catbird
+
+PLAIN TEXT:
+A for American Robin
+B for Bluebird
+C for Chickadee
+D for Dove
+E for Eastern Bluebird
+F for Finch
+G for Grackle
+H for House Sparrow
+I for Indigo Bunting
+J for Junco
+K for Killdeer
+L for Linnet
+M for Mockingbird
+N for Nuthatch
+O for Oriole
+P for Pigeon
+Q for Quail
+R for Redstart
+S for Swallow
+T for Thrasher
+U for Ural Owl
+V for Vireo
+W for Waxwing
+X for Xenops
+Y for Yellowthroat
+Z for Zenaida Dove
+T for Titmouse
+W for Wren
+S for Starling
+C for Catbird
+
+
+#5. Night Birds (birds-night)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/birds-night-audio/
+
+Letter 0: A for Australian Owlet
+Letter 1: B for Barn Owl
+Letter 2: C for Chuck-will's-widow
+Letter 3: D for Dark Owl
+Letter 4: E for Elf Owl
+Letter 5: F for Frogmouth
+Letter 6: G for Great Horned Owl
+Letter 7: H for Hobby
+Letter 8: I for Indian Scops Owl
+Letter 9: J for Japanese Night Heron
+Letter 10: K for Kakapo
+Letter 11: L for Long-eared Owl
+Letter 12: M for Morepork
+Letter 13: N for Nightjar
+Letter 14: O for Oilbird
+Letter 15: P for Potoo
+Letter 16: Q for Quail Plover
+Letter 17: R for Razorbill
+Letter 18: S for Snowy Owl
+Letter 19: T for Tawny Owl
+Letter 20: U for Ural Owl
+Letter 21: V for Vermiculated Screech
+Letter 22: W for Whippoorwill
+Letter 23: X for Xenops
+Letter 24: Y for Yellow Night Heron
+Letter 25: Z for Zimmer's Tapaculo
+Letter 26: E for Eagle Owl
+Letter 27: S for Screech Owl
+Letter 28: B for Boobook
+Letter 29: S for Short-eared Owl
+
+PLAIN TEXT:
+A for Australian Owlet
+B for Barn Owl
+C for Chuck-will's-widow
+D for Dark Owl
+E for Elf Owl
+F for Frogmouth
+G for Great Horned Owl
+H for Hobby
+I for Indian Scops Owl
+J for Japanese Night Heron
+K for Kakapo
+L for Long-eared Owl
+M for Morepork
+N for Nightjar
+O for Oilbird
+P for Potoo
+Q for Quail Plover
+R for Razorbill
+S for Snowy Owl
+T for Tawny Owl
+U for Ural Owl
+V for Vermiculated Screech
+W for Whippoorwill
+X for Xenops
+Y for Yellow Night Heron
+Z for Zimmer's Tapaculo
+E for Eagle Owl
+S for Screech Owl
+B for Boobook
+S for Short-eared Owl

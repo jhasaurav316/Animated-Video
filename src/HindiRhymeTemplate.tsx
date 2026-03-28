@@ -203,10 +203,10 @@ const NightStar: React.FC<{
   );
 };
 
-const NIGHT_STARS = Array.from({ length: 80 }, (_, i) => ({
+const NIGHT_STARS = Array.from({ length: 120 }, (_, i) => ({
   x: (i * 37 + 13) % 100,
   y: (i * 23 + 7) % 100,
-  size: 2 + (i % 5) * 1.5,
+  size: 3 + (i % 5) * 2.5,
   delay: i * 12,
   brightness: 0.5 + (i % 3) * 0.25,
 }));
@@ -350,12 +350,54 @@ const Moon: React.FC<{ scale?: number }> = ({ scale = 1 }) => {
   );
 };
 
+const FloatingEmoji: React.FC<{
+  emoji: string;
+  x: number;
+  y: number;
+  size: number;
+  speed: number;
+  delay: number;
+}> = ({ emoji, x, y, size, speed, delay }) => {
+  const frame = useCurrentFrame();
+  const floatY = Math.sin((frame + delay) * speed) * 20;
+  const floatX = Math.cos((frame + delay) * speed * 0.7) * 10;
+  const rotation = Math.sin((frame + delay) * 0.03) * 15;
+  const pulse = 1 + Math.sin((frame + delay) * 0.05) * 0.15;
+
+  return (
+    <div
+      style={{
+        position: "absolute",
+        left: `${x}%`,
+        top: `${y}%`,
+        fontSize: size,
+        transform: `translate(${floatX}px, ${floatY}px) rotate(${rotation}deg) scale(${pulse})`,
+        filter: "drop-shadow(0 0 12px rgba(255,255,200,0.5))",
+        zIndex: 5,
+      }}
+    >
+      {emoji}
+    </div>
+  );
+};
+
 const NightDecorations: React.FC = () => (
   <>
     <NightStarField />
-    <ShootingStar startFrame={20} startX={100} startY={50} />
-    <ShootingStar startFrame={80} startX={600} startY={100} />
-    <Moon scale={0.7} />
+    <ShootingStar startFrame={15} startX={80} startY={40} />
+    <ShootingStar startFrame={50} startX={500} startY={80} />
+    <ShootingStar startFrame={90} startX={300} startY={30} />
+    <ShootingStar startFrame={130} startX={700} startY={60} />
+    <Moon scale={1.2} />
+    {/* Floating night emojis */}
+    <FloatingEmoji emoji="🌙" x={5} y={15} size={60} speed={0.04} delay={0} />
+    <FloatingEmoji emoji="⭐" x={15} y={70} size={50} speed={0.05} delay={20} />
+    <FloatingEmoji emoji="✨" x={80} y={25} size={45} speed={0.045} delay={40} />
+    <FloatingEmoji emoji="🌟" x={70} y={75} size={55} speed={0.035} delay={60} />
+    <FloatingEmoji emoji="💫" x={40} y={10} size={40} speed={0.05} delay={80} />
+    <FloatingEmoji emoji="⭐" x={90} y={55} size={48} speed={0.04} delay={100} />
+    <FloatingEmoji emoji="🌙" x={25} y={85} size={42} speed={0.045} delay={30} />
+    <FloatingEmoji emoji="✨" x={60} y={5} size={38} speed={0.05} delay={50} />
   </>
 );
 
@@ -511,6 +553,12 @@ const FarmDecorations: React.FC = () => (
     <FarmCloud x={900} y={5} size={1.1} speed={0.35} />
     <FarmSun />
     <FarmGrass />
+    <FloatingEmoji emoji="🐔" x={8} y={65} size={55} speed={0.04} delay={0} />
+    <FloatingEmoji emoji="🐑" x={85} y={60} size={60} speed={0.035} delay={20} />
+    <FloatingEmoji emoji="🐄" x={15} y={35} size={50} speed={0.045} delay={40} />
+    <FloatingEmoji emoji="🐷" x={75} y={30} size={48} speed={0.04} delay={60} />
+    <FloatingEmoji emoji="🌻" x={50} y={8} size={45} speed={0.05} delay={80} />
+    <FloatingEmoji emoji="🐥" x={92} y={45} size={42} speed={0.045} delay={30} />
   </>
 );
 
@@ -633,6 +681,11 @@ const OceanDecorations: React.FC = () => (
     <OceanFish y={70} size={50} speed={1.2} emoji="🐠" direction={1} />
     <OceanFish y={80} size={40} speed={0.8} emoji="🐟" direction={-1} />
     <OceanFish y={60} size={35} speed={1.5} emoji="🐙" direction={1} />
+    <FloatingEmoji emoji="🐬" x={10} y={20} size={55} speed={0.04} delay={0} />
+    <FloatingEmoji emoji="🦀" x={85} y={70} size={50} speed={0.035} delay={20} />
+    <FloatingEmoji emoji="🐚" x={20} y={80} size={45} speed={0.045} delay={40} />
+    <FloatingEmoji emoji="🌊" x={75} y={15} size={52} speed={0.04} delay={60} />
+    <FloatingEmoji emoji="🦈" x={50} y={50} size={48} speed={0.05} delay={80} />
   </>
 );
 
@@ -734,6 +787,12 @@ const GardenDecorations: React.FC = () => (
     <GardenButterfly startX={80} startY={30} seed={4.3} />
     <GardenButterfly startX={35} startY={25} seed={6.1} />
     <GardenFlowers />
+    <FloatingEmoji emoji="🌸" x={8} y={20} size={55} speed={0.04} delay={0} />
+    <FloatingEmoji emoji="🦋" x={88} y={35} size={50} speed={0.045} delay={20} />
+    <FloatingEmoji emoji="🌺" x={20} y={70} size={48} speed={0.035} delay={40} />
+    <FloatingEmoji emoji="🌷" x={75} y={10} size={52} speed={0.04} delay={60} />
+    <FloatingEmoji emoji="🐝" x={45} y={80} size={42} speed={0.05} delay={80} />
+    <FloatingEmoji emoji="🌻" x={90} y={65} size={46} speed={0.04} delay={30} />
   </>
 );
 
@@ -846,6 +905,12 @@ const PlaygroundDecorations: React.FC = () => (
         speed={0.4 + i * 0.1}
       />
     ))}
+    <FloatingEmoji emoji="🎈" x={10} y={15} size={55} speed={0.04} delay={0} />
+    <FloatingEmoji emoji="🎪" x={85} y={25} size={50} speed={0.035} delay={20} />
+    <FloatingEmoji emoji="🎠" x={20} y={75} size={48} speed={0.045} delay={40} />
+    <FloatingEmoji emoji="🎡" x={78} y={70} size={52} speed={0.04} delay={60} />
+    <FloatingEmoji emoji="⚽" x={50} y={10} size={42} speed={0.05} delay={80} />
+    <FloatingEmoji emoji="🪁" x={92} y={50} size={46} speed={0.04} delay={30} />
   </>
 );
 
@@ -947,6 +1012,11 @@ const SpaceDecorations: React.FC = () => (
     />
     <SpacePlanet x={85} y={70} size={45} color1="#81D4FA" color2="#01579B" />
     <SpaceRocket />
+    <FloatingEmoji emoji="🪐" x={10} y={40} size={55} speed={0.03} delay={0} />
+    <FloatingEmoji emoji="🛸" x={50} y={8} size={50} speed={0.04} delay={20} />
+    <FloatingEmoji emoji="☄️" x={88} y={45} size={48} speed={0.035} delay={40} />
+    <FloatingEmoji emoji="👽" x={25} y={80} size={45} speed={0.045} delay={60} />
+    <FloatingEmoji emoji="🌍" x={70} y={75} size={52} speed={0.04} delay={80} />
   </>
 );
 
@@ -1079,6 +1149,12 @@ const ForestDecorations: React.FC = () => (
     <ForestBird x={25} y={15} seed={1} />
     <ForestBird x={60} y={10} seed={3.5} />
     <ForestBird x={80} y={20} seed={5.8} />
+    <FloatingEmoji emoji="🦊" x={10} y={50} size={55} speed={0.04} delay={0} />
+    <FloatingEmoji emoji="🐿️" x={85} y={35} size={48} speed={0.035} delay={20} />
+    <FloatingEmoji emoji="🦉" x={45} y={8} size={52} speed={0.045} delay={40} />
+    <FloatingEmoji emoji="🐻" x={75} y={65} size={50} speed={0.04} delay={60} />
+    <FloatingEmoji emoji="🦌" x={20} y={75} size={55} speed={0.035} delay={80} />
+    <FloatingEmoji emoji="🍄" x={90} y={55} size={42} speed={0.05} delay={30} />
   </>
 );
 
@@ -1238,6 +1314,11 @@ const CityDecorations: React.FC = () => (
     <CityCar y={2} speed={2} emoji="🚗" direction={1} />
     <CityCar y={3} speed={1.5} emoji="🚌" direction={-1} />
     <CityCar y={1} speed={2.5} emoji="🚕" direction={1} />
+    <FloatingEmoji emoji="🏢" x={10} y={15} size={50} speed={0.035} delay={0} />
+    <FloatingEmoji emoji="✈️" x={50} y={5} size={55} speed={0.04} delay={20} />
+    <FloatingEmoji emoji="🚁" x={85} y={20} size={48} speed={0.045} delay={40} />
+    <FloatingEmoji emoji="🏪" x={20} y={70} size={45} speed={0.04} delay={60} />
+    <FloatingEmoji emoji="🚦" x={75} y={65} size={42} speed={0.035} delay={80} />
   </>
 );
 
@@ -1276,15 +1357,15 @@ const SparkleBurst: React.FC<{ color: string; emojis: string[] }> = ({
 
   return (
     <>
-      {Array.from({ length: 12 }, (_, i) => {
-        const angle = (i / 12) * Math.PI * 2 + frame * 0.02;
-        const r = 280 + Math.sin(frame * 0.05 + i * 2) * 60;
+      {Array.from({ length: 20 }, (_, i) => {
+        const angle = (i / 20) * Math.PI * 2 + frame * 0.02;
+        const r = 320 + Math.sin(frame * 0.05 + i * 2) * 80;
         const x = Math.cos(angle) * r;
         const y = Math.sin(angle) * r;
         const sparkleOpacity = interpolate(
           Math.sin((frame + i * 20) * 0.1),
           [-1, 1],
-          [0.1, 0.8],
+          [0.15, 0.9],
         );
 
         return (
@@ -1294,10 +1375,10 @@ const SparkleBurst: React.FC<{ color: string; emojis: string[] }> = ({
               position: "absolute",
               left: `calc(50% + ${x}px)`,
               top: `calc(50% + ${y}px)`,
-              fontSize: 24 + (i % 3) * 8,
+              fontSize: 40 + (i % 3) * 12,
               opacity: sparkleOpacity,
               transform: `rotate(${frame * 2 + i * 30}deg)`,
-              filter: `drop-shadow(0 0 8px ${color})`,
+              filter: `drop-shadow(0 0 12px ${color})`,
             }}
           >
             {emojis[i % emojis.length]}
@@ -1388,10 +1469,10 @@ const VerseScene: React.FC<{
         >
           <div
             style={{
-              fontSize: 200,
+              fontSize: 280,
               lineHeight: 1,
               transform: `rotateY(${emojiRotY}deg)`,
-              filter: `drop-shadow(0 0 30px ${accentColor}66)`,
+              filter: `drop-shadow(0 0 40px ${accentColor}88)`,
             }}
           >
             {emoji}
@@ -1432,13 +1513,13 @@ const VerseScene: React.FC<{
               <div
                 key={wi}
                 style={{
-                  fontSize: 90,
+                  fontSize: 110,
                   fontWeight: 700,
                   color: "#fff",
                   fontFamily: cleanFont,
-                  textShadow: `0 0 20px ${accentColor}88,
-                               0 0 40px ${accentColor}44,
-                               4px 4px 0px rgba(0,0,0,0.3)`,
+                  textShadow: `0 0 25px ${accentColor}aa,
+                               0 0 50px ${accentColor}55,
+                               5px 5px 0px rgba(0,0,0,0.4)`,
                   opacity: wordOpacity,
                   transform: `scale(${wordScale}) translateY(${wordY}px)`,
                 }}

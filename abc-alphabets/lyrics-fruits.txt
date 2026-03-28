@@ -1,0 +1,347 @@
+======================================================================
+LYRICS: FRUIT VIDEOS (5 Videos)
+======================================================================
+
+#1. Tropical Fruits (fruits-tropical)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-tropical-audio/
+
+Letter 0: A for Acai
+Letter 1: B for Banana
+Letter 2: C for Coconut
+Letter 3: D for Dragonfruit
+Letter 4: E for Elderberry
+Letter 5: F for Fig
+Letter 6: G for Guava
+Letter 7: H for Honeydew
+Letter 8: I for Indian Fig
+Letter 9: J for Jackfruit
+Letter 10: K for Kumquat
+Letter 11: L for Lychee
+Letter 12: M for Mango
+Letter 13: N for Noni
+Letter 14: O for Olive
+Letter 15: P for Papaya
+Letter 16: Q for Quince
+Letter 17: R for Rambutan
+Letter 18: S for Starfruit
+Letter 19: T for Tamarind
+Letter 20: U for Ugli Fruit
+Letter 21: V for Vanilla
+Letter 22: W for Watermelon
+Letter 23: X for Ximenia
+Letter 24: Y for Yellow Plum
+Letter 25: Z for Zucchini
+Letter 26: P for Passion Fruit
+Letter 27: P for Pineapple
+Letter 28: K for Kiwi
+Letter 29: A for Avocado
+
+PLAIN TEXT:
+A for Acai
+B for Banana
+C for Coconut
+D for Dragonfruit
+E for Elderberry
+F for Fig
+G for Guava
+H for Honeydew
+I for Indian Fig
+J for Jackfruit
+K for Kumquat
+L for Lychee
+M for Mango
+N for Noni
+O for Olive
+P for Papaya
+Q for Quince
+R for Rambutan
+S for Starfruit
+T for Tamarind
+U for Ugli Fruit
+V for Vanilla
+W for Watermelon
+X for Ximenia
+Y for Yellow Plum
+Z for Zucchini
+P for Passion Fruit
+P for Pineapple
+K for Kiwi
+A for Avocado
+
+
+#2. Berry Bonanza (fruits-berries)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-berries-audio/
+
+Letter 0: A for Acerola
+Letter 1: B for Blueberry
+Letter 2: C for Cranberry
+Letter 3: D for Dewberry
+Letter 4: E for Elderberry
+Letter 5: F for Feijoa
+Letter 6: G for Gooseberry
+Letter 7: H for Huckleberry
+Letter 8: I for Indian Gooseberry
+Letter 9: J for Juniper Berry
+Letter 10: K for Kiwi Berry
+Letter 11: L for Lingonberry
+Letter 12: M for Mulberry
+Letter 13: N for Nectarine
+Letter 14: O for Olallieberry
+Letter 15: P for Persimmon
+Letter 16: Q for Quandong
+Letter 17: R for Raspberry
+Letter 18: S for Strawberry
+Letter 19: T for Tayberry
+Letter 20: U for Uva Ursi
+Letter 21: V for Voavanga
+Letter 22: W for Wineberry
+Letter 23: X for Ximenia
+Letter 24: Y for Youngberry
+Letter 25: Z for Zante Currant
+Letter 26: B for Blackberry
+Letter 27: C for Cherry
+Letter 28: G for Grape
+Letter 29: B for Boysenberry
+
+PLAIN TEXT:
+A for Acerola
+B for Blueberry
+C for Cranberry
+D for Dewberry
+E for Elderberry
+F for Feijoa
+G for Gooseberry
+H for Huckleberry
+I for Indian Gooseberry
+J for Juniper Berry
+K for Kiwi Berry
+L for Lingonberry
+M for Mulberry
+N for Nectarine
+O for Olallieberry
+P for Persimmon
+Q for Quandong
+R for Raspberry
+S for Strawberry
+T for Tayberry
+U for Uva Ursi
+V for Voavanga
+W for Wineberry
+X for Ximenia
+Y for Youngberry
+Z for Zante Currant
+B for Blackberry
+C for Cherry
+G for Grape
+B for Boysenberry
+
+
+#3. Citrus & Sour Fruits (fruits-citrus)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-citrus-audio/
+
+Letter 0: A for Asian Pear
+Letter 1: B for Blood Orange
+Letter 2: C for Clementine
+Letter 3: D for Date
+Letter 4: E for Etrog
+Letter 5: F for Finger Lime
+Letter 6: G for Grapefruit
+Letter 7: H for Hassaku
+Letter 8: I for Iyokan
+Letter 9: J for Jabara
+Letter 10: K for Kabosu
+Letter 11: L for Lemon
+Letter 12: M for Mandarin
+Letter 13: N for Navel Orange
+Letter 14: O for Orange
+Letter 15: P for Pomelo
+Letter 16: Q for Quince
+Letter 17: R for Rangpur
+Letter 18: S for Satsuma
+Letter 19: T for Tangerine
+Letter 20: U for Ugly Fruit
+Letter 21: V for Valencia Orange
+Letter 22: W for White Grapefruit
+Letter 23: X for Xiangcheng
+Letter 24: Y for Yuzu
+Letter 25: Z for Zabon
+Letter 26: L for Lime
+Letter 27: K for Kumquat
+Letter 28: C for Calamansi
+Letter 29: B for Bergamot
+
+PLAIN TEXT:
+A for Asian Pear
+B for Blood Orange
+C for Clementine
+D for Date
+E for Etrog
+F for Finger Lime
+G for Grapefruit
+H for Hassaku
+I for Iyokan
+J for Jabara
+K for Kabosu
+L for Lemon
+M for Mandarin
+N for Navel Orange
+O for Orange
+P for Pomelo
+Q for Quince
+R for Rangpur
+S for Satsuma
+T for Tangerine
+U for Ugly Fruit
+V for Valencia Orange
+W for White Grapefruit
+X for Xiangcheng
+Y for Yuzu
+Z for Zabon
+L for Lime
+K for Kumquat
+C for Calamansi
+B for Bergamot
+
+
+#4. Garden Fruits (fruits-garden)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-garden-audio/
+
+Letter 0: A for Apple
+Letter 1: B for Blackcurrant
+Letter 2: C for Cherry
+Letter 3: D for Damson
+Letter 4: E for Elderberry
+Letter 5: F for Fig
+Letter 6: G for Greengage
+Letter 7: H for Hazelnut
+Letter 8: I for Indian Jujube
+Letter 9: J for Jujube
+Letter 10: K for Kiwi
+Letter 11: L for Lemon
+Letter 12: M for Melon
+Letter 13: N for Nectarine
+Letter 14: O for Orange
+Letter 15: P for Peach
+Letter 16: Q for Quince
+Letter 17: R for Redcurrant
+Letter 18: S for Strawberry
+Letter 19: T for Tomato
+Letter 20: U for Ugli
+Letter 21: V for Victoria Plum
+Letter 22: W for Walnut
+Letter 23: X for Ximenia
+Letter 24: Y for Yellow Apple
+Letter 25: Z for Zucchini
+Letter 26: P for Pear
+Letter 27: P for Plum
+Letter 28: A for Apricot
+Letter 29: G for Grape
+
+PLAIN TEXT:
+A for Apple
+B for Blackcurrant
+C for Cherry
+D for Damson
+E for Elderberry
+F for Fig
+G for Greengage
+H for Hazelnut
+I for Indian Jujube
+J for Jujube
+K for Kiwi
+L for Lemon
+M for Melon
+N for Nectarine
+O for Orange
+P for Peach
+Q for Quince
+R for Redcurrant
+S for Strawberry
+T for Tomato
+U for Ugli
+V for Victoria Plum
+W for Walnut
+X for Ximenia
+Y for Yellow Apple
+Z for Zucchini
+P for Pear
+P for Plum
+A for Apricot
+G for Grape
+
+
+#5. Exotic Fruits (fruits-exotic)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-exotic-audio/
+
+Letter 0: A for Ackee
+Letter 1: B for Buddha's Hand
+Letter 2: C for Cherimoya
+Letter 3: D for Durian
+Letter 4: E for Ensete
+Letter 5: F for Feijoa
+Letter 6: G for Gac Fruit
+Letter 7: H for Horned Melon
+Letter 8: I for Ice Cream Bean
+Letter 9: J for Jabuticaba
+Letter 10: K for Kiwano
+Letter 11: L for Longan
+Letter 12: M for Mangosteen
+Letter 13: N for Naranjilla
+Letter 14: O for Osage Orange
+Letter 15: P for Pitaya
+Letter 16: Q for Quenepa
+Letter 17: R for Rollinia
+Letter 18: S for Sapodilla
+Letter 19: T for Tamarillo
+Letter 20: U for Uvaia
+Letter 21: V for Velvet Apple
+Letter 22: W for Wax Apple
+Letter 23: X for Ximenia
+Letter 24: Y for Yellow Mangosteen
+Letter 25: Z for Zapote
+Letter 26: S for Snake Fruit
+Letter 27: S for Star Apple
+Letter 28: S for Soursop
+Letter 29: C for Cempedak
+
+PLAIN TEXT:
+A for Ackee
+B for Buddha's Hand
+C for Cherimoya
+D for Durian
+E for Ensete
+F for Feijoa
+G for Gac Fruit
+H for Horned Melon
+I for Ice Cream Bean
+J for Jabuticaba
+K for Kiwano
+L for Longan
+M for Mangosteen
+N for Naranjilla
+O for Osage Orange
+P for Pitaya
+Q for Quenepa
+R for Rollinia
+S for Sapodilla
+T for Tamarillo
+U for Uvaia
+V for Velvet Apple
+W for Wax Apple
+X for Ximenia
+Y for Yellow Mangosteen
+Z for Zapote
+S for Snake Fruit
+S for Star Apple
+S for Soursop
+C for Cempedak

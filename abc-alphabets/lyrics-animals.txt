@@ -1,0 +1,347 @@
+======================================================================
+LYRICS: ANIMAL VIDEOS (5 Videos)
+======================================================================
+
+#1. Safari Animals (animals-safari)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/animals-safari-audio/
+
+Letter 0: A for Antelope
+Letter 1: B for Buffalo
+Letter 2: C for Cheetah
+Letter 3: E for Elephant
+Letter 4: G for Giraffe
+Letter 5: H for Hippo
+Letter 6: H for Hyena
+Letter 7: I for Impala
+Letter 8: J for Jackal
+Letter 9: K for Kudu
+Letter 10: L for Lion
+Letter 11: L for Leopard
+Letter 12: M for Meerkat
+Letter 13: N for Nyala
+Letter 14: O for Ostrich
+Letter 15: P for Pangolin
+Letter 16: Q for Quokka
+Letter 17: R for Rhino
+Letter 18: S for Springbok
+Letter 19: T for Tiger
+Letter 20: U for Umbrellabird
+Letter 21: V for Vulture
+Letter 22: W for Warthog
+Letter 23: X for Xerus
+Letter 24: Y for Yak
+Letter 25: Z for Zebra
+Letter 26: F for Flamingo
+Letter 27: G for Gorilla
+Letter 28: W for Wildebeest
+Letter 29: B for Baboon
+
+PLAIN TEXT:
+A for Antelope
+B for Buffalo
+C for Cheetah
+E for Elephant
+G for Giraffe
+H for Hippo
+H for Hyena
+I for Impala
+J for Jackal
+K for Kudu
+L for Lion
+L for Leopard
+M for Meerkat
+N for Nyala
+O for Ostrich
+P for Pangolin
+Q for Quokka
+R for Rhino
+S for Springbok
+T for Tiger
+U for Umbrellabird
+V for Vulture
+W for Warthog
+X for Xerus
+Y for Yak
+Z for Zebra
+F for Flamingo
+G for Gorilla
+W for Wildebeest
+B for Baboon
+
+
+#2. Ocean Animals (animals-ocean)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/animals-ocean-audio/
+
+Letter 0: A for Angelfish
+Letter 1: B for Barracuda
+Letter 2: C for Clownfish
+Letter 3: D for Dolphin
+Letter 4: E for Eel
+Letter 5: F for Flounder
+Letter 6: G for Grouper
+Letter 7: H for Hammerhead
+Letter 8: I for Iguana
+Letter 9: J for Jellyfish
+Letter 10: K for Killer Whale
+Letter 11: L for Lobster
+Letter 12: M for Manatee
+Letter 13: N for Narwhal
+Letter 14: O for Octopus
+Letter 15: P for Pufferfish
+Letter 16: Q for Quahog
+Letter 17: R for Ray
+Letter 18: S for Seahorse
+Letter 19: T for Turtle
+Letter 20: U for Urchin
+Letter 21: V for Viper Fish
+Letter 22: W for Walrus
+Letter 23: X for X-ray Fish
+Letter 24: Y for Yellow Tang
+Letter 25: Z for Zebrafish
+Letter 26: S for Starfish
+Letter 27: C for Coral
+Letter 28: S for Shrimp
+Letter 29: C for Crab
+
+PLAIN TEXT:
+A for Angelfish
+B for Barracuda
+C for Clownfish
+D for Dolphin
+E for Eel
+F for Flounder
+G for Grouper
+H for Hammerhead
+I for Iguana
+J for Jellyfish
+K for Killer Whale
+L for Lobster
+M for Manatee
+N for Narwhal
+O for Octopus
+P for Pufferfish
+Q for Quahog
+R for Ray
+S for Seahorse
+T for Turtle
+U for Urchin
+V for Viper Fish
+W for Walrus
+X for X-ray Fish
+Y for Yellow Tang
+Z for Zebrafish
+S for Starfish
+C for Coral
+S for Shrimp
+C for Crab
+
+
+#3. Pet Animals (animals-pets)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/animals-pets-audio/
+
+Letter 0: A for Angora Cat
+Letter 1: B for Beagle
+Letter 2: C for Canary
+Letter 3: D for Dachshund
+Letter 4: E for English Bulldog
+Letter 5: F for Ferret
+Letter 6: G for Golden Retriever
+Letter 7: H for Hamster
+Letter 8: I for Iguana
+Letter 9: J for Japanese Chin
+Letter 10: K for Kitten
+Letter 11: L for Labrador
+Letter 12: M for Maine Coon
+Letter 13: N for Newfoundland
+Letter 14: O for Otter
+Letter 15: P for Poodle
+Letter 16: Q for Quaker Parrot
+Letter 17: R for Rabbit
+Letter 18: S for Siamese
+Letter 19: T for Tabby Cat
+Letter 20: U for Uromastyx
+Letter 21: V for Vizsla
+Letter 22: W for Whippet
+Letter 23: X for Xolo Dog
+Letter 24: Y for Yorkshire
+Letter 25: Z for Zebrafish
+Letter 26: P for Pug
+Letter 27: P for Persian Cat
+Letter 28: C for Cockatiel
+Letter 29: D for Dalmatian
+
+PLAIN TEXT:
+A for Angora Cat
+B for Beagle
+C for Canary
+D for Dachshund
+E for English Bulldog
+F for Ferret
+G for Golden Retriever
+H for Hamster
+I for Iguana
+J for Japanese Chin
+K for Kitten
+L for Labrador
+M for Maine Coon
+N for Newfoundland
+O for Otter
+P for Poodle
+Q for Quaker Parrot
+R for Rabbit
+S for Siamese
+T for Tabby Cat
+U for Uromastyx
+V for Vizsla
+W for Whippet
+X for Xolo Dog
+Y for Yorkshire
+Z for Zebrafish
+P for Pug
+P for Persian Cat
+C for Cockatiel
+D for Dalmatian
+
+
+#4. Jungle Animals (animals-jungle)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/animals-jungle-audio/
+
+Letter 0: A for Anaconda
+Letter 1: B for Bat
+Letter 2: C for Chameleon
+Letter 3: D for Dart Frog
+Letter 4: E for Eagle
+Letter 5: F for Falcon
+Letter 6: G for Gecko
+Letter 7: H for Hornbill
+Letter 8: I for Ibis
+Letter 9: J for Jaguar
+Letter 10: K for Kingfisher
+Letter 11: L for Lemur
+Letter 12: M for Macaw
+Letter 13: N for Newt
+Letter 14: O for Ocelot
+Letter 15: P for Panther
+Letter 16: Q for Quetzal
+Letter 17: R for Red Panda
+Letter 18: S for Sloth
+Letter 19: T for Toucan
+Letter 20: U for Uakari
+Letter 21: V for Viper
+Letter 22: W for Wolf Spider
+Letter 23: X for Xenops
+Letter 24: Y for Yellow Frog
+Letter 25: Z for Zorilla
+Letter 26: P for Python
+Letter 27: C for Capybara
+Letter 28: T for Tapir
+Letter 29: P for Parrot
+
+PLAIN TEXT:
+A for Anaconda
+B for Bat
+C for Chameleon
+D for Dart Frog
+E for Eagle
+F for Falcon
+G for Gecko
+H for Hornbill
+I for Ibis
+J for Jaguar
+K for Kingfisher
+L for Lemur
+M for Macaw
+N for Newt
+O for Ocelot
+P for Panther
+Q for Quetzal
+R for Red Panda
+S for Sloth
+T for Toucan
+U for Uakari
+V for Viper
+W for Wolf Spider
+X for Xenops
+Y for Yellow Frog
+Z for Zorilla
+P for Python
+C for Capybara
+T for Tapir
+P for Parrot
+
+
+#5. Farm Animals (animals-farm)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/animals-farm-audio/
+
+Letter 0: A for Alpaca
+Letter 1: B for Bull
+Letter 2: C for Cow
+Letter 3: D for Donkey
+Letter 4: E for Ewe
+Letter 5: F for Foal
+Letter 6: G for Goat
+Letter 7: H for Horse
+Letter 8: I for Indian Runner Duck
+Letter 9: J for Jersey Cow
+Letter 10: K for Kid Goat
+Letter 11: L for Lamb
+Letter 12: M for Mare
+Letter 13: N for Nanny Goat
+Letter 14: O for Ox
+Letter 15: P for Pig
+Letter 16: Q for Quail
+Letter 17: R for Rooster
+Letter 18: S for Sheep
+Letter 19: T for Turkey
+Letter 20: U for Uppermill Hen
+Letter 21: V for Veal Calf
+Letter 22: W for Welsh Pony
+Letter 23: X for Xinjiang Horse
+Letter 24: Y for Yak
+Letter 25: Z for Zebu
+Letter 26: C for Chicken
+Letter 27: D for Duck
+Letter 28: G for Goose
+Letter 29: H for Hen
+
+PLAIN TEXT:
+A for Alpaca
+B for Bull
+C for Cow
+D for Donkey
+E for Ewe
+F for Foal
+G for Goat
+H for Horse
+I for Indian Runner Duck
+J for Jersey Cow
+K for Kid Goat
+L for Lamb
+M for Mare
+N for Nanny Goat
+O for Ox
+P for Pig
+Q for Quail
+R for Rooster
+S for Sheep
+T for Turkey
+U for Uppermill Hen
+V for Veal Calf
+W for Welsh Pony
+X for Xinjiang Horse
+Y for Yak
+Z for Zebu
+C for Chicken
+D for Duck
+G for Goose
+H for Hen

@@ -1,0 +1,628 @@
+======================================================================
+ALPHABET SHORTS - LYRICS & TTS SCRIPTS
+======================================================================
+Total videos: 10
+Each video has 26 letters (A-Z)
+Record each letter as a SEPARATE audio file for timing sync.
+======================================================================
+
+======================================================================
+#1. ABC - Fruits & Vegetables (alphabet-fruits)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Apple"
+Letter 1 (B): "B for Banana"
+Letter 2 (C): "C for Cherry"
+Letter 3 (D): "D for Dragonfruit"
+Letter 4 (E): "E for Eggplant"
+Letter 5 (F): "F for Fig"
+Letter 6 (G): "G for Grapes"
+Letter 7 (H): "H for Honeydew"
+Letter 8 (I): "I for Iceberg Lettuce"
+Letter 9 (J): "J for Jackfruit"
+Letter 10 (K): "K for Kiwi"
+Letter 11 (L): "L for Lemon"
+Letter 12 (M): "M for Mango"
+Letter 13 (N): "N for Nectarine"
+Letter 14 (O): "O for Orange"
+Letter 15 (P): "P for Pineapple"
+Letter 16 (Q): "Q for Quince"
+Letter 17 (R): "R for Raspberry"
+Letter 18 (S): "S for Strawberry"
+Letter 19 (T): "T for Tomato"
+Letter 20 (U): "U for Ugli Fruit"
+Letter 21 (V): "V for Vanilla Bean"
+Letter 22 (W): "W for Watermelon"
+Letter 23 (X): "X for Ximenia"
+Letter 24 (Y): "Y for Yam"
+Letter 25 (Z): "Z for Zucchini"
+
+PLAIN TEXT (for batch TTS):
+A for Apple
+B for Banana
+C for Cherry
+D for Dragonfruit
+E for Eggplant
+F for Fig
+G for Grapes
+H for Honeydew
+I for Iceberg Lettuce
+J for Jackfruit
+K for Kiwi
+L for Lemon
+M for Mango
+N for Nectarine
+O for Orange
+P for Pineapple
+Q for Quince
+R for Raspberry
+S for Strawberry
+T for Tomato
+U for Ugli Fruit
+V for Vanilla Bean
+W for Watermelon
+X for Ximenia
+Y for Yam
+Z for Zucchini
+
+
+======================================================================
+#2. ABC - Animals (alphabet-animals)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Ant"
+Letter 1 (B): "B for Bear"
+Letter 2 (C): "C for Cat"
+Letter 3 (D): "D for Dog"
+Letter 4 (E): "E for Elephant"
+Letter 5 (F): "F for Fox"
+Letter 6 (G): "G for Giraffe"
+Letter 7 (H): "H for Horse"
+Letter 8 (I): "I for Iguana"
+Letter 9 (J): "J for Jellyfish"
+Letter 10 (K): "K for Koala"
+Letter 11 (L): "L for Lion"
+Letter 12 (M): "M for Monkey"
+Letter 13 (N): "N for Narwhal"
+Letter 14 (O): "O for Owl"
+Letter 15 (P): "P for Penguin"
+Letter 16 (Q): "Q for Quail"
+Letter 17 (R): "R for Rabbit"
+Letter 18 (S): "S for Snake"
+Letter 19 (T): "T for Tiger"
+Letter 20 (U): "U for Unicorn"
+Letter 21 (V): "V for Vulture"
+Letter 22 (W): "W for Whale"
+Letter 23 (X): "X for X-ray Fish"
+Letter 24 (Y): "Y for Yak"
+Letter 25 (Z): "Z for Zebra"
+
+PLAIN TEXT (for batch TTS):
+A for Ant
+B for Bear
+C for Cat
+D for Dog
+E for Elephant
+F for Fox
+G for Giraffe
+H for Horse
+I for Iguana
+J for Jellyfish
+K for Koala
+L for Lion
+M for Monkey
+N for Narwhal
+O for Owl
+P for Penguin
+Q for Quail
+R for Rabbit
+S for Snake
+T for Tiger
+U for Unicorn
+V for Vulture
+W for Whale
+X for X-ray Fish
+Y for Yak
+Z for Zebra
+
+
+======================================================================
+#3. ABC - Vehicles & Transport (alphabet-transport)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Airplane"
+Letter 1 (B): "B for Bus"
+Letter 2 (C): "C for Car"
+Letter 3 (D): "D for Dump Truck"
+Letter 4 (E): "E for Engine"
+Letter 5 (F): "F for Ferry"
+Letter 6 (G): "G for Go-kart"
+Letter 7 (H): "H for Helicopter"
+Letter 8 (I): "I for Ice Cream Truck"
+Letter 9 (J): "J for Jet"
+Letter 10 (K): "K for Kayak"
+Letter 11 (L): "L for Lorry"
+Letter 12 (M): "M for Motorcycle"
+Letter 13 (N): "N for Navy Ship"
+Letter 14 (O): "O for Ox Cart"
+Letter 15 (P): "P for Police Car"
+Letter 16 (Q): "Q for Quad Bike"
+Letter 17 (R): "R for Rocket"
+Letter 18 (S): "S for Scooter"
+Letter 19 (T): "T for Train"
+Letter 20 (U): "U for Unicycle"
+Letter 21 (V): "V for Van"
+Letter 22 (W): "W for Wagon"
+Letter 23 (X): "X for X-press Train"
+Letter 24 (Y): "Y for Yacht"
+Letter 25 (Z): "Z for Zeppelin"
+
+PLAIN TEXT (for batch TTS):
+A for Airplane
+B for Bus
+C for Car
+D for Dump Truck
+E for Engine
+F for Ferry
+G for Go-kart
+H for Helicopter
+I for Ice Cream Truck
+J for Jet
+K for Kayak
+L for Lorry
+M for Motorcycle
+N for Navy Ship
+O for Ox Cart
+P for Police Car
+Q for Quad Bike
+R for Rocket
+S for Scooter
+T for Train
+U for Unicycle
+V for Van
+W for Wagon
+X for X-press Train
+Y for Yacht
+Z for Zeppelin
+
+
+======================================================================
+#4. ABC - Yummy Food (alphabet-food)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Avocado"
+Letter 1 (B): "B for Bread"
+Letter 2 (C): "C for Cake"
+Letter 3 (D): "D for Donut"
+Letter 4 (E): "E for Egg"
+Letter 5 (F): "F for French Fries"
+Letter 6 (G): "G for Grilled Cheese"
+Letter 7 (H): "H for Hamburger"
+Letter 8 (I): "I for Ice Cream"
+Letter 9 (J): "J for Jam"
+Letter 10 (K): "K for Kebab"
+Letter 11 (L): "L for Lollipop"
+Letter 12 (M): "M for Macaroni"
+Letter 13 (N): "N for Noodles"
+Letter 14 (O): "O for Omelette"
+Letter 15 (P): "P for Pizza"
+Letter 16 (Q): "Q for Quesadilla"
+Letter 17 (R): "R for Rice"
+Letter 18 (S): "S for Sushi"
+Letter 19 (T): "T for Taco"
+Letter 20 (U): "U for Udon"
+Letter 21 (V): "V for Vanilla Cupcake"
+Letter 22 (W): "W for Waffle"
+Letter 23 (X): "X for Xiaolongbao"
+Letter 24 (Y): "Y for Yogurt"
+Letter 25 (Z): "Z for Ziti"
+
+PLAIN TEXT (for batch TTS):
+A for Avocado
+B for Bread
+C for Cake
+D for Donut
+E for Egg
+F for French Fries
+G for Grilled Cheese
+H for Hamburger
+I for Ice Cream
+J for Jam
+K for Kebab
+L for Lollipop
+M for Macaroni
+N for Noodles
+O for Omelette
+P for Pizza
+Q for Quesadilla
+R for Rice
+S for Sushi
+T for Taco
+U for Udon
+V for Vanilla Cupcake
+W for Waffle
+X for Xiaolongbao
+Y for Yogurt
+Z for Ziti
+
+
+======================================================================
+#5. ABC - Beautiful Nature (alphabet-nature)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Aurora"
+Letter 1 (B): "B for Beach"
+Letter 2 (C): "C for Cloud"
+Letter 3 (D): "D for Desert"
+Letter 4 (E): "E for Earthquake"
+Letter 5 (F): "F for Forest"
+Letter 6 (G): "G for Glacier"
+Letter 7 (H): "H for Hill"
+Letter 8 (I): "I for Island"
+Letter 9 (J): "J for Jungle"
+Letter 10 (K): "K for Kelp"
+Letter 11 (L): "L for Lake"
+Letter 12 (M): "M for Mountain"
+Letter 13 (N): "N for Niagara Falls"
+Letter 14 (O): "O for Ocean"
+Letter 15 (P): "P for Pond"
+Letter 16 (Q): "Q for Quarry"
+Letter 17 (R): "R for Rainbow"
+Letter 18 (S): "S for Sunset"
+Letter 19 (T): "T for Thunder"
+Letter 20 (U): "U for Underwater"
+Letter 21 (V): "V for Volcano"
+Letter 22 (W): "W for Waterfall"
+Letter 23 (X): "X for Xerophyte"
+Letter 24 (Y): "Y for Yellowstone"
+Letter 25 (Z): "Z for Zen Garden"
+
+PLAIN TEXT (for batch TTS):
+A for Aurora
+B for Beach
+C for Cloud
+D for Desert
+E for Earthquake
+F for Forest
+G for Glacier
+H for Hill
+I for Island
+J for Jungle
+K for Kelp
+L for Lake
+M for Mountain
+N for Niagara Falls
+O for Ocean
+P for Pond
+Q for Quarry
+R for Rainbow
+S for Sunset
+T for Thunder
+U for Underwater
+V for Volcano
+W for Waterfall
+X for Xerophyte
+Y for Yellowstone
+Z for Zen Garden
+
+
+======================================================================
+#6. ABC - Outer Space (alphabet-space)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Astronaut"
+Letter 1 (B): "B for Black Hole"
+Letter 2 (C): "C for Comet"
+Letter 3 (D): "D for Dwarf Planet"
+Letter 4 (E): "E for Eclipse"
+Letter 5 (F): "F for Flying Saucer"
+Letter 6 (G): "G for Galaxy"
+Letter 7 (H): "H for Hubble"
+Letter 8 (I): "I for International Space Station"
+Letter 9 (J): "J for Jupiter"
+Letter 10 (K): "K for Kennedy Space Center"
+Letter 11 (L): "L for Lunar"
+Letter 12 (M): "M for Mars"
+Letter 13 (N): "N for Nebula"
+Letter 14 (O): "O for Orbit"
+Letter 15 (P): "P for Planet"
+Letter 16 (Q): "Q for Quasar"
+Letter 17 (R): "R for Rocket"
+Letter 18 (S): "S for Star"
+Letter 19 (T): "T for Telescope"
+Letter 20 (U): "U for Universe"
+Letter 21 (V): "V for Venus"
+Letter 22 (W): "W for Wormhole"
+Letter 23 (X): "X for X-ray Star"
+Letter 24 (Y): "Y for Yellow Dwarf"
+Letter 25 (Z): "Z for Zero Gravity"
+
+PLAIN TEXT (for batch TTS):
+A for Astronaut
+B for Black Hole
+C for Comet
+D for Dwarf Planet
+E for Eclipse
+F for Flying Saucer
+G for Galaxy
+H for Hubble
+I for International Space Station
+J for Jupiter
+K for Kennedy Space Center
+L for Lunar
+M for Mars
+N for Nebula
+O for Orbit
+P for Planet
+Q for Quasar
+R for Rocket
+S for Star
+T for Telescope
+U for Universe
+V for Venus
+W for Wormhole
+X for X-ray Star
+Y for Yellow Dwarf
+Z for Zero Gravity
+
+
+======================================================================
+#7. ABC - Sports & Games (alphabet-sports)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Archery"
+Letter 1 (B): "B for Basketball"
+Letter 2 (C): "C for Cricket"
+Letter 3 (D): "D for Diving"
+Letter 4 (E): "E for Equestrian"
+Letter 5 (F): "F for Football"
+Letter 6 (G): "G for Golf"
+Letter 7 (H): "H for Hockey"
+Letter 8 (I): "I for Ice Skating"
+Letter 9 (J): "J for Javelin"
+Letter 10 (K): "K for Karate"
+Letter 11 (L): "L for Lacrosse"
+Letter 12 (M): "M for Marathon"
+Letter 13 (N): "N for Netball"
+Letter 14 (O): "O for Olympics"
+Letter 15 (P): "P for Polo"
+Letter 16 (Q): "Q for Quidditch"
+Letter 17 (R): "R for Rugby"
+Letter 18 (S): "S for Swimming"
+Letter 19 (T): "T for Tennis"
+Letter 20 (U): "U for Ultimate Frisbee"
+Letter 21 (V): "V for Volleyball"
+Letter 22 (W): "W for Wrestling"
+Letter 23 (X): "X for X Games"
+Letter 24 (Y): "Y for Yoga"
+Letter 25 (Z): "Z for Zip Line"
+
+PLAIN TEXT (for batch TTS):
+A for Archery
+B for Basketball
+C for Cricket
+D for Diving
+E for Equestrian
+F for Football
+G for Golf
+H for Hockey
+I for Ice Skating
+J for Javelin
+K for Karate
+L for Lacrosse
+M for Marathon
+N for Netball
+O for Olympics
+P for Polo
+Q for Quidditch
+R for Rugby
+S for Swimming
+T for Tennis
+U for Ultimate Frisbee
+V for Volleyball
+W for Wrestling
+X for X Games
+Y for Yoga
+Z for Zip Line
+
+
+======================================================================
+#8. ABC - Music & Dance (alphabet-music)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Accordion"
+Letter 1 (B): "B for Bells"
+Letter 2 (C): "C for Clap"
+Letter 3 (D): "D for Drum"
+Letter 4 (E): "E for Electric Guitar"
+Letter 5 (F): "F for Flute"
+Letter 6 (G): "G for Guitar"
+Letter 7 (H): "H for Harp"
+Letter 8 (I): "I for Irish Jig"
+Letter 9 (J): "J for Jazz"
+Letter 10 (K): "K for Keyboard"
+Letter 11 (L): "L for Lute"
+Letter 12 (M): "M for Maracas"
+Letter 13 (N): "N for Notes"
+Letter 14 (O): "O for Opera"
+Letter 15 (P): "P for Piano"
+Letter 16 (Q): "Q for Quartet"
+Letter 17 (R): "R for Rap"
+Letter 18 (S): "S for Saxophone"
+Letter 19 (T): "T for Trumpet"
+Letter 20 (U): "U for Ukulele"
+Letter 21 (V): "V for Violin"
+Letter 22 (W): "W for Waltz"
+Letter 23 (X): "X for Xylophone"
+Letter 24 (Y): "Y for Yodel"
+Letter 25 (Z): "Z for Zither"
+
+PLAIN TEXT (for batch TTS):
+A for Accordion
+B for Bells
+C for Clap
+D for Drum
+E for Electric Guitar
+F for Flute
+G for Guitar
+H for Harp
+I for Irish Jig
+J for Jazz
+K for Keyboard
+L for Lute
+M for Maracas
+N for Notes
+O for Opera
+P for Piano
+Q for Quartet
+R for Rap
+S for Saxophone
+T for Trumpet
+U for Ukulele
+V for Violin
+W for Waltz
+X for Xylophone
+Y for Yodel
+Z for Zither
+
+
+======================================================================
+#9. ABC - Under the Sea (alphabet-ocean)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Anchor"
+Letter 1 (B): "B for Blowfish"
+Letter 2 (C): "C for Coral"
+Letter 3 (D): "D for Dolphin"
+Letter 4 (E): "E for Eel"
+Letter 5 (F): "F for Fish"
+Letter 6 (G): "G for Goldfish"
+Letter 7 (H): "H for Hermit Crab"
+Letter 8 (I): "I for Iceberg"
+Letter 9 (J): "J for Jellyfish"
+Letter 10 (K): "K for Kelp"
+Letter 11 (L): "L for Lobster"
+Letter 12 (M): "M for Mermaid"
+Letter 13 (N): "N for Nautilus"
+Letter 14 (O): "O for Octopus"
+Letter 15 (P): "P for Pearl"
+Letter 16 (Q): "Q for Queen Conch"
+Letter 17 (R): "R for Ray"
+Letter 18 (S): "S for Shark"
+Letter 19 (T): "T for Turtle"
+Letter 20 (U): "U for Urchin"
+Letter 21 (V): "V for Viking Ship"
+Letter 22 (W): "W for Whale"
+Letter 23 (X): "X for X Marks the Spot"
+Letter 24 (Y): "Y for Yellowfin Tuna"
+Letter 25 (Z): "Z for Zooplankton"
+
+PLAIN TEXT (for batch TTS):
+A for Anchor
+B for Blowfish
+C for Coral
+D for Dolphin
+E for Eel
+F for Fish
+G for Goldfish
+H for Hermit Crab
+I for Iceberg
+J for Jellyfish
+K for Kelp
+L for Lobster
+M for Mermaid
+N for Nautilus
+O for Octopus
+P for Pearl
+Q for Queen Conch
+R for Ray
+S for Shark
+T for Turtle
+U for Urchin
+V for Viking Ship
+W for Whale
+X for X Marks the Spot
+Y for Yellowfin Tuna
+Z for Zooplankton
+
+
+======================================================================
+#10. ABC - Classic Alphabet (alphabet-classic)
+======================================================================
+
+Record each letter as a SEPARATE audio file: letter_0.mp3, letter_1.mp3, ...
+
+Letter 0 (A): "A for Apple"
+Letter 1 (B): "B for Ball"
+Letter 2 (C): "C for Cat"
+Letter 3 (D): "D for Duck"
+Letter 4 (E): "E for Elephant"
+Letter 5 (F): "F for Fish"
+Letter 6 (G): "G for Goat"
+Letter 7 (H): "H for House"
+Letter 8 (I): "I for Igloo"
+Letter 9 (J): "J for Jug"
+Letter 10 (K): "K for Kite"
+Letter 11 (L): "L for Lion"
+Letter 12 (M): "M for Moon"
+Letter 13 (N): "N for Nest"
+Letter 14 (O): "O for Owl"
+Letter 15 (P): "P for Parrot"
+Letter 16 (Q): "Q for Queen"
+Letter 17 (R): "R for Rainbow"
+Letter 18 (S): "S for Sun"
+Letter 19 (T): "T for Tree"
+Letter 20 (U): "U for Umbrella"
+Letter 21 (V): "V for Van"
+Letter 22 (W): "W for Watch"
+Letter 23 (X): "X for Xylophone"
+Letter 24 (Y): "Y for Yoyo"
+Letter 25 (Z): "Z for Zebra"
+
+PLAIN TEXT (for batch TTS):
+A for Apple
+B for Ball
+C for Cat
+D for Duck
+E for Elephant
+F for Fish
+G for Goat
+H for House
+I for Igloo
+J for Jug
+K for Kite
+L for Lion
+M for Moon
+N for Nest
+O for Owl
+P for Parrot
+Q for Queen
+R for Rainbow
+S for Sun
+T for Tree
+U for Umbrella
+V for Van
+W for Watch
+X for Xylophone
+Y for Yoyo
+Z for Zebra
+
+

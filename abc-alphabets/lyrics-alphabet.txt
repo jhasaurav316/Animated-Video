@@ -1,0 +1,307 @@
+======================================================================
+LYRICS: ALPHABET VIDEOS (5 Videos)
+======================================================================
+
+#1. ABC Rainbow Alphabet (alphabet-rainbow)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_25.mp3 + bgm.mp3
+Place in: public/alphabet-rainbow-audio/
+
+Letter 0: A for Apple
+Letter 1: B for Ball
+Letter 2: C for Cat
+Letter 3: D for Dog
+Letter 4: E for Elephant
+Letter 5: F for Fish
+Letter 6: G for Grapes
+Letter 7: H for Hat
+Letter 8: I for Ice Cream
+Letter 9: J for Juice
+Letter 10: K for Kite
+Letter 11: L for Lion
+Letter 12: M for Moon
+Letter 13: N for Nest
+Letter 14: O for Orange
+Letter 15: P for Penguin
+Letter 16: Q for Queen
+Letter 17: R for Rainbow
+Letter 18: S for Star
+Letter 19: T for Tree
+Letter 20: U for Umbrella
+Letter 21: V for Violin
+Letter 22: W for Whale
+Letter 23: X for Xylophone
+Letter 24: Y for Yacht
+Letter 25: Z for Zebra
+
+PLAIN TEXT:
+A for Apple
+B for Ball
+C for Cat
+D for Dog
+E for Elephant
+F for Fish
+G for Grapes
+H for Hat
+I for Ice Cream
+J for Juice
+K for Kite
+L for Lion
+M for Moon
+N for Nest
+O for Orange
+P for Penguin
+Q for Queen
+R for Rainbow
+S for Star
+T for Tree
+U for Umbrella
+V for Violin
+W for Whale
+X for Xylophone
+Y for Yacht
+Z for Zebra
+
+
+#2. ABC Adventure Alphabet (alphabet-adventure)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_25.mp3 + bgm.mp3
+Place in: public/alphabet-adventure-audio/
+
+Letter 0: A for Arrow
+Letter 1: B for Bridge
+Letter 2: C for Castle
+Letter 3: D for Dragon
+Letter 4: E for Explorer
+Letter 5: F for Forest
+Letter 6: G for Galaxy
+Letter 7: H for Hero
+Letter 8: I for Island
+Letter 9: J for Jungle
+Letter 10: K for Knight
+Letter 11: L for Lava
+Letter 12: M for Mountain
+Letter 13: N for Navigator
+Letter 14: O for Ocean
+Letter 15: P for Pirate
+Letter 16: Q for Quest
+Letter 17: R for Rocket
+Letter 18: S for Sword
+Letter 19: T for Treasure
+Letter 20: U for Unicorn
+Letter 21: V for Volcano
+Letter 22: W for Warrior
+Letter 23: X for X-ray
+Letter 24: Y for Yeti
+Letter 25: Z for Zeppelin
+
+PLAIN TEXT:
+A for Arrow
+B for Bridge
+C for Castle
+D for Dragon
+E for Explorer
+F for Forest
+G for Galaxy
+H for Hero
+I for Island
+J for Jungle
+K for Knight
+L for Lava
+M for Mountain
+N for Navigator
+O for Ocean
+P for Pirate
+Q for Quest
+R for Rocket
+S for Sword
+T for Treasure
+U for Unicorn
+V for Volcano
+W for Warrior
+X for X-ray
+Y for Yeti
+Z for Zeppelin
+
+
+#3. ABC Magical Alphabet (alphabet-magical)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_25.mp3 + bgm.mp3
+Place in: public/alphabet-magical-audio/
+
+Letter 0: A for Angel
+Letter 1: B for Butterfly
+Letter 2: C for Crown
+Letter 3: D for Diamond
+Letter 4: E for Enchanted
+Letter 5: F for Fairy
+Letter 6: G for Genie
+Letter 7: H for Heart
+Letter 8: I for Invisible
+Letter 9: J for Jewel
+Letter 10: K for Kingdom
+Letter 11: L for Lantern
+Letter 12: M for Mermaid
+Letter 13: N for Nymph
+Letter 14: O for Oracle
+Letter 15: P for Phoenix
+Letter 16: Q for Quartz
+Letter 17: R for Rainbow
+Letter 18: S for Sparkle
+Letter 19: T for Tiara
+Letter 20: U for Unicorn
+Letter 21: V for Velvet
+Letter 22: W for Wand
+Letter 23: X for Xanadu
+Letter 24: Y for Yarn
+Letter 25: Z for Zenith
+
+PLAIN TEXT:
+A for Angel
+B for Butterfly
+C for Crown
+D for Diamond
+E for Enchanted
+F for Fairy
+G for Genie
+H for Heart
+I for Invisible
+J for Jewel
+K for Kingdom
+L for Lantern
+M for Mermaid
+N for Nymph
+O for Oracle
+P for Phoenix
+Q for Quartz
+R for Rainbow
+S for Sparkle
+T for Tiara
+U for Unicorn
+V for Velvet
+W for Wand
+X for Xanadu
+Y for Yarn
+Z for Zenith
+
+
+#4. ABC Nature Alphabet (alphabet-nature)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_25.mp3 + bgm.mp3
+Place in: public/alphabet-nature-audio/
+
+Letter 0: A for Acorn
+Letter 1: B for Breeze
+Letter 2: C for Cloud
+Letter 3: D for Dew
+Letter 4: E for Earth
+Letter 5: F for Flower
+Letter 6: G for Grass
+Letter 7: H for Hill
+Letter 8: I for Ivy
+Letter 9: J for Jade
+Letter 10: K for Kelp
+Letter 11: L for Leaf
+Letter 12: M for Moss
+Letter 13: N for Nectar
+Letter 14: O for Oasis
+Letter 15: P for Petal
+Letter 16: Q for Quartz
+Letter 17: R for Rain
+Letter 18: S for Sun
+Letter 19: T for Tulip
+Letter 20: U for Undergrowth
+Letter 21: V for Valley
+Letter 22: W for Waterfall
+Letter 23: X for Xerophyte
+Letter 24: Y for Yarrow
+Letter 25: Z for Zephyr
+
+PLAIN TEXT:
+A for Acorn
+B for Breeze
+C for Cloud
+D for Dew
+E for Earth
+F for Flower
+G for Grass
+H for Hill
+I for Ivy
+J for Jade
+K for Kelp
+L for Leaf
+M for Moss
+N for Nectar
+O for Oasis
+P for Petal
+Q for Quartz
+R for Rain
+S for Sun
+T for Tulip
+U for Undergrowth
+V for Valley
+W for Waterfall
+X for Xerophyte
+Y for Yarrow
+Z for Zephyr
+
+
+#5. ABC Science Alphabet (alphabet-science)
+----------------------------------------------------------------------
+Audio files needed: letter_0.mp3 to letter_25.mp3 + bgm.mp3
+Place in: public/alphabet-science-audio/
+
+Letter 0: A for Atom
+Letter 1: B for Beaker
+Letter 2: C for Circuit
+Letter 3: D for DNA
+Letter 4: E for Energy
+Letter 5: F for Formula
+Letter 6: G for Gravity
+Letter 7: H for Hydrogen
+Letter 8: I for Isotope
+Letter 9: J for Jupiter
+Letter 10: K for Kinetic
+Letter 11: L for Laser
+Letter 12: M for Magnet
+Letter 13: N for Neutron
+Letter 14: O for Orbit
+Letter 15: P for Prism
+Letter 16: Q for Quantum
+Letter 17: R for Robot
+Letter 18: S for Solar
+Letter 19: T for Telescope
+Letter 20: U for Universe
+Letter 21: V for Voltage
+Letter 22: W for Wavelength
+Letter 23: X for X-ray
+Letter 24: Y for Yttrium
+Letter 25: Z for Zero
+
+PLAIN TEXT:
+A for Atom
+B for Beaker
+C for Circuit
+D for DNA
+E for Energy
+F for Formula
+G for Gravity
+H for Hydrogen
+I for Isotope
+J for Jupiter
+K for Kinetic
+L for Laser
+M for Magnet
+N for Neutron
+O for Orbit
+P for Prism
+Q for Quantum
+R for Robot
+S for Solar
+T for Telescope
+U for Universe
+V for Voltage
+W for Wavelength
+X for X-ray
+Y for Yttrium
+Z for Zero

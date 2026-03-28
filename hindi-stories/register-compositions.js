@@ -48,10 +48,10 @@ function themeToFolder(theme) {
 
 // Calculate duration in frames for a story
 function calcDurationInFrames(story) {
-  const verseDuration = story.verseDuration || 6; // seconds per verse
+  const verseDuration = story.sceneDuration || story.verseDuration || 6; // seconds per scene
   const introDuration = story.introDuration || 5; // intro seconds
   const outroDuration = story.outroDuration || 6; // outro seconds
-  const verseCount = (story.verses || []).length;
+  const verseCount = (story.scenes || story.verses || []).length;
 
   const totalSeconds = introDuration + verseCount * verseDuration + outroDuration;
   return Math.round(totalSeconds * FPS);
@@ -133,7 +133,7 @@ function main() {
   content += `};\n\n`;
 
   // RemotionRoot component
-  content += `export const RemotionRoot: React.FC = () => {\n`;
+  content += `export const HindiStoryRemotionRoot: React.FC = () => {\n`;
   content += `  return (\n`;
   content += `    <>\n`;
 
@@ -149,8 +149,10 @@ function main() {
       const compId = "Story" + toPascalCase(storyId);
       const durationInFrames = calcDurationInFrames(story);
 
-      // Build defaultProps for this story
-      const versesStr = JSON.stringify(story.verses || [], null, 10)
+      // Build defaultProps for this story (catalog uses "scenes", template uses "verses")
+      const scenes = story.scenes || story.verses || [];
+      const verseDur = story.sceneDuration || story.verseDuration || 6;
+      const versesStr = JSON.stringify(scenes, null, 10)
         .split("\n")
         .map((line, i) => (i === 0 ? line : "          " + line.trim()))
         .join("\n");
@@ -169,7 +171,7 @@ function main() {
       content += `            theme: ${JSON.stringify(story.theme || "playground")} as RhymeTheme,\n`;
       content += `            verses: ${versesStr},\n`;
       if (story.moral) content += `            moral: ${JSON.stringify(story.moral)},\n`;
-      if (story.verseDuration) content += `            verseDuration: ${story.verseDuration},\n`;
+      content += `            verseDuration: ${verseDur},\n`;
       if (story.introDuration) content += `            introDuration: ${story.introDuration},\n`;
       if (story.outroDuration) content += `            outroDuration: ${story.outroDuration},\n`;
       content += `          }}\n`;
@@ -189,7 +191,7 @@ function main() {
       content += `            theme: ${JSON.stringify(story.theme || "playground")} as RhymeTheme,\n`;
       content += `            verses: ${versesStr},\n`;
       if (story.moral) content += `            moral: ${JSON.stringify(story.moral)},\n`;
-      if (story.verseDuration) content += `            verseDuration: ${story.verseDuration},\n`;
+      content += `            verseDuration: ${verseDur},\n`;
       if (story.introDuration) content += `            introDuration: ${story.introDuration},\n`;
       if (story.outroDuration) content += `            outroDuration: ${story.outroDuration},\n`;
       content += `            topColor: THEME_COLORS["${story.theme || "playground"}"].top,\n`;
