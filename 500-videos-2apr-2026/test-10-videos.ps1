@@ -114,7 +114,7 @@ foreach ($video in $testVideos) {
     Write-Host "  [$current/$total] $($video.title) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
 
     $ErrorActionPreference = "Continue"
-    npx remotion render $compId "$outputFile" --concurrency=100% --log=error --crf=18 --codec=h264 --gl=angle
+    npx remotion render $compId "$outputFile" --concurrency=100% --log=error --crf=18 --codec=h264 --gl=angle --enable-multiprocess-on-linux --gl=angle
     $ErrorActionPreference = "Stop"
 
     if ($LASTEXITCODE -eq 0) {
