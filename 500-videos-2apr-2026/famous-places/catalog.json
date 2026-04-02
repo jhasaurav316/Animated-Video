@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "famous-places-1",
+    "title": "Famous Places - Part 1",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-2",
+    "title": "Famous Places - Part 2",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Grand Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "V",
+        "word": "Victoria Falls",
+        "emoji": "💧",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "K",
+        "word": "Kilimanjaro",
+        "emoji": "🌋",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "A",
+        "word": "Angel Falls",
+        "emoji": "🌊",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "R",
+        "word": "Red Fort",
+        "emoji": "🏰",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hollywood Sign",
+        "emoji": "🎬",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "S",
+        "word": "Stonehenge",
+        "emoji": "🪨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Parthenon",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Christ Redeemer",
+        "emoji": "✝️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Burj Khalifa",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mona Lisa",
+        "emoji": "🖼️",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "W",
+        "word": "White House",
+        "emoji": "🏛️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Northern Lights",
+        "emoji": "🌌",
+        "bgColor": "#00E676"
+      },
+      {
+        "letter": "G",
+        "word": "Great Barrier Reef",
+        "emoji": "🐠",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Dead Sea",
+        "emoji": "🌊",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-3",
+    "title": "Famous Places - Part 3",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "L",
+        "word": "London Bridge",
+        "emoji": "🌉",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "P",
+        "word": "Petra",
+        "emoji": "🏛️",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "F",
+        "word": "Forbidden City",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hagia Sophia",
+        "emoji": "🕌",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "T",
+        "word": "Tower of London",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mont Blanc",
+        "emoji": "🏔️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "R",
+        "word": "Rock of Gibraltar",
+        "emoji": "🪨",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Venice Canals",
+        "emoji": "🚣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "A",
+        "word": "Angkor Wat",
+        "emoji": "🛕",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Fuji",
+        "emoji": "🗻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-4",
+    "title": "Famous Places - Part 4",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-5",
+    "title": "Famous Places - Part 5",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-6",
+    "title": "Famous Places - Part 6",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-7",
+    "title": "Famous Places - Part 7",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-8",
+    "title": "Famous Places - Part 8",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-9",
+    "title": "Famous Places - Part 9",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-10",
+    "title": "Famous Places - Part 10",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-11",
+    "title": "Famous Places - Part 11",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-12",
+    "title": "Famous Places - Part 12",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-13",
+    "title": "Famous Places - Part 13",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-14",
+    "title": "Famous Places - Part 14",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-15",
+    "title": "Famous Places - Part 15",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-16",
+    "title": "Famous Places - Part 16",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-17",
+    "title": "Famous Places - Part 17",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-18",
+    "title": "Famous Places - Part 18",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-19",
+    "title": "Famous Places - Part 19",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-20",
+    "title": "Famous Places - Part 20",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-21",
+    "title": "Famous Places - Part 21",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-22",
+    "title": "Famous Places - Part 22",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-23",
+    "title": "Famous Places - Part 23",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-24",
+    "title": "Famous Places - Part 24",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-25",
+    "title": "Famous Places - Part 25",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-26",
+    "title": "Famous Places - Part 26",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-27",
+    "title": "Famous Places - Part 27",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-28",
+    "title": "Famous Places - Part 28",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-29",
+    "title": "Famous Places - Part 29",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "famous-places-30",
+    "title": "Famous Places - Part 30",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taj Mahal",
+        "emoji": "🕌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eiffel Tower",
+        "emoji": "🗼",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Great Wall",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramids",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Statue of Liberty",
+        "emoji": "🗽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Colosseum",
+        "emoji": "🏟️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Big Ben",
+        "emoji": "🕰️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Machu Picchu",
+        "emoji": "⛰️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sydney Opera",
+        "emoji": "🎭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "L",
+        "word": "Leaning Tower",
+        "emoji": "🏗️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Gate",
+        "emoji": "🌉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Niagara Falls",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Mount Everest",
+        "emoji": "🏔️",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Amazon River",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sahara Desert",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

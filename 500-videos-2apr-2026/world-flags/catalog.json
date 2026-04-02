@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "world-flags-1",
+    "title": "World Flags - Part 1",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-2",
+    "title": "World Flags - Part 2",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Egypt",
+        "emoji": "🇪🇬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "South Africa",
+        "emoji": "🇿🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey",
+        "emoji": "🇹🇷",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Greece",
+        "emoji": "🇬🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sweden",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "Norway",
+        "emoji": "🇳🇴",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Switzerland",
+        "emoji": "🇨🇭",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Portugal",
+        "emoji": "🇵🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Argentina",
+        "emoji": "🇦🇷",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "New Zealand",
+        "emoji": "🇳🇿",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "K",
+        "word": "Kenya",
+        "emoji": "🇰🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Thailand",
+        "emoji": "🇹🇭",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "V",
+        "word": "Vietnam",
+        "emoji": "🇻🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "I",
+        "word": "Indonesia",
+        "emoji": "🇮🇩",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Peru",
+        "emoji": "🇵🇪",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-3",
+    "title": "World Flags - Part 3",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-4",
+    "title": "World Flags - Part 4",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-5",
+    "title": "World Flags - Part 5",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-6",
+    "title": "World Flags - Part 6",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-7",
+    "title": "World Flags - Part 7",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-8",
+    "title": "World Flags - Part 8",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-9",
+    "title": "World Flags - Part 9",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-10",
+    "title": "World Flags - Part 10",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-11",
+    "title": "World Flags - Part 11",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-12",
+    "title": "World Flags - Part 12",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-13",
+    "title": "World Flags - Part 13",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-14",
+    "title": "World Flags - Part 14",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "world-flags-15",
+    "title": "World Flags - Part 15",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🇦🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

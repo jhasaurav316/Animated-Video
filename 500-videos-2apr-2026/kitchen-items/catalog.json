@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "kitchen-items-1",
+    "title": "Kitchen Items - Part 1",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-2",
+    "title": "Kitchen Items - Part 2",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rolling Pin",
+        "emoji": "🪵",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cutting Board",
+        "emoji": "🪵",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Whisk",
+        "emoji": "🍳",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Spatula",
+        "emoji": "🍳",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "L",
+        "word": "Ladle",
+        "emoji": "🥄",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Apron",
+        "emoji": "🧑‍🍳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Colander",
+        "emoji": "🫙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "G",
+        "word": "Grater",
+        "emoji": "🧀",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "T",
+        "word": "Tongs",
+        "emoji": "🦀",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🍰",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚿",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Dish Rack",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Peeler",
+        "emoji": "🥔",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-3",
+    "title": "Kitchen Items - Part 3",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-4",
+    "title": "Kitchen Items - Part 4",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-5",
+    "title": "Kitchen Items - Part 5",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-6",
+    "title": "Kitchen Items - Part 6",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-7",
+    "title": "Kitchen Items - Part 7",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-8",
+    "title": "Kitchen Items - Part 8",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-9",
+    "title": "Kitchen Items - Part 9",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-10",
+    "title": "Kitchen Items - Part 10",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-11",
+    "title": "Kitchen Items - Part 11",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-12",
+    "title": "Kitchen Items - Part 12",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-13",
+    "title": "Kitchen Items - Part 13",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-14",
+    "title": "Kitchen Items - Part 14",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-15",
+    "title": "Kitchen Items - Part 15",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-16",
+    "title": "Kitchen Items - Part 16",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-17",
+    "title": "Kitchen Items - Part 17",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-18",
+    "title": "Kitchen Items - Part 18",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-19",
+    "title": "Kitchen Items - Part 19",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-20",
+    "title": "Kitchen Items - Part 20",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-21",
+    "title": "Kitchen Items - Part 21",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-22",
+    "title": "Kitchen Items - Part 22",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-23",
+    "title": "Kitchen Items - Part 23",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-24",
+    "title": "Kitchen Items - Part 24",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "kitchen-items-25",
+    "title": "Kitchen Items - Part 25",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🍲",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#616161"
+      },
+      {
+        "letter": "S",
+        "word": "Spoon",
+        "emoji": "🥄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Plate",
+        "emoji": "🍽️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cup",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Glass",
+        "emoji": "🥛",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bowl",
+        "emoji": "🥣",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "trees-plants-1",
+    "title": "Trees & Plants - Part 1",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-2",
+    "title": "Trees & Plants - Part 2",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Aloe Vera",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jasmine",
+        "emoji": "🌸",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Orchid",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Banyan",
+        "emoji": "🌳",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "N",
+        "word": "Neem",
+        "emoji": "🌿",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "E",
+        "word": "Eucalyptus",
+        "emoji": "🌿",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "S",
+        "word": "Sequoia",
+        "emoji": "🌲",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry Blossom",
+        "emoji": "🌸",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "M",
+        "word": "Marigold",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hibiscus",
+        "emoji": "🌺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Ivy",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Venus Flytrap",
+        "emoji": "🪴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "M",
+        "word": "Mango Tree",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-3",
+    "title": "Trees & Plants - Part 3",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple Tree",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Peach Tree",
+        "emoji": "🍑",
+        "bgColor": "#FF8A65"
+      },
+      {
+        "letter": "G",
+        "word": "Grass",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "R",
+        "word": "Redwood",
+        "emoji": "🌲",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "B",
+        "word": "Bonsai",
+        "emoji": "🌳",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Lotus",
+        "emoji": "🪷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Poppy",
+        "emoji": "🌺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Daffodil",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-4",
+    "title": "Trees & Plants - Part 4",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-5",
+    "title": "Trees & Plants - Part 5",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-6",
+    "title": "Trees & Plants - Part 6",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-7",
+    "title": "Trees & Plants - Part 7",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-8",
+    "title": "Trees & Plants - Part 8",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-9",
+    "title": "Trees & Plants - Part 9",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-10",
+    "title": "Trees & Plants - Part 10",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-11",
+    "title": "Trees & Plants - Part 11",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-12",
+    "title": "Trees & Plants - Part 12",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-13",
+    "title": "Trees & Plants - Part 13",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-14",
+    "title": "Trees & Plants - Part 14",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-15",
+    "title": "Trees & Plants - Part 15",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-16",
+    "title": "Trees & Plants - Part 16",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-17",
+    "title": "Trees & Plants - Part 17",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-18",
+    "title": "Trees & Plants - Part 18",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-19",
+    "title": "Trees & Plants - Part 19",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-20",
+    "title": "Trees & Plants - Part 20",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-21",
+    "title": "Trees & Plants - Part 21",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-22",
+    "title": "Trees & Plants - Part 22",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-23",
+    "title": "Trees & Plants - Part 23",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-24",
+    "title": "Trees & Plants - Part 24",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-25",
+    "title": "Trees & Plants - Part 25",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-26",
+    "title": "Trees & Plants - Part 26",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-27",
+    "title": "Trees & Plants - Part 27",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-28",
+    "title": "Trees & Plants - Part 28",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-29",
+    "title": "Trees & Plants - Part 29",
+    "bgGradient": [
+      "#33691E",
+      "#AED581"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "trees-plants-30",
+    "title": "Trees & Plants - Part 30",
+    "bgGradient": [
+      "#004D40",
+      "#80CBC4"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Oak",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pine",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "M",
+        "word": "Maple",
+        "emoji": "🍁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bamboo",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Willow",
+        "emoji": "🌳",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Birch",
+        "emoji": "🌳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F8BBD0"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "F",
+        "word": "Fern",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

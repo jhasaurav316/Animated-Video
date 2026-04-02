@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "weather-nature-1",
+    "title": "Weather & Nature - Part 1",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-2",
+    "title": "Weather & Nature - Part 2",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hurricane",
+        "emoji": "🌀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Monsoon",
+        "emoji": "🌧️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "D",
+        "word": "Drought",
+        "emoji": "🏜️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Avalanche",
+        "emoji": "🏔️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Volcano",
+        "emoji": "🌋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "E",
+        "word": "Earthquake",
+        "emoji": "🌍",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tsunami",
+        "emoji": "🌊",
+        "bgColor": "#01579B"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌇",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-3",
+    "title": "Weather & Nature - Part 3",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-4",
+    "title": "Weather & Nature - Part 4",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-5",
+    "title": "Weather & Nature - Part 5",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-6",
+    "title": "Weather & Nature - Part 6",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-7",
+    "title": "Weather & Nature - Part 7",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-8",
+    "title": "Weather & Nature - Part 8",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-9",
+    "title": "Weather & Nature - Part 9",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-10",
+    "title": "Weather & Nature - Part 10",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-11",
+    "title": "Weather & Nature - Part 11",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-12",
+    "title": "Weather & Nature - Part 12",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-13",
+    "title": "Weather & Nature - Part 13",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-14",
+    "title": "Weather & Nature - Part 14",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-15",
+    "title": "Weather & Nature - Part 15",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-16",
+    "title": "Weather & Nature - Part 16",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-17",
+    "title": "Weather & Nature - Part 17",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-18",
+    "title": "Weather & Nature - Part 18",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-19",
+    "title": "Weather & Nature - Part 19",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "weather-nature-20",
+    "title": "Weather & Nature - Part 20",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snow",
+        "emoji": "❄️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thunder",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "🌩️",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbow",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fog",
+        "emoji": "🌫️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hail",
+        "emoji": "🧊",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tornado",
+        "emoji": "🌪️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dew",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

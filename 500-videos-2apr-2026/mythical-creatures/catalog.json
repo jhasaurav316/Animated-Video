@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "mythical-creatures-1",
+    "title": "Mythical Creatures - Part 1",
+    "bgGradient": [
+      "#311B92",
+      "#7C4DFF"
+    ],
+    "accentColor": "#1A0066",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-2",
+    "title": "Mythical Creatures - Part 2",
+    "bgGradient": [
+      "#B71C1C",
+      "#FF8A80"
+    ],
+    "accentColor": "#7F0000",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Genie",
+        "emoji": "🧞",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "M",
+        "word": "Minotaur",
+        "emoji": "🐂",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hydra",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sphinx",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cyclops",
+        "emoji": "👁️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🧚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Banshee",
+        "emoji": "👻",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "W",
+        "word": "Wizard",
+        "emoji": "🧙",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "S",
+        "word": "Siren",
+        "emoji": "🧜",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Thunderbird",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "C",
+        "word": "Chimera",
+        "emoji": "🦁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gargoyle",
+        "emoji": "🗿",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "M",
+        "word": "Medusa",
+        "emoji": "🐍",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-3",
+    "title": "Mythical Creatures - Part 3",
+    "bgGradient": [
+      "#004D40",
+      "#64FFDA"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-4",
+    "title": "Mythical Creatures - Part 4",
+    "bgGradient": [
+      "#311B92",
+      "#7C4DFF"
+    ],
+    "accentColor": "#1A0066",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-5",
+    "title": "Mythical Creatures - Part 5",
+    "bgGradient": [
+      "#B71C1C",
+      "#FF8A80"
+    ],
+    "accentColor": "#7F0000",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-6",
+    "title": "Mythical Creatures - Part 6",
+    "bgGradient": [
+      "#004D40",
+      "#64FFDA"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-7",
+    "title": "Mythical Creatures - Part 7",
+    "bgGradient": [
+      "#311B92",
+      "#7C4DFF"
+    ],
+    "accentColor": "#1A0066",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-8",
+    "title": "Mythical Creatures - Part 8",
+    "bgGradient": [
+      "#B71C1C",
+      "#FF8A80"
+    ],
+    "accentColor": "#7F0000",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-9",
+    "title": "Mythical Creatures - Part 9",
+    "bgGradient": [
+      "#004D40",
+      "#64FFDA"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-10",
+    "title": "Mythical Creatures - Part 10",
+    "bgGradient": [
+      "#311B92",
+      "#7C4DFF"
+    ],
+    "accentColor": "#1A0066",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-11",
+    "title": "Mythical Creatures - Part 11",
+    "bgGradient": [
+      "#B71C1C",
+      "#FF8A80"
+    ],
+    "accentColor": "#7F0000",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-12",
+    "title": "Mythical Creatures - Part 12",
+    "bgGradient": [
+      "#004D40",
+      "#64FFDA"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-13",
+    "title": "Mythical Creatures - Part 13",
+    "bgGradient": [
+      "#311B92",
+      "#7C4DFF"
+    ],
+    "accentColor": "#1A0066",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-14",
+    "title": "Mythical Creatures - Part 14",
+    "bgGradient": [
+      "#B71C1C",
+      "#FF8A80"
+    ],
+    "accentColor": "#7F0000",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-15",
+    "title": "Mythical Creatures - Part 15",
+    "bgGradient": [
+      "#004D40",
+      "#64FFDA"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-16",
+    "title": "Mythical Creatures - Part 16",
+    "bgGradient": [
+      "#311B92",
+      "#7C4DFF"
+    ],
+    "accentColor": "#1A0066",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-17",
+    "title": "Mythical Creatures - Part 17",
+    "bgGradient": [
+      "#B71C1C",
+      "#FF8A80"
+    ],
+    "accentColor": "#7F0000",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-18",
+    "title": "Mythical Creatures - Part 18",
+    "bgGradient": [
+      "#004D40",
+      "#64FFDA"
+    ],
+    "accentColor": "#00251A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-19",
+    "title": "Mythical Creatures - Part 19",
+    "bgGradient": [
+      "#311B92",
+      "#7C4DFF"
+    ],
+    "accentColor": "#1A0066",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "mythical-creatures-20",
+    "title": "Mythical Creatures - Part 20",
+    "bgGradient": [
+      "#B71C1C",
+      "#FF8A80"
+    ],
+    "accentColor": "#7F0000",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon",
+        "emoji": "🐉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn",
+        "emoji": "🦄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Phoenix",
+        "emoji": "🔥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Griffin",
+        "emoji": "🦅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Centaur",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pegasus",
+        "emoji": "🐴",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "K",
+        "word": "Kraken",
+        "emoji": "🦑",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeti",
+        "emoji": "❄️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Leprechaun",
+        "emoji": "🍀",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy",
+        "emoji": "🧚",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "E",
+        "word": "Elf",
+        "emoji": "🧝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Troll",
+        "emoji": "👹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

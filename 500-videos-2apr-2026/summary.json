@@ -1,0 +1,102 @@
+{
+  "batchName": "500-videos-2apr-2026",
+  "date": "2026-04-02",
+  "totalVideos": 500,
+  "categories": [
+    {
+      "category": "Body Parts",
+      "key": "body-parts",
+      "count": 30
+    },
+    {
+      "category": "Professions",
+      "key": "professions",
+      "count": 30
+    },
+    {
+      "category": "Famous Places",
+      "key": "famous-places",
+      "count": 30
+    },
+    {
+      "category": "Dog Breeds",
+      "key": "dog-breeds",
+      "count": 30
+    },
+    {
+      "category": "Trees & Plants",
+      "key": "trees-plants",
+      "count": 30
+    },
+    {
+      "category": "Emotions & Feelings",
+      "key": "emotions",
+      "count": 30
+    },
+    {
+      "category": "Tools & Equipment",
+      "key": "tools",
+      "count": 30
+    },
+    {
+      "category": "Clothing & Fashion",
+      "key": "clothing",
+      "count": 30
+    },
+    {
+      "category": "Desserts & Sweets",
+      "key": "desserts",
+      "count": 30
+    },
+    {
+      "category": "Gems & Minerals",
+      "key": "gems-minerals",
+      "count": 25
+    },
+    {
+      "category": "Dance Forms",
+      "key": "dance-forms",
+      "count": 25
+    },
+    {
+      "category": "Reptiles & Amphibians",
+      "key": "reptiles",
+      "count": 25
+    },
+    {
+      "category": "Farm Animals",
+      "key": "farm-animals",
+      "count": 25
+    },
+    {
+      "category": "Kitchen Items",
+      "key": "kitchen-items",
+      "count": 25
+    },
+    {
+      "category": "Ocean Life",
+      "key": "ocean-life",
+      "count": 25
+    },
+    {
+      "category": "Baby Animals",
+      "key": "baby-animals",
+      "count": 25
+    },
+    {
+      "category": "Mythical Creatures",
+      "key": "mythical-creatures",
+      "count": 20
+    },
+    {
+      "category": "Weather & Nature",
+      "key": "weather-nature",
+      "count": 20
+    },
+    {
+      "category": "World Flags",
+      "key": "world-flags",
+      "count": 15
+    }
+  ]
+}

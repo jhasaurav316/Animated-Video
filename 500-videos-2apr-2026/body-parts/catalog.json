@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "body-parts-1",
+    "title": "Body Parts - Part 1",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-2",
+    "title": "Body Parts - Part 2",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chest",
+        "emoji": "🫁",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Stomach",
+        "emoji": "🤰",
+        "bgColor": "#EF6C00"
+      },
+      {
+        "letter": "B",
+        "word": "Back",
+        "emoji": "🔙",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "L",
+        "word": "Leg",
+        "emoji": "🦵",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Knee",
+        "emoji": "🦿",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "F",
+        "word": "Foot",
+        "emoji": "🦶",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Toe",
+        "emoji": "🦶",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "W",
+        "word": "Wrist",
+        "emoji": "⌚",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Ankle",
+        "emoji": "🦶",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "B",
+        "word": "Brain",
+        "emoji": "🧠",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lung",
+        "emoji": "🫁",
+        "bgColor": "#F06292"
+      },
+      {
+        "letter": "K",
+        "word": "Kidney",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bone",
+        "emoji": "🦴",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-3",
+    "title": "Body Parts - Part 3",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Muscle",
+        "emoji": "💪",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Rib",
+        "emoji": "🩻",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "J",
+        "word": "Jaw",
+        "emoji": "🦷",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chin",
+        "emoji": "🤔",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "L",
+        "word": "Lip",
+        "emoji": "💋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Palm",
+        "emoji": "🤚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "💅",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "T",
+        "word": "Tongue",
+        "emoji": "👅",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "V",
+        "word": "Vein",
+        "emoji": "🩸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "🦴",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "H",
+        "word": "Hip",
+        "emoji": "🦿",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🦵",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "E",
+        "word": "Eyebrow",
+        "emoji": "🤨",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "F",
+        "word": "Forehead",
+        "emoji": "🧐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skull",
+        "emoji": "💀",
+        "bgColor": "#424242"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-4",
+    "title": "Body Parts - Part 4",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-5",
+    "title": "Body Parts - Part 5",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-6",
+    "title": "Body Parts - Part 6",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-7",
+    "title": "Body Parts - Part 7",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-8",
+    "title": "Body Parts - Part 8",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-9",
+    "title": "Body Parts - Part 9",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-10",
+    "title": "Body Parts - Part 10",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-11",
+    "title": "Body Parts - Part 11",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-12",
+    "title": "Body Parts - Part 12",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-13",
+    "title": "Body Parts - Part 13",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-14",
+    "title": "Body Parts - Part 14",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-15",
+    "title": "Body Parts - Part 15",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-16",
+    "title": "Body Parts - Part 16",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-17",
+    "title": "Body Parts - Part 17",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-18",
+    "title": "Body Parts - Part 18",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-19",
+    "title": "Body Parts - Part 19",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-20",
+    "title": "Body Parts - Part 20",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-21",
+    "title": "Body Parts - Part 21",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-22",
+    "title": "Body Parts - Part 22",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-23",
+    "title": "Body Parts - Part 23",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-24",
+    "title": "Body Parts - Part 24",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-25",
+    "title": "Body Parts - Part 25",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-26",
+    "title": "Body Parts - Part 26",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-27",
+    "title": "Body Parts - Part 27",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-28",
+    "title": "Body Parts - Part 28",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-29",
+    "title": "Body Parts - Part 29",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "body-parts-30",
+    "title": "Body Parts - Part 30",
+    "bgGradient": [
+      "#42A5F5",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Head",
+        "emoji": "🗣️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "E",
+        "word": "Eye",
+        "emoji": "👁️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#D81B60"
+      },
+      {
+        "letter": "E",
+        "word": "Ear",
+        "emoji": "👂",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "T",
+        "word": "Teeth",
+        "emoji": "🦷",
+        "bgColor": "#FFFFFF"
+      },
+      {
+        "letter": "H",
+        "word": "Hair",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Face",
+        "emoji": "😊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neck",
+        "emoji": "🦒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Shoulder",
+        "emoji": "💪",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arm",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Elbow",
+        "emoji": "🦾",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "H",
+        "word": "Hand",
+        "emoji": "✋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger",
+        "emoji": "☝️",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "T",
+        "word": "Thumb",
+        "emoji": "👍",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "desserts-1",
+    "title": "Desserts & Sweets - Part 1",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-2",
+    "title": "Desserts & Sweets - Part 2",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🍪",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🍰",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "S",
+        "word": "Sundae",
+        "emoji": "🍨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fudge",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Eclair",
+        "emoji": "🥖",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Popsicle",
+        "emoji": "🍧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Sorbet",
+        "emoji": "🍨",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "🍰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Caramel",
+        "emoji": "🍯",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Marshmallow",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton Candy",
+        "emoji": "🍡",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Honey",
+        "emoji": "🍯",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-3",
+    "title": "Desserts & Sweets - Part 3",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "S'mores",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Toffee",
+        "emoji": "🍬",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "P",
+        "word": "Praline",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Churro",
+        "emoji": "🥖",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Gelato",
+        "emoji": "🍨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-4",
+    "title": "Desserts & Sweets - Part 4",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-5",
+    "title": "Desserts & Sweets - Part 5",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-6",
+    "title": "Desserts & Sweets - Part 6",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-7",
+    "title": "Desserts & Sweets - Part 7",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-8",
+    "title": "Desserts & Sweets - Part 8",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-9",
+    "title": "Desserts & Sweets - Part 9",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-10",
+    "title": "Desserts & Sweets - Part 10",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-11",
+    "title": "Desserts & Sweets - Part 11",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-12",
+    "title": "Desserts & Sweets - Part 12",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-13",
+    "title": "Desserts & Sweets - Part 13",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-14",
+    "title": "Desserts & Sweets - Part 14",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-15",
+    "title": "Desserts & Sweets - Part 15",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-16",
+    "title": "Desserts & Sweets - Part 16",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-17",
+    "title": "Desserts & Sweets - Part 17",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-18",
+    "title": "Desserts & Sweets - Part 18",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-19",
+    "title": "Desserts & Sweets - Part 19",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-20",
+    "title": "Desserts & Sweets - Part 20",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-21",
+    "title": "Desserts & Sweets - Part 21",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-22",
+    "title": "Desserts & Sweets - Part 22",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-23",
+    "title": "Desserts & Sweets - Part 23",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-24",
+    "title": "Desserts & Sweets - Part 24",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-25",
+    "title": "Desserts & Sweets - Part 25",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-26",
+    "title": "Desserts & Sweets - Part 26",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-27",
+    "title": "Desserts & Sweets - Part 27",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-28",
+    "title": "Desserts & Sweets - Part 28",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-29",
+    "title": "Desserts & Sweets - Part 29",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFF3E0"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "desserts-30",
+    "title": "Desserts & Sweets - Part 30",
+    "bgGradient": [
+      "#A1887F",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lollipop",
+        "emoji": "🍭",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gummy Bear",
+        "emoji": "🐻",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

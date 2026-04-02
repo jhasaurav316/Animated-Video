@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "dance-forms-1",
+    "title": "Dance Forms - Part 1",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-2",
+    "title": "Dance Forms - Part 2",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Modern Dance",
+        "emoji": "🕺",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tap Dance",
+        "emoji": "👞",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Disco",
+        "emoji": "🪩",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Contemporary",
+        "emoji": "💃",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "R",
+        "word": "Robot Dance",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "O",
+        "word": "Odissi",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kuchipudi",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Samba",
+        "emoji": "💃",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rumba",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "F",
+        "word": "Foxtrot",
+        "emoji": "🕺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "M",
+        "word": "Moonwalk",
+        "emoji": "🌙",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Polka",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bhangra",
+        "emoji": "🕺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Garba",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lavani",
+        "emoji": "💃",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-3",
+    "title": "Dance Forms - Part 3",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-4",
+    "title": "Dance Forms - Part 4",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-5",
+    "title": "Dance Forms - Part 5",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-6",
+    "title": "Dance Forms - Part 6",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-7",
+    "title": "Dance Forms - Part 7",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-8",
+    "title": "Dance Forms - Part 8",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-9",
+    "title": "Dance Forms - Part 9",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-10",
+    "title": "Dance Forms - Part 10",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-11",
+    "title": "Dance Forms - Part 11",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-12",
+    "title": "Dance Forms - Part 12",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-13",
+    "title": "Dance Forms - Part 13",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-14",
+    "title": "Dance Forms - Part 14",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-15",
+    "title": "Dance Forms - Part 15",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-16",
+    "title": "Dance Forms - Part 16",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-17",
+    "title": "Dance Forms - Part 17",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-18",
+    "title": "Dance Forms - Part 18",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-19",
+    "title": "Dance Forms - Part 19",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-20",
+    "title": "Dance Forms - Part 20",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-21",
+    "title": "Dance Forms - Part 21",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-22",
+    "title": "Dance Forms - Part 22",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-23",
+    "title": "Dance Forms - Part 23",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-24",
+    "title": "Dance Forms - Part 24",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dance-forms-25",
+    "title": "Dance Forms - Part 25",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ballet",
+        "emoji": "🩰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🕺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bharatanatyam",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kathak",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Breakdance",
+        "emoji": "🤸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cha Cha",
+        "emoji": "💃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🕺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Dance",
+        "emoji": "👯",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Belly Dance",
+        "emoji": "💃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Line Dance",
+        "emoji": "🤠",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

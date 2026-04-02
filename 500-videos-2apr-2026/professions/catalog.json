@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "professions-1",
+    "title": "Professions - Part 1",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-2",
+    "title": "Professions - Part 2",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mechanic",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "B",
+        "word": "Baker",
+        "emoji": "🍞",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vet",
+        "emoji": "🐾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "L",
+        "word": "Lawyer",
+        "emoji": "📜",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Plumber",
+        "emoji": "🔧",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Dentist",
+        "emoji": "🦷",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "P",
+        "word": "Photographer",
+        "emoji": "📷",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "M",
+        "word": "Musician",
+        "emoji": "🎵",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Architect",
+        "emoji": "🏛️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "J",
+        "word": "Journalist",
+        "emoji": "📰",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Carpenter",
+        "emoji": "🪚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tailor",
+        "emoji": "🧵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Fisherman",
+        "emoji": "🎣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "P",
+        "word": "Postman",
+        "emoji": "📮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Driver",
+        "emoji": "🚗",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-3",
+    "title": "Professions - Part 3",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Waiter",
+        "emoji": "🍽️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gardener",
+        "emoji": "🌺",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Barber",
+        "emoji": "💈",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Cobbler",
+        "emoji": "👟",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Painter",
+        "emoji": "🖌️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sailor",
+        "emoji": "⛵",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "Z",
+        "word": "Zookeeper",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clown",
+        "emoji": "🤡",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Magician",
+        "emoji": "🎩",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "R",
+        "word": "Reporter",
+        "emoji": "🎙️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Surgeon",
+        "emoji": "🏥",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "T",
+        "word": "Trainer",
+        "emoji": "🏋️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "📚",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "E",
+        "word": "Electrician",
+        "emoji": "⚡",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-4",
+    "title": "Professions - Part 4",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-5",
+    "title": "Professions - Part 5",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-6",
+    "title": "Professions - Part 6",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-7",
+    "title": "Professions - Part 7",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-8",
+    "title": "Professions - Part 8",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-9",
+    "title": "Professions - Part 9",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-10",
+    "title": "Professions - Part 10",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-11",
+    "title": "Professions - Part 11",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-12",
+    "title": "Professions - Part 12",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-13",
+    "title": "Professions - Part 13",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-14",
+    "title": "Professions - Part 14",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-15",
+    "title": "Professions - Part 15",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-16",
+    "title": "Professions - Part 16",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-17",
+    "title": "Professions - Part 17",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-18",
+    "title": "Professions - Part 18",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-19",
+    "title": "Professions - Part 19",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-20",
+    "title": "Professions - Part 20",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-21",
+    "title": "Professions - Part 21",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-22",
+    "title": "Professions - Part 22",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-23",
+    "title": "Professions - Part 23",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-24",
+    "title": "Professions - Part 24",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-25",
+    "title": "Professions - Part 25",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-26",
+    "title": "Professions - Part 26",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-27",
+    "title": "Professions - Part 27",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-28",
+    "title": "Professions - Part 28",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-29",
+    "title": "Professions - Part 29",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "professions-30",
+    "title": "Professions - Part 30",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "T",
+        "word": "Teacher",
+        "emoji": "👩‍🏫",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Pilot",
+        "emoji": "✈️",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Firefighter",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police",
+        "emoji": "👮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Chef",
+        "emoji": "👨‍🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Engineer",
+        "emoji": "👷",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "👨‍🌾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Artist",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scientist",
+        "emoji": "🔬",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "J",
+        "word": "Judge",
+        "emoji": "⚖️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dancer",
+        "emoji": "💃",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Singer",
+        "emoji": "🎤",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "🧑‍🚀",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

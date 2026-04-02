@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "clothing-1",
+    "title": "Clothing & Fashion - Part 1",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-2",
+    "title": "Clothing & Fashion - Part 2",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sweater",
+        "emoji": "🧶",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jeans",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Skirt",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "V",
+        "word": "Vest",
+        "emoji": "🦺",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hoodie",
+        "emoji": "🧥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "U",
+        "word": "Uniform",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pajamas",
+        "emoji": "🛌",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Raincoat",
+        "emoji": "🧥",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "🕶️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "E",
+        "word": "Earrings",
+        "emoji": "💎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-3",
+    "title": "Clothing & Fashion - Part 3",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saree",
+        "emoji": "👗",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kurta",
+        "emoji": "👔",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gown",
+        "emoji": "👗",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "A",
+        "word": "Apron",
+        "emoji": "🧑‍🍳",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-4",
+    "title": "Clothing & Fashion - Part 4",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-5",
+    "title": "Clothing & Fashion - Part 5",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-6",
+    "title": "Clothing & Fashion - Part 6",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-7",
+    "title": "Clothing & Fashion - Part 7",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-8",
+    "title": "Clothing & Fashion - Part 8",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-9",
+    "title": "Clothing & Fashion - Part 9",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-10",
+    "title": "Clothing & Fashion - Part 10",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-11",
+    "title": "Clothing & Fashion - Part 11",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-12",
+    "title": "Clothing & Fashion - Part 12",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-13",
+    "title": "Clothing & Fashion - Part 13",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-14",
+    "title": "Clothing & Fashion - Part 14",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-15",
+    "title": "Clothing & Fashion - Part 15",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-16",
+    "title": "Clothing & Fashion - Part 16",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-17",
+    "title": "Clothing & Fashion - Part 17",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-18",
+    "title": "Clothing & Fashion - Part 18",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-19",
+    "title": "Clothing & Fashion - Part 19",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-20",
+    "title": "Clothing & Fashion - Part 20",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-21",
+    "title": "Clothing & Fashion - Part 21",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-22",
+    "title": "Clothing & Fashion - Part 22",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-23",
+    "title": "Clothing & Fashion - Part 23",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-24",
+    "title": "Clothing & Fashion - Part 24",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-25",
+    "title": "Clothing & Fashion - Part 25",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-26",
+    "title": "Clothing & Fashion - Part 26",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-27",
+    "title": "Clothing & Fashion - Part 27",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-28",
+    "title": "Clothing & Fashion - Part 28",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-29",
+    "title": "Clothing & Fashion - Part 29",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "clothing-30",
+    "title": "Clothing & Fashion - Part 30",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shirt",
+        "emoji": "👔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pants",
+        "emoji": "👖",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dress",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shoes",
+        "emoji": "👟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socks",
+        "emoji": "🧦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarf",
+        "emoji": "🧣",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jacket",
+        "emoji": "🧥",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Coat",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Belt",
+        "emoji": "👔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tie",
+        "emoji": "👔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boots",
+        "emoji": "👢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sandals",
+        "emoji": "👡",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

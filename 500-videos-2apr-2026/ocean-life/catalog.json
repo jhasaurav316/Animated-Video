@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "ocean-life-1",
+    "title": "Ocean Life - Part 1",
+    "bgGradient": [
+      "#0277BD",
+      "#4FC3F7"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-2",
+    "title": "Ocean Life - Part 2",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐠",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Seal",
+        "emoji": "🦭",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "W",
+        "word": "Walrus",
+        "emoji": "🦭",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Manatee",
+        "emoji": "🐋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Narwhal",
+        "emoji": "🦄",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "S",
+        "word": "Swordfish",
+        "emoji": "🐟",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🪸",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Anemone",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kelp",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Barnacle",
+        "emoji": "🐚",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "Orca",
+        "emoji": "🐋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hammerhead",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "M",
+        "word": "Manta Ray",
+        "emoji": "🐟",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-3",
+    "title": "Ocean Life - Part 3",
+    "bgGradient": [
+      "#1A237E",
+      "#7986CB"
+    ],
+    "accentColor": "#0D1257",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-4",
+    "title": "Ocean Life - Part 4",
+    "bgGradient": [
+      "#0277BD",
+      "#4FC3F7"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-5",
+    "title": "Ocean Life - Part 5",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-6",
+    "title": "Ocean Life - Part 6",
+    "bgGradient": [
+      "#1A237E",
+      "#7986CB"
+    ],
+    "accentColor": "#0D1257",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-7",
+    "title": "Ocean Life - Part 7",
+    "bgGradient": [
+      "#0277BD",
+      "#4FC3F7"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-8",
+    "title": "Ocean Life - Part 8",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-9",
+    "title": "Ocean Life - Part 9",
+    "bgGradient": [
+      "#1A237E",
+      "#7986CB"
+    ],
+    "accentColor": "#0D1257",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-10",
+    "title": "Ocean Life - Part 10",
+    "bgGradient": [
+      "#0277BD",
+      "#4FC3F7"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-11",
+    "title": "Ocean Life - Part 11",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-12",
+    "title": "Ocean Life - Part 12",
+    "bgGradient": [
+      "#1A237E",
+      "#7986CB"
+    ],
+    "accentColor": "#0D1257",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-13",
+    "title": "Ocean Life - Part 13",
+    "bgGradient": [
+      "#0277BD",
+      "#4FC3F7"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-14",
+    "title": "Ocean Life - Part 14",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-15",
+    "title": "Ocean Life - Part 15",
+    "bgGradient": [
+      "#1A237E",
+      "#7986CB"
+    ],
+    "accentColor": "#0D1257",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-16",
+    "title": "Ocean Life - Part 16",
+    "bgGradient": [
+      "#0277BD",
+      "#4FC3F7"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-17",
+    "title": "Ocean Life - Part 17",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-18",
+    "title": "Ocean Life - Part 18",
+    "bgGradient": [
+      "#1A237E",
+      "#7986CB"
+    ],
+    "accentColor": "#0D1257",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-19",
+    "title": "Ocean Life - Part 19",
+    "bgGradient": [
+      "#0277BD",
+      "#4FC3F7"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-20",
+    "title": "Ocean Life - Part 20",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-21",
+    "title": "Ocean Life - Part 21",
+    "bgGradient": [
+      "#1A237E",
+      "#7986CB"
+    ],
+    "accentColor": "#0D1257",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-22",
+    "title": "Ocean Life - Part 22",
+    "bgGradient": [
+      "#0277BD",
+      "#4FC3F7"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-23",
+    "title": "Ocean Life - Part 23",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-24",
+    "title": "Ocean Life - Part 24",
+    "bgGradient": [
+      "#1A237E",
+      "#7986CB"
+    ],
+    "accentColor": "#0D1257",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "ocean-life-25",
+    "title": "Ocean Life - Part 25",
+    "bgGradient": [
+      "#0277BD",
+      "#4FC3F7"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Shark",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Octopus",
+        "emoji": "🐙",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Squid",
+        "emoji": "🦑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Ray",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐍",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]
