@@ -148,6 +148,57 @@ foreach ($cat in $catalogs) {
     }
 }
 
+
+# ======================== STEP 4: LOOP VIDEOS (2x repeat) ========================
+Write-Host ""
+Write-Host "  STEP 4: Looping Videos (repeat 2x)" -ForegroundColor Yellow
+Write-Host ""
+
+$looped = 0
+foreach ($cat in $catalogs) {
+    $folder = $cat.Path.Split('\\')[0]
+    $outDir = Join-Path (Join-Path $ProjectDir "out") $folder
+    
+    if (-not (Test-Path $outDir)) { continue }
+    
+    $mp4Files = Get-ChildItem -Path $outDir -Filter "*.mp4" | Where-Object { $_.Name -notmatch "-looped\.mp4$" }
+    
+    foreach ($mp4 in $mp4Files) {
+        $original = $mp4.FullName
+        $loopedFile = $original -replace '\.mp4$', '-looped.mp4'
+        
+        if (Test-Path $loopedFile) {
+            Write-Host "    SKIP loop: $($mp4.Name)" -ForegroundColor DarkYellow
+            continue
+        }
+        
+        Write-Host "    Looping: $($mp4.Name)" -ForegroundColor Cyan
+        
+        # Create concat list
+        $concatFile = Join-Path $outDir "concat_temp.txt"
+        "file '$original'" | Set-Content $concatFile
+        "file '$original'" | Add-Content $concatFile
+        
+        $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
+        cmd /c "ffmpeg -y -f concat -safe 0 -i `"$concatFile`" -c copy `"$loopedFile`"" 2>&1 | Out-Null
+        $ErrorActionPreference = $prevEAP
+        
+        if (Test-Path $loopedFile) {
+            # Replace original with looped version
+            Remove-Item $original -Force
+            Rename-Item $loopedFile ($mp4.Name)
+            $looped++
+            Write-Host "      Done! (2x looped)" -ForegroundColor Green
+        } else {
+            Write-Host "      Loop FAILED" -ForegroundColor Red
+        }
+        
+        if (Test-Path $concatFile) { Remove-Item $concatFile -Force }
+    }
+}
+
+Write-Host "  Looped $looped videos!" -ForegroundColor Green
+
 $elapsed = (Get-Date) - $startTime
 Write-Host ""
 Write-Host "================================================================" -ForegroundColor Green
