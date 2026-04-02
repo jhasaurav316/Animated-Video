@@ -6,7 +6,7 @@
 # ============================================================================
 
 $ErrorActionPreference = "Stop"
-$ProjectDir = "C:\test\500-videos-2apr-2026"
+$ProjectDir = $PSScriptRoot
 
 Write-Host ""
 Write-Host "================================================================" -ForegroundColor Cyan
