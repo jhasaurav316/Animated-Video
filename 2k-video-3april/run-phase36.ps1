@@ -141,7 +141,7 @@ foreach ($cat in $catalogs) {
         Write-Host "  [$current/$total] $($video.title) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
 
         $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-        npx remotion render $compId "$outputFile" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --enable-multiprocess-on-linux --port=6600
+        npx remotion render $compId "$outputFile" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --enable-multiprocess-on-linux --port=6600 --bundle-cache=true
         $ErrorActionPreference = $prevEAP
 
         if ($LASTEXITCODE -eq 0) {
