@@ -102,19 +102,8 @@ node (Join-Path $ProjectDir "kitchen-appliances\register-compositions.js")
 Write-Host "  Done!" -ForegroundColor Green
 Write-Host ""
 
-# ======================== STEP 3: PRE-BUNDLE (once) ========================
-Write-Host "  STEP 3: Pre-bundling code (one-time)..." -ForegroundColor Yellow
-$bundleDir = Join-Path $ProjectDir "build-phase39"
-if (-not (Test-Path $bundleDir)) {
-    echo Y | npx remotion bundle --public-dir=public --out-dir="$bundleDir" --log=error 2>&1
-    Write-Host "    Bundle ready!" -ForegroundColor Green
-} else {
-    Write-Host "    Bundle cached!" -ForegroundColor Green
-}
-Write-Host ""
-
-# ======================== STEP 4: RENDER VIDEOS ========================
-Write-Host "  STEP 4: Rendering 51 Videos" -ForegroundColor Yellow
+# ======================== STEP 3: RENDER VIDEOS ========================
+Write-Host "  STEP 3: Rendering 51 Videos" -ForegroundColor Yellow
 Write-Host ""
 
 $startTime = Get-Date
@@ -152,7 +141,7 @@ foreach ($cat in $catalogs) {
         Write-Host "  [$current/$total] $($video.title) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
 
         $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-        npx remotion render --serve-url="$bundleDir" $compId "$outputFile" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --port=6900
+        npx remotion render $compId "$outputFile" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --enable-multiprocess-on-linux --port=6900
         $ErrorActionPreference = $prevEAP
 
         if ($LASTEXITCODE -eq 0) {
@@ -165,9 +154,6 @@ foreach ($cat in $catalogs) {
         }
     }
 }
-
-# Cleanup bundle
-Remove-Item -Recurse -Force "$bundleDir" -ErrorAction SilentlyContinue
 
 $elapsed = (Get-Date) - $startTime
 Write-Host ""
