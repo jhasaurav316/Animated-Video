@@ -11,11 +11,53 @@ $ProjectDir = $PSScriptRoot
 Write-Host ""
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host "  PHASE 27: 24 Tropical Fish + 27 Farm Crops" -ForegroundColor Cyan
-Write-Host "  51 Videos | 2:45 each | Full HD (1080x1920)" -ForegroundColor Cyan
+Write-Host "  51 Videos | 1:30-2:55 each | Full HD (1080x1920)" -ForegroundColor Cyan
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host ""
 
 Set-Location $ProjectDir
+
+# ======================== STEP 0: FIX ENTRY POINT ========================
+Write-Host "  STEP 0: Verifying Entry Point" -ForegroundColor Yellow
+$indexPath = Join-Path $ProjectDir "src\index.ts"
+$indexContent = Get-Content $indexPath -Raw
+if ($indexContent -notmatch "registerRoot") {
+    Write-Host "    FIXING: index.ts missing registerRoot - regenerating..." -ForegroundColor Red
+    node -e "
+const fs = require('fs');
+const path = require('path');
+const srcDir = path.join(process.cwd(), 'src');
+const files = fs.readdirSync(srcDir).filter(f => f.endsWith('Root.tsx'));
+const imports = [];
+const elements = [];
+for (const f of files) {
+    const name = f.replace('.tsx', '');
+    imports.push('import { ' + name + ' } from "./' + name + '";');
+    elements.push('    React.createElement(' + name + '),');
+}
+const code = [
+    'import { registerRoot } from "remotion";',
+    'import React from "react";',
+    'import "./index.css";',
+    '',
+    ...imports,
+    '',
+    'const CombinedRoot: React.FC = () => {',
+    '  return React.createElement(React.Fragment, null,',
+    ...elements,
+    '  );',
+    '};',
+    '',
+    'registerRoot(CombinedRoot);',
+    ''
+].join('\n');
+fs.writeFileSync(path.join(srcDir, 'index.ts'), code);
+console.log('    Fixed! registerRoot added with ' + files.length + ' Root components');
+"
+} else {
+    Write-Host "    OK: registerRoot found" -ForegroundColor Green
+}
+Write-Host ""
 
 # ======================== STEP 1: GENERATE AUDIO ========================
 Write-Host "  STEP 1: Generating Audio" -ForegroundColor Yellow
