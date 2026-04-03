@@ -7,7 +7,7 @@ $ProjectDir = $PSScriptRoot
 
 Write-Host ""
 Write-Host "================================================================" -ForegroundColor Cyan
-Write-Host "  TEST: 5 Videos Quick Test" -ForegroundColor Cyan
+Write-Host "  TEST: 1 Video Quick Test" -ForegroundColor Cyan
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host ""
 
@@ -29,7 +29,7 @@ $Pitch = "+5Hz"
 $catPath = Join-Path $ProjectDir "toys\catalog.json"
 $json = Get-Content $catPath -Raw | ConvertFrom-Json
 $videos = if ($json -is [System.Array]) { $json } else { $json.videos }
-$testVideos = $videos[0..4]
+$testVideos = $videos[0..0]
 
 foreach ($video in $testVideos) {
     $videoId = $video.id
@@ -91,7 +91,7 @@ foreach ($video in $testVideos) {
     $duration = $video.targetDuration
     $mins = [math]::Floor($duration / 60)
     $secs = $duration % 60
-    Write-Host "  [$($rendered+$failed+1)/5] $($video.title) (${mins}:$($secs.ToString('00'))) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
+    Write-Host "  [$($rendered+$failed+1)/1] $($video.title) (${mins}:$($secs.ToString('00'))) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
 
     # Step A: Render frames (CPU at 75%)
     $framesDir = Join-Path $outDir "$videoId-frames"
