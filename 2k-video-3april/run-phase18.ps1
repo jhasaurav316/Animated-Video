@@ -7,11 +7,12 @@
 
 $ErrorActionPreference = "Stop"
 $ProjectDir = $PSScriptRoot
+$cpuCores = (Get-CimInstance Win32_Processor).NumberOfLogicalProcessors
 
 Write-Host ""
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host "  PHASE 18: 3 Zoo Animals + 30 Underwater + 18 Rainforest" -ForegroundColor Cyan
-Write-Host "  51 Videos | 1:30-2:55 each | Full HD (1080x1920)" -ForegroundColor Cyan
+Write-Host "  51 Videos | Using $cpuCores CPU cores | Full HD (1080x1920)" -ForegroundColor Cyan
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host ""
 
@@ -151,7 +152,7 @@ foreach ($cat in $catalogs) {
         Write-Host "  [$current/$total] $($video.title) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
 
         $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-        npx remotion render $compId "$outputFile" --concurrency=100% --log=error --crf=18 --codec=h264 --gl=angle --port=4800 --serve-url="$bundleDir"
+        npx remotion render --serve-url="$bundleDir" $compId "$outputFile" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --port=4800
         $ErrorActionPreference = $prevEAP
 
         if ($LASTEXITCODE -eq 0) {

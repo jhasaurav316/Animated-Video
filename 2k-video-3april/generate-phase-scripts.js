@@ -146,11 +146,12 @@ for (const phaseConfig of PHASES) {
 
 $ErrorActionPreference = "Stop"
 $ProjectDir = $PSScriptRoot
+$cpuCores = (Get-CimInstance Win32_Processor).NumberOfLogicalProcessors
 
 Write-Host ""
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host "  PHASE ${phaseNum}: ${catDescs}" -ForegroundColor Cyan
-Write-Host "  ${phaseTotal} Videos | 1:30-2:55 each | Full HD (1080x1920)" -ForegroundColor Cyan
+Write-Host "  ${phaseTotal} Videos | Using $cpuCores CPU cores | Full HD (1080x1920)" -ForegroundColor Cyan
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host ""
 
@@ -286,7 +287,7 @@ foreach ($cat in $catalogs) {
         Write-Host "  [$current/$total] $($video.title) [$($elapsed.ToString('hh\\:mm\\:ss'))]" -ForegroundColor Cyan
 
         $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-        npx remotion render $compId "$outputFile" --concurrency=100% --log=error --crf=18 --codec=h264 --gl=angle --port=${3000 + phaseNum * 100} --serve-url="$bundleDir"
+        npx remotion render --serve-url="$bundleDir" $compId "$outputFile" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --port=${3000 + phaseNum * 100}
         $ErrorActionPreference = $prevEAP
 
         if ($LASTEXITCODE -eq 0) {
