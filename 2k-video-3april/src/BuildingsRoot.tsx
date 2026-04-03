@@ -10,7 +10,7 @@ export const BuildingsRoot: React.FC = () => {
       <Composition
         id="Buildings1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4830}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 161,
         }}
       />
       <Composition
         id="Buildings2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3600}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 120,
         }}
       />
       <Composition
         id="Buildings3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4920}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 164,
         }}
       />
       <Composition
         id="Buildings4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3660}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 122,
         }}
       />
       <Composition
         id="Buildings5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4980}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 166,
         }}
       />
       <Composition
         id="Buildings6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3720}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 124,
         }}
       />
       <Composition
         id="Buildings7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5070}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 169,
         }}
       />
       <Composition
         id="Buildings8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3810}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 127,
         }}
       />
       <Composition
         id="Buildings9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5130}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 171,
         }}
       />
       <Composition
         id="Buildings10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3870}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 129,
         }}
       />
       <Composition
         id="Buildings11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5190}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 173,
         }}
       />
       <Composition
         id="Buildings12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3960}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 132,
         }}
       />
       <Composition
         id="Buildings13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2700}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 90,
         }}
       />
       <Composition
         id="Buildings14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4020}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 134,
         }}
       />
       <Composition
         id="Buildings15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2760}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 92,
         }}
       />
       <Composition
         id="Buildings16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4080}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 136,
         }}
       />
       <Composition
         id="Buildings17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2820}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 94,
         }}
       />
       <Composition
         id="Buildings18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4170}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 139,
         }}
       />
       <Composition
         id="Buildings19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="Buildings20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4230}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 141,
         }}
       />
       <Composition
         id="Buildings21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2970}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 99,
         }}
       />
       <Composition
         id="Buildings22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4290}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 143,
         }}
       />
       <Composition
         id="Buildings23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3060}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 102,
         }}
       />
       <Composition
         id="Buildings24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4380}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 146,
         }}
       />
       <Composition
         id="Buildings25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3120}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 104,
         }}
       />
       <Composition
         id="Buildings26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4440}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 148,
         }}
       />
       <Composition
         id="Buildings27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3180}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 106,
         }}
       />
       <Composition
         id="Buildings28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4530}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 151,
         }}
       />
       <Composition
         id="Buildings29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3270}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 109,
         }}
       />
       <Composition
         id="Buildings30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4590}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const BuildingsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 153,
         }}
       />
     </>

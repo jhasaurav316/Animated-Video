@@ -10,7 +10,7 @@ export const LanguagesRoot: React.FC = () => {
       <Composition
         id="Languages1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4860}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 162,
         }}
       />
       <Composition
         id="Languages2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3600}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 120,
         }}
       />
       <Composition
         id="Languages3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4920}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 164,
         }}
       />
       <Composition
         id="Languages4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3660}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 122,
         }}
       />
       <Composition
         id="Languages5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5010}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 167,
         }}
       />
       <Composition
         id="Languages6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3750}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 125,
         }}
       />
       <Composition
         id="Languages7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5070}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 169,
         }}
       />
       <Composition
         id="Languages8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3810}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 127,
         }}
       />
       <Composition
         id="Languages9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5130}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 171,
         }}
       />
       <Composition
         id="Languages10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3900}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 130,
         }}
       />
       <Composition
         id="Languages11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5220}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 174,
         }}
       />
       <Composition
         id="Languages12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3960}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 132,
         }}
       />
       <Composition
         id="Languages13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2700}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 90,
         }}
       />
       <Composition
         id="Languages14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4020}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 134,
         }}
       />
       <Composition
         id="Languages15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2790}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 93,
         }}
       />
       <Composition
         id="Languages16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4110}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 137,
         }}
       />
       <Composition
         id="Languages17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2850}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 95,
         }}
       />
       <Composition
         id="Languages18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4170}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 139,
         }}
       />
       <Composition
         id="Languages19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="Languages20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4260}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 142,
         }}
       />
       <Composition
         id="Languages21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3000}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 100,
         }}
       />
       <Composition
         id="Languages22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4320}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 144,
         }}
       />
       <Composition
         id="Languages23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3060}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 102,
         }}
       />
       <Composition
         id="Languages24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4380}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 146,
         }}
       />
       <Composition
         id="Languages25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3150}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 105,
         }}
       />
       <Composition
         id="Languages26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4470}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 149,
         }}
       />
       <Composition
         id="Languages27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3210}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 107,
         }}
       />
       <Composition
         id="Languages28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4530}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 151,
         }}
       />
       <Composition
         id="Languages29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3270}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 109,
         }}
       />
       <Composition
         id="Languages30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4590}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const LanguagesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 153,
         }}
       />
     </>

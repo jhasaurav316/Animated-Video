@@ -10,7 +10,7 @@ export const PlanetsRoot: React.FC = () => {
       <Composition
         id="Planets1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3090}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 103,
         }}
       />
       <Composition
         id="Planets2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4410}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 147,
         }}
       />
       <Composition
         id="Planets3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3150}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 105,
         }}
       />
       <Composition
         id="Planets4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4470}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 149,
         }}
       />
       <Composition
         id="Planets5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3240}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 108,
         }}
       />
       <Composition
         id="Planets6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4560}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 152,
         }}
       />
       <Composition
         id="Planets7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3300}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 110,
         }}
       />
       <Composition
         id="Planets8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4620}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 154,
         }}
       />
       <Composition
         id="Planets9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3360}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 112,
         }}
       />
       <Composition
         id="Planets10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4710}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 157,
         }}
       />
       <Composition
         id="Planets11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3450}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 115,
         }}
       />
       <Composition
         id="Planets12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4770}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 159,
         }}
       />
       <Composition
         id="Planets13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3510}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 117,
         }}
       />
       <Composition
         id="Planets14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4830}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 161,
         }}
       />
       <Composition
         id="Planets15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3570}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 119,
         }}
       />
       <Composition
         id="Planets16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4920}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 164,
         }}
       />
       <Composition
         id="Planets17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3660}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 122,
         }}
       />
       <Composition
         id="Planets18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4980}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 166,
         }}
       />
       <Composition
         id="Planets19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3720}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 124,
         }}
       />
       <Composition
         id="Planets20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5040}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 168,
         }}
       />
       <Composition
         id="Planets21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3810}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 127,
         }}
       />
       <Composition
         id="Planets22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5130}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 171,
         }}
       />
       <Composition
         id="Planets23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3870}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 129,
         }}
       />
       <Composition
         id="Planets24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5190}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 173,
         }}
       />
       <Composition
         id="Planets25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3930}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 131,
         }}
       />
       <Composition
         id="Planets26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2700}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 90,
         }}
       />
       <Composition
         id="Planets27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4020}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 134,
         }}
       />
       <Composition
         id="Planets28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2760}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 92,
         }}
       />
       <Composition
         id="Planets29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4080}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 136,
         }}
       />
       <Composition
         id="Planets30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2820}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const PlanetsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 94,
         }}
       />
     </>

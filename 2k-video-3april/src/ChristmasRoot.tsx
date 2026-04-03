@@ -10,7 +10,7 @@ export const ChristmasRoot: React.FC = () => {
       <Composition
         id="Christmas1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2760}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 92,
         }}
       />
       <Composition
         id="Christmas2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4080}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 136,
         }}
       />
       <Composition
         id="Christmas3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2820}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 94,
         }}
       />
       <Composition
         id="Christmas4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4170}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 139,
         }}
       />
       <Composition
         id="Christmas5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="Christmas6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4230}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 141,
         }}
       />
       <Composition
         id="Christmas7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2970}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 99,
         }}
       />
       <Composition
         id="Christmas8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4290}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 143,
         }}
       />
       <Composition
         id="Christmas9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3030}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 101,
         }}
       />
       <Composition
         id="Christmas10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4380}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 146,
         }}
       />
       <Composition
         id="Christmas11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3120}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 104,
         }}
       />
       <Composition
         id="Christmas12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4440}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 148,
         }}
       />
       <Composition
         id="Christmas13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3180}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 106,
         }}
       />
       <Composition
         id="Christmas14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4500}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 150,
         }}
       />
       <Composition
         id="Christmas15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3270}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 109,
         }}
       />
       <Composition
         id="Christmas16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4590}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 153,
         }}
       />
       <Composition
         id="Christmas17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3330}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 111,
         }}
       />
       <Composition
         id="Christmas18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4650}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 155,
         }}
       />
       <Composition
         id="Christmas19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3390}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 113,
         }}
       />
       <Composition
         id="Christmas20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4740}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 158,
         }}
       />
       <Composition
         id="Christmas21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3480}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 116,
         }}
       />
       <Composition
         id="Christmas22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4800}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 160,
         }}
       />
       <Composition
         id="Christmas23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3540}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 118,
         }}
       />
       <Composition
         id="Christmas24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4860}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 162,
         }}
       />
       <Composition
         id="Christmas25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3630}
         fps={30}
         width={1080}
         height={1920}
@@ -479,7 +479,7 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 121,
         }}
       />
       <Composition
@@ -504,7 +504,7 @@ export const ChristmasRoot: React.FC = () => {
       <Composition
         id="Christmas27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3690}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 123,
         }}
       />
       <Composition
         id="Christmas28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5010}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 167,
         }}
       />
       <Composition
         id="Christmas29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3750}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 125,
         }}
       />
       <Composition
         id="Christmas30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5100}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const ChristmasRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 170,
         }}
       />
     </>

@@ -102,7 +102,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 126
   },
   {
     "id": "mountains-2",
@@ -207,7 +207,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 170
   },
   {
     "id": "mountains-3",
@@ -312,7 +312,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 128
   },
   {
     "id": "mountains-4",
@@ -417,7 +417,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 172
   },
   {
     "id": "mountains-5",
@@ -522,7 +522,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 130
   },
   {
     "id": "mountains-6",
@@ -627,7 +627,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 174
   },
   {
     "id": "mountains-7",
@@ -732,7 +732,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 133
   },
   {
     "id": "mountains-8",
@@ -837,7 +837,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 91
   },
   {
     "id": "mountains-9",
@@ -942,7 +942,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 135
   },
   {
     "id": "mountains-10",
@@ -1047,7 +1047,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 93
   },
   {
     "id": "mountains-11",
@@ -1152,7 +1152,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 137
   },
   {
     "id": "mountains-12",
@@ -1257,7 +1257,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 96
   },
   {
     "id": "mountains-13",
@@ -1362,7 +1362,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 140
   },
   {
     "id": "mountains-14",
@@ -1467,7 +1467,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 98
   },
   {
     "id": "mountains-15",
@@ -1572,7 +1572,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 142
   },
   {
     "id": "mountains-16",
@@ -1677,7 +1677,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 100
   },
   {
     "id": "mountains-17",
@@ -1782,7 +1782,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 145
   },
   {
     "id": "mountains-18",
@@ -1887,7 +1887,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 103
   },
   {
     "id": "mountains-19",
@@ -1992,7 +1992,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 147
   },
   {
     "id": "mountains-20",
@@ -2097,7 +2097,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 105
   },
   {
     "id": "mountains-21",
@@ -2202,7 +2202,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 149
   },
   {
     "id": "mountains-22",
@@ -2307,7 +2307,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 108
   },
   {
     "id": "mountains-23",
@@ -2412,7 +2412,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 152
   },
   {
     "id": "mountains-24",
@@ -2517,7 +2517,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 110
   },
   {
     "id": "mountains-25",
@@ -2622,7 +2622,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 154
   },
   {
     "id": "mountains-26",
@@ -2727,7 +2727,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 112
   },
   {
     "id": "mountains-27",
@@ -2832,7 +2832,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 157
   },
   {
     "id": "mountains-28",
@@ -2937,7 +2937,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 115
   },
   {
     "id": "mountains-29",
@@ -3042,7 +3042,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 159
   },
   {
     "id": "mountains-30",
@@ -3147,6 +3147,6 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 117
   }
 ]

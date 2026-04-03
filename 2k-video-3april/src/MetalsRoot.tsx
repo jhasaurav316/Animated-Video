@@ -10,7 +10,7 @@ export const MetalsRoot: React.FC = () => {
       <Composition
         id="Metals1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2730}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 91,
         }}
       />
       <Composition
         id="Metals2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4050}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 135,
         }}
       />
       <Composition
         id="Metals3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2820}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 94,
         }}
       />
       <Composition
         id="Metals4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4140}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 138,
         }}
       />
       <Composition
         id="Metals5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2880}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 96,
         }}
       />
       <Composition
         id="Metals6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4200}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 140,
         }}
       />
       <Composition
         id="Metals7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2940}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 98,
         }}
       />
       <Composition
         id="Metals8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4290}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 143,
         }}
       />
       <Composition
         id="Metals9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3030}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 101,
         }}
       />
       <Composition
         id="Metals10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4350}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 145,
         }}
       />
       <Composition
         id="Metals11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3090}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 103,
         }}
       />
       <Composition
         id="Metals12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4410}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 147,
         }}
       />
       <Composition
         id="Metals13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3180}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 106,
         }}
       />
       <Composition
         id="Metals14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4500}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 150,
         }}
       />
       <Composition
         id="Metals15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3240}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 108,
         }}
       />
       <Composition
         id="Metals16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4560}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 152,
         }}
       />
       <Composition
         id="Metals17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3300}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 110,
         }}
       />
       <Composition
         id="Metals18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4650}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 155,
         }}
       />
       <Composition
         id="Metals19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3390}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 113,
         }}
       />
       <Composition
         id="Metals20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4710}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 157,
         }}
       />
       <Composition
         id="Metals21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3450}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 115,
         }}
       />
       <Composition
         id="Metals22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4770}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 159,
         }}
       />
       <Composition
         id="Metals23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3540}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 118,
         }}
       />
       <Composition
         id="Metals24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4860}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 162,
         }}
       />
       <Composition
         id="Metals25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3600}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 120,
         }}
       />
       <Composition
         id="Metals26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4920}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 164,
         }}
       />
       <Composition
         id="Metals27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3660}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 122,
         }}
       />
       <Composition
         id="Metals28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4980}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 166,
         }}
       />
       <Composition
         id="Metals29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3750}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 125,
         }}
       />
       <Composition
         id="Metals30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5070}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const MetalsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 169,
         }}
       />
     </>

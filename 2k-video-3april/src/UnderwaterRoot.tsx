@@ -10,7 +10,7 @@ export const UnderwaterRoot: React.FC = () => {
       <Composition
         id="Underwater1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5160}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 172,
         }}
       />
       <Composition
         id="Underwater2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3900}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 130,
         }}
       />
       <Composition
         id="Underwater3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5250}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 175,
         }}
       />
       <Composition
         id="Underwater4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3990}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 133,
         }}
       />
       <Composition
         id="Underwater5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2730}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 91,
         }}
       />
       <Composition
         id="Underwater6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4050}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 135,
         }}
       />
       <Composition
         id="Underwater7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2790}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 93,
         }}
       />
       <Composition
         id="Underwater8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4110}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 137,
         }}
       />
       <Composition
         id="Underwater9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2880}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 96,
         }}
       />
       <Composition
         id="Underwater10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4200}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 140,
         }}
       />
       <Composition
         id="Underwater11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2940}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 98,
         }}
       />
       <Composition
         id="Underwater12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4260}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 142,
         }}
       />
       <Composition
         id="Underwater13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3000}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 100,
         }}
       />
       <Composition
         id="Underwater14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4350}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 145,
         }}
       />
       <Composition
         id="Underwater15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3090}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 103,
         }}
       />
       <Composition
         id="Underwater16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4410}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 147,
         }}
       />
       <Composition
         id="Underwater17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3150}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 105,
         }}
       />
       <Composition
         id="Underwater18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4470}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 149,
         }}
       />
       <Composition
         id="Underwater19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3240}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 108,
         }}
       />
       <Composition
         id="Underwater20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4560}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 152,
         }}
       />
       <Composition
         id="Underwater21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3300}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 110,
         }}
       />
       <Composition
         id="Underwater22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4620}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 154,
         }}
       />
       <Composition
         id="Underwater23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3360}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 112,
         }}
       />
       <Composition
         id="Underwater24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4710}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 157,
         }}
       />
       <Composition
         id="Underwater25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3450}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 115,
         }}
       />
       <Composition
         id="Underwater26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4770}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 159,
         }}
       />
       <Composition
         id="Underwater27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3510}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 117,
         }}
       />
       <Composition
         id="Underwater28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4830}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 161,
         }}
       />
       <Composition
         id="Underwater29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3600}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 120,
         }}
       />
       <Composition
         id="Underwater30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4920}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const UnderwaterRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 164,
         }}
       />
     </>

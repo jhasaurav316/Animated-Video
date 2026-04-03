@@ -10,7 +10,7 @@ export const BeachRoot: React.FC = () => {
       <Composition
         id="Beach1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3480}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 116,
         }}
       />
       <Composition
         id="Beach2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4800}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 160,
         }}
       />
       <Composition
         id="Beach3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3540}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 118,
         }}
       />
       <Composition
         id="Beach4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4860}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 162,
         }}
       />
       <Composition
         id="Beach5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3630}
         fps={30}
         width={1080}
         height={1920}
@@ -99,7 +99,7 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 121,
         }}
       />
       <Composition
@@ -124,7 +124,7 @@ export const BeachRoot: React.FC = () => {
       <Composition
         id="Beach7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3690}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 123,
         }}
       />
       <Composition
         id="Beach8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5010}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 167,
         }}
       />
       <Composition
         id="Beach9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3750}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 125,
         }}
       />
       <Composition
         id="Beach10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5100}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 170,
         }}
       />
       <Composition
         id="Beach11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3840}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 128,
         }}
       />
       <Composition
         id="Beach12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5160}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 172,
         }}
       />
       <Composition
         id="Beach13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3900}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 130,
         }}
       />
       <Composition
         id="Beach14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5220}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 174,
         }}
       />
       <Composition
         id="Beach15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3990}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 133,
         }}
       />
       <Composition
         id="Beach16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2730}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 91,
         }}
       />
       <Composition
         id="Beach17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4050}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 135,
         }}
       />
       <Composition
         id="Beach18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2790}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 93,
         }}
       />
       <Composition
         id="Beach19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4110}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 137,
         }}
       />
       <Composition
         id="Beach20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2880}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 96,
         }}
       />
       <Composition
         id="Beach21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4200}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 140,
         }}
       />
       <Composition
         id="Beach22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2940}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 98,
         }}
       />
       <Composition
         id="Beach23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4260}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 142,
         }}
       />
       <Composition
         id="Beach24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3000}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 100,
         }}
       />
       <Composition
         id="Beach25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4350}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 145,
         }}
       />
       <Composition
         id="Beach26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3090}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 103,
         }}
       />
       <Composition
         id="Beach27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4410}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 147,
         }}
       />
       <Composition
         id="Beach28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3150}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 105,
         }}
       />
       <Composition
         id="Beach29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4470}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 149,
         }}
       />
       <Composition
         id="Beach30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3210}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const BeachRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 107,
         }}
       />
     </>

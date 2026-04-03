@@ -1,88 +1,177 @@
 {
   "batchName": "1k-video-3april",
   "date": "2026-04-03",
-  "totalVideos": 2040,
-  "videoDuration": "2:45 (165 seconds)",
-  "phases": 40,
-  "videosPerPhase": 51,
-  "batch1": {
-    "videos": 1020,
-    "phases": "1-20",
-    "categories": 34
-  },
-  "batch2": {
-    "videos": 1020,
-    "phases": "21-40",
-    "categories": 34
-  },
+  "totalVideos": 1020,
   "categories": [
-    { "category": "Toys", "key": "toys", "count": 30 },
-    { "category": "Superheroes", "key": "superheroes", "count": 30 },
-    { "category": "Cartoon Characters", "key": "cartoon-characters", "count": 30 },
-    { "category": "Wild Cats & Big Cats", "key": "wild-cats", "count": 30 },
-    { "category": "Pet Animals", "key": "pet-animals", "count": 30 },
-    { "category": "Jungle Animals", "key": "jungle-animals", "count": 30 },
-    { "category": "Arctic Animals", "key": "arctic-animals", "count": 30 },
-    { "category": "Shapes", "key": "shapes", "count": 30 },
-    { "category": "Numbers", "key": "numbers", "count": 30 },
-    { "category": "Colors", "key": "colors", "count": 30 },
-    { "category": "Vehicles", "key": "vehicles", "count": 30 },
-    { "category": "Buildings", "key": "buildings", "count": 30 },
-    { "category": "Furniture", "key": "furniture", "count": 30 },
-    { "category": "School Items", "key": "school-items", "count": 30 },
-    { "category": "Playground", "key": "playground", "count": 30 },
-    { "category": "Musical Sounds", "key": "musical-sounds", "count": 30 },
-    { "category": "Fairy Tales", "key": "fairy-tales", "count": 30 },
-    { "category": "Science Words", "key": "science-words", "count": 30 },
-    { "category": "Winter Words", "key": "winter-words", "count": 30 },
-    { "category": "Summer Words", "key": "summer-words", "count": 30 },
-    { "category": "Halloween", "key": "halloween", "count": 30 },
-    { "category": "Christmas", "key": "christmas", "count": 30 },
-    { "category": "Garden Items", "key": "garden-items", "count": 30 },
-    { "category": "Bath Time", "key": "bath-time", "count": 30 },
-    { "category": "Breakfast Foods", "key": "breakfast-foods", "count": 30 },
-    { "category": "Snacks", "key": "snacks", "count": 30 },
-    { "category": "Drinks", "key": "drinks", "count": 30 },
-    { "category": "Candy & Sweets", "key": "candy", "count": 30 },
-    { "category": "Zoo Animals", "key": "zoo-animals", "count": 30 },
-    { "category": "Underwater World", "key": "underwater", "count": 30 },
-    { "category": "Rainforest", "key": "rainforest", "count": 30 },
-    { "category": "Transportation", "key": "transportation", "count": 30 },
-    { "category": "World Festivals", "key": "festivals", "count": 30 },
-    { "category": "Sports Equipment", "key": "sports-equipment", "count": 30 },
-    { "category": "Baby Words", "key": "baby-words", "count": 30 },
-    { "category": "Family Members", "key": "family-members", "count": 30 },
-    { "category": "Weather", "key": "weather", "count": 30 },
-    { "category": "Planets & Space Objects", "key": "planets", "count": 30 },
-    { "category": "Oceans & Seas", "key": "oceans", "count": 30 },
-    { "category": "Mountains & Hills", "key": "mountains", "count": 30 },
-    { "category": "Rivers & Lakes", "key": "rivers", "count": 30 },
-    { "category": "World Languages", "key": "languages", "count": 30 },
-    { "category": "Continents & Countries", "key": "continents", "count": 30 },
-    { "category": "Birds of Prey", "key": "birds-of-prey", "count": 30 },
-    { "category": "Tropical Fish", "key": "tropical-fish", "count": 30 },
-    { "category": "Farm Crops", "key": "farm-crops", "count": 30 },
-    { "category": "Spices & Herbs", "key": "spices", "count": 30 },
-    { "category": "Breads of the World", "key": "breads", "count": 30 },
-    { "category": "Pasta & Noodles", "key": "pasta", "count": 30 },
-    { "category": "Cheese Types", "key": "cheese", "count": 30 },
-    { "category": "Dessert Types", "key": "dessert-types", "count": 30 },
-    { "category": "Dance Styles", "key": "dance-styles", "count": 30 },
-    { "category": "Martial Arts", "key": "martial-arts", "count": 30 },
-    { "category": "Board Games", "key": "board-games", "count": 30 },
-    { "category": "Video Games", "key": "video-games", "count": 30 },
-    { "category": "Fairy Creatures", "key": "fairy-creatures", "count": 30 },
-    { "category": "Robots & Machines", "key": "robots", "count": 30 },
-    { "category": "Dinosaur Types", "key": "dinosaur-types", "count": 30 },
-    { "category": "Gemstones & Crystals", "key": "gemstones", "count": 30 },
-    { "category": "Metals & Elements", "key": "metals", "count": 30 },
-    { "category": "Fabrics & Textiles", "key": "fabrics", "count": 30 },
-    { "category": "Workshop Tools", "key": "tools-workshop", "count": 30 },
-    { "category": "Camping & Outdoors", "key": "camping", "count": 30 },
-    { "category": "Beach & Seaside", "key": "beach", "count": 30 },
-    { "category": "Airport & Travel", "key": "airport", "count": 30 },
-    { "category": "Hospital & Medical", "key": "hospital", "count": 30 },
-    { "category": "Kitchen Appliances", "key": "kitchen-appliances", "count": 30 },
-    { "category": "Cleaning Items", "key": "cleaning-items", "count": 30 }
+    {
+      "category": "Toys",
+      "key": "toys",
+      "count": 30
+    },
+    {
+      "category": "Superheroes",
+      "key": "superheroes",
+      "count": 30
+    },
+    {
+      "category": "Cartoon Characters",
+      "key": "cartoon-characters",
+      "count": 30
+    },
+    {
+      "category": "Wild Cats & Big Cats",
+      "key": "wild-cats",
+      "count": 30
+    },
+    {
+      "category": "Pet Animals",
+      "key": "pet-animals",
+      "count": 30
+    },
+    {
+      "category": "Jungle Animals",
+      "key": "jungle-animals",
+      "count": 30
+    },
+    {
+      "category": "Arctic Animals",
+      "key": "arctic-animals",
+      "count": 30
+    },
+    {
+      "category": "Shapes",
+      "key": "shapes",
+      "count": 30
+    },
+    {
+      "category": "Numbers",
+      "key": "numbers",
+      "count": 30
+    },
+    {
+      "category": "Colors",
+      "key": "colors",
+      "count": 30
+    },
+    {
+      "category": "Vehicles",
+      "key": "vehicles",
+      "count": 30
+    },
+    {
+      "category": "Buildings",
+      "key": "buildings",
+      "count": 30
+    },
+    {
+      "category": "Furniture",
+      "key": "furniture",
+      "count": 30
+    },
+    {
+      "category": "School Items",
+      "key": "school-items",
+      "count": 30
+    },
+    {
+      "category": "Playground",
+      "key": "playground",
+      "count": 30
+    },
+    {
+      "category": "Musical Sounds",
+      "key": "musical-sounds",
+      "count": 30
+    },
+    {
+      "category": "Fairy Tales",
+      "key": "fairy-tales",
+      "count": 30
+    },
+    {
+      "category": "Science Words",
+      "key": "science-words",
+      "count": 30
+    },
+    {
+      "category": "Winter Words",
+      "key": "winter-words",
+      "count": 30
+    },
+    {
+      "category": "Summer Words",
+      "key": "summer-words",
+      "count": 30
+    },
+    {
+      "category": "Halloween",
+      "key": "halloween",
+      "count": 30
+    },
+    {
+      "category": "Christmas",
+      "key": "christmas",
+      "count": 30
+    },
+    {
+      "category": "Garden Items",
+      "key": "garden-items",
+      "count": 30
+    },
+    {
+      "category": "Bath Time",
+      "key": "bath-time",
+      "count": 30
+    },
+    {
+      "category": "Breakfast Foods",
+      "key": "breakfast-foods",
+      "count": 30
+    },
+    {
+      "category": "Snacks",
+      "key": "snacks",
+      "count": 30
+    },
+    {
+      "category": "Drinks",
+      "key": "drinks",
+      "count": 30
+    },
+    {
+      "category": "Candy & Sweets",
+      "key": "candy",
+      "count": 30
+    },
+    {
+      "category": "Zoo Animals",
+      "key": "zoo-animals",
+      "count": 30
+    },
+    {
+      "category": "Underwater World",
+      "key": "underwater",
+      "count": 30
+    },
+    {
+      "category": "Rainforest",
+      "key": "rainforest",
+      "count": 30
+    },
+    {
+      "category": "Transportation",
+      "key": "transportation",
+      "count": 30
+    },
+    {
+      "category": "World Festivals",
+      "key": "festivals",
+      "count": 30
+    },
+    {
+      "category": "Sports Equipment",
+      "key": "sports-equipment",
+      "count": 30
+    }
   ]
 }

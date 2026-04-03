@@ -10,7 +10,7 @@ export const VideoGamesRoot: React.FC = () => {
       <Composition
         id="VideoGames1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3600}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 120,
         }}
       />
       <Composition
         id="VideoGames2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4920}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 164,
         }}
       />
       <Composition
         id="VideoGames3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3660}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 122,
         }}
       />
       <Composition
         id="VideoGames4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4980}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 166,
         }}
       />
       <Composition
         id="VideoGames5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3750}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 125,
         }}
       />
       <Composition
         id="VideoGames6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5070}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 169,
         }}
       />
       <Composition
         id="VideoGames7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3810}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 127,
         }}
       />
       <Composition
         id="VideoGames8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5130}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 171,
         }}
       />
       <Composition
         id="VideoGames9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3870}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 129,
         }}
       />
       <Composition
         id="VideoGames10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5190}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 173,
         }}
       />
       <Composition
         id="VideoGames11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3960}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 132,
         }}
       />
       <Composition
         id="VideoGames12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2700}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 90,
         }}
       />
       <Composition
         id="VideoGames13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4020}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 134,
         }}
       />
       <Composition
         id="VideoGames14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2760}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 92,
         }}
       />
       <Composition
         id="VideoGames15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4080}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 136,
         }}
       />
       <Composition
         id="VideoGames16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2850}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 95,
         }}
       />
       <Composition
         id="VideoGames17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4170}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 139,
         }}
       />
       <Composition
         id="VideoGames18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="VideoGames19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4230}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 141,
         }}
       />
       <Composition
         id="VideoGames20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2970}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 99,
         }}
       />
       <Composition
         id="VideoGames21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4320}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 144,
         }}
       />
       <Composition
         id="VideoGames22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3060}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 102,
         }}
       />
       <Composition
         id="VideoGames23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4380}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 146,
         }}
       />
       <Composition
         id="VideoGames24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3120}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 104,
         }}
       />
       <Composition
         id="VideoGames25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4440}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 148,
         }}
       />
       <Composition
         id="VideoGames26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3210}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 107,
         }}
       />
       <Composition
         id="VideoGames27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4530}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 151,
         }}
       />
       <Composition
         id="VideoGames28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3270}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 109,
         }}
       />
       <Composition
         id="VideoGames29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4590}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 153,
         }}
       />
       <Composition
         id="VideoGames30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3330}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const VideoGamesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 111,
         }}
       />
     </>

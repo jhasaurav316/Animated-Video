@@ -102,7 +102,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 115
   },
   {
     "id": "superheroes-2",
@@ -207,7 +207,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 159
   },
   {
     "id": "superheroes-3",
@@ -312,7 +312,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 117
   },
   {
     "id": "superheroes-4",
@@ -417,7 +417,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 161
   },
   {
     "id": "superheroes-5",
@@ -522,7 +522,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 119
   },
   {
     "id": "superheroes-6",
@@ -627,7 +627,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 164
   },
   {
     "id": "superheroes-7",
@@ -732,7 +732,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 122
   },
   {
     "id": "superheroes-8",
@@ -837,7 +837,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 166
   },
   {
     "id": "superheroes-9",
@@ -942,7 +942,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 124
   },
   {
     "id": "superheroes-10",
@@ -1047,7 +1047,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 168
   },
   {
     "id": "superheroes-11",
@@ -1152,7 +1152,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 127
   },
   {
     "id": "superheroes-12",
@@ -1257,7 +1257,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 171
   },
   {
     "id": "superheroes-13",
@@ -1362,7 +1362,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 129
   },
   {
     "id": "superheroes-14",
@@ -1467,7 +1467,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 173
   },
   {
     "id": "superheroes-15",
@@ -1572,7 +1572,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 131
   },
   {
     "id": "superheroes-16",
@@ -1677,7 +1677,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 90
   },
   {
     "id": "superheroes-17",
@@ -1782,7 +1782,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 134
   },
   {
     "id": "superheroes-18",
@@ -1887,7 +1887,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 92
   },
   {
     "id": "superheroes-19",
@@ -1992,7 +1992,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 136
   },
   {
     "id": "superheroes-20",
@@ -2097,7 +2097,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 94
   },
   {
     "id": "superheroes-21",
@@ -2202,7 +2202,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 139
   },
   {
     "id": "superheroes-22",
@@ -2307,7 +2307,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 97
   },
   {
     "id": "superheroes-23",
@@ -2412,7 +2412,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 141
   },
   {
     "id": "superheroes-24",
@@ -2517,7 +2517,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 99
   },
   {
     "id": "superheroes-25",
@@ -2622,7 +2622,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 143
   },
   {
     "id": "superheroes-26",
@@ -2727,7 +2727,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 101
   },
   {
     "id": "superheroes-27",
@@ -2832,7 +2832,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 146
   },
   {
     "id": "superheroes-28",
@@ -2937,7 +2937,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 104
   },
   {
     "id": "superheroes-29",
@@ -3042,7 +3042,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 148
   },
   {
     "id": "superheroes-30",
@@ -3147,6 +3147,6 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 106
   }
 ]

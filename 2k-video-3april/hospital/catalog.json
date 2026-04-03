@@ -102,7 +102,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 149
   },
   {
     "id": "hospital-2",
@@ -207,7 +207,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 107
   },
   {
     "id": "hospital-3",
@@ -312,7 +312,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 151
   },
   {
     "id": "hospital-4",
@@ -417,7 +417,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 109
   },
   {
     "id": "hospital-5",
@@ -522,7 +522,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 154
   },
   {
     "id": "hospital-6",
@@ -627,7 +627,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 112
   },
   {
     "id": "hospital-7",
@@ -732,7 +732,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 156
   },
   {
     "id": "hospital-8",
@@ -837,7 +837,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 114
   },
   {
     "id": "hospital-9",
@@ -942,7 +942,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 158
   },
   {
     "id": "hospital-10",
@@ -1047,7 +1047,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 117
   },
   {
     "id": "hospital-11",
@@ -1152,7 +1152,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 161
   },
   {
     "id": "hospital-12",
@@ -1257,7 +1257,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 119
   },
   {
     "id": "hospital-13",
@@ -1362,7 +1362,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 163
   },
   {
     "id": "hospital-14",
@@ -1467,7 +1467,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 121
   },
   {
     "id": "hospital-15",
@@ -1572,7 +1572,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 166
   },
   {
     "id": "hospital-16",
@@ -1677,7 +1677,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 124
   },
   {
     "id": "hospital-17",
@@ -1782,7 +1782,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 168
   },
   {
     "id": "hospital-18",
@@ -1887,7 +1887,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 126
   },
   {
     "id": "hospital-19",
@@ -1992,7 +1992,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 170
   },
   {
     "id": "hospital-20",
@@ -2097,7 +2097,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 129
   },
   {
     "id": "hospital-21",
@@ -2202,7 +2202,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 173
   },
   {
     "id": "hospital-22",
@@ -2307,7 +2307,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 131
   },
   {
     "id": "hospital-23",
@@ -2412,7 +2412,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 175
   },
   {
     "id": "hospital-24",
@@ -2517,7 +2517,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 133
   },
   {
     "id": "hospital-25",
@@ -2622,7 +2622,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 92
   },
   {
     "id": "hospital-26",
@@ -2727,7 +2727,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 136
   },
   {
     "id": "hospital-27",
@@ -2832,7 +2832,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 94
   },
   {
     "id": "hospital-28",
@@ -2937,7 +2937,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 138
   },
   {
     "id": "hospital-29",
@@ -3042,7 +3042,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 96
   },
   {
     "id": "hospital-30",
@@ -3147,6 +3147,6 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 140
   }
 ]

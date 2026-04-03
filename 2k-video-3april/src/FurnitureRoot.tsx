@@ -10,7 +10,7 @@ export const FurnitureRoot: React.FC = () => {
       <Composition
         id="Furniture1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4800}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 160,
         }}
       />
       <Composition
         id="Furniture2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3540}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 118,
         }}
       />
       <Composition
         id="Furniture3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4860}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 162,
         }}
       />
       <Composition
         id="Furniture4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3600}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 120,
         }}
       />
       <Composition
         id="Furniture5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4920}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 164,
         }}
       />
       <Composition
         id="Furniture6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3690}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 123,
         }}
       />
       <Composition
         id="Furniture7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5010}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 167,
         }}
       />
       <Composition
         id="Furniture8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3750}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 125,
         }}
       />
       <Composition
         id="Furniture9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5070}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 169,
         }}
       />
       <Composition
         id="Furniture10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3810}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 127,
         }}
       />
       <Composition
         id="Furniture11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5160}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 172,
         }}
       />
       <Composition
         id="Furniture12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3900}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 130,
         }}
       />
       <Composition
         id="Furniture13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5220}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 174,
         }}
       />
       <Composition
         id="Furniture14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3960}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 132,
         }}
       />
       <Composition
         id="Furniture15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2700}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 90,
         }}
       />
       <Composition
         id="Furniture16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4050}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 135,
         }}
       />
       <Composition
         id="Furniture17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2790}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 93,
         }}
       />
       <Composition
         id="Furniture18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4110}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 137,
         }}
       />
       <Composition
         id="Furniture19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2850}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 95,
         }}
       />
       <Composition
         id="Furniture20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4170}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 139,
         }}
       />
       <Composition
         id="Furniture21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="Furniture22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4260}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 142,
         }}
       />
       <Composition
         id="Furniture23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3000}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 100,
         }}
       />
       <Composition
         id="Furniture24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4320}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 144,
         }}
       />
       <Composition
         id="Furniture25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3060}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 102,
         }}
       />
       <Composition
         id="Furniture26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4380}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 146,
         }}
       />
       <Composition
         id="Furniture27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3150}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 105,
         }}
       />
       <Composition
         id="Furniture28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4470}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 149,
         }}
       />
       <Composition
         id="Furniture29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3210}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 107,
         }}
       />
       <Composition
         id="Furniture30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4530}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const FurnitureRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 151,
         }}
       />
     </>

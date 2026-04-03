@@ -10,7 +10,7 @@ export const ToolsWorkshopRoot: React.FC = () => {
       <Composition
         id="ToolsWorkshop1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4530}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 151,
         }}
       />
       <Composition
         id="ToolsWorkshop2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3300}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 110,
         }}
       />
       <Composition
         id="ToolsWorkshop3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4620}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 154,
         }}
       />
       <Composition
         id="ToolsWorkshop4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3360}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 112,
         }}
       />
       <Composition
         id="ToolsWorkshop5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4680}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 156,
         }}
       />
       <Composition
         id="ToolsWorkshop6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3420}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 114,
         }}
       />
       <Composition
         id="ToolsWorkshop7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4770}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 159,
         }}
       />
       <Composition
         id="ToolsWorkshop8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3510}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 117,
         }}
       />
       <Composition
         id="ToolsWorkshop9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4830}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 161,
         }}
       />
       <Composition
         id="ToolsWorkshop10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3570}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 119,
         }}
       />
       <Composition
         id="ToolsWorkshop11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4890}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 163,
         }}
       />
       <Composition
         id="ToolsWorkshop12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3660}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 122,
         }}
       />
       <Composition
         id="ToolsWorkshop13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4980}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 166,
         }}
       />
       <Composition
         id="ToolsWorkshop14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3720}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 124,
         }}
       />
       <Composition
         id="ToolsWorkshop15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5040}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 168,
         }}
       />
       <Composition
         id="ToolsWorkshop16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3780}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 126,
         }}
       />
       <Composition
         id="ToolsWorkshop17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5130}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 171,
         }}
       />
       <Composition
         id="ToolsWorkshop18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3870}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 129,
         }}
       />
       <Composition
         id="ToolsWorkshop19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5190}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 173,
         }}
       />
       <Composition
         id="ToolsWorkshop20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3930}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 131,
         }}
       />
       <Composition
         id="ToolsWorkshop21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5250}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 175,
         }}
       />
       <Composition
         id="ToolsWorkshop22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3990}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 133,
         }}
       />
       <Composition
         id="ToolsWorkshop23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2760}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 92,
         }}
       />
       <Composition
         id="ToolsWorkshop24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4080}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 136,
         }}
       />
       <Composition
         id="ToolsWorkshop25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2820}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 94,
         }}
       />
       <Composition
         id="ToolsWorkshop26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4140}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 138,
         }}
       />
       <Composition
         id="ToolsWorkshop27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2880}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 96,
         }}
       />
       <Composition
         id="ToolsWorkshop28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4230}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 141,
         }}
       />
       <Composition
         id="ToolsWorkshop29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2970}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 99,
         }}
       />
       <Composition
         id="ToolsWorkshop30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4290}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const ToolsWorkshopRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 143,
         }}
       />
     </>

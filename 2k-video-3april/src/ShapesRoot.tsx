@@ -10,7 +10,7 @@ export const ShapesRoot: React.FC = () => {
       <Composition
         id="Shapes1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3270}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 109,
         }}
       />
       <Composition
         id="Shapes2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4590}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 153,
         }}
       />
       <Composition
         id="Shapes3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3330}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 111,
         }}
       />
       <Composition
         id="Shapes4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4650}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 155,
         }}
       />
       <Composition
         id="Shapes5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3390}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 113,
         }}
       />
       <Composition
         id="Shapes6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4740}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 158,
         }}
       />
       <Composition
         id="Shapes7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3480}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 116,
         }}
       />
       <Composition
         id="Shapes8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4800}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 160,
         }}
       />
       <Composition
         id="Shapes9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3540}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 118,
         }}
       />
       <Composition
         id="Shapes10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4860}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 162,
         }}
       />
       <Composition
         id="Shapes11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3630}
         fps={30}
         width={1080}
         height={1920}
@@ -213,7 +213,7 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 121,
         }}
       />
       <Composition
@@ -238,7 +238,7 @@ export const ShapesRoot: React.FC = () => {
       <Composition
         id="Shapes13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3690}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 123,
         }}
       />
       <Composition
         id="Shapes14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5010}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 167,
         }}
       />
       <Composition
         id="Shapes15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3750}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 125,
         }}
       />
       <Composition
         id="Shapes16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5070}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 169,
         }}
       />
       <Composition
         id="Shapes17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3840}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 128,
         }}
       />
       <Composition
         id="Shapes18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5160}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 172,
         }}
       />
       <Composition
         id="Shapes19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3900}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 130,
         }}
       />
       <Composition
         id="Shapes20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5220}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 174,
         }}
       />
       <Composition
         id="Shapes21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3960}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 132,
         }}
       />
       <Composition
         id="Shapes22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2730}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 91,
         }}
       />
       <Composition
         id="Shapes23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4050}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 135,
         }}
       />
       <Composition
         id="Shapes24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2790}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 93,
         }}
       />
       <Composition
         id="Shapes25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4110}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 137,
         }}
       />
       <Composition
         id="Shapes26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2850}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 95,
         }}
       />
       <Composition
         id="Shapes27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4200}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 140,
         }}
       />
       <Composition
         id="Shapes28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2940}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 98,
         }}
       />
       <Composition
         id="Shapes29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4260}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 142,
         }}
       />
       <Composition
         id="Shapes30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3000}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const ShapesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 100,
         }}
       />
     </>

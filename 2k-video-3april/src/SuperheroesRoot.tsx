@@ -10,7 +10,7 @@ export const SuperheroesRoot: React.FC = () => {
       <Composition
         id="Superheroes1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3450}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 115,
         }}
       />
       <Composition
         id="Superheroes2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4770}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 159,
         }}
       />
       <Composition
         id="Superheroes3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3510}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 117,
         }}
       />
       <Composition
         id="Superheroes4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4830}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 161,
         }}
       />
       <Composition
         id="Superheroes5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3570}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 119,
         }}
       />
       <Composition
         id="Superheroes6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4920}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 164,
         }}
       />
       <Composition
         id="Superheroes7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3660}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 122,
         }}
       />
       <Composition
         id="Superheroes8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4980}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 166,
         }}
       />
       <Composition
         id="Superheroes9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3720}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 124,
         }}
       />
       <Composition
         id="Superheroes10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5040}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 168,
         }}
       />
       <Composition
         id="Superheroes11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3810}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 127,
         }}
       />
       <Composition
         id="Superheroes12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5130}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 171,
         }}
       />
       <Composition
         id="Superheroes13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3870}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 129,
         }}
       />
       <Composition
         id="Superheroes14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5190}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 173,
         }}
       />
       <Composition
         id="Superheroes15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3930}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 131,
         }}
       />
       <Composition
         id="Superheroes16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2700}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 90,
         }}
       />
       <Composition
         id="Superheroes17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4020}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 134,
         }}
       />
       <Composition
         id="Superheroes18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2760}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 92,
         }}
       />
       <Composition
         id="Superheroes19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4080}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 136,
         }}
       />
       <Composition
         id="Superheroes20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2820}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 94,
         }}
       />
       <Composition
         id="Superheroes21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4170}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 139,
         }}
       />
       <Composition
         id="Superheroes22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="Superheroes23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4230}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 141,
         }}
       />
       <Composition
         id="Superheroes24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2970}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 99,
         }}
       />
       <Composition
         id="Superheroes25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4290}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 143,
         }}
       />
       <Composition
         id="Superheroes26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3030}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 101,
         }}
       />
       <Composition
         id="Superheroes27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4380}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 146,
         }}
       />
       <Composition
         id="Superheroes28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3120}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 104,
         }}
       />
       <Composition
         id="Superheroes29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4440}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 148,
         }}
       />
       <Composition
         id="Superheroes30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3180}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const SuperheroesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 106,
         }}
       />
     </>

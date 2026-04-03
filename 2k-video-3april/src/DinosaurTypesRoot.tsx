@@ -10,7 +10,7 @@ export const DinosaurTypesRoot: React.FC = () => {
       <Composition
         id="DinosaurTypes1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4560}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 152,
         }}
       />
       <Composition
         id="DinosaurTypes2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3330}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 111,
         }}
       />
       <Composition
         id="DinosaurTypes3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4650}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 155,
         }}
       />
       <Composition
         id="DinosaurTypes4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3390}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 113,
         }}
       />
       <Composition
         id="DinosaurTypes5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4710}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 157,
         }}
       />
       <Composition
         id="DinosaurTypes6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3450}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 115,
         }}
       />
       <Composition
         id="DinosaurTypes7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4800}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 160,
         }}
       />
       <Composition
         id="DinosaurTypes8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3540}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 118,
         }}
       />
       <Composition
         id="DinosaurTypes9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4860}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 162,
         }}
       />
       <Composition
         id="DinosaurTypes10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3600}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 120,
         }}
       />
       <Composition
         id="DinosaurTypes11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4920}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 164,
         }}
       />
       <Composition
         id="DinosaurTypes12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3690}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 123,
         }}
       />
       <Composition
         id="DinosaurTypes13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5010}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 167,
         }}
       />
       <Composition
         id="DinosaurTypes14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3750}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 125,
         }}
       />
       <Composition
         id="DinosaurTypes15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5070}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 169,
         }}
       />
       <Composition
         id="DinosaurTypes16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3810}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 127,
         }}
       />
       <Composition
         id="DinosaurTypes17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5160}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 172,
         }}
       />
       <Composition
         id="DinosaurTypes18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3900}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 130,
         }}
       />
       <Composition
         id="DinosaurTypes19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5220}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 174,
         }}
       />
       <Composition
         id="DinosaurTypes20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3960}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 132,
         }}
       />
       <Composition
         id="DinosaurTypes21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2700}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 90,
         }}
       />
       <Composition
         id="DinosaurTypes22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4020}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 134,
         }}
       />
       <Composition
         id="DinosaurTypes23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2790}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 93,
         }}
       />
       <Composition
         id="DinosaurTypes24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4110}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 137,
         }}
       />
       <Composition
         id="DinosaurTypes25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2850}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 95,
         }}
       />
       <Composition
         id="DinosaurTypes26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4170}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 139,
         }}
       />
       <Composition
         id="DinosaurTypes27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="DinosaurTypes28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4260}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 142,
         }}
       />
       <Composition
         id="DinosaurTypes29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3000}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 100,
         }}
       />
       <Composition
         id="DinosaurTypes30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4320}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const DinosaurTypesRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 144,
         }}
       />
     </>

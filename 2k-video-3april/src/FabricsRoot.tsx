@@ -10,7 +10,7 @@ export const FabricsRoot: React.FC = () => {
       <Composition
         id="Fabrics1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4170}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 139,
         }}
       />
       <Composition
         id="Fabrics2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="Fabrics3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4230}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 141,
         }}
       />
       <Composition
         id="Fabrics4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2970}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 99,
         }}
       />
       <Composition
         id="Fabrics5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4290}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 143,
         }}
       />
       <Composition
         id="Fabrics6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3060}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 102,
         }}
       />
       <Composition
         id="Fabrics7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4380}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 146,
         }}
       />
       <Composition
         id="Fabrics8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3120}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 104,
         }}
       />
       <Composition
         id="Fabrics9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4440}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 148,
         }}
       />
       <Composition
         id="Fabrics10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3180}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 106,
         }}
       />
       <Composition
         id="Fabrics11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4530}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 151,
         }}
       />
       <Composition
         id="Fabrics12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3270}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 109,
         }}
       />
       <Composition
         id="Fabrics13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4590}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 153,
         }}
       />
       <Composition
         id="Fabrics14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3330}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 111,
         }}
       />
       <Composition
         id="Fabrics15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4650}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 155,
         }}
       />
       <Composition
         id="Fabrics16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3420}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 114,
         }}
       />
       <Composition
         id="Fabrics17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4740}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 158,
         }}
       />
       <Composition
         id="Fabrics18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3480}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 116,
         }}
       />
       <Composition
         id="Fabrics19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4800}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 160,
         }}
       />
       <Composition
         id="Fabrics20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3540}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 118,
         }}
       />
       <Composition
         id="Fabrics21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4890}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 163,
         }}
       />
       <Composition
         id="Fabrics22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3630}
         fps={30}
         width={1080}
         height={1920}
@@ -422,7 +422,7 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 121,
         }}
       />
       <Composition
@@ -447,7 +447,7 @@ export const FabricsRoot: React.FC = () => {
       <Composition
         id="Fabrics24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3690}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 123,
         }}
       />
       <Composition
         id="Fabrics25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5010}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 167,
         }}
       />
       <Composition
         id="Fabrics26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3750}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 125,
         }}
       />
       <Composition
         id="Fabrics27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5100}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 170,
         }}
       />
       <Composition
         id="Fabrics28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3840}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 128,
         }}
       />
       <Composition
         id="Fabrics29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5160}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 172,
         }}
       />
       <Composition
         id="Fabrics30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3900}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const FabricsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 130,
         }}
       />
     </>

@@ -10,7 +10,7 @@ export const FarmCropsRoot: React.FC = () => {
       <Composition
         id="FarmCrops1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4230}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 141,
         }}
       />
       <Composition
         id="FarmCrops2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3000}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 100,
         }}
       />
       <Composition
         id="FarmCrops3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4320}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 144,
         }}
       />
       <Composition
         id="FarmCrops4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3060}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 102,
         }}
       />
       <Composition
         id="FarmCrops5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4380}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 146,
         }}
       />
       <Composition
         id="FarmCrops6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3120}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 104,
         }}
       />
       <Composition
         id="FarmCrops7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4440}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 148,
         }}
       />
       <Composition
         id="FarmCrops8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3210}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 107,
         }}
       />
       <Composition
         id="FarmCrops9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4530}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 151,
         }}
       />
       <Composition
         id="FarmCrops10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3270}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 109,
         }}
       />
       <Composition
         id="FarmCrops11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4590}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 153,
         }}
       />
       <Composition
         id="FarmCrops12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3330}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 111,
         }}
       />
       <Composition
         id="FarmCrops13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4680}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 156,
         }}
       />
       <Composition
         id="FarmCrops14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3420}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 114,
         }}
       />
       <Composition
         id="FarmCrops15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4740}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 158,
         }}
       />
       <Composition
         id="FarmCrops16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3480}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 116,
         }}
       />
       <Composition
         id="FarmCrops17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4800}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 160,
         }}
       />
       <Composition
         id="FarmCrops18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3570}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 119,
         }}
       />
       <Composition
         id="FarmCrops19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4890}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 163,
         }}
       />
       <Composition
         id="FarmCrops20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3630}
         fps={30}
         width={1080}
         height={1920}
@@ -384,7 +384,7 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 121,
         }}
       />
       <Composition
@@ -409,7 +409,7 @@ export const FarmCropsRoot: React.FC = () => {
       <Composition
         id="FarmCrops22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3690}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 123,
         }}
       />
       <Composition
         id="FarmCrops23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5040}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 168,
         }}
       />
       <Composition
         id="FarmCrops24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3780}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 126,
         }}
       />
       <Composition
         id="FarmCrops25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5100}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 170,
         }}
       />
       <Composition
         id="FarmCrops26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3840}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 128,
         }}
       />
       <Composition
         id="FarmCrops27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5160}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 172,
         }}
       />
       <Composition
         id="FarmCrops28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3930}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 131,
         }}
       />
       <Composition
         id="FarmCrops29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5250}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 175,
         }}
       />
       <Composition
         id="FarmCrops30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3990}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const FarmCropsRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 133,
         }}
       />
     </>

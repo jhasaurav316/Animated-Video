@@ -102,7 +102,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 125
   },
   {
     "id": "tropical-fish-2",
@@ -207,7 +207,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 170
   },
   {
     "id": "tropical-fish-3",
@@ -312,7 +312,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 128
   },
   {
     "id": "tropical-fish-4",
@@ -417,7 +417,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 172
   },
   {
     "id": "tropical-fish-5",
@@ -522,7 +522,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 130
   },
   {
     "id": "tropical-fish-6",
@@ -627,7 +627,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 174
   },
   {
     "id": "tropical-fish-7",
@@ -732,7 +732,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 133
   },
   {
     "id": "tropical-fish-8",
@@ -837,7 +837,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 91
   },
   {
     "id": "tropical-fish-9",
@@ -942,7 +942,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 135
   },
   {
     "id": "tropical-fish-10",
@@ -1047,7 +1047,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 93
   },
   {
     "id": "tropical-fish-11",
@@ -1152,7 +1152,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 137
   },
   {
     "id": "tropical-fish-12",
@@ -1257,7 +1257,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 96
   },
   {
     "id": "tropical-fish-13",
@@ -1362,7 +1362,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 140
   },
   {
     "id": "tropical-fish-14",
@@ -1467,7 +1467,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 98
   },
   {
     "id": "tropical-fish-15",
@@ -1572,7 +1572,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 142
   },
   {
     "id": "tropical-fish-16",
@@ -1677,7 +1677,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 100
   },
   {
     "id": "tropical-fish-17",
@@ -1782,7 +1782,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 145
   },
   {
     "id": "tropical-fish-18",
@@ -1887,7 +1887,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 103
   },
   {
     "id": "tropical-fish-19",
@@ -1992,7 +1992,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 147
   },
   {
     "id": "tropical-fish-20",
@@ -2097,7 +2097,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 105
   },
   {
     "id": "tropical-fish-21",
@@ -2202,7 +2202,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 149
   },
   {
     "id": "tropical-fish-22",
@@ -2307,7 +2307,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 107
   },
   {
     "id": "tropical-fish-23",
@@ -2412,7 +2412,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 152
   },
   {
     "id": "tropical-fish-24",
@@ -2517,7 +2517,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 110
   },
   {
     "id": "tropical-fish-25",
@@ -2622,7 +2622,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 154
   },
   {
     "id": "tropical-fish-26",
@@ -2727,7 +2727,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 112
   },
   {
     "id": "tropical-fish-27",
@@ -2832,7 +2832,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 156
   },
   {
     "id": "tropical-fish-28",
@@ -2937,7 +2937,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 115
   },
   {
     "id": "tropical-fish-29",
@@ -3042,7 +3042,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 159
   },
   {
     "id": "tropical-fish-30",
@@ -3147,6 +3147,6 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 117
   }
 ]

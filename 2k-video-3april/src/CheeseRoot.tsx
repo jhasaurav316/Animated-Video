@@ -10,7 +10,7 @@ export const CheeseRoot: React.FC = () => {
       <Composition
         id="Cheese1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2790}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 93,
         }}
       />
       <Composition
         id="Cheese2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4110}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 137,
         }}
       />
       <Composition
         id="Cheese3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2850}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 95,
         }}
       />
       <Composition
         id="Cheese4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4170}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 139,
         }}
       />
       <Composition
         id="Cheese5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="Cheese6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4260}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 142,
         }}
       />
       <Composition
         id="Cheese7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3000}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 100,
         }}
       />
       <Composition
         id="Cheese8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4320}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 144,
         }}
       />
       <Composition
         id="Cheese9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3060}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 102,
         }}
       />
       <Composition
         id="Cheese10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4380}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 146,
         }}
       />
       <Composition
         id="Cheese11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3120}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 104,
         }}
       />
       <Composition
         id="Cheese12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4470}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 149,
         }}
       />
       <Composition
         id="Cheese13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3210}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 107,
         }}
       />
       <Composition
         id="Cheese14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4530}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 151,
         }}
       />
       <Composition
         id="Cheese15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3270}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 109,
         }}
       />
       <Composition
         id="Cheese16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4590}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 153,
         }}
       />
       <Composition
         id="Cheese17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3360}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 112,
         }}
       />
       <Composition
         id="Cheese18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4680}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 156,
         }}
       />
       <Composition
         id="Cheese19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3420}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 114,
         }}
       />
       <Composition
         id="Cheese20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4740}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 158,
         }}
       />
       <Composition
         id="Cheese21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3480}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 116,
         }}
       />
       <Composition
         id="Cheese22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4830}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 161,
         }}
       />
       <Composition
         id="Cheese23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3570}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 119,
         }}
       />
       <Composition
         id="Cheese24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4890}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 163,
         }}
       />
       <Composition
         id="Cheese25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3630}
         fps={30}
         width={1080}
         height={1920}
@@ -479,7 +479,7 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 121,
         }}
       />
       <Composition
@@ -504,7 +504,7 @@ export const CheeseRoot: React.FC = () => {
       <Composition
         id="Cheese27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3720}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 124,
         }}
       />
       <Composition
         id="Cheese28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5040}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 168,
         }}
       />
       <Composition
         id="Cheese29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3780}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 126,
         }}
       />
       <Composition
         id="Cheese30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5100}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const CheeseRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 170,
         }}
       />
     </>

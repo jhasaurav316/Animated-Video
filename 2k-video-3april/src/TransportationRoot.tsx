@@ -10,7 +10,7 @@ export const TransportationRoot: React.FC = () => {
       <Composition
         id="Transportation1"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4470}
         fps={30}
         width={1080}
         height={1920}
@@ -23,13 +23,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 149,
         }}
       />
       <Composition
         id="Transportation2"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3210}
         fps={30}
         width={1080}
         height={1920}
@@ -42,13 +42,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 107,
         }}
       />
       <Composition
         id="Transportation3"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4560}
         fps={30}
         width={1080}
         height={1920}
@@ -61,13 +61,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 152,
         }}
       />
       <Composition
         id="Transportation4"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3300}
         fps={30}
         width={1080}
         height={1920}
@@ -80,13 +80,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 110,
         }}
       />
       <Composition
         id="Transportation5"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4620}
         fps={30}
         width={1080}
         height={1920}
@@ -99,13 +99,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 154,
         }}
       />
       <Composition
         id="Transportation6"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3360}
         fps={30}
         width={1080}
         height={1920}
@@ -118,13 +118,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 112,
         }}
       />
       <Composition
         id="Transportation7"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4680}
         fps={30}
         width={1080}
         height={1920}
@@ -137,13 +137,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 156,
         }}
       />
       <Composition
         id="Transportation8"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3450}
         fps={30}
         width={1080}
         height={1920}
@@ -156,13 +156,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 115,
         }}
       />
       <Composition
         id="Transportation9"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4770}
         fps={30}
         width={1080}
         height={1920}
@@ -175,13 +175,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 159,
         }}
       />
       <Composition
         id="Transportation10"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3510}
         fps={30}
         width={1080}
         height={1920}
@@ -194,13 +194,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 117,
         }}
       />
       <Composition
         id="Transportation11"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4830}
         fps={30}
         width={1080}
         height={1920}
@@ -213,13 +213,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 161,
         }}
       />
       <Composition
         id="Transportation12"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3570}
         fps={30}
         width={1080}
         height={1920}
@@ -232,13 +232,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 119,
         }}
       />
       <Composition
         id="Transportation13"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4890}
         fps={30}
         width={1080}
         height={1920}
@@ -251,13 +251,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 163,
         }}
       />
       <Composition
         id="Transportation14"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3660}
         fps={30}
         width={1080}
         height={1920}
@@ -270,13 +270,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 122,
         }}
       />
       <Composition
         id="Transportation15"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4980}
         fps={30}
         width={1080}
         height={1920}
@@ -289,13 +289,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 166,
         }}
       />
       <Composition
         id="Transportation16"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3720}
         fps={30}
         width={1080}
         height={1920}
@@ -308,13 +308,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 124,
         }}
       />
       <Composition
         id="Transportation17"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5040}
         fps={30}
         width={1080}
         height={1920}
@@ -327,13 +327,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 168,
         }}
       />
       <Composition
         id="Transportation18"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3780}
         fps={30}
         width={1080}
         height={1920}
@@ -346,13 +346,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 126,
         }}
       />
       <Composition
         id="Transportation19"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5130}
         fps={30}
         width={1080}
         height={1920}
@@ -365,13 +365,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 171,
         }}
       />
       <Composition
         id="Transportation20"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3870}
         fps={30}
         width={1080}
         height={1920}
@@ -384,13 +384,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 129,
         }}
       />
       <Composition
         id="Transportation21"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5190}
         fps={30}
         width={1080}
         height={1920}
@@ -403,13 +403,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 173,
         }}
       />
       <Composition
         id="Transportation22"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={3930}
         fps={30}
         width={1080}
         height={1920}
@@ -422,13 +422,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 131,
         }}
       />
       <Composition
         id="Transportation23"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={5250}
         fps={30}
         width={1080}
         height={1920}
@@ -441,13 +441,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 175,
         }}
       />
       <Composition
         id="Transportation24"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4020}
         fps={30}
         width={1080}
         height={1920}
@@ -460,13 +460,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 134,
         }}
       />
       <Composition
         id="Transportation25"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2760}
         fps={30}
         width={1080}
         height={1920}
@@ -479,13 +479,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 92,
         }}
       />
       <Composition
         id="Transportation26"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4080}
         fps={30}
         width={1080}
         height={1920}
@@ -498,13 +498,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 136,
         }}
       />
       <Composition
         id="Transportation27"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2820}
         fps={30}
         width={1080}
         height={1920}
@@ -517,13 +517,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 94,
         }}
       />
       <Composition
         id="Transportation28"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4140}
         fps={30}
         width={1080}
         height={1920}
@@ -536,13 +536,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 138,
         }}
       />
       <Composition
         id="Transportation29"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={2910}
         fps={30}
         width={1080}
         height={1920}
@@ -555,13 +555,13 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 97,
         }}
       />
       <Composition
         id="Transportation30"
         component={AlphabetLongTemplate}
-        durationInFrames={4950}
+        durationInFrames={4230}
         fps={30}
         width={1080}
         height={1920}
@@ -574,7 +574,7 @@ export const TransportationRoot: React.FC = () => {
           letterDuration: 3,
           introDuration: 3,
           outroDuration: 3,
-          targetDuration: 165,
+          targetDuration: 141,
         }}
       />
     </>

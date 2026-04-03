@@ -102,7 +102,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 138
   },
   {
     "id": "camping-2",
@@ -207,7 +207,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 97
   },
   {
     "id": "camping-3",
@@ -312,7 +312,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 141
   },
   {
     "id": "camping-4",
@@ -417,7 +417,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 99
   },
   {
     "id": "camping-5",
@@ -522,7 +522,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 143
   },
   {
     "id": "camping-6",
@@ -627,7 +627,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 101
   },
   {
     "id": "camping-7",
@@ -732,7 +732,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 146
   },
   {
     "id": "camping-8",
@@ -837,7 +837,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 104
   },
   {
     "id": "camping-9",
@@ -942,7 +942,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 148
   },
   {
     "id": "camping-10",
@@ -1047,7 +1047,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 106
   },
   {
     "id": "camping-11",
@@ -1152,7 +1152,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 150
   },
   {
     "id": "camping-12",
@@ -1257,7 +1257,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 109
   },
   {
     "id": "camping-13",
@@ -1362,7 +1362,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 153
   },
   {
     "id": "camping-14",
@@ -1467,7 +1467,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 111
   },
   {
     "id": "camping-15",
@@ -1572,7 +1572,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 155
   },
   {
     "id": "camping-16",
@@ -1677,7 +1677,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 113
   },
   {
     "id": "camping-17",
@@ -1782,7 +1782,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 157
   },
   {
     "id": "camping-18",
@@ -1887,7 +1887,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 116
   },
   {
     "id": "camping-19",
@@ -1992,7 +1992,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 160
   },
   {
     "id": "camping-20",
@@ -2097,7 +2097,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 118
   },
   {
     "id": "camping-21",
@@ -2202,7 +2202,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 162
   },
   {
     "id": "camping-22",
@@ -2307,7 +2307,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 120
   },
   {
     "id": "camping-23",
@@ -2517,7 +2517,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 123
   },
   {
     "id": "camping-25",
@@ -2622,7 +2622,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 167
   },
   {
     "id": "camping-26",
@@ -2727,7 +2727,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 125
   },
   {
     "id": "camping-27",
@@ -2832,7 +2832,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 169
   },
   {
     "id": "camping-28",
@@ -2937,7 +2937,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 128
   },
   {
     "id": "camping-29",
@@ -3042,7 +3042,7 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 172
   },
   {
     "id": "camping-30",
@@ -3147,6 +3147,6 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3,
-    "targetDuration": 165
+    "targetDuration": 130
   }
 ]

@@ -909,6 +909,15 @@ const CATEGORIES = {
 // GENERATE CATALOGS
 // ============================================================================
 
+// Seeded random: deterministic per video so re-runs produce same durations
+function seededRandom(seed) {
+  let s = seed;
+  return function () {
+    s = (s * 1103515245 + 12345) & 0x7fffffff;
+    return (s >>> 0) / 0x7fffffff;
+  };
+}
+
 function generateCatalog(categoryKey, category) {
   const dir = path.join(BASE_DIR, categoryKey);
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
@@ -917,6 +926,8 @@ function generateCatalog(categoryKey, category) {
   const itemsPerVideo = 15;
   const videosCount = category.videosCount;
   const gradients = category.gradients;
+  // Seed based on category name for deterministic random durations
+  const seed = categoryKey.split("").reduce((a, c) => a + c.charCodeAt(0), 0) * 137;
 
   const videos = [];
   let wordIdx = 0;
@@ -959,7 +970,7 @@ function generateCatalog(categoryKey, category) {
       letterDuration: 3,
       introDuration: 3,
       outroDuration: 3,
-      targetDuration: 165,
+      targetDuration: 90 + Math.floor(seededRandom(seed + v)() * 86), // 90-175 seconds (1:30 - 2:55)
     });
   }
 
@@ -986,8 +997,6 @@ const PROJECT_ROOT = path.resolve(__dirname, "..");
 const CATALOG = path.join(__dirname, "catalog.json");
 const SRC_DIR = path.join(PROJECT_ROOT, "src");
 const FPS = 30;
-const TARGET_DURATION = 165;
-const TOTAL_FRAMES = Math.round(TARGET_DURATION * FPS);
 
 function toPascalCase(str) {
   return str.split(/[-_\\s]+/).map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join("");
@@ -1012,11 +1021,12 @@ for (const video of videos) {
   const introDur = video.introDuration || 3;
   const outroDur = video.outroDuration || 3;
   const targetDur = video.targetDuration || 165;
+  const totalFrames = Math.round(targetDur * FPS);
 
   content += '      <Composition\\n';
   content += '        id="' + compId + '"\\n';
   content += '        component={AlphabetLongTemplate}\\n';
-  content += '        durationInFrames={' + TOTAL_FRAMES + '}\\n';
+  content += '        durationInFrames={' + totalFrames + '}\\n';
   content += '        fps={' + FPS + '}\\n';
   content += '        width={1080}\\n';
   content += '        height={1920}\\n';

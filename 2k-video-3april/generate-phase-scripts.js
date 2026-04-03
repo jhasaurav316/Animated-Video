@@ -212,8 +212,8 @@ foreach ($cat in $catalogs) {
             $ErrorActionPreference = $prevEAP
         }
 
-        # BGM duration = targetDuration (165 seconds)
-        $duration = 165
+        # BGM duration = per-video targetDuration (90-175 seconds)
+        $duration = $video.targetDuration
         $bgmFile = Join-Path $audioDir "bgm.mp3"
         $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
         $ffmpegCmd = "ffmpeg -y -f lavfi -i \`"sine=frequency=523.25:duration=$duration\`" -f lavfi -i \`"sine=frequency=659.25:duration=$duration\`" -f lavfi -i \`"sine=frequency=783.99:duration=$duration\`" -filter_complex \`"[0]volume=0.08,aformat=channel_layouts=mono[c];[1]volume=0.06,aformat=channel_layouts=mono[e];[2]volume=0.04,aformat=channel_layouts=mono[g];[c][e][g]amix=inputs=3:duration=longest,lowpass=f=2000,volume=0.5[out]\`" -map \`"[out]\`" \`"$bgmFile\`""

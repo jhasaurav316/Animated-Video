@@ -6,8 +6,6 @@ const PROJECT_ROOT = path.resolve(__dirname, "..");
 const CATALOG = path.join(__dirname, "catalog.json");
 const SRC_DIR = path.join(PROJECT_ROOT, "src");
 const FPS = 30;
-const TARGET_DURATION = 165;
-const TOTAL_FRAMES = Math.round(TARGET_DURATION * FPS);
 
 function toPascalCase(str) {
   return str.split(/[-_\s]+/).map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join("");
@@ -32,11 +30,12 @@ for (const video of videos) {
   const introDur = video.introDuration || 3;
   const outroDur = video.outroDuration || 3;
   const targetDur = video.targetDuration || 165;
+  const totalFrames = Math.round(targetDur * FPS);
 
   content += '      <Composition\n';
   content += '        id="' + compId + '"\n';
   content += '        component={AlphabetLongTemplate}\n';
-  content += '        durationInFrames={' + TOTAL_FRAMES + '}\n';
+  content += '        durationInFrames={' + totalFrames + '}\n';
   content += '        fps={' + FPS + '}\n';
   content += '        width={1080}\n';
   content += '        height={1920}\n';
