@@ -1,0 +1,177 @@
+{
+  "batchName": "1k-video-3april",
+  "date": "2026-04-03",
+  "totalVideos": 1020,
+  "categories": [
+    {
+      "category": "Toys",
+      "key": "toys",
+      "count": 30
+    },
+    {
+      "category": "Superheroes",
+      "key": "superheroes",
+      "count": 30
+    },
+    {
+      "category": "Cartoon Characters",
+      "key": "cartoon-characters",
+      "count": 30
+    },
+    {
+      "category": "Wild Cats & Big Cats",
+      "key": "wild-cats",
+      "count": 30
+    },
+    {
+      "category": "Pet Animals",
+      "key": "pet-animals",
+      "count": 30
+    },
+    {
+      "category": "Jungle Animals",
+      "key": "jungle-animals",
+      "count": 30
+    },
+    {
+      "category": "Arctic Animals",
+      "key": "arctic-animals",
+      "count": 30
+    },
+    {
+      "category": "Shapes",
+      "key": "shapes",
+      "count": 30
+    },
+    {
+      "category": "Numbers",
+      "key": "numbers",
+      "count": 30
+    },
+    {
+      "category": "Colors",
+      "key": "colors",
+      "count": 30
+    },
+    {
+      "category": "Vehicles",
+      "key": "vehicles",
+      "count": 30
+    },
+    {
+      "category": "Buildings",
+      "key": "buildings",
+      "count": 30
+    },
+    {
+      "category": "Furniture",
+      "key": "furniture",
+      "count": 30
+    },
+    {
+      "category": "School Items",
+      "key": "school-items",
+      "count": 30
+    },
+    {
+      "category": "Playground",
+      "key": "playground",
+      "count": 30
+    },
+    {
+      "category": "Musical Sounds",
+      "key": "musical-sounds",
+      "count": 30
+    },
+    {
+      "category": "Fairy Tales",
+      "key": "fairy-tales",
+      "count": 30
+    },
+    {
+      "category": "Science Words",
+      "key": "science-words",
+      "count": 30
+    },
+    {
+      "category": "Winter Words",
+      "key": "winter-words",
+      "count": 30
+    },
+    {
+      "category": "Summer Words",
+      "key": "summer-words",
+      "count": 30
+    },
+    {
+      "category": "Halloween",
+      "key": "halloween",
+      "count": 30
+    },
+    {
+      "category": "Christmas",
+      "key": "christmas",
+      "count": 30
+    },
+    {
+      "category": "Garden Items",
+      "key": "garden-items",
+      "count": 30
+    },
+    {
+      "category": "Bath Time",
+      "key": "bath-time",
+      "count": 30
+    },
+    {
+      "category": "Breakfast Foods",
+      "key": "breakfast-foods",
+      "count": 30
+    },
+    {
+      "category": "Snacks",
+      "key": "snacks",
+      "count": 30
+    },
+    {
+      "category": "Drinks",
+      "key": "drinks",
+      "count": 30
+    },
+    {
+      "category": "Candy & Sweets",
+      "key": "candy",
+      "count": 30
+    },
+    {
+      "category": "Zoo Animals",
+      "key": "zoo-animals",
+      "count": 30
+    },
+    {
+      "category": "Underwater World",
+      "key": "underwater",
+      "count": 30
+    },
+    {
+      "category": "Rainforest",
+      "key": "rainforest",
+      "count": 30
+    },
+    {
+      "category": "Transportation",
+      "key": "transportation",
+      "count": 30
+    },
+    {
+      "category": "World Festivals",
+      "key": "festivals",
+      "count": 30
+    },
+    {
+      "category": "Sports Equipment",
+      "key": "sports-equipment",
+      "count": 30
+    }
+  ]
+}

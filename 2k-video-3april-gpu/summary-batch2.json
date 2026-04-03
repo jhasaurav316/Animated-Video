@@ -1,0 +1,177 @@
+{
+  "batchName": "1k-video-3april-batch2",
+  "date": "2026-04-03",
+  "totalVideos": 1020,
+  "categories": [
+    {
+      "category": "Baby Words",
+      "key": "baby-words",
+      "count": 30
+    },
+    {
+      "category": "Family Members",
+      "key": "family-members",
+      "count": 30
+    },
+    {
+      "category": "Weather",
+      "key": "weather",
+      "count": 30
+    },
+    {
+      "category": "Planets & Space Objects",
+      "key": "planets",
+      "count": 30
+    },
+    {
+      "category": "Oceans & Seas",
+      "key": "oceans",
+      "count": 30
+    },
+    {
+      "category": "Mountains & Hills",
+      "key": "mountains",
+      "count": 30
+    },
+    {
+      "category": "Rivers & Lakes",
+      "key": "rivers",
+      "count": 30
+    },
+    {
+      "category": "World Languages",
+      "key": "languages",
+      "count": 30
+    },
+    {
+      "category": "Continents & Countries",
+      "key": "continents",
+      "count": 30
+    },
+    {
+      "category": "Birds of Prey",
+      "key": "birds-of-prey",
+      "count": 30
+    },
+    {
+      "category": "Tropical Fish",
+      "key": "tropical-fish",
+      "count": 30
+    },
+    {
+      "category": "Farm Crops",
+      "key": "farm-crops",
+      "count": 30
+    },
+    {
+      "category": "Spices & Herbs",
+      "key": "spices",
+      "count": 30
+    },
+    {
+      "category": "Breads of the World",
+      "key": "breads",
+      "count": 30
+    },
+    {
+      "category": "Pasta & Noodles",
+      "key": "pasta",
+      "count": 30
+    },
+    {
+      "category": "Cheese Types",
+      "key": "cheese",
+      "count": 30
+    },
+    {
+      "category": "Dessert Types",
+      "key": "dessert-types",
+      "count": 30
+    },
+    {
+      "category": "Dance Styles",
+      "key": "dance-styles",
+      "count": 30
+    },
+    {
+      "category": "Martial Arts",
+      "key": "martial-arts",
+      "count": 30
+    },
+    {
+      "category": "Board Games",
+      "key": "board-games",
+      "count": 30
+    },
+    {
+      "category": "Video Games",
+      "key": "video-games",
+      "count": 30
+    },
+    {
+      "category": "Fairy Creatures",
+      "key": "fairy-creatures",
+      "count": 30
+    },
+    {
+      "category": "Robots & Machines",
+      "key": "robots",
+      "count": 30
+    },
+    {
+      "category": "Dinosaur Types",
+      "key": "dinosaur-types",
+      "count": 30
+    },
+    {
+      "category": "Gemstones & Crystals",
+      "key": "gemstones",
+      "count": 30
+    },
+    {
+      "category": "Metals & Elements",
+      "key": "metals",
+      "count": 30
+    },
+    {
+      "category": "Fabrics & Textiles",
+      "key": "fabrics",
+      "count": 30
+    },
+    {
+      "category": "Workshop Tools",
+      "key": "tools-workshop",
+      "count": 30
+    },
+    {
+      "category": "Camping & Outdoors",
+      "key": "camping",
+      "count": 30
+    },
+    {
+      "category": "Beach & Seaside",
+      "key": "beach",
+      "count": 30
+    },
+    {
+      "category": "Airport & Travel",
+      "key": "airport",
+      "count": 30
+    },
+    {
+      "category": "Hospital & Medical",
+      "key": "hospital",
+      "count": 30
+    },
+    {
+      "category": "Kitchen Appliances",
+      "key": "kitchen-appliances",
+      "count": 30
+    },
+    {
+      "category": "Cleaning Items",
+      "key": "cleaning-items",
+      "count": 30
+    }
+  ]
+}
