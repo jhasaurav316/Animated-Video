@@ -236,8 +236,19 @@ ${registerLines}
 Write-Host "  Done!" -ForegroundColor Green
 Write-Host ""
 
-# ======================== STEP 3: RENDER VIDEOS ========================
-Write-Host "  STEP 3: Rendering ${phaseTotal} Videos (2:45 each)" -ForegroundColor Yellow
+# ======================== STEP 3: PRE-BUNDLE (once) ========================
+Write-Host "  STEP 3: Pre-bundling code (one-time)..." -ForegroundColor Yellow
+$bundleDir = Join-Path $ProjectDir "build-phase${phaseNum}"
+if (-not (Test-Path $bundleDir)) {
+    npx remotion bundle --public-dir=public --out-dir="$bundleDir" --log=error 2>&1
+    Write-Host "    Bundle ready!" -ForegroundColor Green
+} else {
+    Write-Host "    Bundle cached!" -ForegroundColor Green
+}
+Write-Host ""
+
+# ======================== STEP 4: RENDER VIDEOS ========================
+Write-Host "  STEP 4: Rendering ${phaseTotal} Videos" -ForegroundColor Yellow
 Write-Host ""
 
 $startTime = Get-Date
@@ -275,7 +286,7 @@ foreach ($cat in $catalogs) {
         Write-Host "  [$current/$total] $($video.title) [$($elapsed.ToString('hh\\:mm\\:ss'))]" -ForegroundColor Cyan
 
         $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-        npx remotion render $compId "$outputFile" --concurrency=100% --log=error --crf=18 --codec=h264 --gl=angle --port=${3000 + phaseNum * 100}
+        npx remotion render $compId "$outputFile" --concurrency=100% --log=error --crf=18 --codec=h264 --gl=angle --port=${3000 + phaseNum * 100} --serve-url="$bundleDir"
         $ErrorActionPreference = $prevEAP
 
         if ($LASTEXITCODE -eq 0) {
@@ -288,6 +299,9 @@ foreach ($cat in $catalogs) {
         }
     }
 }
+
+# Cleanup bundle
+Remove-Item -Recurse -Force "$bundleDir" -ErrorAction SilentlyContinue
 
 $elapsed = (Get-Date) - $startTime
 Write-Host ""
