@@ -103,7 +103,7 @@ Write-Host ""
 Write-Host "  STEP 3: Pre-bundling code (one-time)..." -ForegroundColor Yellow
 $bundleDir = Join-Path $ProjectDir "build-phase31"
 if (-not (Test-Path $bundleDir)) {
-    npx remotion bundle --public-dir=public --out-dir="$bundleDir" --log=error 2>&1
+    echo Y | npx remotion bundle --public-dir=public --out-dir="$bundleDir" --log=error 2>&1
     Write-Host "    Bundle ready!" -ForegroundColor Green
 } else {
     Write-Host "    Bundle cached!" -ForegroundColor Green
