@@ -94,7 +94,7 @@ foreach ($video in $testVideos) {
     Write-Host "  [$($rendered+$failed+1)/5] $($video.title) (${mins}:$($secs.ToString('00'))) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
 
     $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-    npx remotion render $compId "$outputFile" --concurrency=100% --log=error --crf=18 --codec=h264 --gl=angle
+    npx remotion render $compId "$outputFile" --concurrency=75% --log=error --crf=18 --codec=h264 --gl=angle
     $ErrorActionPreference = $prevEAP
 
     if ($LASTEXITCODE -eq 0) {
