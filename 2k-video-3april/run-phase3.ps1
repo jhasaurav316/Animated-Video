@@ -23,6 +23,20 @@ Write-Host "  STEP 0: Verifying Entry Point" -ForegroundColor Yellow
 node (Join-Path $ProjectDir "fix-entry-point.js")
 Write-Host ""
 
+# ======================== PRE-BUNDLE (once for all videos) ========================
+$bundleDir = Join-Path $ProjectDir "build"
+Write-Host "  PRE-BUNDLE: Building once for all 51 videos..." -ForegroundColor Yellow
+$prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
+npx remotion bundle --out-dir "$bundleDir" --log=error 2>&1 | Out-Null
+$ErrorActionPreference = $prevEAP
+if (Test-Path $bundleDir) {
+    Write-Host "  Bundle ready! (skips re-bundling per video)" -ForegroundColor Green
+} else {
+    Write-Host "  Bundle failed, falling back to per-video bundling" -ForegroundColor Red
+    $bundleDir = $null
+}
+Write-Host ""
+
 # ======================== STEP 1: GENERATE AUDIO ========================
 Write-Host "  STEP 1: Generating Audio" -ForegroundColor Yellow
 Write-Host ""
@@ -141,7 +155,11 @@ foreach ($cat in $catalogs) {
         Write-Host "  [$current/$total] $($video.title) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
 
         $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-        npx remotion render $compId "$outputFile" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --enable-multiprocess-on-linux --port=3300 --bundle-cache=true
+        if ($bundleDir) {
+            npx remotion render $compId "$outputFile" --serve-url="$bundleDir" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --enable-multiprocess-on-linux
+        } else {
+            npx remotion render $compId "$outputFile" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --enable-multiprocess-on-linux --port=3300 --bundle-cache=true
+        }
         $ErrorActionPreference = $prevEAP
 
         if ($LASTEXITCODE -eq 0) {
